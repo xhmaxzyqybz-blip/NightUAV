@@ -1,0 +1,41 @@
+# Datasets, model storage, and independently managed upstream repository
+/datasets/
+/checkpoints/
+/code/U3D_Toolkit/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE temporary files
+.vscode/
+.idea/
+
+# Operating system temporary files
+.DS_Store
+Thumbs.db
+
+# Large model files
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.engine
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Keep experiment documentation, configs, and metrics trackable
+/experiments/**/outputs/
+/experiments/**/checkpoints/
+
+# Keep final figures and tables trackable
+/results/temp/
+/results/raw_outputs/
