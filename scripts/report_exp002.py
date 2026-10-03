@@ -7,7 +7,7 @@ ap.add_argument('--root',type=Path,default=Path(__file__).resolve().parents[1])
 ap.add_argument('--experiment',default='exp002_baseline_diagnosis')
 args=ap.parse_args();r=args.root.resolve();e=(r/'experiments'/args.experiment).resolve();m=e/'metrics'
 if not e.is_relative_to((r/'experiments').resolve()):raise ValueError('Invalid experiment folder')
-d=json.loads((m/'diagnostic_metrics.json').read_text());s=json.loads((m/'exp001_statistics.json').read_text());a=json.loads((m/'exp001_audit.json').read_text());manifest=json.loads((e/'diagnostic_manifest.json').read_text())
+d=json.loads((m/'diagnostic_metrics.json').read_text(encoding='utf-8-sig'));s=json.loads((m/'exp001_statistics.json').read_text(encoding='utf-8-sig'));a=json.loads((m/'exp001_audit.json').read_text(encoding='utf-8-sig'));manifest=json.loads((e/'diagnostic_manifest.json').read_text(encoding='utf-8-sig'))
 def put(p,text):
     with p.open('x',encoding='utf-8') as f:f.write(text)
 scenes=['极暗建筑屋顶/少量窗灯','相对明亮城市工业建筑/天空','亮球场与暗植被','亮球场/橙色路灯/暗背景','商业街/店铺灯光/树木','园区道路/植被/水面或空地','暗住宅区/远处灯带','道路车流/暖色灯光','商铺沿街道路/紫色混合光','住宅高楼/亮球场','极暗屋顶/少量路灯','商业街/道路/暖白混合灯光','亮球场与暗植被','暖色路灯/暗道路边缘','园区道路/植被/水面','商场/高楼/道路灯光','城市高楼/冷暖混合光','暗建筑/局部灯光','高楼夹道/暖色道路灯','商业街/密集招牌与人流']
@@ -28,10 +28,10 @@ report='''# EXP002：实现复核与基线诊断
 ## 重复运行
 
 ```powershell
-& 'E:\\anaconda3\\envs\\nightuav\\python.exe' -B 'E:\\NightUAV\\scripts\\analyze_exp002.py'
+python -B scripts/analyze_exp002.py --experiment exp002_repeat_NEW
 ```
 
-上面是实际命令。脚本要求新实验目录，重复执行使用 `--experiment exp002_baseline_diagnosis_repeat01`，避免覆盖已有分析。需要现有 numpy/Pillow/torch，官方源码与EXP001权重/原始结果仍须在原路径；没有安装新依赖。来源commit、权重hash、脚本hash、解释器版本记录在 [provenance](metrics/provenance.json)。图像只写本实验outputs（Git已忽略）。
+Portable template from the project root; replace the experiment name. Actual historical command: metrics/provenance.json. 脚本要求新实验目录，重复执行使用 `--experiment exp002_baseline_diagnosis_repeat01`，避免覆盖已有分析。需要现有 numpy/Pillow/torch，官方源码与EXP001权重/原始结果仍须在原路径；没有安装新依赖。来源commit、权重hash、脚本hash、解释器版本记录在 [provenance](metrics/provenance.json)。图像只写本实验outputs（Git已忽略）。
 
 ## EXP001 流程核查（测试样本，仅实现审计）
 

@@ -1,4 +1,4 @@
-﻿"""EXP002 audit and fixed-weight train/val diagnosis. No training or input writes."""
+"""EXP002 audit and fixed-weight train/val diagnosis. No training or input writes."""
 import argparse, csv, hashlib, importlib.util, json, sys
 from pathlib import Path
 import numpy as np
@@ -31,6 +31,16 @@ def histogram_svg(p, a,b):
     s.extend([f'<text x="20" y="60">{mx:.3f}</text>','<text x="60" y="365">0</text><text x="840" y="365">1</text></svg>'])
     with p.open('x',encoding='utf-8') as f:f.write(''.join(s))
 
+def relocated_record_path(root, recorded, category):
+    # Historical records remain unchanged; require an unambiguous project tail.
+    parts=recorded.replace('\\','/').split('/')
+    indices=[i for i,v in enumerate(parts) if v==category]
+    if len(indices)!=1:raise ValueError('Ambiguous historical path: '+recorded)
+    target=(root/Path(*parts[indices[0]:])).resolve()
+    if not target.is_relative_to((root/category).resolve()):raise ValueError('Unsafe historical path')
+    if not target.exists():raise FileNotFoundError(target)
+    return target
+
 def main():
     ap=argparse.ArgumentParser();ap.add_argument('--root',type=Path,default=Path(__file__).resolve().parents[1]);ap.add_argument('--experiment',default='exp002_baseline_diagnosis'); args=ap.parse_args()
     root=args.root.resolve(); exp=(root/'experiments'/args.experiment).resolve()
@@ -59,9 +69,9 @@ def main():
             fy=y[0].permute(1,2,0).cpu().numpy()
         return np.rint(fy*255).astype('uint8'),info,fy
     old=json.loads((root/'experiments/exp001_di_retinex/metrics/inference.json').read_text(encoding='utf-8'))
-    original=Path(old['input']);before=digest(original)
+    original=relocated_record_path(root,old['input'],'datasets');before=digest(original)
     with Image.open(original) as im: resized=im.convert('RGB').resize((1280,720),Image.Resampling.LANCZOS)
-    olddir=Path(old['output_dir'])
+    olddir=relocated_record_path(root,old['output_dir'],'results')
     with Image.open(olddir/'input_1280x720.png') as im: a=np.array(im.convert('RGB'))
     with Image.open(olddir/'enhanced_1280x720.png') as im: b=np.array(im.convert('RGB'))
     assert np.array_equal(a,np.array(resized));assert before==old['input_sha256_before']

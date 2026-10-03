@@ -1,0 +1,180 @@
+{
+  "scope": "3 original train images x 3 repeats; warm OS cache possible; no disk cold-cache claim; no training; fixed crop; no DataLoader workers benchmarked",
+  "torch": "2.13.0+cu130",
+  "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU",
+  "torch_threads": 16,
+  "opencv_threads": 24,
+  "source_hashes": {
+    "datasets\\U3D\\lowlight\\train\\0102.jpg": "8a6da31251bddc93b763752e1c446e0236dc4ee633dc6f85870f3f8e399ada9b",
+    "datasets\\U3D\\lowlight\\train\\0472.jpg": "2bf562c17d20f71c2b5ce53827e47d30a0af0510b107cc914f46d5c2546412c2",
+    "datasets\\U3D\\lowlight\\train\\0595.jpg": "c23160c0c3a3100a0d23547bc13a3f29fb6e614fb36279bd00e1a723144fddcc"
+  },
+  "records": [
+    {
+      "source": "datasets/U3D/lowlight/train/0102.jpg",
+      "repeat": 0,
+      "decode_rgb_ms": 104.99959997832775,
+      "numpy_copy_ms": 109.49619999155402,
+      "blur_ms": 36.37800016440451,
+      "full_normalize_tensor_ms": 853.7955998908728,
+      "crop_contiguous_ms": 12.218200135976076,
+      "h2d_ms": 6.584599846974015,
+      "total_components_ms": 1123.4722000081092,
+      "cached_uint8_crop_convert_ms": 5.975200096145272,
+      "bitwise_equal": true,
+      "size": [
+        3840,
+        2160
+      ]
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0472.jpg",
+      "repeat": 0,
+      "decode_rgb_ms": 158.6309999693185,
+      "numpy_copy_ms": 89.26620008423924,
+      "blur_ms": 10.559400077909231,
+      "full_normalize_tensor_ms": 512.8675999585539,
+      "crop_contiguous_ms": 1.4176000840961933,
+      "h2d_ms": 1.134500140324235,
+      "total_components_ms": 773.8763003144413,
+      "cached_uint8_crop_convert_ms": 3.850099863484502,
+      "bitwise_equal": true,
+      "size": [
+        3840,
+        2160
+      ]
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0595.jpg",
+      "repeat": 0,
+      "decode_rgb_ms": 137.45460007339716,
+      "numpy_copy_ms": 78.69919994845986,
+      "blur_ms": 7.758599938824773,
+      "full_normalize_tensor_ms": 429.25909999758005,
+      "crop_contiguous_ms": 0.8387998677790165,
+      "h2d_ms": 0.8618999272584915,
+      "total_components_ms": 654.8721997532994,
+      "cached_uint8_crop_convert_ms": 5.355300148949027,
+      "bitwise_equal": true,
+      "size": [
+        3840,
+        2160
+      ]
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0102.jpg",
+      "repeat": 1,
+      "decode_rgb_ms": 125.85810013115406,
+      "numpy_copy_ms": 68.09769989922643,
+      "blur_ms": 9.223500033840537,
+      "full_normalize_tensor_ms": 467.37350011244416,
+      "crop_contiguous_ms": 0.6176999304443598,
+      "h2d_ms": 1.1587999761104584,
+      "total_components_ms": 672.32930008322,
+      "cached_uint8_crop_convert_ms": 3.6666998639702797,
+      "bitwise_equal": true,
+      "size": [
+        3840,
+        2160
+      ]
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0472.jpg",
+      "repeat": 1,
+      "decode_rgb_ms": 101.27989994361997,
+      "numpy_copy_ms": 77.50490005128086,
+      "blur_ms": 13.963300036266446,
+      "full_normalize_tensor_ms": 387.5136999413371,
+      "crop_contiguous_ms": 1.0058998595923185,
+      "h2d_ms": 1.278699841350317,
+      "total_components_ms": 582.546399673447,
+      "cached_uint8_crop_convert_ms": 4.045400070026517,
+      "bitwise_equal": true,
+      "size": [
+        3840,
+        2160
+      ]
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0595.jpg",
+      "repeat": 1,
+      "decode_rgb_ms": 99.3331999052316,
+      "numpy_copy_ms": 73.32029985263944,
+      "blur_ms": 14.580199960619211,
+      "full_normalize_tensor_ms": 414.216699777171,
+      "crop_contiguous_ms": 0.6275000050663948,
+      "h2d_ms": 1.2903001625090837,
+      "total_components_ms": 603.3681996632367,
+      "cached_uint8_crop_convert_ms": 4.064599983394146,
+      "bitwise_equal": true,
+      "size": [
+        3840,
+        2160
+      ]
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0102.jpg",
+      "repeat": 2,
+      "decode_rgb_ms": 87.27800007909536,
+      "numpy_copy_ms": 71.36850012466311,
+      "blur_ms": 14.686000067740679,
+      "full_normalize_tensor_ms": 407.4866999872029,
+      "crop_contiguous_ms": 0.7074000313878059,
+      "h2d_ms": 1.034699846059084,
+      "total_components_ms": 582.5613001361489,
+      "cached_uint8_crop_convert_ms": 3.674000035971403,
+      "bitwise_equal": true,
+      "size": [
+        3840,
+        2160
+      ]
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0472.jpg",
+      "repeat": 2,
+      "decode_rgb_ms": 96.03090002201498,
+      "numpy_copy_ms": 75.94670006074011,
+      "blur_ms": 12.027200078591704,
+      "full_normalize_tensor_ms": 408.60329987481236,
+      "crop_contiguous_ms": 1.5746999997645617,
+      "h2d_ms": 1.0832000989466906,
+      "total_components_ms": 595.2660001348704,
+      "cached_uint8_crop_convert_ms": 3.1549001578241587,
+      "bitwise_equal": true,
+      "size": [
+        3840,
+        2160
+      ]
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0595.jpg",
+      "repeat": 2,
+      "decode_rgb_ms": 100.25130002759397,
+      "numpy_copy_ms": 75.27140015736222,
+      "blur_ms": 11.11810002475977,
+      "full_normalize_tensor_ms": 400.5255000665784,
+      "crop_contiguous_ms": 1.0818000882863998,
+      "h2d_ms": 1.6494998708367348,
+      "total_components_ms": 589.8976002354175,
+      "cached_uint8_crop_convert_ms": 3.596399910748005,
+      "bitwise_equal": true,
+      "size": [
+        3840,
+        2160
+      ]
+    }
+  ],
+  "all_crops_bitwise_equal": true,
+  "inputs_unchanged": true,
+  "cache_bytes_3_uint8_pairs": 149299200,
+  "mean_ms": {
+    "decode_rgb_ms": 112.34628890330593,
+    "numpy_copy_ms": 79.88567779668503,
+    "blur_ms": 14.477144486995208,
+    "full_normalize_tensor_ms": 475.7379666229503,
+    "crop_contiguous_ms": 2.2321777780436807,
+    "h2d_ms": 1.7862444122632344,
+    "total_components_ms": 686.4655000002434,
+    "cached_uint8_crop_convert_ms": 4.1536222367237015
+  }
+}

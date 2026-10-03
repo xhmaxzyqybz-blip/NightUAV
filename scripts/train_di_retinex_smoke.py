@@ -1,4 +1,4 @@
-﻿"""20-step CUDA smoke test: official model, initialization and AST-extracted losses.
+"""20-step CUDA smoke test: official model, initialization and AST-extracted losses.
 No validation; original U3D train only. Original loader then synchronized random crop.
 """
 import ast,hashlib,importlib,importlib.metadata,json,os,random,statistics,subprocess,sys,time,traceback
@@ -10,7 +10,7 @@ def dump(p,obj):
 def main():
  import torch,cv2,natsort,numpy as np
  from torch.distributions.normal import Normal
- assert Path(sys.executable).resolve()==Path('E:/anaconda3/envs/nightuav/python.exe').resolve()
+ assert Path(sys.prefix).name.lower()=='nightuav' and sys.version_info[:2]==(3,10), 'Use the nightuav Python 3.10 environment'
  assert str(torch.__version__)=='2.13.0+cu130';assert importlib.metadata.version('torchvision')=='0.28.0+cu130';assert torch.cuda.is_available()
  repo=ROOT/'_model_audit/DI-retinex-low-light-enhancement'
  def git(*args):return subprocess.check_output(['git','-C',str(repo),*args],text=True).strip()

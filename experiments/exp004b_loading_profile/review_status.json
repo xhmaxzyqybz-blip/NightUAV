@@ -1,0 +1,23 @@
+{
+  "status": "review_only_NOT_APPROVED",
+  "training_allowed": false,
+  "counts": {
+    "candidate_decisions.csv": {
+      "pending_user": 40
+    },
+    "association_decisions.csv": {
+      "pending_user": 671
+    },
+    "priority_review.csv": {
+      "pending_user": 60
+    }
+  },
+  "contact_images_checked": 78,
+  "errors": [],
+  "review_sha256": {
+    "candidate_decisions.csv": "19ba32347510c35abd5d7065b89c6aa2ac47daa3c72f98d72220bc53ca532ea7",
+    "association_decisions.csv": "2810e5d4684625bbc7ca799a8dd7c1e9a670c4fac64d9611bf0a1d8f81c28c88",
+    "priority_review.csv": "34dd02be8e35b56d4e1d0a73c6276c6cba61e197272ff48d709e0c99213d9da6"
+  },
+  "limitations": "Pending/uncertain decisions do not prove independence. No changes to review CSVs or splits."
+}
