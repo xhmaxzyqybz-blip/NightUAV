@@ -1,0 +1,18 @@
+{
+  "train": {
+    "n": 10,
+    "input_mean_y": 0.19922978498578772,
+    "output_mean_y": 0.6105244336040474,
+    "input_saturated_channel_pct_mean": 0.10122974537037037,
+    "output_saturated_channel_pct_mean": 25.542939814814815,
+    "highpass_increased_images": 9
+  },
+  "val": {
+    "n": 10,
+    "input_mean_y": 0.19356940192138142,
+    "output_mean_y": 0.5995106686393654,
+    "input_saturated_channel_pct_mean": 0.12176649305555556,
+    "output_saturated_channel_pct_mean": 23.300307436342592,
+    "highpass_increased_images": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "python": "3.10.22 | packaged by Anaconda, Inc. | (main, Oct  1 2026, 20:15:38) [MSC v.1942 64 bit (AMD64)]",
+  "torch": "2.13.0+cu130",
+  "numpy": "2.2.6",
+  "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU",
+  "source_commit": "3f94f95ffb181904a837532a70adc064bee793a2",
+  "weight_sha256": "f7c7dce7c92dd1652947ae02c12047535d52908ee64554a94d175d2a6788e108",
+  "analysis_script_sha256": "88cf31d7a7a00942a6fea1e722d5844ef30e254e8d821975cf3a84d5eb37b230",
+  "command_argv": [
+    "E:\\anaconda3\\envs\\nightuav\\python.exe",
+    "-B",
+    "E:\\NightUAV\\scripts\\analyze_exp002.py"
+  ],
+  "training": false,
+  "selection_before_inference": true
+}

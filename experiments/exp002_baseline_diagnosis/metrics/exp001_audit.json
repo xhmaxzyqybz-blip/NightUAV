@@ -1,0 +1,15 @@
+{
+  "input_resize_exact": true,
+  "original_sha256": "c5a052b4be3a03896f431c59f3d54d91c0d28ba3a3b112cbcd0bdfd5fdcd9244",
+  "source_commit": "3f94f95ffb181904a837532a70adc064bee793a2",
+  "source_sha256": "46748dcabbd2eda8a290af790ee82b420200b75e2ac1d992f2586344e82e582e",
+  "weight_sha256": "f7c7dce7c92dd1652947ae02c12047535d52908ee64554a94d175d2a6788e108",
+  "replay_max_uint8_difference": 0,
+  "replay_different_channel_fraction": 0.0,
+  "np_rint_vs_torchvision_round_max": 1,
+  "reconstructed_forward_matches": true,
+  "preclamp_gt1_channels": 0.24019096791744232,
+  "preclamp_lt0_channels": 0.006147641688585281,
+  "gain_mean": 2.312051773071289,
+  "gain_p95": 3.680670976638794
+}
