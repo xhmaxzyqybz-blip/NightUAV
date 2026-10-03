@@ -1,0 +1,16 @@
+{
+  "version": "v1",
+  "status": "blocked_pending_scene_review",
+  "training_allowed": false,
+  "blocking_reasons": [
+    "Automatic risk blocks contain different scenes",
+    "Visually same office complex spans prior blocks 000/004/005",
+    "Most original-train scenes remain unreviewed; singleton IDs cannot prove independence"
+  ],
+  "files": {
+    "u3d_scene_dev_v1.txt": "19867f966595a1482da7daf0e2e75d175503d75da924ffbcfda747aa75f78625",
+    "u3d_scene_groups_v1.json": "36e23991ca3c5b21ad6fe8da5a05d01b786f69cf1255bb74e5bf84d0c3d6c695",
+    "u3d_scene_quarantine_v1.txt": "fa928bf4f12445a320c0ad50473e29f3b5a0193d7a174cd7d6f90423728a8a3b",
+    "u3d_scene_train_v1.txt": "19867f966595a1482da7daf0e2e75d175503d75da924ffbcfda747aa75f78625"
+  }
+}

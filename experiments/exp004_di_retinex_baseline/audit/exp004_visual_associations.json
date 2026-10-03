@@ -1,0 +1,310 @@
+[
+  {
+    "a": "datasets/U3D/lowlight/train/0032.jpg",
+    "b": "datasets/U3D/lowlight/train/0046.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "bright_roof_office_complex"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0032.jpg",
+    "b": "datasets/U3D/lowlight/train/0225.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "bright_roof_office_complex"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0032.jpg",
+    "b": "datasets/U3D/lowlight/train/0261.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "bright_roof_office_complex"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0032.jpg",
+    "b": "datasets/U3D/lowlight/train/0344.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "bright_roof_office_complex"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0032.jpg",
+    "b": "datasets/U3D/lowlight/train/0532.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "bright_roof_office_complex"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0032.jpg",
+    "b": "datasets/U3D/lowlight/train/0635.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "bright_roof_office_complex"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0032.jpg",
+    "b": "datasets/U3D/lowlight/train/0676.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "bright_roof_office_complex"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0032.jpg",
+    "b": "datasets/U3D/lowlight/train/0686.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "bright_roof_office_complex"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0032.jpg",
+    "b": "datasets/U3D/lowlight/train/0728.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "bright_roof_office_complex"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0032.jpg",
+    "b": "datasets/U3D/lowlight/train/0770.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "bright_roof_office_complex"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0032.jpg",
+    "b": "datasets/U3D/lowlight/train/0796.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "bright_roof_office_complex"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0032.jpg",
+    "b": "datasets/U3D/lowlight/train/0199.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "bright_roof_office_complex"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0032.jpg",
+    "b": "datasets/U3D/lowlight/train/0704.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "bright_roof_office_complex"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0032.jpg",
+    "b": "datasets/U3D/lowlight/train/0716.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "bright_roof_office_complex"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0041.jpg",
+    "b": "datasets/U3D/lowlight/train/0071.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "avenue_stadium_oblique"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0041.jpg",
+    "b": "datasets/U3D/lowlight/train/0091.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "avenue_stadium_oblique"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0041.jpg",
+    "b": "datasets/U3D/lowlight/train/0287.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "avenue_stadium_oblique"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0041.jpg",
+    "b": "datasets/U3D/lowlight/train/0416.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "avenue_stadium_oblique"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0041.jpg",
+    "b": "datasets/U3D/lowlight/train/0461.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "avenue_stadium_oblique"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0041.jpg",
+    "b": "datasets/U3D/lowlight/train/0575.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "avenue_stadium_oblique"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0041.jpg",
+    "b": "datasets/U3D/lowlight/train/0619.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "avenue_stadium_oblique"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0041.jpg",
+    "b": "datasets/U3D/lowlight/train/0625.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "avenue_stadium_oblique"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0041.jpg",
+    "b": "datasets/U3D/lowlight/train/0674.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "avenue_stadium_oblique"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0041.jpg",
+    "b": "datasets/U3D/lowlight/train/0784.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "avenue_stadium_oblique"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0041.jpg",
+    "b": "datasets/U3D/lowlight/train/0787.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "avenue_stadium_oblique"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0076.jpg",
+    "b": "datasets/U3D/lowlight/train/0233.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "stadium_front"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0076.jpg",
+    "b": "datasets/U3D/lowlight/train/0280.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "stadium_front"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0076.jpg",
+    "b": "datasets/U3D/lowlight/train/0396.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "stadium_front"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0076.jpg",
+    "b": "datasets/U3D/lowlight/train/0437.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "stadium_front"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0076.jpg",
+    "b": "datasets/U3D/lowlight/train/0451.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "stadium_front"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0076.jpg",
+    "b": "datasets/U3D/lowlight/train/0695.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "stadium_front"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0076.jpg",
+    "b": "datasets/U3D/lowlight/train/0717.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "stadium_front"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0076.jpg",
+    "b": "datasets/U3D/lowlight/train/0763.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "stadium_front"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0144.jpg",
+    "b": "datasets/U3D/lowlight/train/0162.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "commercial_curved_tower"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0144.jpg",
+    "b": "datasets/U3D/lowlight/train/0190.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "commercial_curved_tower"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0144.jpg",
+    "b": "datasets/U3D/lowlight/train/0265.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "commercial_curved_tower"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0166.jpg",
+    "b": "datasets/U3D/lowlight/train/0210.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "road_between_highrises"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0166.jpg",
+    "b": "datasets/U3D/lowlight/train/0223.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "road_between_highrises"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0166.jpg",
+    "b": "datasets/U3D/lowlight/train/0546.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "road_between_highrises"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0166.jpg",
+    "b": "datasets/U3D/lowlight/train/0594.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "road_between_highrises"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0022.jpg",
+    "b": "datasets/U3D/lowlight/train/0694.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "commercial_strip"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0022.jpg",
+    "b": "datasets/U3D/lowlight/train/0110.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "commercial_strip"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0153.jpg",
+    "b": "datasets/U3D/lowlight/train/0629.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "road_dark_building"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0078.jpg",
+    "b": "datasets/U3D/lowlight/train/0282.jpg",
+    "basis": "EXP004 visual distinctive layout; group_000..005 contact sheets",
+    "status": "visual_same_scene",
+    "category": "commercial_lowrise"
+  }
+]

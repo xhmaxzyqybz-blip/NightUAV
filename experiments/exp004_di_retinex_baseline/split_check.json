@@ -1,0 +1,50 @@
+{
+  "structural_checks_passed": true,
+  "ready_for_training": false,
+  "errors": [],
+  "readiness_blockers": [
+    "Automatic risk blocks contain different scenes",
+    "Visually same office complex spans prior blocks 000/004/005",
+    "Most original-train scenes remain unreviewed; singleton IDs cannot prove independence",
+    "train/dev empty; intentional quarantine-only draft"
+  ],
+  "stats": {
+    "train": {
+      "images": 0,
+      "scene_groups": 0,
+      "conservative_groups": 0,
+      "scene_categories": {},
+      "confirmation_status": {}
+    },
+    "dev": {
+      "images": 0,
+      "scene_groups": 0,
+      "conservative_groups": 0,
+      "scene_categories": {},
+      "confirmation_status": {}
+    },
+    "quarantine": {
+      "images": 800,
+      "scene_groups": 748,
+      "conservative_groups": 620,
+      "scene_categories": {
+        "unclassified": 748,
+        "commercial_strip": 3,
+        "bright_roof_office_complex": 15,
+        "avenue_stadium_oblique": 12,
+        "stadium_front": 9,
+        "commercial_lowrise": 2,
+        "commercial_curved_tower": 4,
+        "road_dark_building": 2,
+        "road_between_highrises": 5
+      },
+      "confirmation_status": {
+        "unreviewed_scene": 724,
+        "visual_association_without_sequence_metadata": 69,
+        "exact_duplicate_association_only": 7
+      }
+    }
+  },
+  "data_hashes_checked": true,
+  "limitation": "Empty train/dev make non-overlap checks vacuously true; not proof of independent scenes. Metadata review release required."
+}

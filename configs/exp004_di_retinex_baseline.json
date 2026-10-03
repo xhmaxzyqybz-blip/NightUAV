@@ -1,0 +1,30 @@
+{
+  "experiment": "exp004_di_retinex_baseline",
+  "status": "blocked_by_scene_review",
+  "execute_training": false,
+  "actual_steps": 0,
+  "planned_steps": 150,
+  "model_commit": "3f94f95ffb181904a837532a70adc064bee793a2",
+  "model": "official enhance_net_nopool normal",
+  "initialization": "random official weights_init; seed1149",
+  "batch_size": 1,
+  "train_crop": [
+    256,
+    256
+  ],
+  "train_blur": "official full uint8 RGB GaussianBlur 9x9 sigma1.7 then synchronized crop",
+  "optimizer": "Adam",
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "gradient_clip": 0.1,
+  "loss": "official RD+VS",
+  "loss_weights": {
+    "RD": 1,
+    "VS": 1
+  },
+  "exposure_mean": 0.5,
+  "exposure_std": 0.001,
+  "dev_protocol_proposed": "new-dev only, full-view 1280x720 for 16:9, fixed E=0.5, eval/inference_mode; no original val/test",
+  "split_metadata": "configs/splits/u3d_scene_v1_metadata.json",
+  "training_adapter_status": "deferred until data gate passes; no unvalidated training entry shipped"
+}

@@ -1,0 +1,194 @@
+[
+  {
+    "a": "datasets/U3D/lowlight/train/0209.jpg",
+    "b": "datasets/U3D/lowlight/val/0880.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "exact_bytes_confirmed"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0131.jpg",
+    "b": "datasets/U3D/lowlight/val/0895.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "same_scene_visual_strong"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0127.jpg",
+    "b": "datasets/U3D/lowlight/val/0899.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "same_scene_visual_strong"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0216.jpg",
+    "b": "datasets/U3D/lowlight/val/0895.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "same_scene_visual_strong"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0656.jpg",
+    "b": "datasets/U3D/lowlight/val/0813.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "uncertain_scene"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0114.jpg",
+    "b": "datasets/U3D/lowlight/val/0899.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "same_scene_visual_strong"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0216.jpg",
+    "b": "datasets/U3D/lowlight/val/0856.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "same_scene_visual_strong"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0131.jpg",
+    "b": "datasets/U3D/lowlight/val/0856.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "same_scene_visual_strong"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0009.jpg",
+    "b": "datasets/U3D/lowlight/val/0895.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "same_scene_visual_strong"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0792.jpg",
+    "b": "datasets/U3D/lowlight/val/0804.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "same_scene_visual_strong"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0551.jpg",
+    "b": "datasets/U3D/lowlight/val/0876.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "same_scene_visual_strong"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0758.jpg",
+    "b": "datasets/U3D/lowlight/val/0876.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "same_scene_visual_strong"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0009.jpg",
+    "b": "datasets/U3D/lowlight/val/0856.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "same_scene_visual_strong"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0042.jpg",
+    "b": "datasets/U3D/lowlight/val/0884.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "uncertain_scene"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0656.jpg",
+    "b": "datasets/U3D/lowlight/val/0884.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "uncertain_scene"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0646.jpg",
+    "b": "datasets/U3D/lowlight/val/0876.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "same_scene_visual_strong"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0343.jpg",
+    "b": "datasets/U3D/lowlight/val/0818.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "same_scene_visual_strong"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0742.jpg",
+    "b": "datasets/U3D/lowlight/val/0864.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "same_scene_visual_strong"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0179.jpg",
+    "b": "datasets/U3D/lowlight/val/0849.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "same_scene_visual_strong"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0091.jpg",
+    "b": "datasets/U3D/lowlight/val/0812.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "same_scene_visual_strong"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0616.jpg",
+    "b": "datasets/U3D/lowlight/val/0837.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "same_scene_visual_strong"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0147.jpg",
+    "b": "datasets/U3D/lowlight/val/0879.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "same_scene_visual_strong"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0049.jpg",
+    "b": "datasets/U3D/lowlight/val/0821.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "same_scene_visual_strong"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0342.jpg",
+    "b": "datasets/U3D/lowlight/val/0847.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "uncertain_scene"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0336.jpg",
+    "b": "datasets/U3D/lowlight/val/0869.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "uncertain_scene"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0008.jpg",
+    "b": "datasets/U3D/lowlight/val/0815.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "same_scene_visual_strong"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0595.jpg",
+    "b": "datasets/U3D/lowlight/val/0894.jpg",
+    "basis": "EXP003 visual layout review",
+    "status": "same_scene_visual_strong"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0022.jpg",
+    "b": "datasets/U3D/lowlight/train/0694.jpg",
+    "basis": "EXP003 full SHA256 equality",
+    "status": "exact_bytes_confirmed"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0063.jpg",
+    "b": "datasets/U3D/lowlight/train/0491.jpg",
+    "basis": "EXP003 full SHA256 equality",
+    "status": "exact_bytes_confirmed"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0085.jpg",
+    "b": "datasets/U3D/lowlight/train/0217.jpg",
+    "basis": "EXP003 full SHA256 equality",
+    "status": "exact_bytes_confirmed"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0209.jpg",
+    "b": "datasets/U3D/lowlight/val/0880.jpg",
+    "basis": "EXP003 full SHA256 equality",
+    "status": "exact_bytes_confirmed"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0402.jpg",
+    "b": "datasets/U3D/lowlight/train/0443.jpg",
+    "basis": "EXP003 full SHA256 equality",
+    "status": "exact_bytes_confirmed"
+  }
+]

@@ -1,0 +1,2279 @@
+[
+  {
+    "a": "datasets/U3D/lowlight/train/0004.jpg",
+    "b": "datasets/U3D/lowlight/train/0659.jpg",
+    "hamming": 4,
+    "ncc": 0.8348900242794122,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0000.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0009.jpg",
+    "b": "datasets/U3D/lowlight/train/0131.jpg",
+    "hamming": 4,
+    "ncc": 0.7423605667186111,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0001.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0009.jpg",
+    "b": "datasets/U3D/lowlight/train/0216.jpg",
+    "hamming": 4,
+    "ncc": 0.8144534038598299,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0002.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0010.jpg",
+    "b": "datasets/U3D/lowlight/train/0698.jpg",
+    "hamming": 14,
+    "ncc": 0.3945073407136402,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0003.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0011.jpg",
+    "b": "datasets/U3D/lowlight/train/0088.jpg",
+    "hamming": 6,
+    "ncc": 0.9830864337604265,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0004.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0011.jpg",
+    "b": "datasets/U3D/lowlight/train/0433.jpg",
+    "hamming": 8,
+    "ncc": 0.8382482316990552,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0005.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0014.jpg",
+    "b": "datasets/U3D/lowlight/train/0289.jpg",
+    "hamming": 8,
+    "ncc": 0.9230647437945211,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0006.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0018.jpg",
+    "b": "datasets/U3D/lowlight/train/0468.jpg",
+    "hamming": 14,
+    "ncc": 0.2008294103617421,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0007.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0020.jpg",
+    "b": "datasets/U3D/lowlight/train/0046.jpg",
+    "hamming": 14,
+    "ncc": 0.3557154107522848,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0008.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0022.jpg",
+    "b": "datasets/U3D/lowlight/train/0110.jpg",
+    "hamming": 14,
+    "ncc": 0.32515801706695074,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0009.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0022.jpg",
+    "b": "datasets/U3D/lowlight/train/0694.jpg",
+    "hamming": 0,
+    "ncc": 1.0000000000000002,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0010.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0022.jpg",
+    "b": "datasets/U3D/lowlight/train/0716.jpg",
+    "hamming": 14,
+    "ncc": 0.388266767828527,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0011.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0031.jpg",
+    "b": "datasets/U3D/lowlight/train/0627.jpg",
+    "hamming": 12,
+    "ncc": 0.6831450950765386,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0012.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0032.jpg",
+    "b": "datasets/U3D/lowlight/train/0261.jpg",
+    "hamming": 14,
+    "ncc": 0.6234357036324275,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0013.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0032.jpg",
+    "b": "datasets/U3D/lowlight/train/0676.jpg",
+    "hamming": 14,
+    "ncc": 0.5817329982988935,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0014.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0041.jpg",
+    "b": "datasets/U3D/lowlight/train/0091.jpg",
+    "hamming": 12,
+    "ncc": 0.6737687609662016,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0015.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0041.jpg",
+    "b": "datasets/U3D/lowlight/train/0416.jpg",
+    "hamming": 14,
+    "ncc": 0.7206415036432433,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0016.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0041.jpg",
+    "b": "datasets/U3D/lowlight/train/0625.jpg",
+    "hamming": 12,
+    "ncc": 0.7048222911352766,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0017.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0042.jpg",
+    "b": "datasets/U3D/lowlight/train/0656.jpg",
+    "hamming": 10,
+    "ncc": 0.7869980736345943,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0018.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0043.jpg",
+    "b": "datasets/U3D/lowlight/train/0250.jpg",
+    "hamming": 14,
+    "ncc": 0.2665411628742238,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0019.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0046.jpg",
+    "b": "datasets/U3D/lowlight/train/0078.jpg",
+    "hamming": 12,
+    "ncc": 0.6224303755882801,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0020.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0046.jpg",
+    "b": "datasets/U3D/lowlight/train/0095.jpg",
+    "hamming": 12,
+    "ncc": 0.6003104185149686,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0021.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0046.jpg",
+    "b": "datasets/U3D/lowlight/train/0676.jpg",
+    "hamming": 12,
+    "ncc": 0.7220488560402138,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0022.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0051.jpg",
+    "b": "datasets/U3D/lowlight/train/0116.jpg",
+    "hamming": 8,
+    "ncc": 0.8346602201428653,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0023.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0055.jpg",
+    "b": "datasets/U3D/lowlight/train/0469.jpg",
+    "hamming": 14,
+    "ncc": 0.5759617396720564,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0024.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0060.jpg",
+    "b": "datasets/U3D/lowlight/train/0364.jpg",
+    "hamming": 10,
+    "ncc": 0.8148057679731284,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0025.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0063.jpg",
+    "b": "datasets/U3D/lowlight/train/0491.jpg",
+    "hamming": 0,
+    "ncc": 1.0000000000000004,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0026.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0064.jpg",
+    "b": "datasets/U3D/lowlight/train/0207.jpg",
+    "hamming": 14,
+    "ncc": 0.5076249113162913,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0027.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0066.jpg",
+    "b": "datasets/U3D/lowlight/train/0275.jpg",
+    "hamming": 14,
+    "ncc": 0.41791920524208415,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0028.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0066.jpg",
+    "b": "datasets/U3D/lowlight/train/0315.jpg",
+    "hamming": 12,
+    "ncc": 0.49743614343822884,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0029.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0066.jpg",
+    "b": "datasets/U3D/lowlight/train/0329.jpg",
+    "hamming": 8,
+    "ncc": 0.5872373923295116,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0030.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0067.jpg",
+    "b": "datasets/U3D/lowlight/train/0552.jpg",
+    "hamming": 2,
+    "ncc": 0.9816915764257791,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0031.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0071.jpg",
+    "b": "datasets/U3D/lowlight/train/0416.jpg",
+    "hamming": 12,
+    "ncc": 0.8042425526377897,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0032.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0071.jpg",
+    "b": "datasets/U3D/lowlight/train/0575.jpg",
+    "hamming": 4,
+    "ncc": 0.8526160869623547,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0033.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0071.jpg",
+    "b": "datasets/U3D/lowlight/train/0619.jpg",
+    "hamming": 12,
+    "ncc": 0.7965043945893411,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0034.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0071.jpg",
+    "b": "datasets/U3D/lowlight/train/0784.jpg",
+    "hamming": 10,
+    "ncc": 0.8545522774944438,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0035.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0073.jpg",
+    "b": "datasets/U3D/lowlight/train/0075.jpg",
+    "hamming": 14,
+    "ncc": 0.7100453561975821,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0036.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0073.jpg",
+    "b": "datasets/U3D/lowlight/train/0130.jpg",
+    "hamming": 14,
+    "ncc": 0.5141568464587938,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0037.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0073.jpg",
+    "b": "datasets/U3D/lowlight/train/0200.jpg",
+    "hamming": 14,
+    "ncc": 0.5760865321367308,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0038.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0075.jpg",
+    "b": "datasets/U3D/lowlight/train/0200.jpg",
+    "hamming": 14,
+    "ncc": 0.6729450251004566,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0039.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0076.jpg",
+    "b": "datasets/U3D/lowlight/train/0233.jpg",
+    "hamming": 6,
+    "ncc": 0.8706303750890123,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0040.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0076.jpg",
+    "b": "datasets/U3D/lowlight/train/0280.jpg",
+    "hamming": 2,
+    "ncc": 0.9884358198574797,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0041.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0076.jpg",
+    "b": "datasets/U3D/lowlight/train/0396.jpg",
+    "hamming": 10,
+    "ncc": 0.588680593105801,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0042.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0076.jpg",
+    "b": "datasets/U3D/lowlight/train/0437.jpg",
+    "hamming": 4,
+    "ncc": 0.8849114571024843,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0043.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0076.jpg",
+    "b": "datasets/U3D/lowlight/train/0451.jpg",
+    "hamming": 2,
+    "ncc": 0.9962032029684169,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0044.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0076.jpg",
+    "b": "datasets/U3D/lowlight/train/0695.jpg",
+    "hamming": 0,
+    "ncc": 0.9943965582818551,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0045.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0076.jpg",
+    "b": "datasets/U3D/lowlight/train/0717.jpg",
+    "hamming": 2,
+    "ncc": 0.9950330363513109,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0046.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0076.jpg",
+    "b": "datasets/U3D/lowlight/train/0763.jpg",
+    "hamming": 4,
+    "ncc": 0.9868476281622041,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0047.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0077.jpg",
+    "b": "datasets/U3D/lowlight/train/0152.jpg",
+    "hamming": 14,
+    "ncc": 0.23995608812246685,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0048.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0078.jpg",
+    "b": "datasets/U3D/lowlight/train/0282.jpg",
+    "hamming": 14,
+    "ncc": 0.5720242927924942,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0049.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0079.jpg",
+    "b": "datasets/U3D/lowlight/train/0355.jpg",
+    "hamming": 8,
+    "ncc": 0.7173076796102003,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0050.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0080.jpg",
+    "b": "datasets/U3D/lowlight/train/0257.jpg",
+    "hamming": 14,
+    "ncc": 0.17642564997426785,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0051.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0082.jpg",
+    "b": "datasets/U3D/lowlight/train/0430.jpg",
+    "hamming": 10,
+    "ncc": 0.5048818443413986,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0052.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0083.jpg",
+    "b": "datasets/U3D/lowlight/train/0318.jpg",
+    "hamming": 14,
+    "ncc": 0.28394687713555833,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0053.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0085.jpg",
+    "b": "datasets/U3D/lowlight/train/0217.jpg",
+    "hamming": 0,
+    "ncc": 0.9999999999999998,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0054.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0085.jpg",
+    "b": "datasets/U3D/lowlight/train/0297.jpg",
+    "hamming": 14,
+    "ncc": 0.19108449406137706,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0055.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0088.jpg",
+    "b": "datasets/U3D/lowlight/train/0433.jpg",
+    "hamming": 4,
+    "ncc": 0.8585856880605859,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0056.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0091.jpg",
+    "b": "datasets/U3D/lowlight/train/0625.jpg",
+    "hamming": 14,
+    "ncc": 0.6704656887745177,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0057.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0092.jpg",
+    "b": "datasets/U3D/lowlight/train/0348.jpg",
+    "hamming": 14,
+    "ncc": 0.4321784639078066,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0058.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0095.jpg",
+    "b": "datasets/U3D/lowlight/train/0676.jpg",
+    "hamming": 12,
+    "ncc": 0.5982388239115153,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0059.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0109.jpg",
+    "b": "datasets/U3D/lowlight/train/0249.jpg",
+    "hamming": 12,
+    "ncc": 0.31618451136659464,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0060.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0109.jpg",
+    "b": "datasets/U3D/lowlight/train/0279.jpg",
+    "hamming": 14,
+    "ncc": 0.3267842129134484,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0061.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0110.jpg",
+    "b": "datasets/U3D/lowlight/train/0694.jpg",
+    "hamming": 14,
+    "ncc": 0.32515801706695074,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0062.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0110.jpg",
+    "b": "datasets/U3D/lowlight/train/0716.jpg",
+    "hamming": 14,
+    "ncc": 0.3943887743735919,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0063.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0114.jpg",
+    "b": "datasets/U3D/lowlight/train/0127.jpg",
+    "hamming": 4,
+    "ncc": 0.9530683216314552,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0064.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0119.jpg",
+    "b": "datasets/U3D/lowlight/train/0789.jpg",
+    "hamming": 14,
+    "ncc": 0.6772876372156439,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0065.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0126.jpg",
+    "b": "datasets/U3D/lowlight/train/0775.jpg",
+    "hamming": 14,
+    "ncc": 0.23448913886092237,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0066.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0129.jpg",
+    "b": "datasets/U3D/lowlight/train/0621.jpg",
+    "hamming": 12,
+    "ncc": 0.5252327996568702,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0067.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0130.jpg",
+    "b": "datasets/U3D/lowlight/train/0200.jpg",
+    "hamming": 10,
+    "ncc": 0.7364395787385897,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0068.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0130.jpg",
+    "b": "datasets/U3D/lowlight/train/0511.jpg",
+    "hamming": 10,
+    "ncc": 0.7181066872673855,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0069.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0131.jpg",
+    "b": "datasets/U3D/lowlight/train/0216.jpg",
+    "hamming": 2,
+    "ncc": 0.9812406765633505,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0070.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0132.jpg",
+    "b": "datasets/U3D/lowlight/train/0708.jpg",
+    "hamming": 14,
+    "ncc": 0.28263903845824206,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0071.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0134.jpg",
+    "b": "datasets/U3D/lowlight/train/0264.jpg",
+    "hamming": 6,
+    "ncc": 0.7647648563331947,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0072.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0137.jpg",
+    "b": "datasets/U3D/lowlight/train/0158.jpg",
+    "hamming": 8,
+    "ncc": 0.8645191284575381,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0073.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0137.jpg",
+    "b": "datasets/U3D/lowlight/train/0562.jpg",
+    "hamming": 8,
+    "ncc": 0.789154009879163,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0074.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0138.jpg",
+    "b": "datasets/U3D/lowlight/train/0435.jpg",
+    "hamming": 14,
+    "ncc": 0.308967686197028,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0075.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0144.jpg",
+    "b": "datasets/U3D/lowlight/train/0162.jpg",
+    "hamming": 8,
+    "ncc": 0.8843312648502037,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0076.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0144.jpg",
+    "b": "datasets/U3D/lowlight/train/0265.jpg",
+    "hamming": 10,
+    "ncc": 0.7918832119273103,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0077.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0153.jpg",
+    "b": "datasets/U3D/lowlight/train/0261.jpg",
+    "hamming": 14,
+    "ncc": 0.49334181311343883,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0078.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0153.jpg",
+    "b": "datasets/U3D/lowlight/train/0629.jpg",
+    "hamming": 8,
+    "ncc": 0.8689300665167903,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0079.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0153.jpg",
+    "b": "datasets/U3D/lowlight/train/0686.jpg",
+    "hamming": 14,
+    "ncc": 0.4496666734649006,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0080.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0154.jpg",
+    "b": "datasets/U3D/lowlight/train/0453.jpg",
+    "hamming": 12,
+    "ncc": 0.279436062821729,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0081.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0155.jpg",
+    "b": "datasets/U3D/lowlight/train/0374.jpg",
+    "hamming": 14,
+    "ncc": 0.4351079287583873,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0082.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0156.jpg",
+    "b": "datasets/U3D/lowlight/train/0798.jpg",
+    "hamming": 4,
+    "ncc": 0.903567982467265,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0083.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0158.jpg",
+    "b": "datasets/U3D/lowlight/train/0548.jpg",
+    "hamming": 12,
+    "ncc": 0.5981663494342213,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0084.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0158.jpg",
+    "b": "datasets/U3D/lowlight/train/0562.jpg",
+    "hamming": 10,
+    "ncc": 0.749030970130119,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0085.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0162.jpg",
+    "b": "datasets/U3D/lowlight/train/0265.jpg",
+    "hamming": 10,
+    "ncc": 0.7984334061325196,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0086.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0163.jpg",
+    "b": "datasets/U3D/lowlight/train/0541.jpg",
+    "hamming": 12,
+    "ncc": 0.6445102046532873,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0087.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0165.jpg",
+    "b": "datasets/U3D/lowlight/train/0192.jpg",
+    "hamming": 12,
+    "ncc": 0.18549615406636386,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0088.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0166.jpg",
+    "b": "datasets/U3D/lowlight/train/0210.jpg",
+    "hamming": 6,
+    "ncc": 0.9831858427986572,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0089.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0166.jpg",
+    "b": "datasets/U3D/lowlight/train/0223.jpg",
+    "hamming": 10,
+    "ncc": 0.6029095421934054,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0090.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0166.jpg",
+    "b": "datasets/U3D/lowlight/train/0546.jpg",
+    "hamming": 6,
+    "ncc": 0.9884035405179268,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0091.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0166.jpg",
+    "b": "datasets/U3D/lowlight/train/0594.jpg",
+    "hamming": 6,
+    "ncc": 0.9922610627825649,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0092.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0168.jpg",
+    "b": "datasets/U3D/lowlight/train/0608.jpg",
+    "hamming": 14,
+    "ncc": 0.47235426784456847,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0093.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0169.jpg",
+    "b": "datasets/U3D/lowlight/train/0297.jpg",
+    "hamming": 6,
+    "ncc": 0.9649572026072241,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0094.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0169.jpg",
+    "b": "datasets/U3D/lowlight/train/0375.jpg",
+    "hamming": 14,
+    "ncc": 0.8226424203197291,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0095.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0175.jpg",
+    "b": "datasets/U3D/lowlight/train/0778.jpg",
+    "hamming": 12,
+    "ncc": 0.34493241023051857,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0096.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0181.jpg",
+    "b": "datasets/U3D/lowlight/train/0310.jpg",
+    "hamming": 14,
+    "ncc": 0.16396805592768,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0097.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0182.jpg",
+    "b": "datasets/U3D/lowlight/train/0502.jpg",
+    "hamming": 14,
+    "ncc": 0.6905204947715604,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0098.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0185.jpg",
+    "b": "datasets/U3D/lowlight/train/0349.jpg",
+    "hamming": 10,
+    "ncc": 0.715122835767371,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0099.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0189.jpg",
+    "b": "datasets/U3D/lowlight/train/0511.jpg",
+    "hamming": 6,
+    "ncc": 0.730947899818324,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0100.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0190.jpg",
+    "b": "datasets/U3D/lowlight/train/0265.jpg",
+    "hamming": 14,
+    "ncc": 0.6388189031985378,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0101.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0190.jpg",
+    "b": "datasets/U3D/lowlight/train/0770.jpg",
+    "hamming": 14,
+    "ncc": 0.30949164305202054,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0102.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0191.jpg",
+    "b": "datasets/U3D/lowlight/train/0208.jpg",
+    "hamming": 12,
+    "ncc": 0.3166747688013089,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0103.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0196.jpg",
+    "b": "datasets/U3D/lowlight/train/0753.jpg",
+    "hamming": 4,
+    "ncc": 0.9576534498108739,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0104.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0199.jpg",
+    "b": "datasets/U3D/lowlight/train/0704.jpg",
+    "hamming": 6,
+    "ncc": 0.674143431454899,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0105.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0199.jpg",
+    "b": "datasets/U3D/lowlight/train/0716.jpg",
+    "hamming": 10,
+    "ncc": 0.43422702080199005,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0106.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0202.jpg",
+    "b": "datasets/U3D/lowlight/train/0304.jpg",
+    "hamming": 14,
+    "ncc": 0.478013941561603,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0107.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0202.jpg",
+    "b": "datasets/U3D/lowlight/train/0553.jpg",
+    "hamming": 14,
+    "ncc": 0.4611025115711022,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0108.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0210.jpg",
+    "b": "datasets/U3D/lowlight/train/0223.jpg",
+    "hamming": 8,
+    "ncc": 0.6020464791684847,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0109.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0210.jpg",
+    "b": "datasets/U3D/lowlight/train/0546.jpg",
+    "hamming": 4,
+    "ncc": 0.9805255265738899,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0110.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0210.jpg",
+    "b": "datasets/U3D/lowlight/train/0594.jpg",
+    "hamming": 2,
+    "ncc": 0.99293613509835,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0111.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0210.jpg",
+    "b": "datasets/U3D/lowlight/train/0794.jpg",
+    "hamming": 14,
+    "ncc": 0.527552755740647,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0112.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0217.jpg",
+    "b": "datasets/U3D/lowlight/train/0297.jpg",
+    "hamming": 14,
+    "ncc": 0.19108449406137706,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0113.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0223.jpg",
+    "b": "datasets/U3D/lowlight/train/0546.jpg",
+    "hamming": 10,
+    "ncc": 0.5862893540617773,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0114.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0223.jpg",
+    "b": "datasets/U3D/lowlight/train/0594.jpg",
+    "hamming": 10,
+    "ncc": 0.6000887611788432,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0115.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0225.jpg",
+    "b": "datasets/U3D/lowlight/train/0261.jpg",
+    "hamming": 14,
+    "ncc": 0.5220753921402617,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0116.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0225.jpg",
+    "b": "datasets/U3D/lowlight/train/0686.jpg",
+    "hamming": 8,
+    "ncc": 0.741373990001113,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0117.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0225.jpg",
+    "b": "datasets/U3D/lowlight/train/0728.jpg",
+    "hamming": 14,
+    "ncc": 0.6654787333431,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0118.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0233.jpg",
+    "b": "datasets/U3D/lowlight/train/0280.jpg",
+    "hamming": 6,
+    "ncc": 0.885018123233651,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0119.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0233.jpg",
+    "b": "datasets/U3D/lowlight/train/0396.jpg",
+    "hamming": 4,
+    "ncc": 0.7506971825038635,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0120.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0233.jpg",
+    "b": "datasets/U3D/lowlight/train/0437.jpg",
+    "hamming": 6,
+    "ncc": 0.8966436554566478,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0121.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0233.jpg",
+    "b": "datasets/U3D/lowlight/train/0451.jpg",
+    "hamming": 4,
+    "ncc": 0.8608248765431828,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0122.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0233.jpg",
+    "b": "datasets/U3D/lowlight/train/0695.jpg",
+    "hamming": 6,
+    "ncc": 0.8593004747893148,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0123.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0233.jpg",
+    "b": "datasets/U3D/lowlight/train/0717.jpg",
+    "hamming": 4,
+    "ncc": 0.8967945018257719,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0124.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0233.jpg",
+    "b": "datasets/U3D/lowlight/train/0763.jpg",
+    "hamming": 4,
+    "ncc": 0.9182603835734695,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0125.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0234.jpg",
+    "b": "datasets/U3D/lowlight/train/0736.jpg",
+    "hamming": 2,
+    "ncc": 0.9808679725629585,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0126.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0239.jpg",
+    "b": "datasets/U3D/lowlight/train/0517.jpg",
+    "hamming": 10,
+    "ncc": 0.6981461953457883,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0127.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0240.jpg",
+    "b": "datasets/U3D/lowlight/train/0758.jpg",
+    "hamming": 14,
+    "ncc": 0.7955027975100621,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0128.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0242.jpg",
+    "b": "datasets/U3D/lowlight/train/0270.jpg",
+    "hamming": 14,
+    "ncc": 0.3203478358266446,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0129.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0245.jpg",
+    "b": "datasets/U3D/lowlight/train/0675.jpg",
+    "hamming": 4,
+    "ncc": 0.9872600432916839,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0130.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0246.jpg",
+    "b": "datasets/U3D/lowlight/train/0426.jpg",
+    "hamming": 6,
+    "ncc": 0.9516840553475356,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0131.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0246.jpg",
+    "b": "datasets/U3D/lowlight/train/0604.jpg",
+    "hamming": 4,
+    "ncc": 0.9702601141744703,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0132.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0246.jpg",
+    "b": "datasets/U3D/lowlight/train/0624.jpg",
+    "hamming": 8,
+    "ncc": 0.9240773287427704,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0133.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0247.jpg",
+    "b": "datasets/U3D/lowlight/train/0499.jpg",
+    "hamming": 14,
+    "ncc": 0.34283891483221285,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0134.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0248.jpg",
+    "b": "datasets/U3D/lowlight/train/0724.jpg",
+    "hamming": 14,
+    "ncc": 0.1376706576888378,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0135.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0249.jpg",
+    "b": "datasets/U3D/lowlight/train/0279.jpg",
+    "hamming": 8,
+    "ncc": 0.6941450938675012,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0136.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0252.jpg",
+    "b": "datasets/U3D/lowlight/train/0578.jpg",
+    "hamming": 14,
+    "ncc": 0.39130793208344394,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0137.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0256.jpg",
+    "b": "datasets/U3D/lowlight/train/0376.jpg",
+    "hamming": 14,
+    "ncc": 0.7683496329391076,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0138.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0259.jpg",
+    "b": "datasets/U3D/lowlight/train/0581.jpg",
+    "hamming": 14,
+    "ncc": 0.3754984905146577,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0139.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0261.jpg",
+    "b": "datasets/U3D/lowlight/train/0686.jpg",
+    "hamming": 8,
+    "ncc": 0.7016967862964626,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0140.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0270.jpg",
+    "b": "datasets/U3D/lowlight/train/0356.jpg",
+    "hamming": 14,
+    "ncc": 0.5019623843942076,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0141.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0276.jpg",
+    "b": "datasets/U3D/lowlight/train/0701.jpg",
+    "hamming": 2,
+    "ncc": 0.9330656339308119,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0142.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0280.jpg",
+    "b": "datasets/U3D/lowlight/train/0396.jpg",
+    "hamming": 10,
+    "ncc": 0.6012322933316397,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0143.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0280.jpg",
+    "b": "datasets/U3D/lowlight/train/0437.jpg",
+    "hamming": 2,
+    "ncc": 0.9194503879215098,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0144.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0280.jpg",
+    "b": "datasets/U3D/lowlight/train/0451.jpg",
+    "hamming": 4,
+    "ncc": 0.9848724914453761,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0145.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0280.jpg",
+    "b": "datasets/U3D/lowlight/train/0695.jpg",
+    "hamming": 2,
+    "ncc": 0.9853368720906396,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0146.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0280.jpg",
+    "b": "datasets/U3D/lowlight/train/0717.jpg",
+    "hamming": 4,
+    "ncc": 0.9885569295915574,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0147.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0280.jpg",
+    "b": "datasets/U3D/lowlight/train/0763.jpg",
+    "hamming": 4,
+    "ncc": 0.9889602438918462,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0148.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0287.jpg",
+    "b": "datasets/U3D/lowlight/train/0625.jpg",
+    "hamming": 14,
+    "ncc": 0.7009785837428805,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0149.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0288.jpg",
+    "b": "datasets/U3D/lowlight/train/0490.jpg",
+    "hamming": 14,
+    "ncc": 0.30087430587120156,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0150.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0297.jpg",
+    "b": "datasets/U3D/lowlight/train/0375.jpg",
+    "hamming": 8,
+    "ncc": 0.8583472598591558,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0151.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0304.jpg",
+    "b": "datasets/U3D/lowlight/train/0778.jpg",
+    "hamming": 12,
+    "ncc": 0.3002883393276723,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0152.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0310.jpg",
+    "b": "datasets/U3D/lowlight/train/0420.jpg",
+    "hamming": 14,
+    "ncc": 0.3664239263722718,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0153.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0315.jpg",
+    "b": "datasets/U3D/lowlight/train/0329.jpg",
+    "hamming": 8,
+    "ncc": 0.6917658063472005,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0154.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0318.jpg",
+    "b": "datasets/U3D/lowlight/train/0370.jpg",
+    "hamming": 14,
+    "ncc": 0.5690201263118017,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0155.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0318.jpg",
+    "b": "datasets/U3D/lowlight/train/0720.jpg",
+    "hamming": 8,
+    "ncc": 0.6706148103292229,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0156.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0332.jpg",
+    "b": "datasets/U3D/lowlight/train/0337.jpg",
+    "hamming": 10,
+    "ncc": 0.7106947749949291,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0157.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0332.jpg",
+    "b": "datasets/U3D/lowlight/train/0456.jpg",
+    "hamming": 12,
+    "ncc": 0.7164515727047923,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0158.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0332.jpg",
+    "b": "datasets/U3D/lowlight/train/0681.jpg",
+    "hamming": 6,
+    "ncc": 0.948850776201756,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0159.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0335.jpg",
+    "b": "datasets/U3D/lowlight/train/0598.jpg",
+    "hamming": 14,
+    "ncc": 0.37026066605812147,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0160.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0336.jpg",
+    "b": "datasets/U3D/lowlight/train/0688.jpg",
+    "hamming": 14,
+    "ncc": 0.5928752920495399,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0161.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0337.jpg",
+    "b": "datasets/U3D/lowlight/train/0456.jpg",
+    "hamming": 14,
+    "ncc": 0.7651050370646246,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0162.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0337.jpg",
+    "b": "datasets/U3D/lowlight/train/0597.jpg",
+    "hamming": 12,
+    "ncc": 0.6224402276052475,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0163.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0337.jpg",
+    "b": "datasets/U3D/lowlight/train/0681.jpg",
+    "hamming": 12,
+    "ncc": 0.6699807535788573,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0164.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0338.jpg",
+    "b": "datasets/U3D/lowlight/train/0633.jpg",
+    "hamming": 12,
+    "ncc": 0.6056433061810416,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0165.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0339.jpg",
+    "b": "datasets/U3D/lowlight/train/0537.jpg",
+    "hamming": 14,
+    "ncc": 0.26638077265682414,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0166.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0340.jpg",
+    "b": "datasets/U3D/lowlight/train/0616.jpg",
+    "hamming": 10,
+    "ncc": 0.7565636914072228,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0167.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0340.jpg",
+    "b": "datasets/U3D/lowlight/train/0742.jpg",
+    "hamming": 10,
+    "ncc": 0.7735409180990154,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0168.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0342.jpg",
+    "b": "datasets/U3D/lowlight/train/0447.jpg",
+    "hamming": 10,
+    "ncc": 0.7149019799975104,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0169.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0344.jpg",
+    "b": "datasets/U3D/lowlight/train/0532.jpg",
+    "hamming": 14,
+    "ncc": 0.5220126026743148,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0170.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0344.jpg",
+    "b": "datasets/U3D/lowlight/train/0635.jpg",
+    "hamming": 4,
+    "ncc": 0.7983163782401529,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0171.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0352.jpg",
+    "b": "datasets/U3D/lowlight/train/0592.jpg",
+    "hamming": 14,
+    "ncc": 0.6845840027740666,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0172.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0352.jpg",
+    "b": "datasets/U3D/lowlight/train/0745.jpg",
+    "hamming": 8,
+    "ncc": 0.7651481251221336,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0173.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0363.jpg",
+    "b": "datasets/U3D/lowlight/train/0391.jpg",
+    "hamming": 14,
+    "ncc": 0.4643127720122463,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0174.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0363.jpg",
+    "b": "datasets/U3D/lowlight/train/0605.jpg",
+    "hamming": 14,
+    "ncc": 0.36456348128381566,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0175.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0367.jpg",
+    "b": "datasets/U3D/lowlight/train/0712.jpg",
+    "hamming": 12,
+    "ncc": 0.7677484531155212,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0176.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0368.jpg",
+    "b": "datasets/U3D/lowlight/train/0551.jpg",
+    "hamming": 14,
+    "ncc": 0.7669927658300898,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0177.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0368.jpg",
+    "b": "datasets/U3D/lowlight/train/0758.jpg",
+    "hamming": 12,
+    "ncc": 0.7653110533453004,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0178.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0373.jpg",
+    "b": "datasets/U3D/lowlight/train/0630.jpg",
+    "hamming": 8,
+    "ncc": 0.9550537265023282,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0179.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0374.jpg",
+    "b": "datasets/U3D/lowlight/train/0454.jpg",
+    "hamming": 10,
+    "ncc": 0.21007514609208408,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0180.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0376.jpg",
+    "b": "datasets/U3D/lowlight/train/0430.jpg",
+    "hamming": 14,
+    "ncc": 0.42142741185485333,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0181.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0380.jpg",
+    "b": "datasets/U3D/lowlight/train/0542.jpg",
+    "hamming": 14,
+    "ncc": 0.6300875221682368,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0182.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0386.jpg",
+    "b": "datasets/U3D/lowlight/train/0700.jpg",
+    "hamming": 0,
+    "ncc": 0.9201699123148656,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0183.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0396.jpg",
+    "b": "datasets/U3D/lowlight/train/0437.jpg",
+    "hamming": 8,
+    "ncc": 0.658625955218898,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0184.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0396.jpg",
+    "b": "datasets/U3D/lowlight/train/0451.jpg",
+    "hamming": 8,
+    "ncc": 0.5780945117594258,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0185.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0396.jpg",
+    "b": "datasets/U3D/lowlight/train/0695.jpg",
+    "hamming": 10,
+    "ncc": 0.5782222626187355,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0186.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0396.jpg",
+    "b": "datasets/U3D/lowlight/train/0717.jpg",
+    "hamming": 8,
+    "ncc": 0.6081975697468763,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0187.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0396.jpg",
+    "b": "datasets/U3D/lowlight/train/0763.jpg",
+    "hamming": 8,
+    "ncc": 0.6276261428046571,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0188.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0398.jpg",
+    "b": "datasets/U3D/lowlight/train/0702.jpg",
+    "hamming": 14,
+    "ncc": 0.6453296412901961,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0189.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0399.jpg",
+    "b": "datasets/U3D/lowlight/train/0608.jpg",
+    "hamming": 8,
+    "ncc": 0.7735216206663216,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0190.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0402.jpg",
+    "b": "datasets/U3D/lowlight/train/0443.jpg",
+    "hamming": 0,
+    "ncc": 1.0,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0191.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0409.jpg",
+    "b": "datasets/U3D/lowlight/train/0533.jpg",
+    "hamming": 14,
+    "ncc": 0.2439011929076322,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0192.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0414.jpg",
+    "b": "datasets/U3D/lowlight/train/0733.jpg",
+    "hamming": 12,
+    "ncc": 0.6687926388209705,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0193.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0416.jpg",
+    "b": "datasets/U3D/lowlight/train/0461.jpg",
+    "hamming": 10,
+    "ncc": 0.7879864378564952,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0194.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0416.jpg",
+    "b": "datasets/U3D/lowlight/train/0575.jpg",
+    "hamming": 12,
+    "ncc": 0.7623051460604778,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0195.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0416.jpg",
+    "b": "datasets/U3D/lowlight/train/0619.jpg",
+    "hamming": 14,
+    "ncc": 0.7470714998807755,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0196.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0416.jpg",
+    "b": "datasets/U3D/lowlight/train/0625.jpg",
+    "hamming": 14,
+    "ncc": 0.6683625345674544,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0197.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0416.jpg",
+    "b": "datasets/U3D/lowlight/train/0784.jpg",
+    "hamming": 10,
+    "ncc": 0.8572783379669248,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0198.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0424.jpg",
+    "b": "datasets/U3D/lowlight/train/0770.jpg",
+    "hamming": 14,
+    "ncc": 0.3908364119759442,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0199.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0426.jpg",
+    "b": "datasets/U3D/lowlight/train/0604.jpg",
+    "hamming": 4,
+    "ncc": 0.9828066446758881,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0200.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0426.jpg",
+    "b": "datasets/U3D/lowlight/train/0624.jpg",
+    "hamming": 2,
+    "ncc": 0.9840658935679877,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0201.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0435.jpg",
+    "b": "datasets/U3D/lowlight/train/0581.jpg",
+    "hamming": 12,
+    "ncc": 0.4107339843293706,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0202.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0437.jpg",
+    "b": "datasets/U3D/lowlight/train/0451.jpg",
+    "hamming": 6,
+    "ncc": 0.8668026933309303,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0203.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0437.jpg",
+    "b": "datasets/U3D/lowlight/train/0695.jpg",
+    "hamming": 4,
+    "ncc": 0.86888690449615,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0204.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0437.jpg",
+    "b": "datasets/U3D/lowlight/train/0717.jpg",
+    "hamming": 6,
+    "ncc": 0.8980452125972427,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0205.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0437.jpg",
+    "b": "datasets/U3D/lowlight/train/0763.jpg",
+    "hamming": 6,
+    "ncc": 0.8983770307442253,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0206.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0438.jpg",
+    "b": "datasets/U3D/lowlight/train/0663.jpg",
+    "hamming": 14,
+    "ncc": 0.6800485723242831,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0207.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0451.jpg",
+    "b": "datasets/U3D/lowlight/train/0695.jpg",
+    "hamming": 2,
+    "ncc": 0.9978555765308819,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0208.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0451.jpg",
+    "b": "datasets/U3D/lowlight/train/0717.jpg",
+    "hamming": 0,
+    "ncc": 0.992033846034772,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0209.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0451.jpg",
+    "b": "datasets/U3D/lowlight/train/0763.jpg",
+    "hamming": 4,
+    "ncc": 0.9846848519272575,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0210.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0456.jpg",
+    "b": "datasets/U3D/lowlight/train/0681.jpg",
+    "hamming": 14,
+    "ncc": 0.6793190109185923,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0211.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0461.jpg",
+    "b": "datasets/U3D/lowlight/train/0625.jpg",
+    "hamming": 14,
+    "ncc": 0.6215152528922511,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0212.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0461.jpg",
+    "b": "datasets/U3D/lowlight/train/0784.jpg",
+    "hamming": 12,
+    "ncc": 0.7376666654132464,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0213.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0463.jpg",
+    "b": "datasets/U3D/lowlight/train/0610.jpg",
+    "hamming": 12,
+    "ncc": 0.902835933640399,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0214.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0473.jpg",
+    "b": "datasets/U3D/lowlight/train/0521.jpg",
+    "hamming": 12,
+    "ncc": 0.5913496850384398,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0215.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0473.jpg",
+    "b": "datasets/U3D/lowlight/train/0578.jpg",
+    "hamming": 14,
+    "ncc": 0.3673881243405729,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0216.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0490.jpg",
+    "b": "datasets/U3D/lowlight/train/0546.jpg",
+    "hamming": 14,
+    "ncc": 0.5489359709634282,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0217.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0490.jpg",
+    "b": "datasets/U3D/lowlight/train/0794.jpg",
+    "hamming": 8,
+    "ncc": 0.9656906654550284,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0218.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0538.jpg",
+    "b": "datasets/U3D/lowlight/train/0713.jpg",
+    "hamming": 10,
+    "ncc": 0.653517171309921,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0219.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0542.jpg",
+    "b": "datasets/U3D/lowlight/train/0650.jpg",
+    "hamming": 10,
+    "ncc": 0.6147623537876337,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0220.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0542.jpg",
+    "b": "datasets/U3D/lowlight/train/0755.jpg",
+    "hamming": 12,
+    "ncc": 0.5121044637663308,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0221.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0546.jpg",
+    "b": "datasets/U3D/lowlight/train/0594.jpg",
+    "hamming": 6,
+    "ncc": 0.9912904352195381,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0222.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0546.jpg",
+    "b": "datasets/U3D/lowlight/train/0794.jpg",
+    "hamming": 12,
+    "ncc": 0.5387371277621236,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0223.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0548.jpg",
+    "b": "datasets/U3D/lowlight/train/0562.jpg",
+    "hamming": 12,
+    "ncc": 0.579587203530144,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0224.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0551.jpg",
+    "b": "datasets/U3D/lowlight/train/0646.jpg",
+    "hamming": 8,
+    "ncc": 0.7811735482783633,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0225.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0551.jpg",
+    "b": "datasets/U3D/lowlight/train/0758.jpg",
+    "hamming": 6,
+    "ncc": 0.9039534341075458,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0226.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0566.jpg",
+    "b": "datasets/U3D/lowlight/train/0727.jpg",
+    "hamming": 6,
+    "ncc": 0.8788498548182573,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0227.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0566.jpg",
+    "b": "datasets/U3D/lowlight/train/0771.jpg",
+    "hamming": 6,
+    "ncc": 0.929578470375501,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0228.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0572.jpg",
+    "b": "datasets/U3D/lowlight/train/0707.jpg",
+    "hamming": 10,
+    "ncc": 0.6417025160543793,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0229.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0573.jpg",
+    "b": "datasets/U3D/lowlight/train/0641.jpg",
+    "hamming": 12,
+    "ncc": 0.7615862875041286,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0230.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0575.jpg",
+    "b": "datasets/U3D/lowlight/train/0619.jpg",
+    "hamming": 10,
+    "ncc": 0.8421142155172687,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0231.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0575.jpg",
+    "b": "datasets/U3D/lowlight/train/0784.jpg",
+    "hamming": 8,
+    "ncc": 0.8130963256248878,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0232.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0601.jpg",
+    "b": "datasets/U3D/lowlight/train/0771.jpg",
+    "hamming": 14,
+    "ncc": 0.465281722102818,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0233.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0604.jpg",
+    "b": "datasets/U3D/lowlight/train/0624.jpg",
+    "hamming": 6,
+    "ncc": 0.9525993709429278,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0234.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0613.jpg",
+    "b": "datasets/U3D/lowlight/train/0618.jpg",
+    "hamming": 10,
+    "ncc": 0.681753623580964,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0235.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0619.jpg",
+    "b": "datasets/U3D/lowlight/train/0674.jpg",
+    "hamming": 8,
+    "ncc": 0.6643671373701985,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0236.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0619.jpg",
+    "b": "datasets/U3D/lowlight/train/0784.jpg",
+    "hamming": 14,
+    "ncc": 0.7698748329223357,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0237.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0619.jpg",
+    "b": "datasets/U3D/lowlight/train/0787.jpg",
+    "hamming": 14,
+    "ncc": 0.5613916152369514,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0238.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0629.jpg",
+    "b": "datasets/U3D/lowlight/train/0686.jpg",
+    "hamming": 14,
+    "ncc": 0.4902181444736486,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0239.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0635.jpg",
+    "b": "datasets/U3D/lowlight/train/0728.jpg",
+    "hamming": 12,
+    "ncc": 0.8617622255547239,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0240.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0646.jpg",
+    "b": "datasets/U3D/lowlight/train/0758.jpg",
+    "hamming": 10,
+    "ncc": 0.6960199295466407,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0241.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0653.jpg",
+    "b": "datasets/U3D/lowlight/train/0668.jpg",
+    "hamming": 14,
+    "ncc": 0.2347560616229143,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0242.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0674.jpg",
+    "b": "datasets/U3D/lowlight/train/0787.jpg",
+    "hamming": 8,
+    "ncc": 0.8507019945266385,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0243.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0686.jpg",
+    "b": "datasets/U3D/lowlight/train/0728.jpg",
+    "hamming": 14,
+    "ncc": 0.5408206631378609,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0244.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0694.jpg",
+    "b": "datasets/U3D/lowlight/train/0716.jpg",
+    "hamming": 14,
+    "ncc": 0.388266767828527,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0245.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0695.jpg",
+    "b": "datasets/U3D/lowlight/train/0717.jpg",
+    "hamming": 2,
+    "ncc": 0.9896758241031688,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0246.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0695.jpg",
+    "b": "datasets/U3D/lowlight/train/0763.jpg",
+    "hamming": 4,
+    "ncc": 0.9824592125957126,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0247.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0704.jpg",
+    "b": "datasets/U3D/lowlight/train/0716.jpg",
+    "hamming": 10,
+    "ncc": 0.464557319526244,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0248.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0713.jpg",
+    "b": "datasets/U3D/lowlight/train/0733.jpg",
+    "hamming": 12,
+    "ncc": 0.6701713318661735,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0249.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0717.jpg",
+    "b": "datasets/U3D/lowlight/train/0763.jpg",
+    "hamming": 4,
+    "ncc": 0.9924171580829662,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0250.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0727.jpg",
+    "b": "datasets/U3D/lowlight/train/0771.jpg",
+    "hamming": 10,
+    "ncc": 0.7445153619719402,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0251.png"
+  },
+  {
+    "a": "datasets/U3D/lowlight/train/0770.jpg",
+    "b": "datasets/U3D/lowlight/train/0796.jpg",
+    "hamming": 14,
+    "ncc": 0.5879142946944647,
+    "reason": "train_all_pairs_threshold",
+    "status": "pending_visual_review",
+    "comparison_image": "experiments/exp004_di_retinex_baseline/outputs/pair_0252.png"
+  }
+]
