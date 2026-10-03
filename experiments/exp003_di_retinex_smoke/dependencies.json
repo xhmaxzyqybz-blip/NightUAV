@@ -1,0 +1,15 @@
+{
+  "installed_this_task": {
+    "opencv-python-headless": "4.12.0.88",
+    "natsort": "8.4.0"
+  },
+  "protected_unchanged": {
+    "torch": "2.13.0+cu130",
+    "torchvision": "0.28.0+cu130",
+    "numpy": "2.2.6"
+  },
+  "pip_check": "No broken requirements found",
+  "install_method": "python -m pip install --no-deps opencv-python-headless==4.12.0.88 natsort==8.4.0",
+  "dry_run": "Only those two additions; existing numpy2.2.6 satisfied requirement",
+  "warning": "natsort.exe Scripts not on PATH; import works via specified Python; no PATH modification"
+}

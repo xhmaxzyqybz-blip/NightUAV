@@ -1,0 +1,46 @@
+[
+  {
+    "source": "datasets/U3D/lowlight/train/0102.jpg",
+    "split": "train",
+    "sha256": "8a6da31251bddc93b763752e1c446e0236dc4ee633dc6f85870f3f8e399ada9b",
+    "width": 3840,
+    "height": 2160,
+    "phash63": "011010101111000100101100110100100011110101100011001001000011110",
+    "nearest_val_ncc": "datasets/U3D/lowlight/val/0883.jpg",
+    "max_val_ncc": 0.11981382734162152,
+    "min_val_phash_distance": 18
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0013.jpg",
+    "split": "train",
+    "sha256": "3ccb9aa64db7fe1c2e7aca2a50ef2a452f1ea5c93d2da120828702c7848a080e",
+    "width": 3840,
+    "height": 2160,
+    "phash63": "001110011011010001001111011100101010010000010001000110111011110",
+    "nearest_val_ncc": "datasets/U3D/lowlight/val/0802.jpg",
+    "max_val_ncc": 0.12161646028303112,
+    "min_val_phash_distance": 24
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0679.jpg",
+    "split": "train",
+    "sha256": "62dc7989952296d39feb7d49dd4a3d41fcac3392246266e925db8f2b4f55aaa7",
+    "width": 3840,
+    "height": 2160,
+    "phash63": "110010110111110010001110110000100011110001000111000101000100111",
+    "nearest_val_ncc": "datasets/U3D/lowlight/val/0814.jpg",
+    "max_val_ncc": 0.1439471290740115,
+    "min_val_phash_distance": 24
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0754.jpg",
+    "split": "train",
+    "sha256": "e83cd8adad21abd13a62a50b4f22f247feac33ce2055b3fc0ad7a7fe233e5ff1",
+    "width": 3840,
+    "height": 2160,
+    "phash63": "100011110001100010110001100011101010110010010110101100000111110",
+    "nearest_val_ncc": "datasets/U3D/lowlight/val/0815.jpg",
+    "max_val_ncc": 0.14530651145645349,
+    "min_val_phash_distance": 20
+  }
+]

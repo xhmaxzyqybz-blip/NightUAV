@@ -1,0 +1,202 @@
+[
+  {
+    "train": "datasets/U3D/lowlight/train/0209.jpg",
+    "val": "datasets/U3D/lowlight/val/0880.jpg",
+    "phash_hamming": 0,
+    "gray_ncc": 1.0000000000000002,
+    "exact_bytes": true,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0131.jpg",
+    "val": "datasets/U3D/lowlight/val/0895.jpg",
+    "phash_hamming": 0,
+    "gray_ncc": 0.9424532207575436,
+    "exact_bytes": false,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0127.jpg",
+    "val": "datasets/U3D/lowlight/val/0899.jpg",
+    "phash_hamming": 2,
+    "gray_ncc": 0.9895773885169803,
+    "exact_bytes": false,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0216.jpg",
+    "val": "datasets/U3D/lowlight/val/0895.jpg",
+    "phash_hamming": 2,
+    "gray_ncc": 0.9412901052203465,
+    "exact_bytes": false,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0656.jpg",
+    "val": "datasets/U3D/lowlight/val/0813.jpg",
+    "phash_hamming": 2,
+    "gray_ncc": 0.9180428785375732,
+    "exact_bytes": false,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0114.jpg",
+    "val": "datasets/U3D/lowlight/val/0899.jpg",
+    "phash_hamming": 4,
+    "gray_ncc": 0.9678530706759262,
+    "exact_bytes": false,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0216.jpg",
+    "val": "datasets/U3D/lowlight/val/0856.jpg",
+    "phash_hamming": 4,
+    "gray_ncc": 0.8627345553423995,
+    "exact_bytes": false,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0131.jpg",
+    "val": "datasets/U3D/lowlight/val/0856.jpg",
+    "phash_hamming": 4,
+    "gray_ncc": 0.8198548237946798,
+    "exact_bytes": false,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0009.jpg",
+    "val": "datasets/U3D/lowlight/val/0895.jpg",
+    "phash_hamming": 4,
+    "gray_ncc": 0.7745250503376803,
+    "exact_bytes": false,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0792.jpg",
+    "val": "datasets/U3D/lowlight/val/0804.jpg",
+    "phash_hamming": 6,
+    "gray_ncc": 0.9710075643900253,
+    "exact_bytes": false,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0551.jpg",
+    "val": "datasets/U3D/lowlight/val/0876.jpg",
+    "phash_hamming": 6,
+    "gray_ncc": 0.954266657190595,
+    "exact_bytes": false,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0758.jpg",
+    "val": "datasets/U3D/lowlight/val/0876.jpg",
+    "phash_hamming": 6,
+    "gray_ncc": 0.9526236064542772,
+    "exact_bytes": false,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0009.jpg",
+    "val": "datasets/U3D/lowlight/val/0856.jpg",
+    "phash_hamming": 6,
+    "gray_ncc": 0.9010435125562389,
+    "exact_bytes": false,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0042.jpg",
+    "val": "datasets/U3D/lowlight/val/0884.jpg",
+    "phash_hamming": 6,
+    "gray_ncc": 0.8783407548408143,
+    "exact_bytes": false,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0656.jpg",
+    "val": "datasets/U3D/lowlight/val/0884.jpg",
+    "phash_hamming": 6,
+    "gray_ncc": 0.8395023414924946,
+    "exact_bytes": false,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0646.jpg",
+    "val": "datasets/U3D/lowlight/val/0876.jpg",
+    "phash_hamming": 6,
+    "gray_ncc": 0.7737051365453057,
+    "exact_bytes": false,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0343.jpg",
+    "val": "datasets/U3D/lowlight/val/0818.jpg",
+    "phash_hamming": 6,
+    "gray_ncc": 0.7390247704068206,
+    "exact_bytes": false,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0742.jpg",
+    "val": "datasets/U3D/lowlight/val/0864.jpg",
+    "phash_hamming": 8,
+    "gray_ncc": 0.7248009065577131,
+    "exact_bytes": false,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0179.jpg",
+    "val": "datasets/U3D/lowlight/val/0849.jpg",
+    "phash_hamming": 10,
+    "gray_ncc": 0.8934458860882694,
+    "exact_bytes": false,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0091.jpg",
+    "val": "datasets/U3D/lowlight/val/0812.jpg",
+    "phash_hamming": 10,
+    "gray_ncc": 0.7923492112003737,
+    "exact_bytes": false,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0616.jpg",
+    "val": "datasets/U3D/lowlight/val/0837.jpg",
+    "phash_hamming": 10,
+    "gray_ncc": 0.7835804430049447,
+    "exact_bytes": false,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0147.jpg",
+    "val": "datasets/U3D/lowlight/val/0879.jpg",
+    "phash_hamming": 10,
+    "gray_ncc": 0.6949038502774472,
+    "exact_bytes": false,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0049.jpg",
+    "val": "datasets/U3D/lowlight/val/0821.jpg",
+    "phash_hamming": 10,
+    "gray_ncc": 0.6851674333168313,
+    "exact_bytes": false,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0342.jpg",
+    "val": "datasets/U3D/lowlight/val/0847.jpg",
+    "phash_hamming": 10,
+    "gray_ncc": 0.5890821928093876,
+    "exact_bytes": false,
+    "review": "pending"
+  },
+  {
+    "train": "datasets/U3D/lowlight/train/0336.jpg",
+    "val": "datasets/U3D/lowlight/val/0869.jpg",
+    "phash_hamming": 10,
+    "gray_ncc": 0.5807031944624366,
+    "exact_bytes": false,
+    "review": "pending"
+  }
+]

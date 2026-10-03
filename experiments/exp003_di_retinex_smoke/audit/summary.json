@@ -1,0 +1,25 @@
+{
+  "directory_counts": {
+    "lowlight": {
+      "test": 100,
+      "train": 800,
+      "val": 100
+    },
+    "light": {
+      "test": 200,
+      "train": 800
+    }
+  },
+  "audited_train": 800,
+  "audited_val": 100,
+  "comparisons": 80000,
+  "exact_duplicate_groups": 5,
+  "exact_cross_split_groups": 1,
+  "candidate_pairs": 25,
+  "candidate_train_images": 21,
+  "candidate_val_images": 17,
+  "visualized_pairs": 31,
+  "threshold": "63-bit DCT hash Hamming<=10 OR 32x32 grayscale NCC>=0.97",
+  "smoke_eligible": 779,
+  "script_sha256": "c5eeba69bdd0264ba30ca70be30df1412ae91a92deeaaf0bcb5c9e67c9e6018b"
+}

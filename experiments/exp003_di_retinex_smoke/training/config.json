@@ -1,0 +1,67 @@
+{
+  "seed": 1149,
+  "steps": 20,
+  "batch_size": 1,
+  "crop": [
+    256,
+    256
+  ],
+  "random_crop": "uniform x/y; original-resolution full-image GaussianBlur before paired crop",
+  "num_workers": 0,
+  "optimizer": "Adam",
+  "lr": 0.001,
+  "betas": [
+    0.9,
+    0.999
+  ],
+  "eps": 1e-08,
+  "weight_decay": 0.0001,
+  "grad_clip": 0.1,
+  "loss_weights": [
+    1,
+    1
+  ],
+  "exposure_mean": 0.5,
+  "exposure_std": 0.001,
+  "precision": "FP32",
+  "initialization": "official weights_init; random not pretrained",
+  "model_commit": "3f94f95ffb181904a837532a70adc064bee793a2",
+  "source_hashes": {
+    "mymodel.py": "46748dcabbd2eda8a290af790ee82b420200b75e2ac1d992f2586344e82e582e",
+    "lowlight_train.py": "1b17104802fefb5270f47f8a83714fa0af0c4864b36255b585be5d4dbc9a2c4b",
+    "dataloader.py": "2ac4964e10454827e8f7c7aca92fc6365f22f955853d0a66a4bee960b91b52bb"
+  },
+  "wrapper_sha256": "df7e0555bb655969e875782469a460edbfe937c072fdc7443bae0830a0f8838f",
+  "data": [
+    {
+      "source": "datasets/U3D/lowlight/train/0102.jpg",
+      "split": "train",
+      "sha256": "8a6da31251bddc93b763752e1c446e0236dc4ee633dc6f85870f3f8e399ada9b",
+      "width": 3840,
+      "height": 2160,
+      "phash63": "011010101111000100101100110100100011110101100011001001000011110",
+      "nearest_val_ncc": "datasets/U3D/lowlight/val/0883.jpg",
+      "max_val_ncc": 0.11981382734162152,
+      "min_val_phash_distance": 18
+    }
+  ],
+  "validation": false,
+  "torch": "2.13.0+cu130",
+  "torchvision": "0.28.0+cu130",
+  "cuda": "13.0",
+  "cv2": "4.12.0",
+  "opencv_distribution": "4.12.0.88",
+  "natsort": "8.4.0",
+  "python": "3.10.22 | packaged by Anaconda, Inc. | (main, Oct  1 2026, 20:15:38) [MSC v.1942 64 bit (AMD64)]",
+  "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU",
+  "checkpoint": "E:\\NightUAV\\checkpoints\\di_retinex\\exp003_smoke\\step020.pth",
+  "loss_ast_source": {
+    "mask": "mask = enhanced_image < 1",
+    "Gaussian": "Gaussian = Normal(torch.tensor([exp]), torch.tensor([0.001]))",
+    "target_exposure": "target_exposure = Gaussian.sample().cuda()",
+    "ratio": "ratio = target_exposure / img_lowlight.detach().mean()",
+    "loss1": "loss1 = (mask * (img_gauss ** 2.2 - (1 / ratio) ** 2.2 * enhanced_image ** 2.2)).abs().mean()",
+    "loss2": "loss2 = (k * b - k + b + 1).var((2, 3)).mean()",
+    "loss": "loss = loss1 + loss2"
+  }
+}

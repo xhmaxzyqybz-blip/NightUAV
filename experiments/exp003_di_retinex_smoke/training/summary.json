@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "steps": 20,
+  "first_step_ms": 1770.6910998094827,
+  "remaining_19_mean_ms": 31.281926313807304,
+  "remaining_19_median_ms": 29.66190013103187,
+  "peak_allocated_mib": 1205.7275390625,
+  "peak_reserved_mib": 1864.0,
+  "checkpoint": "E:\\NightUAV\\checkpoints\\di_retinex\\exp003_smoke\\step020.pth",
+  "checkpoint_sha256": "bc40f1a75b72242321ae2b39bf25a565dea898a824bc3c0a55474e581b25f6b5",
+  "checkpoint_safe_reload": true,
+  "original_input_hash_unchanged": true,
+  "validation_run": false,
+  "timing_scope": "forward+loss+backward+gradient checks+clip+Adam; CUDA synchronized; includes diagnostic sync overhead, excludes loading/transfer/checkpoint and parameter-delta check"
+}

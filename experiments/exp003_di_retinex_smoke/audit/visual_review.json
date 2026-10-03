@@ -1,0 +1,281 @@
+[
+  {
+    "pair_id": 0,
+    "train": "datasets/U3D/lowlight/train/0209.jpg",
+    "val": "datasets/U3D/lowlight/val/0880.jpg",
+    "classification": "exact_bytes_confirmed",
+    "evidence": "SHA256相同且配对图一致",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_000.png"
+  },
+  {
+    "pair_id": 1,
+    "train": "datasets/U3D/lowlight/train/0131.jpg",
+    "val": "datasets/U3D/lowlight/val/0895.jpg",
+    "classification": "same_scene_visual_strong",
+    "evidence": "建筑轮廓/球场/道路等独特布局对应；高度关联场景目视初判，非连续帧时间证明",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_001.png"
+  },
+  {
+    "pair_id": 2,
+    "train": "datasets/U3D/lowlight/train/0127.jpg",
+    "val": "datasets/U3D/lowlight/val/0899.jpg",
+    "classification": "same_scene_visual_strong",
+    "evidence": "建筑轮廓/球场/道路等独特布局对应；高度关联场景目视初判，非连续帧时间证明",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_002.png"
+  },
+  {
+    "pair_id": 3,
+    "train": "datasets/U3D/lowlight/train/0216.jpg",
+    "val": "datasets/U3D/lowlight/val/0895.jpg",
+    "classification": "same_scene_visual_strong",
+    "evidence": "建筑轮廓/球场/道路等独特布局对应；高度关联场景目视初判，非连续帧时间证明",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_003.png"
+  },
+  {
+    "pair_id": 4,
+    "train": "datasets/U3D/lowlight/train/0656.jpg",
+    "val": "datasets/U3D/lowlight/val/0813.jpg",
+    "classification": "uncertain_scene",
+    "evidence": "暗部结构不足或视角差异较大；不能排除仅照明/建筑相似，需原图与拍摄元数据复核",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_004.png"
+  },
+  {
+    "pair_id": 5,
+    "train": "datasets/U3D/lowlight/train/0114.jpg",
+    "val": "datasets/U3D/lowlight/val/0899.jpg",
+    "classification": "same_scene_visual_strong",
+    "evidence": "建筑轮廓/球场/道路等独特布局对应；高度关联场景目视初判，非连续帧时间证明",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_005.png"
+  },
+  {
+    "pair_id": 6,
+    "train": "datasets/U3D/lowlight/train/0216.jpg",
+    "val": "datasets/U3D/lowlight/val/0856.jpg",
+    "classification": "same_scene_visual_strong",
+    "evidence": "建筑轮廓/球场/道路等独特布局对应；高度关联场景目视初判，非连续帧时间证明",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_006.png"
+  },
+  {
+    "pair_id": 7,
+    "train": "datasets/U3D/lowlight/train/0131.jpg",
+    "val": "datasets/U3D/lowlight/val/0856.jpg",
+    "classification": "same_scene_visual_strong",
+    "evidence": "建筑轮廓/球场/道路等独特布局对应；高度关联场景目视初判，非连续帧时间证明",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_007.png"
+  },
+  {
+    "pair_id": 8,
+    "train": "datasets/U3D/lowlight/train/0009.jpg",
+    "val": "datasets/U3D/lowlight/val/0895.jpg",
+    "classification": "same_scene_visual_strong",
+    "evidence": "建筑轮廓/球场/道路等独特布局对应；高度关联场景目视初判，非连续帧时间证明",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_008.png"
+  },
+  {
+    "pair_id": 9,
+    "train": "datasets/U3D/lowlight/train/0792.jpg",
+    "val": "datasets/U3D/lowlight/val/0804.jpg",
+    "classification": "same_scene_visual_strong",
+    "evidence": "建筑轮廓/球场/道路等独特布局对应；高度关联场景目视初判，非连续帧时间证明",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_009.png"
+  },
+  {
+    "pair_id": 10,
+    "train": "datasets/U3D/lowlight/train/0551.jpg",
+    "val": "datasets/U3D/lowlight/val/0876.jpg",
+    "classification": "same_scene_visual_strong",
+    "evidence": "建筑轮廓/球场/道路等独特布局对应；高度关联场景目视初判，非连续帧时间证明",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_010.png"
+  },
+  {
+    "pair_id": 11,
+    "train": "datasets/U3D/lowlight/train/0758.jpg",
+    "val": "datasets/U3D/lowlight/val/0876.jpg",
+    "classification": "same_scene_visual_strong",
+    "evidence": "建筑轮廓/球场/道路等独特布局对应；高度关联场景目视初判，非连续帧时间证明",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_011.png"
+  },
+  {
+    "pair_id": 12,
+    "train": "datasets/U3D/lowlight/train/0009.jpg",
+    "val": "datasets/U3D/lowlight/val/0856.jpg",
+    "classification": "same_scene_visual_strong",
+    "evidence": "建筑轮廓/球场/道路等独特布局对应；高度关联场景目视初判，非连续帧时间证明",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_012.png"
+  },
+  {
+    "pair_id": 13,
+    "train": "datasets/U3D/lowlight/train/0042.jpg",
+    "val": "datasets/U3D/lowlight/val/0884.jpg",
+    "classification": "uncertain_scene",
+    "evidence": "暗部结构不足或视角差异较大；不能排除仅照明/建筑相似，需原图与拍摄元数据复核",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_013.png"
+  },
+  {
+    "pair_id": 14,
+    "train": "datasets/U3D/lowlight/train/0656.jpg",
+    "val": "datasets/U3D/lowlight/val/0884.jpg",
+    "classification": "uncertain_scene",
+    "evidence": "暗部结构不足或视角差异较大；不能排除仅照明/建筑相似，需原图与拍摄元数据复核",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_014.png"
+  },
+  {
+    "pair_id": 15,
+    "train": "datasets/U3D/lowlight/train/0646.jpg",
+    "val": "datasets/U3D/lowlight/val/0876.jpg",
+    "classification": "same_scene_visual_strong",
+    "evidence": "建筑轮廓/球场/道路等独特布局对应；高度关联场景目视初判，非连续帧时间证明",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_015.png"
+  },
+  {
+    "pair_id": 16,
+    "train": "datasets/U3D/lowlight/train/0343.jpg",
+    "val": "datasets/U3D/lowlight/val/0818.jpg",
+    "classification": "same_scene_visual_strong",
+    "evidence": "建筑轮廓/球场/道路等独特布局对应；高度关联场景目视初判，非连续帧时间证明",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_016.png"
+  },
+  {
+    "pair_id": 17,
+    "train": "datasets/U3D/lowlight/train/0742.jpg",
+    "val": "datasets/U3D/lowlight/val/0864.jpg",
+    "classification": "same_scene_visual_strong",
+    "evidence": "建筑轮廓/球场/道路等独特布局对应；高度关联场景目视初判，非连续帧时间证明",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_017.png"
+  },
+  {
+    "pair_id": 18,
+    "train": "datasets/U3D/lowlight/train/0179.jpg",
+    "val": "datasets/U3D/lowlight/val/0849.jpg",
+    "classification": "same_scene_visual_strong",
+    "evidence": "建筑轮廓/球场/道路等独特布局对应；高度关联场景目视初判，非连续帧时间证明",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_018.png"
+  },
+  {
+    "pair_id": 19,
+    "train": "datasets/U3D/lowlight/train/0091.jpg",
+    "val": "datasets/U3D/lowlight/val/0812.jpg",
+    "classification": "same_scene_visual_strong",
+    "evidence": "建筑轮廓/球场/道路等独特布局对应；高度关联场景目视初判，非连续帧时间证明",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_019.png"
+  },
+  {
+    "pair_id": 20,
+    "train": "datasets/U3D/lowlight/train/0616.jpg",
+    "val": "datasets/U3D/lowlight/val/0837.jpg",
+    "classification": "same_scene_visual_strong",
+    "evidence": "建筑轮廓/球场/道路等独特布局对应；高度关联场景目视初判，非连续帧时间证明",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_020.png"
+  },
+  {
+    "pair_id": 21,
+    "train": "datasets/U3D/lowlight/train/0147.jpg",
+    "val": "datasets/U3D/lowlight/val/0879.jpg",
+    "classification": "same_scene_visual_strong",
+    "evidence": "建筑轮廓/球场/道路等独特布局对应；高度关联场景目视初判，非连续帧时间证明",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_021.png"
+  },
+  {
+    "pair_id": 22,
+    "train": "datasets/U3D/lowlight/train/0049.jpg",
+    "val": "datasets/U3D/lowlight/val/0821.jpg",
+    "classification": "same_scene_visual_strong",
+    "evidence": "建筑轮廓/球场/道路等独特布局对应；高度关联场景目视初判，非连续帧时间证明",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_022.png"
+  },
+  {
+    "pair_id": 23,
+    "train": "datasets/U3D/lowlight/train/0342.jpg",
+    "val": "datasets/U3D/lowlight/val/0847.jpg",
+    "classification": "uncertain_scene",
+    "evidence": "暗部结构不足或视角差异较大；不能排除仅照明/建筑相似，需原图与拍摄元数据复核",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_023.png"
+  },
+  {
+    "pair_id": 24,
+    "train": "datasets/U3D/lowlight/train/0336.jpg",
+    "val": "datasets/U3D/lowlight/val/0869.jpg",
+    "classification": "uncertain_scene",
+    "evidence": "暗部结构不足或视角差异较大；不能排除仅照明/建筑相似，需原图与拍摄元数据复核",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_024.png"
+  },
+  {
+    "pair_id": 25,
+    "train": "datasets/U3D/lowlight/train/0008.jpg",
+    "val": "datasets/U3D/lowlight/val/0815.jpg",
+    "classification": "same_scene_visual_strong",
+    "evidence": "建筑轮廓/球场/道路等独特布局对应；高度关联场景目视初判，非连续帧时间证明",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_025.png"
+  },
+  {
+    "pair_id": 26,
+    "train": "datasets/U3D/lowlight/train/0595.jpg",
+    "val": "datasets/U3D/lowlight/val/0894.jpg",
+    "classification": "same_scene_visual_strong",
+    "evidence": "建筑轮廓/球场/道路等独特布局对应；高度关联场景目视初判，非连续帧时间证明",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_026.png"
+  },
+  {
+    "pair_id": 27,
+    "train": "datasets/U3D/lowlight/train/0102.jpg",
+    "val": "datasets/U3D/lowlight/val/0883.jpg",
+    "classification": "different_view_no_match",
+    "evidence": "技术测试候选与其NCC最近val图未见明显布局对应；不证明与全部val场景独立",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_027.png"
+  },
+  {
+    "pair_id": 28,
+    "train": "datasets/U3D/lowlight/train/0013.jpg",
+    "val": "datasets/U3D/lowlight/val/0802.jpg",
+    "classification": "different_view_no_match",
+    "evidence": "技术测试候选与其NCC最近val图未见明显布局对应；不证明与全部val场景独立",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_028.png"
+  },
+  {
+    "pair_id": 29,
+    "train": "datasets/U3D/lowlight/train/0679.jpg",
+    "val": "datasets/U3D/lowlight/val/0814.jpg",
+    "classification": "different_view_no_match",
+    "evidence": "技术测试候选与其NCC最近val图未见明显布局对应；不证明与全部val场景独立",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_029.png"
+  },
+  {
+    "pair_id": 30,
+    "train": "datasets/U3D/lowlight/train/0754.jpg",
+    "val": "datasets/U3D/lowlight/val/0815.jpg",
+    "classification": "different_view_no_match",
+    "evidence": "技术测试候选与其NCC最近val图未见明显布局对应；不证明与全部val场景独立",
+    "human_review_status": "pending_final_review",
+    "image": "outputs/split_audit/pair_030.png"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  [
+    "datasets/U3D/lowlight/train/0022.jpg",
+    "datasets/U3D/lowlight/train/0694.jpg"
+  ],
+  [
+    "datasets/U3D/lowlight/train/0063.jpg",
+    "datasets/U3D/lowlight/train/0491.jpg"
+  ],
+  [
+    "datasets/U3D/lowlight/train/0085.jpg",
+    "datasets/U3D/lowlight/train/0217.jpg"
+  ],
+  [
+    "datasets/U3D/lowlight/train/0209.jpg",
+    "datasets/U3D/lowlight/val/0880.jpg"
+  ],
+  [
+    "datasets/U3D/lowlight/train/0402.jpg",
+    "datasets/U3D/lowlight/train/0443.jpg"
+  ]
+]
