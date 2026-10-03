@@ -1,0 +1,152 @@
+{
+  "success": true,
+  "utc": "2026-10-02T17:09:30.419755+00:00",
+  "command_argv": [
+    "E:\\anaconda3\\envs\\nightuav\\python.exe",
+    "-B",
+    "E:\\NightUAV\\scripts\\infer_di_retinex.py",
+    "--input",
+    "E:\\NightUAV\\datasets\\U3D\\lowlight\\test\\0901.jpg",
+    "--output-dir",
+    "E:\\NightUAV\\results\\demos\\di_retinex_exp001",
+    "--metrics",
+    "E:\\NightUAV\\experiments\\exp001_di_retinex\\metrics\\inference.json",
+    "--width",
+    "1280",
+    "--height",
+    "720",
+    "--warmup",
+    "3",
+    "--runs",
+    "5"
+  ],
+  "environment": {
+    "python": "3.10.22 | packaged by Anaconda, Inc. | (main, Oct  1 2026, 20:15:38) [MSC v.1942 64 bit (AMD64)]",
+    "executable": "E:\\anaconda3\\envs\\nightuav\\python.exe",
+    "torch": "2.13.0+cu130",
+    "torchvision": "0.28.0+cu130",
+    "numpy": "2.2.6",
+    "Pillow": "12.3.0",
+    "cuda": "13.0"
+  },
+  "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU",
+  "capability": [
+    12,
+    0
+  ],
+  "gpu_total_memory_mib": 8150.5625,
+  "model": "DI-Retinex LOL-v1 normal",
+  "repo_commit": "3f94f95ffb181904a837532a70adc064bee793a2",
+  "model_source_sha256": "46748dcabbd2eda8a290af790ee82b420200b75e2ac1d992f2586344e82e582e",
+  "weights": "E:\\NightUAV\\checkpoints\\di_retinex\\latest (21.54 lolv1).pth",
+  "weight_source": "https://raw.githubusercontent.com/sunshangquan/DI-retinex-low-light-enhancement/3f94f95ffb181904a837532a70adc064bee793a2/weights/latest%20%2821.54%20lolv1%29.pth",
+  "weight_size_bytes": 170775,
+  "weight_sha256": "f7c7dce7c92dd1652947ae02c12047535d52908ee64554a94d175d2a6788e108",
+  "weights_only": true,
+  "strict_load": true,
+  "state_dict_shapes": {
+    "e_conv1.weight": [
+      64,
+      3,
+      3,
+      3
+    ],
+    "e_conv1.bias": [
+      64
+    ],
+    "e_conv2.weight": [
+      64,
+      64,
+      3,
+      3
+    ],
+    "e_conv2.bias": [
+      64
+    ],
+    "e_conv3.weight": [
+      6,
+      64,
+      3,
+      3
+    ],
+    "e_conv3.bias": [
+      6
+    ]
+  },
+  "parameter_count": 42182,
+  "input": "E:\\NightUAV\\datasets\\U3D\\lowlight\\test\\0901.jpg",
+  "input_sha256_before": "c5a052b4be3a03896f431c59f3d54d91c0d28ba3a3b112cbcd0bdfd5fdcd9244",
+  "input_sha256_after": "c5a052b4be3a03896f431c59f3d54d91c0d28ba3a3b112cbcd0bdfd5fdcd9244",
+  "original_size": [
+    3840,
+    2160
+  ],
+  "inference_size": [
+    1280,
+    720
+  ],
+  "resize": "Pillow LANCZOS, RGB, in memory",
+  "dtype": "float32",
+  "batch_size": 1,
+  "tf32": false,
+  "cudnn_benchmark": false,
+  "model_load_ms": 321.0269999690354,
+  "first_forward_ms": 1647.1648998558521,
+  "first_peak": {
+    "allocated_mib": 688.708984375,
+    "reserved_mib": 692.0
+  },
+  "extra_warmup_runs": 3,
+  "measured_runs": 5,
+  "warm_forward_ms": [
+    25.307599920779467,
+    26.155499974265695,
+    25.671200128272176,
+    25.789400096982718,
+    26.09310019761324
+  ],
+  "warm_mean_ms": 25.80336006358266,
+  "warm_median_ms": 25.789400096982718,
+  "warm_peak": {
+    "allocated_mib": 688.708984375,
+    "reserved_mib": 692.0
+  },
+  "timing_scope": "CUDA synchronized wall time for model forward only; excludes loading, preprocessing, transfer, validation and saving",
+  "memory_scope": "PyTorch allocator peaks; includes resident model/input; reserved cache may persist from prior passes; not total system VRAM",
+  "float_output_range": [
+    0.0,
+    1.0
+  ],
+  "finite_outputs": true,
+  "saved_images": {
+    "input_1280x720.png": {
+      "size": [
+        1280,
+        720
+      ],
+      "mode": "RGB",
+      "min": 0,
+      "max": 255,
+      "mean": 54.45364728009259,
+      "std": 64.58217606943899,
+      "fraction_zero_channels": 0.001978804976851852,
+      "fraction_255_channels": 0.0015353732638888889,
+      "sha256": "881460dd166b88d5d3b03f5b2cbc53f3a916ecb1afc4f3fb6fb1831af506eca3"
+    },
+    "enhanced_1280x720.png": {
+      "size": [
+        1280,
+        720
+      ],
+      "mode": "RGB",
+      "min": 0,
+      "max": 255,
+      "mean": 165.50441261574073,
+      "std": 65.87405071639189,
+      "fraction_zero_channels": 0.006213831018518519,
+      "fraction_255_channels": 0.24072337962962964,
+      "sha256": "f5f686cca89021dc14404f5863fb792ebb3b41dad5b7c8a2d5fa8469ec47ed51"
+    }
+  },
+  "output_dir": "E:\\NightUAV\\results\\demos\\di_retinex_exp001"
+}

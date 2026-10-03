@@ -39,3 +39,7 @@ Thumbs.db
 # Keep final figures and tables trackable
 /results/temp/
 /results/raw_outputs/
+
+/_model_audit/
+
+/results/demos/di_retinex_exp001/

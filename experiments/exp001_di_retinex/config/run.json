@@ -1,0 +1,37 @@
+{
+  "command_argv": [
+    "E:\\anaconda3\\envs\\nightuav\\python.exe",
+    "-B",
+    "E:\\NightUAV\\scripts\\infer_di_retinex.py",
+    "--input",
+    "E:\\NightUAV\\datasets\\U3D\\lowlight\\test\\0901.jpg",
+    "--output-dir",
+    "E:\\NightUAV\\results\\demos\\di_retinex_exp001",
+    "--metrics",
+    "E:\\NightUAV\\experiments\\exp001_di_retinex\\metrics\\inference.json",
+    "--width",
+    "1280",
+    "--height",
+    "720",
+    "--warmup",
+    "3",
+    "--runs",
+    "5"
+  ],
+  "repo_commit": "3f94f95ffb181904a837532a70adc064bee793a2",
+  "model": "DI-Retinex LOL-v1 normal",
+  "weight_source": "https://raw.githubusercontent.com/sunshangquan/DI-retinex-low-light-enhancement/3f94f95ffb181904a837532a70adc064bee793a2/weights/latest%20%2821.54%20lolv1%29.pth",
+  "weight_sha256": "f7c7dce7c92dd1652947ae02c12047535d52908ee64554a94d175d2a6788e108",
+  "input": "E:\\NightUAV\\datasets\\U3D\\lowlight\\test\\0901.jpg",
+  "inference_size": [
+    1280,
+    720
+  ],
+  "resize": "Pillow LANCZOS, RGB, in memory",
+  "dtype": "float32",
+  "batch_size": 1,
+  "tf32": false,
+  "cudnn_benchmark": false,
+  "extra_warmup_runs": 3,
+  "measured_runs": 5
+}
