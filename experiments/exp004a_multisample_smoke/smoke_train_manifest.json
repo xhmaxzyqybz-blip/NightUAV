@@ -1,0 +1,137 @@
+{
+  "purpose": "technical_smoke_only",
+  "technical_training_authorized": true,
+  "validation_allowed": false,
+  "checkpoint_reuse_for_independent_experiments": false,
+  "selection": "16 distinct original train files covering previously viewed lighting/content; exclude ALL known exact-duplicate endpoints; no scene-independence claim",
+  "rows": [
+    {
+      "source": "datasets/U3D/lowlight/train/0102.jpg",
+      "split": "train",
+      "sha256": "8a6da31251bddc93b763752e1c446e0236dc4ee633dc6f85870f3f8e399ada9b",
+      "width": 3840,
+      "height": 2160,
+      "phash63": "011010101111000100101100110100100011110101100011001001000011110"
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0472.jpg",
+      "split": "train",
+      "sha256": "2bf562c17d20f71c2b5ce53827e47d30a0af0510b107cc914f46d5c2546412c2",
+      "width": 3840,
+      "height": 2160,
+      "phash63": "100010111000011100111010011010001001011000011101111000101011100"
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0595.jpg",
+      "split": "train",
+      "sha256": "c23160c0c3a3100a0d23547bc13a3f29fb6e614fb36279bd00e1a723144fddcc",
+      "width": 3840,
+      "height": 2160,
+      "phash63": "011100110100000010000001010101101101011101111001010101010101011"
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0148.jpg",
+      "split": "train",
+      "sha256": "481cc41b8038fe94cac232b487d1df9b45ae33eea35fcb3f24a247e74d99a083",
+      "width": 3840,
+      "height": 2160,
+      "phash63": "101010110110100111000011101010001100100010010010110011001101011"
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0115.jpg",
+      "split": "train",
+      "sha256": "f05583546b7ec85e0025752b9db08c1140956b9c4ffc4c660ab80744f0d29c6b",
+      "width": 3840,
+      "height": 2160,
+      "phash63": "100111100011110001110000101101000111000100011000110011101011001"
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0349.jpg",
+      "split": "train",
+      "sha256": "bbc33aefe121ee0766bfdfa65b76d82b244f60ad9554f645026df84757c88293",
+      "width": 3840,
+      "height": 2160,
+      "phash63": "100000111100011010110111001111001010110110000101101001001000110"
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0775.jpg",
+      "split": "train",
+      "sha256": "9afa926469ac20f663e9dace58466937ee0d6a9d7bb800dc27ad98d65d15e151",
+      "width": 3840,
+      "height": 2160,
+      "phash63": "001100011010001011001011100111000110010011100011000110010011111"
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0740.jpg",
+      "split": "train",
+      "sha256": "a8ee23a7c217a9f2238ba01ea58900603421ad7163f1230af318f364fcad9f05",
+      "width": 3840,
+      "height": 2160,
+      "phash63": "110000000111011100111000000011111000001111000000001101111111110"
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0234.jpg",
+      "split": "train",
+      "sha256": "25ecad9948ed114b764adeb81576776d840e411de020817a412de5f634984c27",
+      "width": 3840,
+      "height": 2160,
+      "phash63": "100100110100010001111000111100010110010110001110101110001110001"
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0032.jpg",
+      "split": "train",
+      "sha256": "797bf22f570d21e6459c7db63be7c334271b48572b79e55689a937f90aec8261",
+      "width": 3840,
+      "height": 2160,
+      "phash63": "101100100100110011001101001100101100100011001101001100101101101"
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0041.jpg",
+      "split": "train",
+      "sha256": "8adb94e040ce84d79f4c370ae0f06654c39e48dd9049d5ab3f59d7632be48e0a",
+      "width": 3840,
+      "height": 2160,
+      "phash63": "100010000011100111100000100001101101111001101101000111110010110"
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0076.jpg",
+      "split": "train",
+      "sha256": "de8daf9243fc2721f481ebc848f436bc93c2b2a3ac9e4b199b3ea33713c812c4",
+      "width": 3840,
+      "height": 2160,
+      "phash63": "100000100011100010100100111011110111000110001110001111000111100"
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0144.jpg",
+      "split": "train",
+      "sha256": "19d49a7e2728482924822fd31a33c35eb70ff2639028bb0f05444f8fceaed5d0",
+      "width": 3840,
+      "height": 2160,
+      "phash63": "100100100110001001111111110011000110000001100011110011110000110"
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0166.jpg",
+      "split": "train",
+      "sha256": "e70b765d07c7acfeac0a76607cbc1cb6504517aa7ca3a59f5acd7fe695bccc34",
+      "width": 3840,
+      "height": 2160,
+      "phash63": "100011010000111001110101110100100111100001100111100110000011100"
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0013.jpg",
+      "split": "train",
+      "sha256": "3ccb9aa64db7fe1c2e7aca2a50ef2a452f1ea5c93d2da120828702c7848a080e",
+      "width": 3840,
+      "height": 2160,
+      "phash63": "001110011011010001001111011100101010010000010001000110111011110"
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0754.jpg",
+      "split": "train",
+      "sha256": "e83cd8adad21abd13a62a50b4f22f247feac33ce2055b3fc0ad7a7fe233e5ff1",
+      "width": 3840,
+      "height": 2160,
+      "phash63": "100011110001100010110001100011101010110010010110101100000111110"
+    }
+  ]
+}
