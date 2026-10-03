@@ -1,0 +1,16 @@
+{
+  "sources": {
+    "configs/splits/u3d_scene_groups_v1.json": "36e23991ca3c5b21ad6fe8da5a05d01b786f69cf1255bb74e5bf84d0c3d6c695",
+    "experiments/exp004_di_retinex_baseline/audit/confirmed_or_visual_relations.json": "71d830bd9ac26a2eaba9cc5ed6380cf4ffbee39c43835acfdb95e7b4622673ad",
+    "experiments/exp004_di_retinex_baseline/audit/exp004_visual_associations.json": "c81bd31e2a5a4b623d1734750d8602dc0e1d3f5f0464be3f809648c0ab390b93",
+    "experiments/exp004_di_retinex_baseline/audit/train_similarity_candidates.json": "d467995f75935a50b2f594f8ad5ff4c3d301ec8b6ca46f93f52a6b90b9eac87d",
+    "experiments/exp004_di_retinex_baseline/audit/train_top2_neighbors.json": "3df533c995f1e5f9866d3736b277878bdc4488a406fdd70fe08a6ac35017ee41",
+    "experiments/exp003_di_retinex_smoke/audit/visual_review.json": "cc4e94d967e98515dfdc2c6831ecfe478df9f34a97f54e7dd4d27467efda1f05",
+    "experiments/exp003_di_retinex_smoke/audit/exact_duplicates.json": "ccc1862439ecc03b3dc1d58a38534d670251d0eb9a3efeb433d706cd464b0761",
+    "experiments/exp002_baseline_diagnosis/diagnostic_manifest.json": "18062ae7cd947e0d987f8f336eb14eff941db6b089eb8e09269831578a93fc8c"
+  },
+  "review_queue_sha256": "41233011b3ec8ef9989d4f831848c59da3e8b73f6626c5a38e14d202bd81e7f5",
+  "review_queue_rows": 253,
+  "top2_rows": 1600,
+  "status": "prior assistant visual associations, NOT user final approval"
+}

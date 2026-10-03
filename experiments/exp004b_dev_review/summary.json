@@ -1,0 +1,29 @@
+{
+  "candidate_images": 40,
+  "queries_against_other_train": 31960,
+  "candidate_category_counts": {
+    "avenue_stadium_oblique": 5,
+    "bright_roof_office_complex": 5,
+    "commercial_curved_tower": 4,
+    "commercial_lowrise": 2,
+    "commercial_night_market": 3,
+    "commercial_strip": 1,
+    "near_mall_street": 2,
+    "park_highrise_road": 3,
+    "residential_road": 1,
+    "road_between_highrises": 5,
+    "road_dark_building": 2,
+    "skyline_courtyard": 3,
+    "stadium_front": 4
+  },
+  "relations_rows": 815,
+  "unique_relation_pairs": 671,
+  "priority_unique_pairs": 364,
+  "related_unique_images": 189,
+  "suggest_drop_or_defer": 23,
+  "review_only_pool_size": 582,
+  "excluded_closure_size": 218,
+  "known_group_crossing_after_exclusion": false,
+  "approved_v2": false,
+  "script_sha256": "48440eac269c3ca4d4ff222cb4e8dc0b680877107adceee5990402a11dbe08de"
+}

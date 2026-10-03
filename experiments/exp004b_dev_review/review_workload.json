@@ -1,0 +1,26 @@
+{
+  "first_review_candidate_ids": [
+    "D05",
+    "D07",
+    "D08",
+    "D09",
+    "D10",
+    "D12",
+    "D18",
+    "D19",
+    "D20",
+    "D21",
+    "D23",
+    "D28",
+    "D29",
+    "D30",
+    "D31",
+    "D36",
+    "D40"
+  ],
+  "first_review_candidates": 17,
+  "first_review_unique_pairs": 60,
+  "first_review_unique_images": 42,
+  "all_unique_pairs": 671,
+  "no_decisions_approved": true
+}
