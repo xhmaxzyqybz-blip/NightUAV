@@ -1,0 +1,16 @@
+datasets/U3D/lowlight/train/0009.jpg
+datasets/U3D/lowlight/train/0027.jpg
+datasets/U3D/lowlight/train/0127.jpg
+datasets/U3D/lowlight/train/0131.jpg
+datasets/U3D/lowlight/train/0210.jpg
+datasets/U3D/lowlight/train/0223.jpg
+datasets/U3D/lowlight/train/0240.jpg
+datasets/U3D/lowlight/train/0359.jpg
+datasets/U3D/lowlight/train/0368.jpg
+datasets/U3D/lowlight/train/0381.jpg
+datasets/U3D/lowlight/train/0525.jpg
+datasets/U3D/lowlight/train/0546.jpg
+datasets/U3D/lowlight/train/0551.jpg
+datasets/U3D/lowlight/train/0594.jpg
+datasets/U3D/lowlight/train/0646.jpg
+datasets/U3D/lowlight/train/0795.jpg

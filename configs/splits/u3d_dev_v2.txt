@@ -1,0 +1,8 @@
+datasets/U3D/lowlight/train/0049.jpg
+datasets/U3D/lowlight/train/0114.jpg
+datasets/U3D/lowlight/train/0166.jpg
+datasets/U3D/lowlight/train/0179.jpg
+datasets/U3D/lowlight/train/0216.jpg
+datasets/U3D/lowlight/train/0343.jpg
+datasets/U3D/lowlight/train/0758.jpg
+datasets/U3D/lowlight/train/0792.jpg
