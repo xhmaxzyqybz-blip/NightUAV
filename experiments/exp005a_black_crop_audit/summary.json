@@ -1,0 +1,111 @@
+{
+  "images": 770,
+  "images_with_black_crop": 12,
+  "images_with_sampled_black_crop_any_seed": 11,
+  "random_black_crops": 999,
+  "random_draws": 2310000,
+  "random_global_rate": 0.0004324675324675325,
+  "exact_uniform_image_then_crop_rate": 0.0004185635030691533,
+  "per_seed": {
+    "1149": {
+      "draws": 770000,
+      "black_crops": 339,
+      "images_with_sampled_black_crop": 11,
+      "rate": 0.00044025974025974025
+    },
+    "2026": {
+      "draws": 770000,
+      "black_crops": 331,
+      "images_with_sampled_black_crop": 11,
+      "rate": 0.00042987012987012984
+    },
+    "3407": {
+      "draws": 770000,
+      "black_crops": 329,
+      "images_with_sampled_black_crop": 11,
+      "rate": 0.00042727272727272726
+    }
+  },
+  "0069": {
+    "source": "datasets/U3D/lowlight/train/0069.jpg",
+    "filename": "0069.jpg",
+    "sha256": "e220c332ff28b7432f18f4599c0a3673ea8c627b07a314f239cb6fb929065e34",
+    "width": 3840,
+    "height": 2160,
+    "black_pixel_count": 551450,
+    "black_pixel_ratio": 0.06648461612654322,
+    "nonzero_pixel_ratio": 0.9335153838734568,
+    "has_black_crop": true,
+    "black_crop_top_left_count": 5772,
+    "possible_crop_top_left_count": 6829425,
+    "exact_uniform_crop_probability": 0.0008451663207371045,
+    "top_left_component_count": 2,
+    "components": [
+      {
+        "top_left_component_id": 1,
+        "valid_top_left_count": 5265,
+        "top_left_bbox_xywh": [
+          64,
+          1824,
+          65,
+          81
+        ],
+        "covered_pixel_bbox_xywh": [
+          64,
+          1824,
+          320,
+          336
+        ],
+        "representative_crop_xywh": [
+          64,
+          1824,
+          256,
+          256
+        ]
+      },
+      {
+        "top_left_component_id": 2,
+        "valid_top_left_count": 507,
+        "top_left_bbox_xywh": [
+          394,
+          1876,
+          119,
+          29
+        ],
+        "covered_pixel_bbox_xywh": [
+          394,
+          1876,
+          374,
+          284
+        ],
+        "representative_crop_xywh": [
+          394,
+          1876,
+          256,
+          256
+        ]
+      }
+    ],
+    "random_samples": {
+      "1149": {
+        "draws": 1000,
+        "black_crops": 1,
+        "rate": 0.001
+      },
+      "2026": {
+        "draws": 1000,
+        "black_crops": 1,
+        "rate": 0.001
+      },
+      "3407": {
+        "draws": 1000,
+        "black_crops": 1,
+        "rate": 0.001
+      }
+    },
+    "known_failed_crop_68_1850_is_black": true
+  },
+  "seconds": 216.7362500000745,
+  "all_image_hashes_match_split": true,
+  "algorithm_selfcheck_passed": true
+}

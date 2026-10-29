@@ -1,0 +1,381 @@
+{
+  "rule": "lambda_struct=.1*RMS(||grad(rec+fixedTV)||)/RMS(||grad(struct)||), first8 paired train batches, all parameters; unused I-head gradient zero",
+  "lambda_struct": 5.068692550668577,
+  "lambda_tv": 0.8653310986696595,
+  "base_gradient_rms": 0.14881917824177596,
+  "struct_gradient_rms": 0.002936046658070556,
+  "batches": [
+    {
+      "batch": 1,
+      "rec": 0.24059121310710907,
+      "tv": 0.001039187889546156,
+      "basic": 0.2414904534816742,
+      "struct": 0.0038187126629054546,
+      "base_grad_l2": 0.21298160072183497,
+      "struct_grad_l2": 0.004931714232524511,
+      "struct_group_grad_l2": {
+        "encoder": 0.0012691767692700375,
+        "illumination_head": 0.0,
+        "reflectance_head": 0.004765605480904824
+      },
+      "coverage": {
+        "moments": [
+          0.0029862148221582174,
+          3.296591239632107e-05,
+          0.0019200873794034123,
+          1.2804719517589547e-05
+        ],
+        "valid_components": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "valid_edges": [
+          [
+            658,
+            658,
+            728,
+            728
+          ],
+          [
+            60850,
+            60850,
+            60313,
+            60313
+          ]
+        ]
+      },
+      "sources": [
+        "datasets/U3D/lowlight/train/0153.jpg",
+        "datasets/U3D/lowlight/train/0146.jpg"
+      ]
+    },
+    {
+      "batch": 2,
+      "rec": 0.20065712928771973,
+      "tv": 0.0005014390917494893,
+      "basic": 0.20109103620052338,
+      "struct": 0.0039679259061813354,
+      "base_grad_l2": 0.16074349222813625,
+      "struct_grad_l2": 0.0010545342656375937,
+      "struct_group_grad_l2": {
+        "encoder": 0.0002928155001149737,
+        "illumination_head": 0.0,
+        "reflectance_head": 0.0010130654471929427
+      },
+      "coverage": {
+        "moments": [
+          0.0007099900394678116,
+          1.1637467878244934e-06,
+          0.0006459642900153995,
+          1.2855142585976864e-06
+        ],
+        "valid_components": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "valid_edges": [
+          [
+            12044,
+            12044,
+            12175,
+            12175
+          ],
+          [
+            37975,
+            37975,
+            37901,
+            37901
+          ]
+        ]
+      },
+      "sources": [
+        "datasets/U3D/lowlight/train/0786.jpg",
+        "datasets/U3D/lowlight/train/0523.jpg"
+      ]
+    },
+    {
+      "batch": 3,
+      "rec": 0.14910279214382172,
+      "tv": 0.0018693916499614716,
+      "basic": 0.15072043240070343,
+      "struct": 0.003819043980911374,
+      "base_grad_l2": 0.11172266343460308,
+      "struct_grad_l2": 0.0036257330594258582,
+      "struct_group_grad_l2": {
+        "encoder": 0.0009490732474949983,
+        "illumination_head": 0.0,
+        "reflectance_head": 0.0034993142455491035
+      },
+      "coverage": {
+        "moments": [
+          0.0026099812239408493,
+          1.2202189282106701e-05,
+          0.0022856269497424364,
+          1.0291485523339361e-05
+        ],
+        "valid_components": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "valid_edges": [
+          [
+            62428,
+            62428,
+            62478,
+            62478
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "sources": [
+        "datasets/U3D/lowlight/train/0660.jpg",
+        "datasets/U3D/lowlight/train/0770.jpg"
+      ]
+    },
+    {
+      "batch": 4,
+      "rec": 0.18518106639385223,
+      "tv": 0.0011444329284131527,
+      "basic": 0.18617138266563416,
+      "struct": 0.0039009444881230593,
+      "base_grad_l2": 0.12064200273673162,
+      "struct_grad_l2": 0.0027322103842745585,
+      "struct_group_grad_l2": {
+        "encoder": 0.0007210273455597601,
+        "illumination_head": 0.0,
+        "reflectance_head": 0.002635354463993938
+      },
+      "coverage": {
+        "moments": [
+          0.001664003822952509,
+          7.418126187985763e-06,
+          0.0012774220667779446,
+          4.137158157391241e-06
+        ],
+        "valid_components": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "valid_edges": [
+          [
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            57883,
+            57883,
+            58054,
+            58054
+          ]
+        ]
+      },
+      "sources": [
+        "datasets/U3D/lowlight/train/0060.jpg",
+        "datasets/U3D/lowlight/train/0597.jpg"
+      ]
+    },
+    {
+      "batch": 5,
+      "rec": 0.2031402289867401,
+      "tv": 0.0008983717998489738,
+      "basic": 0.20391762256622314,
+      "struct": 0.003866553772240877,
+      "base_grad_l2": 0.14310320154756992,
+      "struct_grad_l2": 0.0039740446373624895,
+      "struct_group_grad_l2": {
+        "encoder": 0.0009690231968100853,
+        "illumination_head": 0.0,
+        "reflectance_head": 0.0038540919583987
+      },
+      "coverage": {
+        "moments": [
+          0.0019689835608005524,
+          1.9360501028131694e-05,
+          0.0017831668956205249,
+          1.2840195267926902e-05
+        ],
+        "valid_components": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "valid_edges": [
+          [
+            374,
+            374,
+            375,
+            375
+          ],
+          [
+            39782,
+            39782,
+            40255,
+            40255
+          ]
+        ]
+      },
+      "sources": [
+        "datasets/U3D/lowlight/train/0639.jpg",
+        "datasets/U3D/lowlight/train/0082.jpg"
+      ]
+    },
+    {
+      "batch": 6,
+      "rec": 0.19746842980384827,
+      "tv": 0.0004864332149736583,
+      "basic": 0.19788935780525208,
+      "struct": 0.0039873612113296986,
+      "base_grad_l2": 0.14973266699931664,
+      "struct_grad_l2": 0.0007448359692284807,
+      "struct_group_grad_l2": {
+        "encoder": 0.00019616578806606237,
+        "illumination_head": 0.0,
+        "reflectance_head": 0.0007185399116604107
+      },
+      "coverage": {
+        "moments": [
+          0.00044016927131451666,
+          5.950258810116793e-07,
+          0.0004582524998113513,
+          7.284445473487722e-07
+        ],
+        "valid_components": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "valid_edges": [
+          [
+            51860,
+            51860,
+            51780,
+            51780
+          ],
+          [
+            4544,
+            4544,
+            4607,
+            4607
+          ]
+        ]
+      },
+      "sources": [
+        "datasets/U3D/lowlight/train/0663.jpg",
+        "datasets/U3D/lowlight/train/0617.jpg"
+      ]
+    },
+    {
+      "batch": 7,
+      "rec": 0.19576776027679443,
+      "tv": 0.0006016026018187404,
+      "basic": 0.1962883472442627,
+      "struct": 0.003983198199421167,
+      "base_grad_l2": 0.15378398443545283,
+      "struct_grad_l2": 0.0009121467780495862,
+      "struct_group_grad_l2": {
+        "encoder": 0.0002343988342010295,
+        "illumination_head": 0.0,
+        "reflectance_head": 0.0008815151338640984
+      },
+      "coverage": {
+        "moments": [
+          0.0005211961688473821,
+          1.3375786238611909e-06,
+          0.00047533991164527833,
+          9.113783789871377e-07
+        ],
+        "valid_components": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "valid_edges": [
+          [
+            50910,
+            50910,
+            50795,
+            50795
+          ],
+          [
+            6834,
+            6834,
+            6878,
+            6878
+          ]
+        ]
+      },
+      "sources": [
+        "datasets/U3D/lowlight/train/0537.jpg",
+        "datasets/U3D/lowlight/train/0511.jpg"
+      ]
+    },
+    {
+      "batch": 8,
+      "rec": 0.210121750831604,
+      "tv": 0.0010313488310202956,
+      "basic": 0.21101421117782593,
+      "struct": 0.003935606684535742,
+      "base_grad_l2": 0.1113247137105701,
+      "struct_grad_l2": 0.002395490574096656,
+      "struct_group_grad_l2": {
+        "encoder": 0.0005985487299797695,
+        "illumination_head": 0.0,
+        "reflectance_head": 0.002319507384861176
+      },
+      "coverage": {
+        "moments": [
+          0.001238640514202416,
+          7.569670287921326e-06,
+          0.0008804993703961372,
+          3.7583188259304734e-06
+        ],
+        "valid_components": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "valid_edges": [
+          [
+            36708,
+            36708,
+            36923,
+            36923
+          ],
+          [
+            5512,
+            5512,
+            5480,
+            5480
+          ]
+        ]
+      },
+      "sources": [
+        "datasets/U3D/lowlight/train/0100.jpg",
+        "datasets/U3D/lowlight/train/0672.jpg"
+      ]
+    }
+  ],
+  "minimum_calibration_coverage": "Each batch has all four valid components and finite encoder/R-head gradients >1e-12; not a physical/statistical coverage guarantee",
+  "runtime_check": "PASS; finite loss, R-head/encoder gradients, no I-head direct gradient, target requires_grad=False; no update",
+  "reconstruction_acceptance": "No numerical tolerance approved; report all changes without declaring quality acceptance",
+  "note": "Single preset 10% initial gradient ratio; no optimality or stable future dynamics guarantee"
+}

@@ -1,0 +1,94 @@
+{
+  "status": "PASS",
+  "checkpoint_sha256": "c9432b3cd5406ddb873560beb47ab2f9d7265bea4f1198112e84a17141da0ce9",
+  "images": [
+    {
+      "image": "0049",
+      "metrics_exact": true,
+      "roi_categories_exact": [
+        "highlight",
+        "dark",
+        "boundary"
+      ],
+      "finite": true,
+      "global_condition_mean": 0.2614595592021942
+    },
+    {
+      "image": "0114",
+      "metrics_exact": true,
+      "roi_categories_exact": [],
+      "finite": true,
+      "global_condition_mean": 0.09391506016254425
+    },
+    {
+      "image": "0166",
+      "metrics_exact": true,
+      "roi_categories_exact": [],
+      "finite": true,
+      "global_condition_mean": 0.08015342056751251
+    },
+    {
+      "image": "0179",
+      "metrics_exact": true,
+      "roi_categories_exact": [
+        "highlight",
+        "dark",
+        "boundary"
+      ],
+      "finite": true,
+      "global_condition_mean": 0.22917403280735016
+    },
+    {
+      "image": "0216",
+      "metrics_exact": true,
+      "roi_categories_exact": [],
+      "finite": true,
+      "global_condition_mean": 0.10625241696834564
+    },
+    {
+      "image": "0343",
+      "metrics_exact": true,
+      "roi_categories_exact": [],
+      "finite": true,
+      "global_condition_mean": 0.06944143772125244
+    },
+    {
+      "image": "0758",
+      "metrics_exact": true,
+      "roi_categories_exact": [
+        "highlight",
+        "dark",
+        "boundary"
+      ],
+      "finite": true,
+      "global_condition_mean": 0.28217536211013794
+    },
+    {
+      "image": "0792",
+      "metrics_exact": true,
+      "roi_categories_exact": [
+        "highlight",
+        "dark",
+        "boundary"
+      ],
+      "finite": true,
+      "global_condition_mean": 0.2275051325559616
+    }
+  ],
+  "enhanced_images": 16,
+  "montages": 8,
+  "quantization": "np.rint(float32_Y*255).astype(uint8)",
+  "enhanced_size": [
+    1280,
+    720
+  ],
+  "montage_size": [
+    5120,
+    744
+  ],
+  "global_condition": "Original B1 evaluate path: full 1280x720 input mean; original 4K mean used only in training",
+  "frozen_metrics_and_roi_exact": true,
+  "model_states_unchanged": true,
+  "training": false,
+  "postprocessing": false
+}

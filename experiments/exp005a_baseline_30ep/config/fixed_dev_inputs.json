@@ -1,0 +1,58 @@
+[
+  {
+    "source": "datasets/U3D/lowlight/train/0049.jpg",
+    "resized_rgb_sha256": "5c6f595e99c567e8ae3f6909d5944b0d2d943e47abb161c41194152696826682",
+    "dark_pixel_count": 443631,
+    "bright_pixel_count": 39002,
+    "mean_input_luminance": 0.2614595592021942
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0114.jpg",
+    "resized_rgb_sha256": "3cf243a4d39dc3cc4f5b7d9d26c542c7634e798c3dbcc79d00a36f8b873f589e",
+    "dark_pixel_count": 826912,
+    "bright_pixel_count": 8319,
+    "mean_input_luminance": 0.09391505271196365
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0166.jpg",
+    "resized_rgb_sha256": "0cd3986484f8976ddd683e1beb66d1e96a9f9fbffc72addf5524d417f84b47c6",
+    "dark_pixel_count": 824448,
+    "bright_pixel_count": 9213,
+    "mean_input_luminance": 0.08015342056751251
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0179.jpg",
+    "resized_rgb_sha256": "4f6e1ff3fe011c29615bdfb717c5d8e881ca2dd6396233015b3e932b98853e40",
+    "dark_pixel_count": 632833,
+    "bright_pixel_count": 102968,
+    "mean_input_luminance": 0.22917406260967255
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0216.jpg",
+    "resized_rgb_sha256": "2fd39c532e8d2d536e211dfbc4cfc1d2281843ea159ac435752bf7dd352b4932",
+    "dark_pixel_count": 839910,
+    "bright_pixel_count": 25670,
+    "mean_input_luminance": 0.10625241696834564
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0343.jpg",
+    "resized_rgb_sha256": "08d38ead381df0fa91efcd087242c25461b1504b58357b573df590deb733dd8f",
+    "dark_pixel_count": 867248,
+    "bright_pixel_count": 5964,
+    "mean_input_luminance": 0.06944143772125244
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0758.jpg",
+    "resized_rgb_sha256": "5ae8cf70e62c8d5315e7b387ffcd4471acbc71d009ea0c728324ad4e25e91c4f",
+    "dark_pixel_count": 452572,
+    "bright_pixel_count": 88362,
+    "mean_input_luminance": 0.28217533230781555
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0792.jpg",
+    "resized_rgb_sha256": "bea8e8ae0ea77ec33b361349693b9c91ac834a4aee4d43d807c4d935cf06616f",
+    "dark_pixel_count": 615915,
+    "bright_pixel_count": 99061,
+    "mean_input_luminance": 0.22750511765480042
+  }
+]

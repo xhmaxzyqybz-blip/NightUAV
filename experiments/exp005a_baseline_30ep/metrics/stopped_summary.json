@@ -1,0 +1,73 @@
+{
+  "status": "STOPPED_INCOMPLETE_ALL_BLACK_CROP",
+  "target_epochs": 15,
+  "completed_epochs": 12,
+  "partial_epoch": 13,
+  "partial_epoch_steps": 154,
+  "logical_optimizer_steps": 9394,
+  "transition_replayed_steps": 2,
+  "dev_evaluations": 13,
+  "dev_image_evaluations": 104,
+  "no_recorded_loss_gradient_output_nan_inf": true,
+  "failed_step_not_evaluated": true,
+  "no_recorded_oom": true,
+  "all_completed_epochs_cover_train770_once": true,
+  "no_train_dev_quarantine_mixing": true,
+  "fully_completed_epoch_training_seconds": 3691.7078860003967,
+  "recorded_step_data_wait_seconds": 3345.731526413234,
+  "recorded_step_compute_seconds": 306.787216411205,
+  "mean_recorded_data_wait_ms": 356.1562195457988,
+  "train_peak_allocated_mib": 1205.72705078125,
+  "train_peak_reserved_mib": 2502.0,
+  "dev_peak_allocated_mib": 699.74267578125,
+  "dev_peak_reserved_mib": 2502.0,
+  "checkpoint_checks": [
+    {
+      "epoch": 1,
+      "sha256": "61e1e4ed108abaf6eafc8f651e2625d7b30be94f96316f081c8160274fe23a10",
+      "weights_only": true,
+      "strict": true,
+      "state_exact": true,
+      "gpu_dev_forward_finite": true
+    },
+    {
+      "epoch": 2,
+      "sha256": "2b2354de8e4ffbfae36a727c526afc90ccf15f324e55c38a61fc2657a94fd211",
+      "weights_only": true,
+      "strict": true,
+      "state_exact": true,
+      "gpu_dev_forward_finite": true
+    },
+    {
+      "epoch": 5,
+      "sha256": "cbc9023ab50e39dce271c5411d3e724faf128fe4f03e4acb86efdd923261366d",
+      "weights_only": true,
+      "strict": true,
+      "state_exact": true,
+      "gpu_dev_forward_finite": true
+    },
+    {
+      "epoch": 10,
+      "sha256": "1708d82cd01028da77145c73830f3cb91e09761bcb9d6e273c3556805c6751fa",
+      "weights_only": true,
+      "strict": true,
+      "state_exact": true,
+      "gpu_dev_forward_finite": true
+    }
+  ],
+  "missing_requested_checkpoint": "epoch015.pth",
+  "montages": [
+    "results/demos/di_retinex_exp005a/montage_partial/0049.png",
+    "results/demos/di_retinex_exp005a/montage_partial/0114.png",
+    "results/demos/di_retinex_exp005a/montage_partial/0166.png",
+    "results/demos/di_retinex_exp005a/montage_partial/0179.png",
+    "results/demos/di_retinex_exp005a/montage_partial/0216.png",
+    "results/demos/di_retinex_exp005a/montage_partial/0343.png",
+    "results/demos/di_retinex_exp005a/montage_partial/0758.png",
+    "results/demos/di_retinex_exp005a/montage_partial/0792.png"
+  ],
+  "timing_scope": "Only completed epoch train intervals and measured successful-step phases. Not end-to-end runtime; intervals may include host stalls. Transition repeats two archived steps, excluded from logical step count.",
+  "best_checkpoint_selected": false,
+  "no_training_past_epoch15": true,
+  "original_data_or_model_modified": false
+}

@@ -1,0 +1,6802 @@
+[
+  {
+    "step": 1,
+    "source": "datasets/U3D/lowlight/train/0153.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0153.jpg",
+      "initial_xywh": [
+        2338,
+        471,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2338,
+        471,
+        256,
+        256
+      ],
+      "step": 1
+    },
+    "total": 0.0002991773944813758,
+    "RD": 0.00029698997968807817,
+    "VS": 2.1874066078453325e-06,
+    "gradient_finite": true,
+    "gradient_norm": 0.0002066442830255255,
+    "parameter_update_l1": 41.325203351676464,
+    "cuda": true,
+    "wait_ms": 415.15030013397336,
+    "transfer_ms": 0.833400059491396,
+    "compute_ms": 1483.8327001780272,
+    "peak_allocated_mib": 1205.40234375,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 2,
+    "source": "datasets/U3D/lowlight/train/0146.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0146.jpg",
+      "initial_xywh": [
+        3069,
+        746,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3069,
+        746,
+        256,
+        256
+      ],
+      "step": 2
+    },
+    "total": 0.27207571268081665,
+    "RD": 0.2720715403556824,
+    "VS": 4.182587417744799e-06,
+    "gradient_finite": true,
+    "gradient_norm": 0.23753562569618225,
+    "parameter_update_l1": 36.7848108522594,
+    "cuda": true,
+    "wait_ms": 611.8203999940306,
+    "transfer_ms": 0.6088998634368181,
+    "compute_ms": 25.559999980032444,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 3,
+    "source": "datasets/U3D/lowlight/train/0786.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0786.jpg",
+      "initial_xywh": [
+        1392,
+        1713,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1392,
+        1713,
+        256,
+        256
+      ],
+      "step": 3
+    },
+    "total": 0.0023738918825984,
+    "RD": 0.0023712138645350933,
+    "VS": 2.6780805910675554e-06,
+    "gradient_finite": true,
+    "gradient_norm": 0.0006994219147600234,
+    "parameter_update_l1": 33.65040688402951,
+    "cuda": true,
+    "wait_ms": 499.1478000301868,
+    "transfer_ms": 0.705299898982048,
+    "compute_ms": 26.13099990412593,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 4,
+    "source": "datasets/U3D/lowlight/train/0523.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0523.jpg",
+      "initial_xywh": [
+        2044,
+        699,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2044,
+        699,
+        256,
+        256
+      ],
+      "step": 4
+    },
+    "total": 0.0021418516989797354,
+    "RD": 0.002137645846232772,
+    "VS": 4.2057667997141834e-06,
+    "gradient_finite": true,
+    "gradient_norm": 0.0023813152220100164,
+    "parameter_update_l1": 31.547490384429693,
+    "cuda": true,
+    "wait_ms": 430.0580997951329,
+    "transfer_ms": 0.6609999109059572,
+    "compute_ms": 26.129900012165308,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 5,
+    "source": "datasets/U3D/lowlight/train/0660.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0660.jpg",
+      "initial_xywh": [
+        1116,
+        997,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1116,
+        997,
+        256,
+        256
+      ],
+      "step": 5
+    },
+    "total": 0.04255599156022072,
+    "RD": 0.042548954486846924,
+    "VS": 7.035401267785346e-06,
+    "gradient_finite": true,
+    "gradient_norm": 0.06823720037937164,
+    "parameter_update_l1": 30.86539788544178,
+    "cuda": true,
+    "wait_ms": 415.5752998776734,
+    "transfer_ms": 0.5824000108987093,
+    "compute_ms": 23.516700137406588,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 6,
+    "source": "datasets/U3D/lowlight/train/0770.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0770.jpg",
+      "initial_xywh": [
+        204,
+        186,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        204,
+        186,
+        256,
+        256
+      ],
+      "step": 6
+    },
+    "total": 0.00021817261585965753,
+    "RD": 0.0002074053481919691,
+    "VS": 1.076726766768843e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.0003917060967069119,
+    "parameter_update_l1": 29.078786998987198,
+    "cuda": true,
+    "wait_ms": 399.80230014771223,
+    "transfer_ms": 1.0326998308300972,
+    "compute_ms": 23.839500034227967,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 7,
+    "source": "datasets/U3D/lowlight/train/0060.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0060.jpg",
+      "initial_xywh": [
+        2649,
+        1846,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2649,
+        1846,
+        256,
+        256
+      ],
+      "step": 7
+    },
+    "total": 3.735771315405145e-05,
+    "RD": 2.104489249177277e-05,
+    "VS": 1.631281884328928e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.00044484587851911783,
+    "parameter_update_l1": 27.436382062733173,
+    "cuda": true,
+    "wait_ms": 370.31439994461834,
+    "transfer_ms": 0.5307001993060112,
+    "compute_ms": 25.862399954348803,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 8,
+    "source": "datasets/U3D/lowlight/train/0597.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0597.jpg",
+      "initial_xywh": [
+        2862,
+        329,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2862,
+        329,
+        256,
+        256
+      ],
+      "step": 8
+    },
+    "total": 0.025812020525336266,
+    "RD": 0.025756437331438065,
+    "VS": 5.55835067643784e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.04276185482740402,
+    "parameter_update_l1": 26.527152167633176,
+    "cuda": true,
+    "wait_ms": 390.0111000984907,
+    "transfer_ms": 0.6961999461054802,
+    "compute_ms": 23.699500132352114,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 9,
+    "source": "datasets/U3D/lowlight/train/0639.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0639.jpg",
+      "initial_xywh": [
+        589,
+        1233,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        589,
+        1233,
+        256,
+        256
+      ],
+      "step": 9
+    },
+    "total": 0.00023886615235824138,
+    "RD": 0.00019951254944317043,
+    "VS": 3.9353599277092144e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.0011099871480837464,
+    "parameter_update_l1": 24.997726084664464,
+    "cuda": true,
+    "wait_ms": 340.04849987104535,
+    "transfer_ms": 0.8406999986618757,
+    "compute_ms": 24.2937000002712,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 10,
+    "source": "datasets/U3D/lowlight/train/0082.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0082.jpg",
+      "initial_xywh": [
+        1697,
+        1194,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1697,
+        1194,
+        256,
+        256
+      ],
+      "step": 10
+    },
+    "total": 0.00997485313564539,
+    "RD": 0.009865048341453075,
+    "VS": 0.00010980477964039892,
+    "gradient_finite": true,
+    "gradient_norm": 0.006995683535933495,
+    "parameter_update_l1": 23.754575937986374,
+    "cuda": true,
+    "wait_ms": 359.1912998817861,
+    "transfer_ms": 0.6234000902622938,
+    "compute_ms": 28.210500022396445,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 11,
+    "source": "datasets/U3D/lowlight/train/0663.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0663.jpg",
+      "initial_xywh": [
+        1968,
+        628,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1968,
+        628,
+        256,
+        256
+      ],
+      "step": 11
+    },
+    "total": 0.007139262277632952,
+    "RD": 0.007024738006293774,
+    "VS": 0.000114524329546839,
+    "gradient_finite": true,
+    "gradient_norm": 0.006137695629149675,
+    "parameter_update_l1": 22.61861261166632,
+    "cuda": true,
+    "wait_ms": 364.1180000267923,
+    "transfer_ms": 0.62700011767447,
+    "compute_ms": 27.8866000007838,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 12,
+    "source": "datasets/U3D/lowlight/train/0617.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0617.jpg",
+      "initial_xywh": [
+        91,
+        708,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        91,
+        708,
+        256,
+        256
+      ],
+      "step": 12
+    },
+    "total": 0.00044455219176597893,
+    "RD": 0.0003159697516821325,
+    "VS": 0.00012858244008384645,
+    "gradient_finite": true,
+    "gradient_norm": 0.0026192297227680683,
+    "parameter_update_l1": 21.211532110348344,
+    "cuda": true,
+    "wait_ms": 340.81339999102056,
+    "transfer_ms": 0.582000007852912,
+    "compute_ms": 28.04700005799532,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 13,
+    "source": "datasets/U3D/lowlight/train/0537.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0537.jpg",
+      "initial_xywh": [
+        551,
+        342,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        551,
+        342,
+        256,
+        256
+      ],
+      "step": 13
+    },
+    "total": 0.005903218407183886,
+    "RD": 0.005616804119199514,
+    "VS": 0.00028641443350352347,
+    "gradient_finite": true,
+    "gradient_norm": 0.0064404066652059555,
+    "parameter_update_l1": 20.157347220927477,
+    "cuda": true,
+    "wait_ms": 324.9282999895513,
+    "transfer_ms": 0.5570999346673489,
+    "compute_ms": 27.670300099998713,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 14,
+    "source": "datasets/U3D/lowlight/train/0511.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0511.jpg",
+      "initial_xywh": [
+        2101,
+        1820,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2101,
+        1820,
+        256,
+        256
+      ],
+      "step": 14
+    },
+    "total": 0.0007393119158223271,
+    "RD": 0.000518094515427947,
+    "VS": 0.0002212174003943801,
+    "gradient_finite": true,
+    "gradient_norm": 0.004600732121616602,
+    "parameter_update_l1": 18.973095942288637,
+    "cuda": true,
+    "wait_ms": 330.3868998773396,
+    "transfer_ms": 0.5536000244319439,
+    "compute_ms": 31.962899956852198,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 15,
+    "source": "datasets/U3D/lowlight/train/0100.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0100.jpg",
+      "initial_xywh": [
+        3097,
+        1218,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3097,
+        1218,
+        256,
+        256
+      ],
+      "step": 15
+    },
+    "total": 0.024327119812369347,
+    "RD": 0.02258162759244442,
+    "VS": 0.0017454916378483176,
+    "gradient_finite": true,
+    "gradient_norm": 0.06508315354585648,
+    "parameter_update_l1": 19.01270500011742,
+    "cuda": true,
+    "wait_ms": 340.76030016876757,
+    "transfer_ms": 0.898800091817975,
+    "compute_ms": 27.769300155341625,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 16,
+    "source": "datasets/U3D/lowlight/train/0672.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0672.jpg",
+      "initial_xywh": [
+        1985,
+        359,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1985,
+        359,
+        256,
+        256
+      ],
+      "step": 16
+    },
+    "total": 0.0006844626623205841,
+    "RD": 0.0003833667724393308,
+    "VS": 0.00030109588988125324,
+    "gradient_finite": true,
+    "gradient_norm": 0.006435764487832785,
+    "parameter_update_l1": 17.822737134993076,
+    "cuda": true,
+    "wait_ms": 308.55269986204803,
+    "transfer_ms": 0.6387999746948481,
+    "compute_ms": 29.40959995612502,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 17,
+    "source": "datasets/U3D/lowlight/train/0148.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0148.jpg",
+      "initial_xywh": [
+        3245,
+        441,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3245,
+        441,
+        256,
+        256
+      ],
+      "step": 17
+    },
+    "total": 0.0008385017281398177,
+    "RD": 0.0005009332089684904,
+    "VS": 0.00033756851917132735,
+    "gradient_finite": true,
+    "gradient_norm": 0.007596439681947231,
+    "parameter_update_l1": 16.65305072441697,
+    "cuda": true,
+    "wait_ms": 339.0445001423359,
+    "transfer_ms": 0.7690999191254377,
+    "compute_ms": 27.871099999174476,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 18,
+    "source": "datasets/U3D/lowlight/train/0481.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0481.jpg",
+      "initial_xywh": [
+        1832,
+        490,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1832,
+        490,
+        256,
+        256
+      ],
+      "step": 18
+    },
+    "total": 0.0069808680564165115,
+    "RD": 0.006598250940442085,
+    "VS": 0.000382617290597409,
+    "gradient_finite": true,
+    "gradient_norm": 0.0056098042987287045,
+    "parameter_update_l1": 15.825702117756009,
+    "cuda": true,
+    "wait_ms": 308.28210012987256,
+    "transfer_ms": 0.7287999615073204,
+    "compute_ms": 27.30139996856451,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 19,
+    "source": "datasets/U3D/lowlight/train/0745.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0745.jpg",
+      "initial_xywh": [
+        1743,
+        14,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1743,
+        14,
+        256,
+        256
+      ],
+      "step": 19
+    },
+    "total": 0.0024501727893948555,
+    "RD": 0.0020845176186412573,
+    "VS": 0.0003656551707535982,
+    "gradient_finite": true,
+    "gradient_norm": 0.012713631615042686,
+    "parameter_update_l1": 14.957360645756125,
+    "cuda": true,
+    "wait_ms": 331.1851001344621,
+    "transfer_ms": 0.6305999122560024,
+    "compute_ms": 26.569100096821785,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 20,
+    "source": "datasets/U3D/lowlight/train/0018.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0018.jpg",
+      "initial_xywh": [
+        3567,
+        1712,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3567,
+        1712,
+        256,
+        256
+      ],
+      "step": 20
+    },
+    "total": 0.0005285737570375204,
+    "RD": 0.0001656467793509364,
+    "VS": 0.00036292694858275354,
+    "gradient_finite": true,
+    "gradient_norm": 0.0062891412526369095,
+    "parameter_update_l1": 14.15025876276195,
+    "cuda": true,
+    "wait_ms": 321.9517001416534,
+    "transfer_ms": 0.6856999825686216,
+    "compute_ms": 27.85279997624457,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 21,
+    "source": "datasets/U3D/lowlight/train/0051.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0051.jpg",
+      "initial_xywh": [
+        1935,
+        972,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1935,
+        972,
+        256,
+        256
+      ],
+      "step": 21
+    },
+    "total": 0.06186262145638466,
+    "RD": 0.06154825538396835,
+    "VS": 0.00031436706194654107,
+    "gradient_finite": true,
+    "gradient_norm": 0.21859687566757202,
+    "parameter_update_l1": 14.629936035722494,
+    "cuda": true,
+    "wait_ms": 324.2688002064824,
+    "transfer_ms": 0.6207001861184835,
+    "compute_ms": 27.331999968737364,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 22,
+    "source": "datasets/U3D/lowlight/train/0557.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0557.jpg",
+      "initial_xywh": [
+        2823,
+        803,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2823,
+        803,
+        256,
+        256
+      ],
+      "step": 22
+    },
+    "total": 0.00045565643813461065,
+    "RD": 3.4865053748944774e-05,
+    "VS": 0.0004207913880236447,
+    "gradient_finite": true,
+    "gradient_norm": 0.007172815967351198,
+    "parameter_update_l1": 13.622083406895399,
+    "cuda": true,
+    "wait_ms": 315.89239998720586,
+    "transfer_ms": 0.8477000519633293,
+    "compute_ms": 27.891800040379167,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 23,
+    "source": "datasets/U3D/lowlight/train/0496.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0496.jpg",
+      "initial_xywh": [
+        3425,
+        407,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3425,
+        407,
+        256,
+        256
+      ],
+      "step": 23
+    },
+    "total": 0.013227478601038456,
+    "RD": 0.012685319408774376,
+    "VS": 0.0005421589012257755,
+    "gradient_finite": true,
+    "gradient_norm": 0.043027766048908234,
+    "parameter_update_l1": 13.773597912862897,
+    "cuda": true,
+    "wait_ms": 325.84239984862506,
+    "transfer_ms": 1.04160001501441,
+    "compute_ms": 27.487599989399314,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 24,
+    "source": "datasets/U3D/lowlight/train/0351.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0351.jpg",
+      "initial_xywh": [
+        314,
+        524,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        314,
+        524,
+        256,
+        256
+      ],
+      "step": 24
+    },
+    "total": 0.014857491478323936,
+    "RD": 0.014160974882543087,
+    "VS": 0.0006965165957808495,
+    "gradient_finite": true,
+    "gradient_norm": 0.00791360717266798,
+    "parameter_update_l1": 13.00770641490817,
+    "cuda": true,
+    "wait_ms": 329.9122001044452,
+    "transfer_ms": 0.9927998762577772,
+    "compute_ms": 29.646600130945444,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 25,
+    "source": "datasets/U3D/lowlight/train/0447.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0447.jpg",
+      "initial_xywh": [
+        3535,
+        696,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3535,
+        696,
+        256,
+        256
+      ],
+      "step": 25
+    },
+    "total": 0.0015307074645534158,
+    "RD": 0.000705586455296725,
+    "VS": 0.0008251210092566907,
+    "gradient_finite": true,
+    "gradient_norm": 0.013078844174742699,
+    "parameter_update_l1": 11.966382266953588,
+    "cuda": true,
+    "wait_ms": 348.1715000234544,
+    "transfer_ms": 0.6846000906080008,
+    "compute_ms": 29.681900050491095,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 26,
+    "source": "datasets/U3D/lowlight/train/0256.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0256.jpg",
+      "initial_xywh": [
+        2212,
+        1183,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2212,
+        1183,
+        256,
+        256
+      ],
+      "step": 26
+    },
+    "total": 0.004049394279718399,
+    "RD": 0.0030822991393506527,
+    "VS": 0.0009670953149907291,
+    "gradient_finite": true,
+    "gradient_norm": 0.01709376648068428,
+    "parameter_update_l1": 10.940494205802679,
+    "cuda": true,
+    "wait_ms": 331.6732000093907,
+    "transfer_ms": 0.5546999163925648,
+    "compute_ms": 35.02029995433986,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 27,
+    "source": "datasets/U3D/lowlight/train/0070.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0070.jpg",
+      "initial_xywh": [
+        1233,
+        1782,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1233,
+        1782,
+        256,
+        256
+      ],
+      "step": 27
+    },
+    "total": 0.012076838873326778,
+    "RD": 0.011065566912293434,
+    "VS": 0.0010112716117873788,
+    "gradient_finite": true,
+    "gradient_norm": 0.04296470433473587,
+    "parameter_update_l1": 9.539378982968628,
+    "cuda": true,
+    "wait_ms": 330.7740001473576,
+    "transfer_ms": 0.7111998274922371,
+    "compute_ms": 26.45880007185042,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 28,
+    "source": "datasets/U3D/lowlight/train/0096.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0096.jpg",
+      "initial_xywh": [
+        2087,
+        225,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2087,
+        225,
+        256,
+        256
+      ],
+      "step": 28
+    },
+    "total": 0.0158162210136652,
+    "RD": 0.014820970594882965,
+    "VS": 0.0009952511172741652,
+    "gradient_finite": true,
+    "gradient_norm": 0.027930881828069687,
+    "parameter_update_l1": 9.159601545892656,
+    "cuda": true,
+    "wait_ms": 338.7150999624282,
+    "transfer_ms": 0.8937001693993807,
+    "compute_ms": 30.881799990311265,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 29,
+    "source": "datasets/U3D/lowlight/train/0450.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0450.jpg",
+      "initial_xywh": [
+        300,
+        1077,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        300,
+        1077,
+        256,
+        256
+      ],
+      "step": 29
+    },
+    "total": 0.00756999384611845,
+    "RD": 0.006541936658322811,
+    "VS": 0.0010280569549649954,
+    "gradient_finite": true,
+    "gradient_norm": 0.016099192202091217,
+    "parameter_update_l1": 8.663423201069236,
+    "cuda": true,
+    "wait_ms": 449.02219995856285,
+    "transfer_ms": 0.712099950760603,
+    "compute_ms": 30.61109990812838,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 30,
+    "source": "datasets/U3D/lowlight/train/0075.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0075.jpg",
+      "initial_xywh": [
+        2088,
+        254,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2088,
+        254,
+        256,
+        256
+      ],
+      "step": 30
+    },
+    "total": 0.007455436512827873,
+    "RD": 0.006473647430539131,
+    "VS": 0.0009817893151193857,
+    "gradient_finite": true,
+    "gradient_norm": 0.024340609088540077,
+    "parameter_update_l1": 8.697367222048342,
+    "cuda": true,
+    "wait_ms": 383.11380008235574,
+    "transfer_ms": 0.680800061672926,
+    "compute_ms": 26.994500076398253,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 31,
+    "source": "datasets/U3D/lowlight/train/0010.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0010.jpg",
+      "initial_xywh": [
+        3270,
+        898,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3270,
+        898,
+        256,
+        256
+      ],
+      "step": 31
+    },
+    "total": 0.012077522464096546,
+    "RD": 0.011162644252181053,
+    "VS": 0.0009148779208771884,
+    "gradient_finite": true,
+    "gradient_norm": 0.0107804536819458,
+    "parameter_update_l1": 8.583859218284488,
+    "cuda": true,
+    "wait_ms": 330.48779983073473,
+    "transfer_ms": 0.5284999497234821,
+    "compute_ms": 26.548099936917424,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 32,
+    "source": "datasets/U3D/lowlight/train/0793.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0793.jpg",
+      "initial_xywh": [
+        2147,
+        888,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2147,
+        888,
+        256,
+        256
+      ],
+      "step": 32
+    },
+    "total": 0.022859901189804077,
+    "RD": 0.02204885706305504,
+    "VS": 0.0008110442431643605,
+    "gradient_finite": true,
+    "gradient_norm": 0.02654566802084446,
+    "parameter_update_l1": 8.423448196612298,
+    "cuda": true,
+    "wait_ms": 349.33839994482696,
+    "transfer_ms": 0.8592000231146812,
+    "compute_ms": 29.89730006083846,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 33,
+    "source": "datasets/U3D/lowlight/train/0586.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0586.jpg",
+      "initial_xywh": [
+        1357,
+        217,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1357,
+        217,
+        256,
+        256
+      ],
+      "step": 33
+    },
+    "total": 0.0008635276462882757,
+    "RD": 0.00014006119454279542,
+    "VS": 0.0007234664517454803,
+    "gradient_finite": true,
+    "gradient_norm": 0.012081959284842014,
+    "parameter_update_l1": 8.138903202489018,
+    "cuda": true,
+    "wait_ms": 369.4287999533117,
+    "transfer_ms": 0.6585000082850456,
+    "compute_ms": 28.131699888035655,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 34,
+    "source": "datasets/U3D/lowlight/train/0458.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0458.jpg",
+      "initial_xywh": [
+        494,
+        1640,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        494,
+        1640,
+        256,
+        256
+      ],
+      "step": 34
+    },
+    "total": 0.0006950121023692191,
+    "RD": 4.7980276576709e-05,
+    "VS": 0.0006470318185165524,
+    "gradient_finite": true,
+    "gradient_norm": 0.010850650258362293,
+    "parameter_update_l1": 8.04647761117667,
+    "cuda": true,
+    "wait_ms": 382.91039993055165,
+    "transfer_ms": 1.039800001308322,
+    "compute_ms": 30.306100146844983,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 35,
+    "source": "datasets/U3D/lowlight/train/0630.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0630.jpg",
+      "initial_xywh": [
+        2422,
+        1612,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2422,
+        1612,
+        256,
+        256
+      ],
+      "step": 35
+    },
+    "total": 0.007281176745891571,
+    "RD": 0.006725135259330273,
+    "VS": 0.0005560414865612984,
+    "gradient_finite": true,
+    "gradient_norm": 0.0031008035875856876,
+    "parameter_update_l1": 7.765190201811492,
+    "cuda": true,
+    "wait_ms": 374.5369999669492,
+    "transfer_ms": 0.8596000261604786,
+    "compute_ms": 34.028499852865934,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 36,
+    "source": "datasets/U3D/lowlight/train/0362.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0362.jpg",
+      "initial_xywh": [
+        3053,
+        1298,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3053,
+        1298,
+        256,
+        256
+      ],
+      "step": 36
+    },
+    "total": 0.0005476134829223156,
+    "RD": 5.9650439652614295e-05,
+    "VS": 0.00048796305782161653,
+    "gradient_finite": true,
+    "gradient_norm": 0.00836491584777832,
+    "parameter_update_l1": 7.535498186014593,
+    "cuda": true,
+    "wait_ms": 401.2444999534637,
+    "transfer_ms": 1.559099880978465,
+    "compute_ms": 34.10899988375604,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 37,
+    "source": "datasets/U3D/lowlight/train/0700.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0700.jpg",
+      "initial_xywh": [
+        169,
+        886,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        169,
+        886,
+        256,
+        256
+      ],
+      "step": 37
+    },
+    "total": 0.002480989322066307,
+    "RD": 0.0020693778060376644,
+    "VS": 0.0004116116324439645,
+    "gradient_finite": true,
+    "gradient_norm": 0.013421222567558289,
+    "parameter_update_l1": 7.552538238465786,
+    "cuda": true,
+    "wait_ms": 443.7365001067519,
+    "transfer_ms": 1.2558000162243843,
+    "compute_ms": 30.329100089147687,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 38,
+    "source": "datasets/U3D/lowlight/train/0022.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0022.jpg",
+      "initial_xywh": [
+        1102,
+        236,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1102,
+        236,
+        256,
+        256
+      ],
+      "step": 38
+    },
+    "total": 0.06489388644695282,
+    "RD": 0.0645734891295433,
+    "VS": 0.0003203956293873489,
+    "gradient_finite": true,
+    "gradient_norm": 0.27203169465065,
+    "parameter_update_l1": 7.747380473650992,
+    "cuda": true,
+    "wait_ms": 413.5835999622941,
+    "transfer_ms": 0.7165998686105013,
+    "compute_ms": 28.63039984367788,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 39,
+    "source": "datasets/U3D/lowlight/train/0539.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0539.jpg",
+      "initial_xywh": [
+        1763,
+        1238,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1763,
+        1238,
+        256,
+        256
+      ],
+      "step": 39
+    },
+    "total": 0.20329664647579193,
+    "RD": 0.2029607594013214,
+    "VS": 0.00033588468795642257,
+    "gradient_finite": true,
+    "gradient_norm": 0.7875259518623352,
+    "parameter_update_l1": 9.31934087537229,
+    "cuda": true,
+    "wait_ms": 390.68469987250865,
+    "transfer_ms": 0.782000133767724,
+    "compute_ms": 28.631600085645914,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 40,
+    "source": "datasets/U3D/lowlight/train/0023.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0023.jpg",
+      "initial_xywh": [
+        1663,
+        954,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1663,
+        954,
+        256,
+        256
+      ],
+      "step": 40
+    },
+    "total": 0.011914381757378578,
+    "RD": 0.011529672890901566,
+    "VS": 0.00038470927393063903,
+    "gradient_finite": true,
+    "gradient_norm": 0.03434884920716286,
+    "parameter_update_l1": 8.55001262202859,
+    "cuda": true,
+    "wait_ms": 417.9626000113785,
+    "transfer_ms": 0.730500090867281,
+    "compute_ms": 29.023299925029278,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 41,
+    "source": "datasets/U3D/lowlight/train/0720.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0720.jpg",
+      "initial_xywh": [
+        3542,
+        528,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3542,
+        528,
+        256,
+        256
+      ],
+      "step": 41
+    },
+    "total": 0.0008526049787178636,
+    "RD": 0.00046855848631821573,
+    "VS": 0.0003840465215034783,
+    "gradient_finite": true,
+    "gradient_norm": 0.007846573367714882,
+    "parameter_update_l1": 7.918147512711585,
+    "cuda": true,
+    "wait_ms": 362.32740012928843,
+    "transfer_ms": 0.6510999519377947,
+    "compute_ms": 30.880500096827745,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 42,
+    "source": "datasets/U3D/lowlight/train/0609.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0609.jpg",
+      "initial_xywh": [
+        313,
+        1372,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        313,
+        1372,
+        256,
+        256
+      ],
+      "step": 42
+    },
+    "total": 0.0006187498802319169,
+    "RD": 0.0002481580595485866,
+    "VS": 0.0003705918206833303,
+    "gradient_finite": true,
+    "gradient_norm": 0.00706947548314929,
+    "parameter_update_l1": 7.403927085921168,
+    "cuda": true,
+    "wait_ms": 382.2697000578046,
+    "transfer_ms": 1.0672998614609241,
+    "compute_ms": 29.98869982548058,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 43,
+    "source": "datasets/U3D/lowlight/train/0356.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0356.jpg",
+      "initial_xywh": [
+        1200,
+        1638,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1200,
+        1638,
+        256,
+        256
+      ],
+      "step": 43
+    },
+    "total": 0.005038482137024403,
+    "RD": 0.004536100663244724,
+    "VS": 0.000502381706610322,
+    "gradient_finite": true,
+    "gradient_norm": 0.018407179042696953,
+    "parameter_update_l1": 6.996620615012944,
+    "cuda": true,
+    "wait_ms": 387.71039992570877,
+    "transfer_ms": 0.9761999826878309,
+    "compute_ms": 30.27540002949536,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 44,
+    "source": "datasets/U3D/lowlight/train/0093.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0093.jpg",
+      "initial_xywh": [
+        2774,
+        841,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2774,
+        841,
+        256,
+        256
+      ],
+      "step": 44
+    },
+    "total": 0.0016335205873474479,
+    "RD": 0.0012901779264211655,
+    "VS": 0.0003433426609262824,
+    "gradient_finite": true,
+    "gradient_norm": 0.010569164529442787,
+    "parameter_update_l1": 6.5902456268668175,
+    "cuda": true,
+    "wait_ms": 391.4457999635488,
+    "transfer_ms": 0.8876998908817768,
+    "compute_ms": 31.67659998871386,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 45,
+    "source": "datasets/U3D/lowlight/train/0703.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0703.jpg",
+      "initial_xywh": [
+        916,
+        165,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        916,
+        165,
+        256,
+        256
+      ],
+      "step": 45
+    },
+    "total": 0.03096785396337509,
+    "RD": 0.02995574101805687,
+    "VS": 0.001012112945318222,
+    "gradient_finite": true,
+    "gradient_norm": 0.14000695943832397,
+    "parameter_update_l1": 6.537073943763971,
+    "cuda": true,
+    "wait_ms": 408.41969987377524,
+    "transfer_ms": 0.8936000522226095,
+    "compute_ms": 30.6895999237895,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 46,
+    "source": "datasets/U3D/lowlight/train/0619.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0619.jpg",
+      "initial_xywh": [
+        1149,
+        986,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1149,
+        986,
+        256,
+        256
+      ],
+      "step": 46
+    },
+    "total": 0.13961659371852875,
+    "RD": 0.13813188672065735,
+    "VS": 0.0014847053680568933,
+    "gradient_finite": true,
+    "gradient_norm": 0.8798646330833435,
+    "parameter_update_l1": 8.021590053103864,
+    "cuda": true,
+    "wait_ms": 378.9528999477625,
+    "transfer_ms": 0.6575998850166798,
+    "compute_ms": 30.754599953070283,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 47,
+    "source": "datasets/U3D/lowlight/train/0055.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0055.jpg",
+      "initial_xywh": [
+        3481,
+        596,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3481,
+        596,
+        256,
+        256
+      ],
+      "step": 47
+    },
+    "total": 0.03210935369133949,
+    "RD": 0.029231294989585876,
+    "VS": 0.002878057537600398,
+    "gradient_finite": true,
+    "gradient_norm": 0.14962400496006012,
+    "parameter_update_l1": 8.103265188634396,
+    "cuda": true,
+    "wait_ms": 389.67250008136034,
+    "transfer_ms": 0.5759999621659517,
+    "compute_ms": 28.06919999420643,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 48,
+    "source": "datasets/U3D/lowlight/train/0220.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0220.jpg",
+      "initial_xywh": [
+        1550,
+        803,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1550,
+        803,
+        256,
+        256
+      ],
+      "step": 48
+    },
+    "total": 0.008105555549263954,
+    "RD": 0.007285458501428366,
+    "VS": 0.0008200975134968758,
+    "gradient_finite": true,
+    "gradient_norm": 0.02563823200762272,
+    "parameter_update_l1": 7.508658040314913,
+    "cuda": true,
+    "wait_ms": 406.3103999942541,
+    "transfer_ms": 0.910499831661582,
+    "compute_ms": 28.952699853107333,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 49,
+    "source": "datasets/U3D/lowlight/train/0773.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0773.jpg",
+      "initial_xywh": [
+        2168,
+        1083,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2168,
+        1083,
+        256,
+        256
+      ],
+      "step": 49
+    },
+    "total": 0.04659145697951317,
+    "RD": 0.04497120529413223,
+    "VS": 0.0016202509868890047,
+    "gradient_finite": true,
+    "gradient_norm": 0.4779234528541565,
+    "parameter_update_l1": 8.538694867864251,
+    "cuda": true,
+    "wait_ms": 420.98170006647706,
+    "transfer_ms": 1.438699895516038,
+    "compute_ms": 33.97480002604425,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 50,
+    "source": "datasets/U3D/lowlight/train/0209.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0209.jpg",
+      "initial_xywh": [
+        2961,
+        5,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2961,
+        5,
+        256,
+        256
+      ],
+      "step": 50
+    },
+    "total": 0.008328234776854515,
+    "RD": 0.0075174495577812195,
+    "VS": 0.0008107848698273301,
+    "gradient_finite": true,
+    "gradient_norm": 0.034289661794900894,
+    "parameter_update_l1": 7.541648767888546,
+    "cuda": true,
+    "wait_ms": 383.0655999481678,
+    "transfer_ms": 0.7615000940859318,
+    "compute_ms": 28.14620011486113,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 51,
+    "source": "datasets/U3D/lowlight/train/0328.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0328.jpg",
+      "initial_xywh": [
+        622,
+        1496,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        622,
+        1496,
+        256,
+        256
+      ],
+      "step": 51
+    },
+    "total": 0.051133617758750916,
+    "RD": 0.04937663674354553,
+    "VS": 0.001756981830112636,
+    "gradient_finite": true,
+    "gradient_norm": 0.0933341234922409,
+    "parameter_update_l1": 7.546384459361434,
+    "cuda": true,
+    "wait_ms": 423.98100020363927,
+    "transfer_ms": 0.6855998653918505,
+    "compute_ms": 27.37569995224476,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 52,
+    "source": "datasets/U3D/lowlight/train/0548.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0548.jpg",
+      "initial_xywh": [
+        42,
+        173,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        42,
+        173,
+        256,
+        256
+      ],
+      "step": 52
+    },
+    "total": 0.0007287200423888862,
+    "RD": 5.070323823019862e-05,
+    "VS": 0.0006780168041586876,
+    "gradient_finite": true,
+    "gradient_norm": 0.014852918684482574,
+    "parameter_update_l1": 6.986856169998646,
+    "cuda": true,
+    "wait_ms": 422.63969988562167,
+    "transfer_ms": 0.7235000375658274,
+    "compute_ms": 27.514500077813864,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 53,
+    "source": "datasets/U3D/lowlight/train/0732.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0732.jpg",
+      "initial_xywh": [
+        2547,
+        1595,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2547,
+        1595,
+        256,
+        256
+      ],
+      "step": 53
+    },
+    "total": 0.010932272300124168,
+    "RD": 0.01035300549119711,
+    "VS": 0.000579266925342381,
+    "gradient_finite": true,
+    "gradient_norm": 0.05926096811890602,
+    "parameter_update_l1": 6.334280353039503,
+    "cuda": true,
+    "wait_ms": 432.10229999385774,
+    "transfer_ms": 0.7869000546634197,
+    "compute_ms": 35.44909995980561,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 54,
+    "source": "datasets/U3D/lowlight/train/0728.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0728.jpg",
+      "initial_xywh": [
+        410,
+        1144,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        410,
+        1144,
+        256,
+        256
+      ],
+      "step": 54
+    },
+    "total": 0.04431113600730896,
+    "RD": 0.043779559433460236,
+    "VS": 0.0005315776797942817,
+    "gradient_finite": true,
+    "gradient_norm": 0.0699971467256546,
+    "parameter_update_l1": 5.902702949941158,
+    "cuda": true,
+    "wait_ms": 431.30819988436997,
+    "transfer_ms": 0.6812999490648508,
+    "compute_ms": 30.419599963352084,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 55,
+    "source": "datasets/U3D/lowlight/train/0573.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0573.jpg",
+      "initial_xywh": [
+        3581,
+        1898,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3581,
+        1898,
+        256,
+        256
+      ],
+      "step": 55
+    },
+    "total": 0.01538251806050539,
+    "RD": 0.014931644313037395,
+    "VS": 0.00045087392209097743,
+    "gradient_finite": true,
+    "gradient_norm": 0.013127950951457024,
+    "parameter_update_l1": 5.540956661105156,
+    "cuda": true,
+    "wait_ms": 417.9723998531699,
+    "transfer_ms": 0.5615998525172472,
+    "compute_ms": 28.987899888306856,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 56,
+    "source": "datasets/U3D/lowlight/train/0596.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0596.jpg",
+      "initial_xywh": [
+        2532,
+        808,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2532,
+        808,
+        256,
+        256
+      ],
+      "step": 56
+    },
+    "total": 0.002805054886266589,
+    "RD": 0.0023965395521372557,
+    "VS": 0.00040851542144082487,
+    "gradient_finite": true,
+    "gradient_norm": 0.010935526341199875,
+    "parameter_update_l1": 5.233337204903364,
+    "cuda": true,
+    "wait_ms": 369.4849000312388,
+    "transfer_ms": 0.5646999925374985,
+    "compute_ms": 30.78919998370111,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 57,
+    "source": "datasets/U3D/lowlight/train/0509.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0509.jpg",
+      "initial_xywh": [
+        177,
+        271,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        177,
+        271,
+        256,
+        256
+      ],
+      "step": 57
+    },
+    "total": 0.006557336542755365,
+    "RD": 0.006184346508234739,
+    "VS": 0.000372990092728287,
+    "gradient_finite": true,
+    "gradient_norm": 0.0183268990367651,
+    "parameter_update_l1": 4.984755974262953,
+    "cuda": true,
+    "wait_ms": 406.9119000341743,
+    "transfer_ms": 1.1762999929487705,
+    "compute_ms": 28.993899933993816,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 58,
+    "source": "datasets/U3D/lowlight/train/0401.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0401.jpg",
+      "initial_xywh": [
+        1790,
+        922,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1790,
+        922,
+        256,
+        256
+      ],
+      "step": 58
+    },
+    "total": 0.05880187451839447,
+    "RD": 0.058091696351766586,
+    "VS": 0.0007101782830432057,
+    "gradient_finite": true,
+    "gradient_norm": 0.4021667242050171,
+    "parameter_update_l1": 5.689993839710951,
+    "cuda": true,
+    "wait_ms": 371.70210015028715,
+    "transfer_ms": 0.7376999128609896,
+    "compute_ms": 30.26749985292554,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 59,
+    "source": "datasets/U3D/lowlight/train/0736.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0736.jpg",
+      "initial_xywh": [
+        118,
+        577,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        118,
+        577,
+        256,
+        256
+      ],
+      "step": 59
+    },
+    "total": 0.038721032440662384,
+    "RD": 0.03785422444343567,
+    "VS": 0.0008668063092045486,
+    "gradient_finite": true,
+    "gradient_norm": 0.22171708941459656,
+    "parameter_update_l1": 7.068318358622491,
+    "cuda": true,
+    "wait_ms": 439.53280011191964,
+    "transfer_ms": 0.6396998651325703,
+    "compute_ms": 30.99469980224967,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 60,
+    "source": "datasets/U3D/lowlight/train/0519.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0519.jpg",
+      "initial_xywh": [
+        298,
+        678,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        298,
+        678,
+        256,
+        256
+      ],
+      "step": 60
+    },
+    "total": 0.015260324813425541,
+    "RD": 0.014646424911916256,
+    "VS": 0.0006138995522633195,
+    "gradient_finite": true,
+    "gradient_norm": 0.06313159316778183,
+    "parameter_update_l1": 5.9597660368308425,
+    "cuda": true,
+    "wait_ms": 455.3466001525521,
+    "transfer_ms": 0.668700085952878,
+    "compute_ms": 29.72860005684197,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 61,
+    "source": "datasets/U3D/lowlight/train/0453.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0453.jpg",
+      "initial_xywh": [
+        1863,
+        958,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1863,
+        958,
+        256,
+        256
+      ],
+      "step": 61
+    },
+    "total": 0.01764095574617386,
+    "RD": 0.016835158690810204,
+    "VS": 0.0008057967061176896,
+    "gradient_finite": true,
+    "gradient_norm": 0.052116237580776215,
+    "parameter_update_l1": 5.646184278652072,
+    "cuda": true,
+    "wait_ms": 408.15460006706417,
+    "transfer_ms": 0.7059001363813877,
+    "compute_ms": 30.985699966549873,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 62,
+    "source": "datasets/U3D/lowlight/train/0182.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0182.jpg",
+      "initial_xywh": [
+        1614,
+        542,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1614,
+        542,
+        256,
+        256
+      ],
+      "step": 62
+    },
+    "total": 0.0011470147874206305,
+    "RD": 0.0006551670376211405,
+    "VS": 0.0004918478080071509,
+    "gradient_finite": true,
+    "gradient_norm": 0.013902418315410614,
+    "parameter_update_l1": 5.230938918888569,
+    "cuda": true,
+    "wait_ms": 410.53650015965104,
+    "transfer_ms": 0.7208001334220171,
+    "compute_ms": 28.560500126332045,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 63,
+    "source": "datasets/U3D/lowlight/train/0372.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0372.jpg",
+      "initial_xywh": [
+        125,
+        725,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        125,
+        725,
+        256,
+        256
+      ],
+      "step": 63
+    },
+    "total": 0.0004978739307262003,
+    "RD": 3.6785581869480666e-06,
+    "VS": 0.0004941953811794519,
+    "gradient_finite": true,
+    "gradient_norm": 0.012208362109959126,
+    "parameter_update_l1": 4.884531083516777,
+    "cuda": true,
+    "wait_ms": 360.2936000097543,
+    "transfer_ms": 0.897600082680583,
+    "compute_ms": 27.52509992569685,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 64,
+    "source": "datasets/U3D/lowlight/train/0128.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0128.jpg",
+      "initial_xywh": [
+        1639,
+        1406,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1639,
+        1406,
+        256,
+        256
+      ],
+      "step": 64
+    },
+    "total": 0.014490681700408459,
+    "RD": 0.013969294726848602,
+    "VS": 0.0005213867407292128,
+    "gradient_finite": true,
+    "gradient_norm": 0.09075392782688141,
+    "parameter_update_l1": 6.193268669769168,
+    "cuda": true,
+    "wait_ms": 346.9247999601066,
+    "transfer_ms": 0.564799876883626,
+    "compute_ms": 28.679799987003207,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 65,
+    "source": "datasets/U3D/lowlight/train/0246.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0246.jpg",
+      "initial_xywh": [
+        2700,
+        822,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2700,
+        822,
+        256,
+        256
+      ],
+      "step": 65
+    },
+    "total": 0.004521634895354509,
+    "RD": 0.004077061079442501,
+    "VS": 0.0004445740196388215,
+    "gradient_finite": true,
+    "gradient_norm": 0.021159937605261803,
+    "parameter_update_l1": 5.885419805068523,
+    "cuda": true,
+    "wait_ms": 374.0773000754416,
+    "transfer_ms": 0.6049000658094883,
+    "compute_ms": 28.95050006918609,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 66,
+    "source": "datasets/U3D/lowlight/train/0226.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0226.jpg",
+      "initial_xywh": [
+        1061,
+        1375,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1061,
+        1375,
+        256,
+        256
+      ],
+      "step": 66
+    },
+    "total": 0.15911245346069336,
+    "RD": 0.15805456042289734,
+    "VS": 0.0010578959481790662,
+    "gradient_finite": true,
+    "gradient_norm": 1.4741071462631226,
+    "parameter_update_l1": 4.787997817620635,
+    "cuda": true,
+    "wait_ms": 370.04159996286035,
+    "transfer_ms": 0.6649999413639307,
+    "compute_ms": 28.213900048285723,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 67,
+    "source": "datasets/U3D/lowlight/train/0007.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0007.jpg",
+      "initial_xywh": [
+        1775,
+        1390,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1775,
+        1390,
+        256,
+        256
+      ],
+      "step": 67
+    },
+    "total": 0.00047751987585797906,
+    "RD": 0.00026184445596300066,
+    "VS": 0.0002156754198949784,
+    "gradient_finite": true,
+    "gradient_norm": 0.006641763262450695,
+    "parameter_update_l1": 4.50645948946476,
+    "cuda": true,
+    "wait_ms": 427.62330011464655,
+    "transfer_ms": 0.7780999876558781,
+    "compute_ms": 28.16860005259514,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 68,
+    "source": "datasets/U3D/lowlight/train/0138.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0138.jpg",
+      "initial_xywh": [
+        2619,
+        1695,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2619,
+        1695,
+        256,
+        256
+      ],
+      "step": 68
+    },
+    "total": 0.0003109366516582668,
+    "RD": 0.0001515789917903021,
+    "VS": 0.0001593576744198799,
+    "gradient_finite": true,
+    "gradient_norm": 0.005315509624779224,
+    "parameter_update_l1": 4.234983816742897,
+    "cuda": true,
+    "wait_ms": 406.53699985705316,
+    "transfer_ms": 0.8507999591529369,
+    "compute_ms": 27.931599877774715,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 69,
+    "source": "datasets/U3D/lowlight/train/0772.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0772.jpg",
+      "initial_xywh": [
+        2901,
+        574,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2901,
+        574,
+        256,
+        256
+      ],
+      "step": 69
+    },
+    "total": 0.0001597782684257254,
+    "RD": 4.057229671161622e-05,
+    "VS": 0.00011920597171410918,
+    "gradient_finite": true,
+    "gradient_norm": 0.0040731243789196014,
+    "parameter_update_l1": 3.975315272808075,
+    "cuda": true,
+    "wait_ms": 367.0834000222385,
+    "transfer_ms": 0.583200016990304,
+    "compute_ms": 27.370600029826164,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 70,
+    "source": "datasets/U3D/lowlight/train/0320.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0320.jpg",
+      "initial_xywh": [
+        2582,
+        649,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2582,
+        649,
+        256,
+        256
+      ],
+      "step": 70
+    },
+    "total": 0.06462742388248444,
+    "RD": 0.0644727498292923,
+    "VS": 0.00015467722550965846,
+    "gradient_finite": true,
+    "gradient_norm": 0.13798147439956665,
+    "parameter_update_l1": 3.5056310230866075,
+    "cuda": true,
+    "wait_ms": 378.4803000744432,
+    "transfer_ms": 0.7827000226825476,
+    "compute_ms": 27.417700039222836,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 71,
+    "source": "datasets/U3D/lowlight/train/0337.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0337.jpg",
+      "initial_xywh": [
+        20,
+        1326,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        20,
+        1326,
+        256,
+        256
+      ],
+      "step": 71
+    },
+    "total": 0.007825329899787903,
+    "RD": 0.007677971385419369,
+    "VS": 0.0001473586744396016,
+    "gradient_finite": true,
+    "gradient_norm": 0.0044562541879713535,
+    "parameter_update_l1": 3.2970735765993595,
+    "cuda": true,
+    "wait_ms": 382.4237999506295,
+    "transfer_ms": 1.098200213164091,
+    "compute_ms": 29.070899821817875,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 72,
+    "source": "datasets/U3D/lowlight/train/0463.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0463.jpg",
+      "initial_xywh": [
+        462,
+        1654,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        462,
+        1654,
+        256,
+        256
+      ],
+      "step": 72
+    },
+    "total": 0.010534442961215973,
+    "RD": 0.010433429852128029,
+    "VS": 0.00010101310908794403,
+    "gradient_finite": true,
+    "gradient_norm": 0.020762862637639046,
+    "parameter_update_l1": 3.304614855442196,
+    "cuda": true,
+    "wait_ms": 434.3173000961542,
+    "transfer_ms": 0.5570999346673489,
+    "compute_ms": 33.87390007264912,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 73,
+    "source": "datasets/U3D/lowlight/train/0503.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0503.jpg",
+      "initial_xywh": [
+        2075,
+        924,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2075,
+        924,
+        256,
+        256
+      ],
+      "step": 73
+    },
+    "total": 0.31838950514793396,
+    "RD": 0.31764811277389526,
+    "VS": 0.0007413777057081461,
+    "gradient_finite": true,
+    "gradient_norm": 1.850741982460022,
+    "parameter_update_l1": 3.9165812777355313,
+    "cuda": true,
+    "wait_ms": 398.8420001696795,
+    "transfer_ms": 0.6082998588681221,
+    "compute_ms": 27.12840004824102,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 74,
+    "source": "datasets/U3D/lowlight/train/0288.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0288.jpg",
+      "initial_xywh": [
+        939,
+        5,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        939,
+        5,
+        256,
+        256
+      ],
+      "step": 74
+    },
+    "total": 0.04524458944797516,
+    "RD": 0.04500909894704819,
+    "VS": 0.00023548968601971865,
+    "gradient_finite": true,
+    "gradient_norm": 0.04704596474766731,
+    "parameter_update_l1": 3.495541783515364,
+    "cuda": true,
+    "wait_ms": 394.5104000158608,
+    "transfer_ms": 0.6339000537991524,
+    "compute_ms": 28.874299954622984,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 75,
+    "source": "datasets/U3D/lowlight/train/0029.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0029.jpg",
+      "initial_xywh": [
+        2564,
+        1027,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2564,
+        1027,
+        256,
+        256
+      ],
+      "step": 75
+    },
+    "total": 0.0064260344952344894,
+    "RD": 0.006308271549642086,
+    "VS": 0.00011776274186559021,
+    "gradient_finite": true,
+    "gradient_norm": 0.019343161955475807,
+    "parameter_update_l1": 3.101165158674121,
+    "cuda": true,
+    "wait_ms": 362.7108000218868,
+    "transfer_ms": 0.5471999756991863,
+    "compute_ms": 30.67969996482134,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 76,
+    "source": "datasets/U3D/lowlight/train/0243.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0243.jpg",
+      "initial_xywh": [
+        972,
+        1885,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        972,
+        1885,
+        256,
+        256
+      ],
+      "step": 76
+    },
+    "total": 0.03289195895195007,
+    "RD": 0.03272164985537529,
+    "VS": 0.00017030962044373155,
+    "gradient_finite": true,
+    "gradient_norm": 0.030779069289565086,
+    "parameter_update_l1": 2.846832369454205,
+    "cuda": true,
+    "wait_ms": 360.9478999860585,
+    "transfer_ms": 0.5892999470233917,
+    "compute_ms": 27.507000137120485,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 77,
+    "source": "datasets/U3D/lowlight/train/0190.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0190.jpg",
+      "initial_xywh": [
+        1693,
+        1643,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1693,
+        1643,
+        256,
+        256
+      ],
+      "step": 77
+    },
+    "total": 0.22427532076835632,
+    "RD": 0.22402188181877136,
+    "VS": 0.0002534409868530929,
+    "gradient_finite": true,
+    "gradient_norm": 2.210059642791748,
+    "parameter_update_l1": 4.327467015944421,
+    "cuda": true,
+    "wait_ms": 364.9939000606537,
+    "transfer_ms": 0.6790000479668379,
+    "compute_ms": 27.524700155481696,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 78,
+    "source": "datasets/U3D/lowlight/train/0031.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0031.jpg",
+      "initial_xywh": [
+        2230,
+        208,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2230,
+        208,
+        256,
+        256
+      ],
+      "step": 78
+    },
+    "total": 0.012129549868404865,
+    "RD": 0.012019550427794456,
+    "VS": 0.00010999917139997706,
+    "gradient_finite": true,
+    "gradient_norm": 0.02475874312222004,
+    "parameter_update_l1": 3.8325597504153848,
+    "cuda": true,
+    "wait_ms": 394.7372999973595,
+    "transfer_ms": 0.61039999127388,
+    "compute_ms": 28.736299835145473,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 79,
+    "source": "datasets/U3D/lowlight/train/0298.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0298.jpg",
+      "initial_xywh": [
+        1256,
+        1713,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1256,
+        1713,
+        256,
+        256
+      ],
+      "step": 79
+    },
+    "total": 0.00016842596232891083,
+    "RD": 8.02445865701884e-05,
+    "VS": 8.818136848276481e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.003936227411031723,
+    "parameter_update_l1": 3.5944306990131736,
+    "cuda": true,
+    "wait_ms": 368.1908999569714,
+    "transfer_ms": 0.5369000136852264,
+    "compute_ms": 33.96900021471083,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 80,
+    "source": "datasets/U3D/lowlight/train/0771.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0771.jpg",
+      "initial_xywh": [
+        2793,
+        1630,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2793,
+        1630,
+        256,
+        256
+      ],
+      "step": 80
+    },
+    "total": 0.09150982648134232,
+    "RD": 0.09142192453145981,
+    "VS": 8.789914136286825e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.8232389688491821,
+    "parameter_update_l1": 3.3739936691708863,
+    "cuda": true,
+    "wait_ms": 398.6204999964684,
+    "transfer_ms": 0.911500072106719,
+    "compute_ms": 32.71489986218512,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 81,
+    "source": "datasets/U3D/lowlight/train/0349.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0349.jpg",
+      "initial_xywh": [
+        2998,
+        1818,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2998,
+        1818,
+        256,
+        256
+      ],
+      "step": 81
+    },
+    "total": 0.02905586175620556,
+    "RD": 0.02897089347243309,
+    "VS": 8.496880764141679e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.094521664083004,
+    "parameter_update_l1": 3.8613532348535955,
+    "cuda": true,
+    "wait_ms": 366.7168999090791,
+    "transfer_ms": 0.6506999488919973,
+    "compute_ms": 30.369099928066134,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 82,
+    "source": "datasets/U3D/lowlight/train/0385.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0385.jpg",
+      "initial_xywh": [
+        1508,
+        1676,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1508,
+        1676,
+        256,
+        256
+      ],
+      "step": 82
+    },
+    "total": 0.03390563279390335,
+    "RD": 0.033808253705501556,
+    "VS": 9.737730579217896e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.019135553389787674,
+    "parameter_update_l1": 3.9060731986537576,
+    "cuda": true,
+    "wait_ms": 392.9649000056088,
+    "transfer_ms": 0.7009000983089209,
+    "compute_ms": 26.47939999587834,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 83,
+    "source": "datasets/U3D/lowlight/train/0162.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0162.jpg",
+      "initial_xywh": [
+        1964,
+        1868,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1964,
+        1868,
+        256,
+        256
+      ],
+      "step": 83
+    },
+    "total": 0.0164529737085104,
+    "RD": 0.016346076503396034,
+    "VS": 0.0001068970886990428,
+    "gradient_finite": true,
+    "gradient_norm": 0.03229072690010071,
+    "parameter_update_l1": 3.555860299617052,
+    "cuda": true,
+    "wait_ms": 346.5909000951797,
+    "transfer_ms": 0.7186001166701317,
+    "compute_ms": 27.218000032007694,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 84,
+    "source": "datasets/U3D/lowlight/train/0360.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0360.jpg",
+      "initial_xywh": [
+        1260,
+        1827,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1260,
+        1827,
+        256,
+        256
+      ],
+      "step": 84
+    },
+    "total": 0.0004289511707611382,
+    "RD": 0.0003058154252357781,
+    "VS": 0.00012313576007727534,
+    "gradient_finite": true,
+    "gradient_norm": 0.004936065059155226,
+    "parameter_update_l1": 3.3008408402092755,
+    "cuda": true,
+    "wait_ms": 365.2001000009477,
+    "transfer_ms": 0.6572999991476536,
+    "compute_ms": 27.518999995663762,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 85,
+    "source": "datasets/U3D/lowlight/train/0524.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0524.jpg",
+      "initial_xywh": [
+        1649,
+        1701,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1649,
+        1701,
+        256,
+        256
+      ],
+      "step": 85
+    },
+    "total": 0.23343028128147125,
+    "RD": 0.23331224918365479,
+    "VS": 0.00011803349480032921,
+    "gradient_finite": true,
+    "gradient_norm": 2.937840461730957,
+    "parameter_update_l1": 2.9625881160609424,
+    "cuda": true,
+    "wait_ms": 396.33679995313287,
+    "transfer_ms": 0.9552000556141138,
+    "compute_ms": 26.683699805289507,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 86,
+    "source": "datasets/U3D/lowlight/train/0713.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0713.jpg",
+      "initial_xywh": [
+        1137,
+        1630,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1137,
+        1630,
+        256,
+        256
+      ],
+      "step": 86
+    },
+    "total": 0.0037047648802399635,
+    "RD": 0.003568097949028015,
+    "VS": 0.00013666691666003317,
+    "gradient_finite": true,
+    "gradient_norm": 0.02240831032395363,
+    "parameter_update_l1": 2.719682765658945,
+    "cuda": true,
+    "wait_ms": 381.05189986526966,
+    "transfer_ms": 0.9783001150935888,
+    "compute_ms": 28.186699841171503,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 87,
+    "source": "datasets/U3D/lowlight/train/0530.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0530.jpg",
+      "initial_xywh": [
+        493,
+        289,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        493,
+        289,
+        256,
+        256
+      ],
+      "step": 87
+    },
+    "total": 0.02968503348529339,
+    "RD": 0.029537275433540344,
+    "VS": 0.0001477581390645355,
+    "gradient_finite": true,
+    "gradient_norm": 0.0857815369963646,
+    "parameter_update_l1": 3.6788195366971195,
+    "cuda": true,
+    "wait_ms": 413.161100121215,
+    "transfer_ms": 0.7928998675197363,
+    "compute_ms": 27.131599839776754,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 88,
+    "source": "datasets/U3D/lowlight/train/0590.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0590.jpg",
+      "initial_xywh": [
+        864,
+        178,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        864,
+        178,
+        256,
+        256
+      ],
+      "step": 88
+    },
+    "total": 0.0012821417767554522,
+    "RD": 0.0011510279728099704,
+    "VS": 0.00013111384760122746,
+    "gradient_finite": true,
+    "gradient_norm": 0.006533003877848387,
+    "parameter_update_l1": 3.459011916536838,
+    "cuda": true,
+    "wait_ms": 397.1814999822527,
+    "transfer_ms": 0.6428000051528215,
+    "compute_ms": 27.58160000666976,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 89,
+    "source": "datasets/U3D/lowlight/train/0336.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0336.jpg",
+      "initial_xywh": [
+        3311,
+        49,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3311,
+        49,
+        256,
+        256
+      ],
+      "step": 89
+    },
+    "total": 0.005219476297497749,
+    "RD": 0.005088518373668194,
+    "VS": 0.00013095777831040323,
+    "gradient_finite": true,
+    "gradient_norm": 0.01745489425957203,
+    "parameter_update_l1": 3.41547891497612,
+    "cuda": true,
+    "wait_ms": 414.3869001418352,
+    "transfer_ms": 0.7236001547425985,
+    "compute_ms": 29.504999984055758,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 90,
+    "source": "datasets/U3D/lowlight/train/0575.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0575.jpg",
+      "initial_xywh": [
+        2904,
+        1708,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2904,
+        1708,
+        256,
+        256
+      ],
+      "step": 90
+    },
+    "total": 0.011881966143846512,
+    "RD": 0.01172871794551611,
+    "VS": 0.00015324834384955466,
+    "gradient_finite": true,
+    "gradient_norm": 0.004377513658255339,
+    "parameter_update_l1": 3.2756737116724253,
+    "cuda": true,
+    "wait_ms": 375.8866998832673,
+    "transfer_ms": 0.8388999849557877,
+    "compute_ms": 29.501100070774555,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 91,
+    "source": "datasets/U3D/lowlight/train/0438.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0438.jpg",
+      "initial_xywh": [
+        2943,
+        1767,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2943,
+        1767,
+        256,
+        256
+      ],
+      "step": 91
+    },
+    "total": 0.00011724255455192178,
+    "RD": 1.0250016202917323e-05,
+    "VS": 0.00010699253471102566,
+    "gradient_finite": true,
+    "gradient_norm": 0.003536866744980216,
+    "parameter_update_l1": 3.1035248320549726,
+    "cuda": true,
+    "wait_ms": 378.8793000858277,
+    "transfer_ms": 0.763599993661046,
+    "compute_ms": 29.95210001245141,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 92,
+    "source": "datasets/U3D/lowlight/train/0668.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0668.jpg",
+      "initial_xywh": [
+        626,
+        1475,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        626,
+        1475,
+        256,
+        256
+      ],
+      "step": 92
+    },
+    "total": 0.0008153829840011895,
+    "RD": 0.0007160915993154049,
+    "VS": 9.929138468578458e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.00527389207854867,
+    "parameter_update_l1": 3.001112154684961,
+    "cuda": true,
+    "wait_ms": 341.97449986822903,
+    "transfer_ms": 1.323099946603179,
+    "compute_ms": 28.16820004954934,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 93,
+    "source": "datasets/U3D/lowlight/train/0498.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0498.jpg",
+      "initial_xywh": [
+        1809,
+        1335,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1809,
+        1335,
+        256,
+        256
+      ],
+      "step": 93
+    },
+    "total": 0.0002268026291858405,
+    "RD": 0.00014237688446883112,
+    "VS": 8.442574471700937e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.0033105325419455767,
+    "parameter_update_l1": 2.8441195925697684,
+    "cuda": true,
+    "wait_ms": 337.0758998207748,
+    "transfer_ms": 0.766900135204196,
+    "compute_ms": 33.397800056263804,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 94,
+    "source": "datasets/U3D/lowlight/train/0110.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0110.jpg",
+      "initial_xywh": [
+        1042,
+        67,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1042,
+        67,
+        256,
+        256
+      ],
+      "step": 94
+    },
+    "total": 0.05872510001063347,
+    "RD": 0.058556295931339264,
+    "VS": 0.00016880511248018593,
+    "gradient_finite": true,
+    "gradient_norm": 0.44069892168045044,
+    "parameter_update_l1": 3.1272919541224837,
+    "cuda": true,
+    "wait_ms": 353.42830000445247,
+    "transfer_ms": 0.631299801170826,
+    "compute_ms": 31.258199829608202,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 95,
+    "source": "datasets/U3D/lowlight/train/0278.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0278.jpg",
+      "initial_xywh": [
+        3003,
+        314,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3003,
+        314,
+        256,
+        256
+      ],
+      "step": 95
+    },
+    "total": 0.010953930206596851,
+    "RD": 0.010853331536054611,
+    "VS": 0.00010059855412691832,
+    "gradient_finite": true,
+    "gradient_norm": 0.024822121486067772,
+    "parameter_update_l1": 2.686171520501375,
+    "cuda": true,
+    "wait_ms": 348.4137998893857,
+    "transfer_ms": 0.6458999123424292,
+    "compute_ms": 26.33369993418455,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 96,
+    "source": "datasets/U3D/lowlight/train/0605.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0605.jpg",
+      "initial_xywh": [
+        3154,
+        1771,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3154,
+        1771,
+        256,
+        256
+      ],
+      "step": 96
+    },
+    "total": 0.010389485396444798,
+    "RD": 0.010318965651094913,
+    "VS": 7.051929424051195e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.04027734324336052,
+    "parameter_update_l1": 2.43642860557884,
+    "cuda": true,
+    "wait_ms": 395.50120010972023,
+    "transfer_ms": 0.6379999686032534,
+    "compute_ms": 28.480400098487735,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 97,
+    "source": "datasets/U3D/lowlight/train/0078.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0078.jpg",
+      "initial_xywh": [
+        2349,
+        1102,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2349,
+        1102,
+        256,
+        256
+      ],
+      "step": 97
+    },
+    "total": 0.03706171736121178,
+    "RD": 0.0369807630777359,
+    "VS": 8.095244993455708e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.06005193293094635,
+    "parameter_update_l1": 2.427256659604609,
+    "cuda": true,
+    "wait_ms": 409.6833998337388,
+    "transfer_ms": 0.7016998715698719,
+    "compute_ms": 33.0719999037683,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 98,
+    "source": "datasets/U3D/lowlight/train/0347.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0347.jpg",
+      "initial_xywh": [
+        2218,
+        388,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2218,
+        388,
+        256,
+        256
+      ],
+      "step": 98
+    },
+    "total": 0.0006696570781059563,
+    "RD": 0.0006218361086212099,
+    "VS": 4.782098039868288e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.003401773050427437,
+    "parameter_update_l1": 2.213779245503247,
+    "cuda": true,
+    "wait_ms": 408.5325999185443,
+    "transfer_ms": 0.8728001266717911,
+    "compute_ms": 27.71169994957745,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 99,
+    "source": "datasets/U3D/lowlight/train/0353.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0353.jpg",
+      "initial_xywh": [
+        1827,
+        437,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1827,
+        437,
+        256,
+        256
+      ],
+      "step": 99
+    },
+    "total": 0.08100946992635727,
+    "RD": 0.08081609755754471,
+    "VS": 0.00019336954574100673,
+    "gradient_finite": true,
+    "gradient_norm": 1.2055832147598267,
+    "parameter_update_l1": 3.4697287874296308,
+    "cuda": true,
+    "wait_ms": 370.90049986727536,
+    "transfer_ms": 0.826600007712841,
+    "compute_ms": 28.312900103628635,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 100,
+    "source": "datasets/U3D/lowlight/train/0058.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0058.jpg",
+      "initial_xywh": [
+        614,
+        1116,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        614,
+        1116,
+        256,
+        256
+      ],
+      "step": 100
+    },
+    "total": 0.00015114256530068815,
+    "RD": 8.999378042062744e-05,
+    "VS": 6.114877760410309e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.00263939774595201,
+    "parameter_update_l1": 3.141760816797614,
+    "cuda": true,
+    "wait_ms": 342.6895998418331,
+    "transfer_ms": 0.8047998417168856,
+    "compute_ms": 29.414799995720387,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 101,
+    "source": "datasets/U3D/lowlight/train/0634.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0634.jpg",
+      "initial_xywh": [
+        2762,
+        1741,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2762,
+        1741,
+        256,
+        256
+      ],
+      "step": 101
+    },
+    "total": 0.012733197771012783,
+    "RD": 0.012518761679530144,
+    "VS": 0.0002144360914826393,
+    "gradient_finite": true,
+    "gradient_norm": 0.006517031695693731,
+    "parameter_update_l1": 2.845550037920475,
+    "cuda": true,
+    "wait_ms": 358.20969985798,
+    "transfer_ms": 0.6562001071870327,
+    "compute_ms": 32.81459980644286,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 102,
+    "source": "datasets/U3D/lowlight/train/0134.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0134.jpg",
+      "initial_xywh": [
+        2198,
+        984,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2198,
+        984,
+        256,
+        256
+      ],
+      "step": 102
+    },
+    "total": 0.00017744279466569424,
+    "RD": 8.858414366841316e-05,
+    "VS": 8.885865099728107e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.0031377437990158796,
+    "parameter_update_l1": 2.618273459840566,
+    "cuda": true,
+    "wait_ms": 370.41640002280474,
+    "transfer_ms": 1.1851999443024397,
+    "compute_ms": 32.23249991424382,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 103,
+    "source": "datasets/U3D/lowlight/train/0572.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0572.jpg",
+      "initial_xywh": [
+        2175,
+        223,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2175,
+        223,
+        256,
+        256
+      ],
+      "step": 103
+    },
+    "total": 0.003951767459511757,
+    "RD": 0.00382873578928411,
+    "VS": 0.00012303190305829048,
+    "gradient_finite": true,
+    "gradient_norm": 0.013077396899461746,
+    "parameter_update_l1": 2.5728526962921023,
+    "cuda": true,
+    "wait_ms": 347.59830008260906,
+    "transfer_ms": 0.7839000318199396,
+    "compute_ms": 29.50109983794391,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 104,
+    "source": "datasets/U3D/lowlight/train/0188.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0188.jpg",
+      "initial_xywh": [
+        325,
+        67,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        325,
+        67,
+        256,
+        256
+      ],
+      "step": 104
+    },
+    "total": 0.03347470983862877,
+    "RD": 0.03290005028247833,
+    "VS": 0.0005746610695496202,
+    "gradient_finite": true,
+    "gradient_norm": 0.10220885276794434,
+    "parameter_update_l1": 3.2906658528372645,
+    "cuda": true,
+    "wait_ms": 348.1360001023859,
+    "transfer_ms": 1.0569000151008368,
+    "compute_ms": 29.38609989359975,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 105,
+    "source": "datasets/U3D/lowlight/train/0702.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0702.jpg",
+      "initial_xywh": [
+        586,
+        262,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        586,
+        262,
+        256,
+        256
+      ],
+      "step": 105
+    },
+    "total": 0.032943662256002426,
+    "RD": 0.03252626955509186,
+    "VS": 0.00041739142034202814,
+    "gradient_finite": true,
+    "gradient_norm": 0.20623193681240082,
+    "parameter_update_l1": 3.4351462200284004,
+    "cuda": true,
+    "wait_ms": 408.21230015717447,
+    "transfer_ms": 0.6520000752061605,
+    "compute_ms": 31.693600118160248,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 106,
+    "source": "datasets/U3D/lowlight/train/0493.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0493.jpg",
+      "initial_xywh": [
+        760,
+        1622,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        760,
+        1622,
+        256,
+        256
+      ],
+      "step": 106
+    },
+    "total": 0.0004487372643779963,
+    "RD": 0.00023527319717686623,
+    "VS": 0.0002134640672011301,
+    "gradient_finite": true,
+    "gradient_norm": 0.006196220871061087,
+    "parameter_update_l1": 3.1237663943320513,
+    "cuda": true,
+    "wait_ms": 400.1171998679638,
+    "transfer_ms": 0.717999879270792,
+    "compute_ms": 30.005100183188915,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 107,
+    "source": "datasets/U3D/lowlight/train/0766.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0766.jpg",
+      "initial_xywh": [
+        327,
+        1233,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        327,
+        1233,
+        256,
+        256
+      ],
+      "step": 107
+    },
+    "total": 0.002108439803123474,
+    "RD": 0.0017252013785764575,
+    "VS": 0.000383238511858508,
+    "gradient_finite": true,
+    "gradient_norm": 0.01060052216053009,
+    "parameter_update_l1": 2.832033484708518,
+    "cuda": true,
+    "wait_ms": 361.17830011062324,
+    "transfer_ms": 0.672800000756979,
+    "compute_ms": 28.504200046882033,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 108,
+    "source": "datasets/U3D/lowlight/train/0309.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0309.jpg",
+      "initial_xywh": [
+        2504,
+        713,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2504,
+        713,
+        256,
+        256
+      ],
+      "step": 108
+    },
+    "total": 0.010962849482893944,
+    "RD": 0.01040706504136324,
+    "VS": 0.0005557848489843309,
+    "gradient_finite": true,
+    "gradient_norm": 0.050143565982580185,
+    "parameter_update_l1": 2.3614136008545756,
+    "cuda": true,
+    "wait_ms": 338.30090006813407,
+    "transfer_ms": 1.2719000224024057,
+    "compute_ms": 28.287200024351478,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 109,
+    "source": "datasets/U3D/lowlight/train/0052.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0052.jpg",
+      "initial_xywh": [
+        3140,
+        81,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3140,
+        81,
+        256,
+        256
+      ],
+      "step": 109
+    },
+    "total": 0.0018957916181534529,
+    "RD": 0.001380949281156063,
+    "VS": 0.0005148423369973898,
+    "gradient_finite": true,
+    "gradient_norm": 0.014984996989369392,
+    "parameter_update_l1": 2.3669457430951297,
+    "cuda": true,
+    "wait_ms": 395.71699989028275,
+    "transfer_ms": 0.8611001539975405,
+    "compute_ms": 28.056399896740913,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 110,
+    "source": "datasets/U3D/lowlight/train/0371.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0371.jpg",
+      "initial_xywh": [
+        3578,
+        1443,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3578,
+        1443,
+        256,
+        256
+      ],
+      "step": 110
+    },
+    "total": 0.0036941550206393003,
+    "RD": 0.003191538155078888,
+    "VS": 0.0005026168073527515,
+    "gradient_finite": true,
+    "gradient_norm": 0.013852408155798912,
+    "parameter_update_l1": 2.3929234873503447,
+    "cuda": true,
+    "wait_ms": 373.72079980559647,
+    "transfer_ms": 0.744599848985672,
+    "compute_ms": 29.326200019568205,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 111,
+    "source": "datasets/U3D/lowlight/train/0784.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0784.jpg",
+      "initial_xywh": [
+        1168,
+        528,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1168,
+        528,
+        256,
+        256
+      ],
+      "step": 111
+    },
+    "total": 0.016543565317988396,
+    "RD": 0.014091002754867077,
+    "VS": 0.0024525627959519625,
+    "gradient_finite": true,
+    "gradient_norm": 0.07711970806121826,
+    "parameter_update_l1": 3.411961529403925,
+    "cuda": true,
+    "wait_ms": 393.2850998826325,
+    "transfer_ms": 0.5504000000655651,
+    "compute_ms": 30.154000036418438,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 112,
+    "source": "datasets/U3D/lowlight/train/0217.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0217.jpg",
+      "initial_xywh": [
+        2914,
+        1423,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2914,
+        1423,
+        256,
+        256
+      ],
+      "step": 112
+    },
+    "total": 0.025107387453317642,
+    "RD": 0.023319542407989502,
+    "VS": 0.0017878459766507149,
+    "gradient_finite": true,
+    "gradient_norm": 0.06513912975788116,
+    "parameter_update_l1": 5.090656234882772,
+    "cuda": true,
+    "wait_ms": 393.09779996983707,
+    "transfer_ms": 0.6039999425411224,
+    "compute_ms": 27.05539995804429,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 113,
+    "source": "datasets/U3D/lowlight/train/0097.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0097.jpg",
+      "initial_xywh": [
+        2715,
+        1359,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2715,
+        1359,
+        256,
+        256
+      ],
+      "step": 113
+    },
+    "total": 0.027851970866322517,
+    "RD": 0.025994576513767242,
+    "VS": 0.0018573942361399531,
+    "gradient_finite": true,
+    "gradient_norm": 0.0362500362098217,
+    "parameter_update_l1": 5.850910947658122,
+    "cuda": true,
+    "wait_ms": 370.8109001163393,
+    "transfer_ms": 0.6719001103192568,
+    "compute_ms": 29.581799870356917,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 114,
+    "source": "datasets/U3D/lowlight/train/0172.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0172.jpg",
+      "initial_xywh": [
+        1167,
+        38,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1167,
+        38,
+        256,
+        256
+      ],
+      "step": 114
+    },
+    "total": 0.0016213086200878024,
+    "RD": 0.0013040360063314438,
+    "VS": 0.0003172726137563586,
+    "gradient_finite": true,
+    "gradient_norm": 0.00824049860239029,
+    "parameter_update_l1": 5.531685311347246,
+    "cuda": true,
+    "wait_ms": 413.567699957639,
+    "transfer_ms": 0.824799994006753,
+    "compute_ms": 27.501099975779653,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 115,
+    "source": "datasets/U3D/lowlight/train/0404.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0404.jpg",
+      "initial_xywh": [
+        628,
+        284,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        628,
+        284,
+        256,
+        256
+      ],
+      "step": 115
+    },
+    "total": 0.025510868057608604,
+    "RD": 0.025270942598581314,
+    "VS": 0.00023992602655198425,
+    "gradient_finite": true,
+    "gradient_norm": 0.07474321871995926,
+    "parameter_update_l1": 5.772938404232264,
+    "cuda": true,
+    "wait_ms": 442.31400010176003,
+    "transfer_ms": 0.6885000038892031,
+    "compute_ms": 33.03039981983602,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 116,
+    "source": "datasets/U3D/lowlight/train/0603.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0603.jpg",
+      "initial_xywh": [
+        451,
+        430,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        451,
+        430,
+        256,
+        256
+      ],
+      "step": 116
+    },
+    "total": 0.009220047853887081,
+    "RD": 0.008962642401456833,
+    "VS": 0.0002574054233264178,
+    "gradient_finite": true,
+    "gradient_norm": 0.01637297309935093,
+    "parameter_update_l1": 5.732341416180134,
+    "cuda": true,
+    "wait_ms": 394.40219989046454,
+    "transfer_ms": 0.9234000463038683,
+    "compute_ms": 29.72720004618168,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 117,
+    "source": "datasets/U3D/lowlight/train/0638.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0638.jpg",
+      "initial_xywh": [
+        3332,
+        991,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3332,
+        991,
+        256,
+        256
+      ],
+      "step": 117
+    },
+    "total": 0.00015627039829269052,
+    "RD": 3.742301487363875e-05,
+    "VS": 0.00011884737614309415,
+    "gradient_finite": true,
+    "gradient_norm": 0.0034896363504230976,
+    "parameter_update_l1": 5.307001465931535,
+    "cuda": true,
+    "wait_ms": 362.23900015465915,
+    "transfer_ms": 0.7357001304626465,
+    "compute_ms": 28.12410006299615,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 118,
+    "source": "datasets/U3D/lowlight/train/0497.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0497.jpg",
+      "initial_xywh": [
+        1555,
+        320,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1555,
+        320,
+        256,
+        256
+      ],
+      "step": 118
+    },
+    "total": 0.0010195424547418952,
+    "RD": 0.0009289579465985298,
+    "VS": 9.058449359145015e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.005816057790070772,
+    "parameter_update_l1": 5.035677000880241,
+    "cuda": true,
+    "wait_ms": 354.2913000565022,
+    "transfer_ms": 1.3318001292645931,
+    "compute_ms": 31.191600020974874,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 119,
+    "source": "datasets/U3D/lowlight/train/0327.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0327.jpg",
+      "initial_xywh": [
+        2940,
+        1022,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2940,
+        1022,
+        256,
+        256
+      ],
+      "step": 119
+    },
+    "total": 0.01139689888805151,
+    "RD": 0.0112905353307724,
+    "VS": 0.00010636376100592315,
+    "gradient_finite": true,
+    "gradient_norm": 0.019112197682261467,
+    "parameter_update_l1": 4.765968717634678,
+    "cuda": true,
+    "wait_ms": 412.81850007362664,
+    "transfer_ms": 0.9256999474018812,
+    "compute_ms": 30.28519987128675,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 120,
+    "source": "datasets/U3D/lowlight/train/0564.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0564.jpg",
+      "initial_xywh": [
+        2081,
+        1447,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2081,
+        1447,
+        256,
+        256
+      ],
+      "step": 120
+    },
+    "total": 0.01606123521924019,
+    "RD": 0.01596221886575222,
+    "VS": 9.901670273393393e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.023682324215769768,
+    "parameter_update_l1": 4.369278188794851,
+    "cuda": true,
+    "wait_ms": 407.6928999274969,
+    "transfer_ms": 0.8378999773412943,
+    "compute_ms": 31.4880998339504,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 121,
+    "source": "datasets/U3D/lowlight/train/0120.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0120.jpg",
+      "initial_xywh": [
+        3402,
+        189,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3402,
+        189,
+        256,
+        256
+      ],
+      "step": 121
+    },
+    "total": 0.2602487802505493,
+    "RD": 0.2601628005504608,
+    "VS": 8.599332068115473e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.8575994372367859,
+    "parameter_update_l1": 3.4118240708485246,
+    "cuda": true,
+    "wait_ms": 392.291700001806,
+    "transfer_ms": 0.9228000417351723,
+    "compute_ms": 30.024399980902672,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 122,
+    "source": "datasets/U3D/lowlight/train/0768.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0768.jpg",
+      "initial_xywh": [
+        2977,
+        453,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2977,
+        453,
+        256,
+        256
+      ],
+      "step": 122
+    },
+    "total": 0.03351269289851189,
+    "RD": 0.0334448516368866,
+    "VS": 6.783962453482673e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.165388822555542,
+    "parameter_update_l1": 4.741398923099041,
+    "cuda": true,
+    "wait_ms": 399.38899991102517,
+    "transfer_ms": 0.8372000884264708,
+    "compute_ms": 30.430599814280868,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 123,
+    "source": "datasets/U3D/lowlight/train/0559.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0559.jpg",
+      "initial_xywh": [
+        2387,
+        708,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2387,
+        708,
+        256,
+        256
+      ],
+      "step": 123
+    },
+    "total": 0.00698621291667223,
+    "RD": 0.006911139469593763,
+    "VS": 7.507360714953393e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.00990180391818285,
+    "parameter_update_l1": 4.110469322651625,
+    "cuda": true,
+    "wait_ms": 403.54619990102947,
+    "transfer_ms": 0.752599909901619,
+    "compute_ms": 26.90750011242926,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 124,
+    "source": "datasets/U3D/lowlight/train/0344.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0344.jpg",
+      "initial_xywh": [
+        642,
+        1559,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        642,
+        1559,
+        256,
+        256
+      ],
+      "step": 124
+    },
+    "total": 0.02123609185218811,
+    "RD": 0.02111520618200302,
+    "VS": 0.00012088518997188658,
+    "gradient_finite": true,
+    "gradient_norm": 0.023060640320181847,
+    "parameter_update_l1": 3.8442894080653787,
+    "cuda": true,
+    "wait_ms": 389.90659988485277,
+    "transfer_ms": 0.6564001087099314,
+    "compute_ms": 29.262800002470613,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 125,
+    "source": "datasets/U3D/lowlight/train/0342.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0342.jpg",
+      "initial_xywh": [
+        1806,
+        1081,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1806,
+        1081,
+        256,
+        256
+      ],
+      "step": 125
+    },
+    "total": 0.000222935967030935,
+    "RD": 0.00012147908273618668,
+    "VS": 0.0001014568842947483,
+    "gradient_finite": true,
+    "gradient_norm": 0.003387782257050276,
+    "parameter_update_l1": 3.475391582585871,
+    "cuda": true,
+    "wait_ms": 336.123300017789,
+    "transfer_ms": 0.6279000081121922,
+    "compute_ms": 30.080500058829784,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 126,
+    "source": "datasets/U3D/lowlight/train/0749.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0749.jpg",
+      "initial_xywh": [
+        3055,
+        1009,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3055,
+        1009,
+        256,
+        256
+      ],
+      "step": 126
+    },
+    "total": 0.0022751307114958763,
+    "RD": 0.0021523856557905674,
+    "VS": 0.00012274507025722414,
+    "gradient_finite": true,
+    "gradient_norm": 0.005788763053715229,
+    "parameter_update_l1": 3.1098185535520315,
+    "cuda": true,
+    "wait_ms": 375.00390014611185,
+    "transfer_ms": 0.6818999536335468,
+    "compute_ms": 28.023699996992946,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 127,
+    "source": "datasets/U3D/lowlight/train/0168.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0168.jpg",
+      "initial_xywh": [
+        142,
+        894,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        142,
+        894,
+        256,
+        256
+      ],
+      "step": 127
+    },
+    "total": 0.004355995450168848,
+    "RD": 0.004216546658426523,
+    "VS": 0.0001394488790538162,
+    "gradient_finite": true,
+    "gradient_norm": 0.01153501309454441,
+    "parameter_update_l1": 2.6934843976050615,
+    "cuda": true,
+    "wait_ms": 345.6931998953223,
+    "transfer_ms": 0.6591000128537416,
+    "compute_ms": 26.46259986795485,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 128,
+    "source": "datasets/U3D/lowlight/train/0654.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0654.jpg",
+      "initial_xywh": [
+        1554,
+        1206,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1554,
+        1206,
+        256,
+        256
+      ],
+      "step": 128
+    },
+    "total": 0.00032258278224617243,
+    "RD": 0.00017394263704773039,
+    "VS": 0.0001486401306465268,
+    "gradient_finite": true,
+    "gradient_norm": 0.004354093223810196,
+    "parameter_update_l1": 2.453230122104287,
+    "cuda": true,
+    "wait_ms": 323.56459996663034,
+    "transfer_ms": 0.6377000827342272,
+    "compute_ms": 27.156000025570393,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 129,
+    "source": "datasets/U3D/lowlight/train/0384.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0384.jpg",
+      "initial_xywh": [
+        3438,
+        201,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3438,
+        201,
+        256,
+        256
+      ],
+      "step": 129
+    },
+    "total": 0.0007901468779891729,
+    "RD": 0.0006360342958942056,
+    "VS": 0.0001541125529911369,
+    "gradient_finite": true,
+    "gradient_norm": 0.006004238501191139,
+    "parameter_update_l1": 2.2267870157957077,
+    "cuda": true,
+    "wait_ms": 347.76920010335743,
+    "transfer_ms": 0.8836002089083195,
+    "compute_ms": 30.428299913182855,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 130,
+    "source": "datasets/U3D/lowlight/train/0270.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0270.jpg",
+      "initial_xywh": [
+        2170,
+        1313,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2170,
+        1313,
+        256,
+        256
+      ],
+      "step": 130
+    },
+    "total": 0.00039625196950510144,
+    "RD": 0.00023898202925920486,
+    "VS": 0.00015726994024589658,
+    "gradient_finite": true,
+    "gradient_norm": 0.004448294639587402,
+    "parameter_update_l1": 2.052200824022293,
+    "cuda": true,
+    "wait_ms": 333.90869991853833,
+    "transfer_ms": 0.672800000756979,
+    "compute_ms": 27.934599900618196,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 131,
+    "source": "datasets/U3D/lowlight/train/0740.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0740.jpg",
+      "initial_xywh": [
+        735,
+        434,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        735,
+        434,
+        256,
+        256
+      ],
+      "step": 131
+    },
+    "total": 0.03194740414619446,
+    "RD": 0.03079139068722725,
+    "VS": 0.0011560142738744617,
+    "gradient_finite": true,
+    "gradient_norm": 0.12209542095661163,
+    "parameter_update_l1": 2.5428086621686816,
+    "cuda": true,
+    "wait_ms": 326.39990001916885,
+    "transfer_ms": 1.2672001030296087,
+    "compute_ms": 32.43130003102124,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 132,
+    "source": "datasets/U3D/lowlight/train/0540.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0540.jpg",
+      "initial_xywh": [
+        3162,
+        552,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3162,
+        552,
+        256,
+        256
+      ],
+      "step": 132
+    },
+    "total": 0.11463180929422379,
+    "RD": 0.11421968042850494,
+    "VS": 0.00041212845826521516,
+    "gradient_finite": true,
+    "gradient_norm": 0.7029524445533752,
+    "parameter_update_l1": 3.6191137144342065,
+    "cuda": true,
+    "wait_ms": 328.1828002072871,
+    "transfer_ms": 0.6919000297784805,
+    "compute_ms": 28.063900070264935,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 133,
+    "source": "datasets/U3D/lowlight/train/0434.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0434.jpg",
+      "initial_xywh": [
+        1735,
+        1189,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1735,
+        1189,
+        256,
+        256
+      ],
+      "step": 133
+    },
+    "total": 0.019532473757863045,
+    "RD": 0.019316628575325012,
+    "VS": 0.00021584540081676096,
+    "gradient_finite": true,
+    "gradient_norm": 0.03998655080795288,
+    "parameter_update_l1": 2.791007924359292,
+    "cuda": true,
+    "wait_ms": 386.9562998879701,
+    "transfer_ms": 0.6734998896718025,
+    "compute_ms": 28.91670004464686,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 134,
+    "source": "datasets/U3D/lowlight/train/0001.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0001.jpg",
+      "initial_xywh": [
+        1267,
+        342,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1267,
+        342,
+        256,
+        256
+      ],
+      "step": 134
+    },
+    "total": 0.00038062178646214306,
+    "RD": 0.0001618361275177449,
+    "VS": 0.00021878565894439816,
+    "gradient_finite": true,
+    "gradient_norm": 0.005615746136754751,
+    "parameter_update_l1": 2.5329635059460998,
+    "cuda": true,
+    "wait_ms": 356.7262999713421,
+    "transfer_ms": 0.5834999028593302,
+    "compute_ms": 28.795099817216396,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 135,
+    "source": "datasets/U3D/lowlight/train/0746.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0746.jpg",
+      "initial_xywh": [
+        3349,
+        78,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3349,
+        78,
+        256,
+        256
+      ],
+      "step": 135
+    },
+    "total": 0.0042129564099013805,
+    "RD": 0.003983646165579557,
+    "VS": 0.00022931024432182312,
+    "gradient_finite": true,
+    "gradient_norm": 0.0059824478812515736,
+    "parameter_update_l1": 2.2927499134093523,
+    "cuda": true,
+    "wait_ms": 349.59839982911944,
+    "transfer_ms": 0.9926001075655222,
+    "compute_ms": 28.88949983753264,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 136,
+    "source": "datasets/U3D/lowlight/train/0684.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0684.jpg",
+      "initial_xywh": [
+        528,
+        76,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        528,
+        76,
+        256,
+        256
+      ],
+      "step": 136
+    },
+    "total": 0.01909913867712021,
+    "RD": 0.018667934462428093,
+    "VS": 0.00043120357440784574,
+    "gradient_finite": true,
+    "gradient_norm": 0.02522280625998974,
+    "parameter_update_l1": 2.0353529802523553,
+    "cuda": true,
+    "wait_ms": 368.97399998269975,
+    "transfer_ms": 0.5534000229090452,
+    "compute_ms": 27.743399841710925,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 137,
+    "source": "datasets/U3D/lowlight/train/0123.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0123.jpg",
+      "initial_xywh": [
+        3184,
+        1507,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3184,
+        1507,
+        256,
+        256
+      ],
+      "step": 137
+    },
+    "total": 0.006985230837017298,
+    "RD": 0.0067411987110972404,
+    "VS": 0.0002440323296468705,
+    "gradient_finite": true,
+    "gradient_norm": 0.009945274330675602,
+    "parameter_update_l1": 1.8344336193986237,
+    "cuda": true,
+    "wait_ms": 393.51919991895556,
+    "transfer_ms": 0.7621000986546278,
+    "compute_ms": 31.456099823117256,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 138,
+    "source": "datasets/U3D/lowlight/train/0198.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0198.jpg",
+      "initial_xywh": [
+        1069,
+        34,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1069,
+        34,
+        256,
+        256
+      ],
+      "step": 138
+    },
+    "total": 0.01532480027526617,
+    "RD": 0.014986461028456688,
+    "VS": 0.0003383394214324653,
+    "gradient_finite": true,
+    "gradient_norm": 0.013614010065793991,
+    "parameter_update_l1": 1.7619676501490176,
+    "cuda": true,
+    "wait_ms": 321.636299835518,
+    "transfer_ms": 0.6964001804590225,
+    "compute_ms": 29.91329994983971,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 139,
+    "source": "datasets/U3D/lowlight/train/0293.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0293.jpg",
+      "initial_xywh": [
+        3275,
+        296,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3275,
+        296,
+        256,
+        256
+      ],
+      "step": 139
+    },
+    "total": 0.004673571325838566,
+    "RD": 0.004452999215573072,
+    "VS": 0.00022057228488847613,
+    "gradient_finite": true,
+    "gradient_norm": 0.020330078899860382,
+    "parameter_update_l1": 1.6231102200690657,
+    "cuda": true,
+    "wait_ms": 353.1512999907136,
+    "transfer_ms": 0.8131000213325024,
+    "compute_ms": 28.233899967744946,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 140,
+    "source": "datasets/U3D/lowlight/train/0412.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0412.jpg",
+      "initial_xywh": [
+        2654,
+        1195,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2654,
+        1195,
+        256,
+        256
+      ],
+      "step": 140
+    },
+    "total": 0.007709606550633907,
+    "RD": 0.007485833019018173,
+    "VS": 0.0002237734734080732,
+    "gradient_finite": true,
+    "gradient_norm": 0.004050710704177618,
+    "parameter_update_l1": 1.523088034009561,
+    "cuda": true,
+    "wait_ms": 398.84959999471903,
+    "transfer_ms": 0.6585000082850456,
+    "compute_ms": 28.690600069239736,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 141,
+    "source": "datasets/U3D/lowlight/train/0470.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0470.jpg",
+      "initial_xywh": [
+        3295,
+        322,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3295,
+        322,
+        256,
+        256
+      ],
+      "step": 141
+    },
+    "total": 0.01448838971555233,
+    "RD": 0.014261947944760323,
+    "VS": 0.00022644212003797293,
+    "gradient_finite": true,
+    "gradient_norm": 0.02214713953435421,
+    "parameter_update_l1": 1.5870343474671245,
+    "cuda": true,
+    "wait_ms": 376.4239998999983,
+    "transfer_ms": 0.9232000447809696,
+    "compute_ms": 28.0026001855731,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 142,
+    "source": "datasets/U3D/lowlight/train/0203.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0203.jpg",
+      "initial_xywh": [
+        748,
+        346,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        748,
+        346,
+        256,
+        256
+      ],
+      "step": 142
+    },
+    "total": 0.0019906514789909124,
+    "RD": 0.001829886226914823,
+    "VS": 0.0001607653102837503,
+    "gradient_finite": true,
+    "gradient_norm": 0.011178652755916119,
+    "parameter_update_l1": 1.566790655720979,
+    "cuda": true,
+    "wait_ms": 356.44649993628263,
+    "transfer_ms": 0.6262001115828753,
+    "compute_ms": 29.171799775213003,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 143,
+    "source": "datasets/U3D/lowlight/train/0528.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0528.jpg",
+      "initial_xywh": [
+        3015,
+        500,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3015,
+        500,
+        256,
+        256
+      ],
+      "step": 143
+    },
+    "total": 0.025148242712020874,
+    "RD": 0.024858001619577408,
+    "VS": 0.00029024117975495756,
+    "gradient_finite": true,
+    "gradient_norm": 0.03915969654917717,
+    "parameter_update_l1": 1.435667050536722,
+    "cuda": true,
+    "wait_ms": 357.5311000458896,
+    "transfer_ms": 0.6506999488919973,
+    "compute_ms": 27.361599961295724,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 144,
+    "source": "datasets/U3D/lowlight/train/0038.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0038.jpg",
+      "initial_xywh": [
+        867,
+        444,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        867,
+        444,
+        256,
+        256
+      ],
+      "step": 144
+    },
+    "total": 0.0018444603774696589,
+    "RD": 0.001702561043202877,
+    "VS": 0.00014189931971486658,
+    "gradient_finite": true,
+    "gradient_norm": 0.010471274144947529,
+    "parameter_update_l1": 1.4061232649255544,
+    "cuda": true,
+    "wait_ms": 342.98860002309084,
+    "transfer_ms": 0.5544999148696661,
+    "compute_ms": 29.23619979992509,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 145,
+    "source": "datasets/U3D/lowlight/train/0377.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0377.jpg",
+      "initial_xywh": [
+        549,
+        1839,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        549,
+        1839,
+        256,
+        256
+      ],
+      "step": 145
+    },
+    "total": 0.02772306278347969,
+    "RD": 0.02756493352353573,
+    "VS": 0.00015812924539204687,
+    "gradient_finite": true,
+    "gradient_norm": 0.07305466383695602,
+    "parameter_update_l1": 1.8306528790853918,
+    "cuda": true,
+    "wait_ms": 355.954899918288,
+    "transfer_ms": 0.9542000479996204,
+    "compute_ms": 26.48169989697635,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 146,
+    "source": "datasets/U3D/lowlight/train/0588.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0588.jpg",
+      "initial_xywh": [
+        3400,
+        1779,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3400,
+        1779,
+        256,
+        256
+      ],
+      "step": 146
+    },
+    "total": 0.016256432980298996,
+    "RD": 0.01605495810508728,
+    "VS": 0.00020147474424447864,
+    "gradient_finite": true,
+    "gradient_norm": 0.03394223749637604,
+    "parameter_update_l1": 1.9875901034101844,
+    "cuda": true,
+    "wait_ms": 356.62760003469884,
+    "transfer_ms": 0.7112999446690083,
+    "compute_ms": 32.44289988651872,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 147,
+    "source": "datasets/U3D/lowlight/train/0442.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0442.jpg",
+      "initial_xywh": [
+        3083,
+        617,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3083,
+        617,
+        256,
+        256
+      ],
+      "step": 147
+    },
+    "total": 0.009836200624704361,
+    "RD": 0.009643320925533772,
+    "VS": 0.0001928794663399458,
+    "gradient_finite": true,
+    "gradient_norm": 0.03173661231994629,
+    "parameter_update_l1": 2.224177253432572,
+    "cuda": true,
+    "wait_ms": 424.3131000548601,
+    "transfer_ms": 1.013200031593442,
+    "compute_ms": 27.48370007611811,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 148,
+    "source": "datasets/U3D/lowlight/train/0081.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0081.jpg",
+      "initial_xywh": [
+        806,
+        1886,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        806,
+        1886,
+        256,
+        256
+      ],
+      "step": 148
+    },
+    "total": 0.01468033716082573,
+    "RD": 0.014462015591561794,
+    "VS": 0.00021832120546605438,
+    "gradient_finite": true,
+    "gradient_norm": 0.03934645652770996,
+    "parameter_update_l1": 2.528360763564706,
+    "cuda": true,
+    "wait_ms": 340.2375001460314,
+    "transfer_ms": 0.7927000988274813,
+    "compute_ms": 27.52939984202385,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 149,
+    "source": "datasets/U3D/lowlight/train/0418.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0418.jpg",
+      "initial_xywh": [
+        3044,
+        28,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3044,
+        28,
+        256,
+        256
+      ],
+      "step": 149
+    },
+    "total": 0.006473342422395945,
+    "RD": 0.006253733765333891,
+    "VS": 0.00021960875892546028,
+    "gradient_finite": true,
+    "gradient_norm": 0.006484951823949814,
+    "parameter_update_l1": 2.4052546988241374,
+    "cuda": true,
+    "wait_ms": 371.0700999945402,
+    "transfer_ms": 1.1014998890459538,
+    "compute_ms": 31.749699963256717,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 150,
+    "source": "datasets/U3D/lowlight/train/0047.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0047.jpg",
+      "initial_xywh": [
+        210,
+        249,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        210,
+        249,
+        256,
+        256
+      ],
+      "step": 150
+    },
+    "total": 0.003977255895733833,
+    "RD": 0.0038068252615630627,
+    "VS": 0.00017043069237843156,
+    "gradient_finite": true,
+    "gradient_norm": 0.010992123745381832,
+    "parameter_update_l1": 2.394935221411288,
+    "cuda": true,
+    "wait_ms": 425.9309000335634,
+    "transfer_ms": 0.6377000827342272,
+    "compute_ms": 30.88119998574257,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 151,
+    "source": "datasets/U3D/lowlight/train/0477.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0477.jpg",
+      "initial_xywh": [
+        3324,
+        1280,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3324,
+        1280,
+        256,
+        256
+      ],
+      "step": 151
+    },
+    "total": 0.00021904351888224483,
+    "RD": 0.00012748860171996057,
+    "VS": 9.155490988632664e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.0030176786240190268,
+    "parameter_update_l1": 2.2443134379573166,
+    "cuda": true,
+    "wait_ms": 336.5815000142902,
+    "transfer_ms": 0.674000009894371,
+    "compute_ms": 26.44120017066598,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 152,
+    "source": "datasets/U3D/lowlight/train/0735.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0735.jpg",
+      "initial_xywh": [
+        2472,
+        383,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2472,
+        383,
+        256,
+        256
+      ],
+      "step": 152
+    },
+    "total": 0.0009697381756268442,
+    "RD": 0.0008957103709690273,
+    "VS": 7.402781920973212e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.0066099646501243114,
+    "parameter_update_l1": 2.159255172125995,
+    "cuda": true,
+    "wait_ms": 334.12980008870363,
+    "transfer_ms": 0.6381000857800245,
+    "compute_ms": 28.477000072598457,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 153,
+    "source": "datasets/U3D/lowlight/train/0800.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0800.jpg",
+      "initial_xywh": [
+        2279,
+        394,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2279,
+        394,
+        256,
+        256
+      ],
+      "step": 153
+    },
+    "total": 0.0116847800090909,
+    "RD": 0.01135766040533781,
+    "VS": 0.00032711992389522493,
+    "gradient_finite": true,
+    "gradient_norm": 0.006756441202014685,
+    "parameter_update_l1": 2.1163249406963587,
+    "cuda": true,
+    "wait_ms": 317.06030014902353,
+    "transfer_ms": 0.5874999333173037,
+    "compute_ms": 26.8629000056535,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 154,
+    "source": "datasets/U3D/lowlight/train/0449.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0449.jpg",
+      "initial_xywh": [
+        3312,
+        300,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3312,
+        300,
+        256,
+        256
+      ],
+      "step": 154
+    },
+    "total": 0.016068976372480392,
+    "RD": 0.015521107241511345,
+    "VS": 0.0005478695966303349,
+    "gradient_finite": true,
+    "gradient_norm": 0.021240297704935074,
+    "parameter_update_l1": 1.9730090261436999,
+    "cuda": true,
+    "wait_ms": 311.1330000683665,
+    "transfer_ms": 0.7507998961955309,
+    "compute_ms": 27.967500034719706,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 155,
+    "source": "datasets/U3D/lowlight/train/0756.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0756.jpg",
+      "initial_xywh": [
+        2218,
+        787,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2218,
+        787,
+        256,
+        256
+      ],
+      "step": 155
+    },
+    "total": 0.0012715809280052781,
+    "RD": 0.0011608472559601068,
+    "VS": 0.00011073367204517126,
+    "gradient_finite": true,
+    "gradient_norm": 0.004172985441982746,
+    "parameter_update_l1": 1.8763972027227283,
+    "cuda": true,
+    "wait_ms": 363.8307999353856,
+    "transfer_ms": 0.8256998844444752,
+    "compute_ms": 31.845300225540996,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 156,
+    "source": "datasets/U3D/lowlight/train/0625.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0625.jpg",
+      "initial_xywh": [
+        3088,
+        1258,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3088,
+        1258,
+        256,
+        256
+      ],
+      "step": 156
+    },
+    "total": 0.010823346674442291,
+    "RD": 0.01051862072199583,
+    "VS": 0.00030472612706944346,
+    "gradient_finite": true,
+    "gradient_norm": 0.008457714691758156,
+    "parameter_update_l1": 1.845054947771132,
+    "cuda": true,
+    "wait_ms": 346.9221000559628,
+    "transfer_ms": 0.6631999276578426,
+    "compute_ms": 28.322400059551,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 157,
+    "source": "datasets/U3D/lowlight/train/0041.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0041.jpg",
+      "initial_xywh": [
+        3362,
+        481,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3362,
+        481,
+        256,
+        256
+      ],
+      "step": 157
+    },
+    "total": 0.022081408649683,
+    "RD": 0.021321073174476624,
+    "VS": 0.0007603352423757315,
+    "gradient_finite": true,
+    "gradient_norm": 0.05995862931013107,
+    "parameter_update_l1": 1.6348582347854972,
+    "cuda": true,
+    "wait_ms": 368.70809993706644,
+    "transfer_ms": 0.8038000669330359,
+    "compute_ms": 28.586599975824356,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 158,
+    "source": "datasets/U3D/lowlight/train/0101.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0101.jpg",
+      "initial_xywh": [
+        1163,
+        744,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1163,
+        744,
+        256,
+        256
+      ],
+      "step": 158
+    },
+    "total": 0.0020519422832876444,
+    "RD": 0.0020061489194631577,
+    "VS": 4.5793272875016555e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.013105242513120174,
+    "parameter_update_l1": 1.6543232097756118,
+    "cuda": true,
+    "wait_ms": 343.46850006841123,
+    "transfer_ms": 0.8199999574571848,
+    "compute_ms": 27.129899943247437,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 159,
+    "source": "datasets/U3D/lowlight/train/0386.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0386.jpg",
+      "initial_xywh": [
+        341,
+        938,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        341,
+        938,
+        256,
+        256
+      ],
+      "step": 159
+    },
+    "total": 0.011557310819625854,
+    "RD": 0.011387455277144909,
+    "VS": 0.0001698553387541324,
+    "gradient_finite": true,
+    "gradient_norm": 0.009911706671118736,
+    "parameter_update_l1": 1.5871308390051126,
+    "cuda": true,
+    "wait_ms": 339.9020000360906,
+    "transfer_ms": 0.5244000349193811,
+    "compute_ms": 28.629699954763055,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 160,
+    "source": "datasets/U3D/lowlight/train/0589.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0589.jpg",
+      "initial_xywh": [
+        1172,
+        1562,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1172,
+        1562,
+        256,
+        256
+      ],
+      "step": 160
+    },
+    "total": 0.022998075932264328,
+    "RD": 0.022838791832327843,
+    "VS": 0.00015928340144455433,
+    "gradient_finite": true,
+    "gradient_norm": 0.11186575144529343,
+    "parameter_update_l1": 1.7970014815218747,
+    "cuda": true,
+    "wait_ms": 343.46510004252195,
+    "transfer_ms": 0.8157999254763126,
+    "compute_ms": 26.617599884048104,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 161,
+    "source": "datasets/U3D/lowlight/train/0628.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0628.jpg",
+      "initial_xywh": [
+        2256,
+        306,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2256,
+        306,
+        256,
+        256
+      ],
+      "step": 161
+    },
+    "total": 0.06561949104070663,
+    "RD": 0.06543463468551636,
+    "VS": 0.00018485855252947658,
+    "gradient_finite": true,
+    "gradient_norm": 0.3131079077720642,
+    "parameter_update_l1": 3.677691550925374,
+    "cuda": true,
+    "wait_ms": 342.25580003112555,
+    "transfer_ms": 0.5598000716418028,
+    "compute_ms": 27.121599996462464,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 162,
+    "source": "datasets/U3D/lowlight/train/0045.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0045.jpg",
+      "initial_xywh": [
+        3466,
+        7,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3466,
+        7,
+        256,
+        256
+      ],
+      "step": 162
+    },
+    "total": 0.06996159255504608,
+    "RD": 0.069708913564682,
+    "VS": 0.000252681493293494,
+    "gradient_finite": true,
+    "gradient_norm": 0.3503173589706421,
+    "parameter_update_l1": 5.405899792909622,
+    "cuda": true,
+    "wait_ms": 313.9158000703901,
+    "transfer_ms": 0.997199909761548,
+    "compute_ms": 27.13729999959469,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 163,
+    "source": "datasets/U3D/lowlight/train/0764.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0764.jpg",
+      "initial_xywh": [
+        782,
+        612,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        782,
+        612,
+        256,
+        256
+      ],
+      "step": 163
+    },
+    "total": 0.01646621897816658,
+    "RD": 0.016173331066966057,
+    "VS": 0.0002928884932771325,
+    "gradient_finite": true,
+    "gradient_norm": 0.015240977518260479,
+    "parameter_update_l1": 4.729112821165472,
+    "cuda": true,
+    "wait_ms": 318.4529999271035,
+    "transfer_ms": 0.8088999893516302,
+    "compute_ms": 30.765899922698736,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 164,
+    "source": "datasets/U3D/lowlight/train/0584.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0584.jpg",
+      "initial_xywh": [
+        2835,
+        180,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2835,
+        180,
+        256,
+        256
+      ],
+      "step": 164
+    },
+    "total": 0.001347393961623311,
+    "RD": 0.0008868364384397864,
+    "VS": 0.0004605575231835246,
+    "gradient_finite": true,
+    "gradient_norm": 0.013147271238267422,
+    "parameter_update_l1": 4.190408593043685,
+    "cuda": true,
+    "wait_ms": 305.9056999627501,
+    "transfer_ms": 0.6847998593002558,
+    "compute_ms": 27.965799905359745,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 165,
+    "source": "datasets/U3D/lowlight/train/0783.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0783.jpg",
+      "initial_xywh": [
+        1526,
+        632,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1526,
+        632,
+        256,
+        256
+      ],
+      "step": 165
+    },
+    "total": 0.00923155527561903,
+    "RD": 0.008374899625778198,
+    "VS": 0.0008566558826714754,
+    "gradient_finite": true,
+    "gradient_norm": 0.04269029200077057,
+    "parameter_update_l1": 3.3156263679265976,
+    "cuda": true,
+    "wait_ms": 315.70959999226034,
+    "transfer_ms": 0.8594999089837074,
+    "compute_ms": 27.742800069972873,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 166,
+    "source": "datasets/U3D/lowlight/train/0267.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0267.jpg",
+      "initial_xywh": [
+        1486,
+        1205,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1486,
+        1205,
+        256,
+        256
+      ],
+      "step": 166
+    },
+    "total": 0.29056602716445923,
+    "RD": 0.28937530517578125,
+    "VS": 0.0011907268781214952,
+    "gradient_finite": true,
+    "gradient_norm": 2.4399912357330322,
+    "parameter_update_l1": 4.321476608514786,
+    "cuda": true,
+    "wait_ms": 350.6363998167217,
+    "transfer_ms": 1.2632999569177628,
+    "compute_ms": 31.230200082063675,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 167,
+    "source": "datasets/U3D/lowlight/train/0335.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0335.jpg",
+      "initial_xywh": [
+        729,
+        1812,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        729,
+        1812,
+        256,
+        256
+      ],
+      "step": 167
+    },
+    "total": 0.002315105404704809,
+    "RD": 0.001382966060191393,
+    "VS": 0.0009321394609287381,
+    "gradient_finite": true,
+    "gradient_norm": 0.025654513388872147,
+    "parameter_update_l1": 3.9650018722750247,
+    "cuda": true,
+    "wait_ms": 396.782899973914,
+    "transfer_ms": 0.6067000795155764,
+    "compute_ms": 26.734399842098355,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 168,
+    "source": "datasets/U3D/lowlight/train/0571.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0571.jpg",
+      "initial_xywh": [
+        2177,
+        1711,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2177,
+        1711,
+        256,
+        256
+      ],
+      "step": 168
+    },
+    "total": 0.0009882167214527726,
+    "RD": 6.771529297111556e-05,
+    "VS": 0.0009205014794133604,
+    "gradient_finite": true,
+    "gradient_norm": 0.024239500984549522,
+    "parameter_update_l1": 3.7185685473959893,
+    "cuda": true,
+    "wait_ms": 339.0091999899596,
+    "transfer_ms": 0.6319999229162931,
+    "compute_ms": 28.130199993029237,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 169,
+    "source": "datasets/U3D/lowlight/train/0206.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0206.jpg",
+      "initial_xywh": [
+        607,
+        72,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        607,
+        72,
+        256,
+        256
+      ],
+      "step": 169
+    },
+    "total": 0.007269614841789007,
+    "RD": 0.006357984617352486,
+    "VS": 0.0009116301662288606,
+    "gradient_finite": true,
+    "gradient_norm": 0.04507690668106079,
+    "parameter_update_l1": 3.3660991836804897,
+    "cuda": true,
+    "wait_ms": 338.16449996083975,
+    "transfer_ms": 0.5969000048935413,
+    "compute_ms": 27.448900043964386,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 170,
+    "source": "datasets/U3D/lowlight/train/0580.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0580.jpg",
+      "initial_xywh": [
+        1091,
+        303,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1091,
+        303,
+        256,
+        256
+      ],
+      "step": 170
+    },
+    "total": 0.004497914109379053,
+    "RD": 0.0036864052526652813,
+    "VS": 0.0008115087985061109,
+    "gradient_finite": true,
+    "gradient_norm": 0.031815920025110245,
+    "parameter_update_l1": 3.0729514656122774,
+    "cuda": true,
+    "wait_ms": 328.65649997256696,
+    "transfer_ms": 0.73640001937747,
+    "compute_ms": 27.774800080806017,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 171,
+    "source": "datasets/U3D/lowlight/train/0529.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0529.jpg",
+      "initial_xywh": [
+        899,
+        1456,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        899,
+        1456,
+        256,
+        256
+      ],
+      "step": 171
+    },
+    "total": 0.03424174338579178,
+    "RD": 0.028104042634367943,
+    "VS": 0.006137700751423836,
+    "gradient_finite": true,
+    "gradient_norm": 0.32722046971321106,
+    "parameter_update_l1": 2.8451631581410766,
+    "cuda": true,
+    "wait_ms": 314.82520001009107,
+    "transfer_ms": 0.5765000823885202,
+    "compute_ms": 29.42769997753203,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 172,
+    "source": "datasets/U3D/lowlight/train/0781.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0781.jpg",
+      "initial_xywh": [
+        2650,
+        1270,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2650,
+        1270,
+        256,
+        256
+      ],
+      "step": 172
+    },
+    "total": 0.0012086648494005203,
+    "RD": 0.0009397552348673344,
+    "VS": 0.00026890967274084687,
+    "gradient_finite": true,
+    "gradient_norm": 0.010089554823935032,
+    "parameter_update_l1": 2.674863684223965,
+    "cuda": true,
+    "wait_ms": 344.2939000669867,
+    "transfer_ms": 0.5538999103009701,
+    "compute_ms": 30.679700197651982,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 173,
+    "source": "datasets/U3D/lowlight/train/0296.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0296.jpg",
+      "initial_xywh": [
+        1140,
+        158,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1140,
+        158,
+        256,
+        256
+      ],
+      "step": 173
+    },
+    "total": 0.05995827168226242,
+    "RD": 0.05833461135625839,
+    "VS": 0.0016236621886491776,
+    "gradient_finite": true,
+    "gradient_norm": 0.5435467958450317,
+    "parameter_update_l1": 3.889730906463228,
+    "cuda": true,
+    "wait_ms": 358.58640004880726,
+    "transfer_ms": 0.6434000097215176,
+    "compute_ms": 29.406399931758642,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 174,
+    "source": "datasets/U3D/lowlight/train/0352.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0352.jpg",
+      "initial_xywh": [
+        301,
+        1387,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        301,
+        1387,
+        256,
+        256
+      ],
+      "step": 174
+    },
+    "total": 0.03189963102340698,
+    "RD": 0.030716171488165855,
+    "VS": 0.0011834589531645179,
+    "gradient_finite": true,
+    "gradient_norm": 0.2443142682313919,
+    "parameter_update_l1": 2.7072952426970005,
+    "cuda": true,
+    "wait_ms": 328.3720000181347,
+    "transfer_ms": 0.6919000297784805,
+    "compute_ms": 26.71330003067851,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 175,
+    "source": "datasets/U3D/lowlight/train/0431.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0431.jpg",
+      "initial_xywh": [
+        1633,
+        748,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1633,
+        748,
+        256,
+        256
+      ],
+      "step": 175
+    },
+    "total": 0.00439255079254508,
+    "RD": 0.004265199415385723,
+    "VS": 0.0001273512316402048,
+    "gradient_finite": true,
+    "gradient_norm": 0.019611170515418053,
+    "parameter_update_l1": 2.416447024443187,
+    "cuda": true,
+    "wait_ms": 328.66439991630614,
+    "transfer_ms": 0.6238999776542187,
+    "compute_ms": 26.90409985370934,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 176,
+    "source": "datasets/U3D/lowlight/train/0295.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0295.jpg",
+      "initial_xywh": [
+        2334,
+        1320,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2334,
+        1320,
+        256,
+        256
+      ],
+      "step": 176
+    },
+    "total": 0.04884764552116394,
+    "RD": 0.04790707677602768,
+    "VS": 0.0009405689197592437,
+    "gradient_finite": true,
+    "gradient_norm": 0.07679789513349533,
+    "parameter_update_l1": 2.5807720489101484,
+    "cuda": true,
+    "wait_ms": 319.3577001802623,
+    "transfer_ms": 0.5912999622523785,
+    "compute_ms": 29.506100108847022,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 177,
+    "source": "datasets/U3D/lowlight/train/0061.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0061.jpg",
+      "initial_xywh": [
+        1580,
+        1539,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1580,
+        1539,
+        256,
+        256
+      ],
+      "step": 177
+    },
+    "total": 0.04032815247774124,
+    "RD": 0.0400666743516922,
+    "VS": 0.0002614766708575189,
+    "gradient_finite": true,
+    "gradient_norm": 0.2579635679721832,
+    "parameter_update_l1": 2.789163359790109,
+    "cuda": true,
+    "wait_ms": 339.5026000216603,
+    "transfer_ms": 0.712699955329299,
+    "compute_ms": 27.5093000382185,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 178,
+    "source": "datasets/U3D/lowlight/train/0435.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0435.jpg",
+      "initial_xywh": [
+        3249,
+        1203,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3249,
+        1203,
+        256,
+        256
+      ],
+      "step": 178
+    },
+    "total": 0.00015894268290139735,
+    "RD": 6.436853436753154e-05,
+    "VS": 9.45741412579082e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.004173227120190859,
+    "parameter_update_l1": 2.5453864673618227,
+    "cuda": true,
+    "wait_ms": 320.05879981443286,
+    "transfer_ms": 0.5443999543786049,
+    "compute_ms": 28.38449995033443,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 179,
+    "source": "datasets/U3D/lowlight/train/0178.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0178.jpg",
+      "initial_xywh": [
+        1037,
+        803,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1037,
+        803,
+        256,
+        256
+      ],
+      "step": 179
+    },
+    "total": 0.00022982658992987126,
+    "RD": 0.00012750766472890973,
+    "VS": 0.00010231892520096153,
+    "gradient_finite": true,
+    "gradient_norm": 0.0045857918448746204,
+    "parameter_update_l1": 2.3282776111736894,
+    "cuda": true,
+    "wait_ms": 361.2309000454843,
+    "transfer_ms": 0.561299966648221,
+    "compute_ms": 32.640199875459075,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 180,
+    "source": "datasets/U3D/lowlight/train/0650.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0650.jpg",
+      "initial_xywh": [
+        888,
+        1382,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        888,
+        1382,
+        256,
+        256
+      ],
+      "step": 180
+    },
+    "total": 0.0356852188706398,
+    "RD": 0.035417620092630386,
+    "VS": 0.0002675984869711101,
+    "gradient_finite": true,
+    "gradient_norm": 0.28580141067504883,
+    "parameter_update_l1": 2.490018983371556,
+    "cuda": true,
+    "wait_ms": 342.39810006693006,
+    "transfer_ms": 0.5726001691073179,
+    "compute_ms": 26.327099883928895,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 181,
+    "source": "datasets/U3D/lowlight/train/0262.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0262.jpg",
+      "initial_xywh": [
+        1355,
+        1075,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1355,
+        1075,
+        256,
+        256
+      ],
+      "step": 181
+    },
+    "total": 0.00108645623549819,
+    "RD": 0.0009559438331052661,
+    "VS": 0.00013051240239292383,
+    "gradient_finite": true,
+    "gradient_norm": 0.00551158282905817,
+    "parameter_update_l1": 2.248140780837275,
+    "cuda": true,
+    "wait_ms": 324.85199999064207,
+    "transfer_ms": 0.6141001358628273,
+    "compute_ms": 26.83009998872876,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 182,
+    "source": "datasets/U3D/lowlight/train/0683.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0683.jpg",
+      "initial_xywh": [
+        1044,
+        708,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1044,
+        708,
+        256,
+        256
+      ],
+      "step": 182
+    },
+    "total": 0.00043653292232193053,
+    "RD": 0.00028791255317628384,
+    "VS": 0.0001486203691456467,
+    "gradient_finite": true,
+    "gradient_norm": 0.005852404050529003,
+    "parameter_update_l1": 2.03650096594356,
+    "cuda": true,
+    "wait_ms": 317.7721998654306,
+    "transfer_ms": 0.8474001660943031,
+    "compute_ms": 27.20370003953576,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 183,
+    "source": "datasets/U3D/lowlight/train/0252.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0252.jpg",
+      "initial_xywh": [
+        729,
+        1243,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        729,
+        1243,
+        256,
+        256
+      ],
+      "step": 183
+    },
+    "total": 0.00021370848116930574,
+    "RD": 4.8811620217747986e-05,
+    "VS": 0.00016489686095155776,
+    "gradient_finite": true,
+    "gradient_norm": 0.006058187689632177,
+    "parameter_update_l1": 1.8497063576360233,
+    "cuda": true,
+    "wait_ms": 325.27719996869564,
+    "transfer_ms": 0.7896998431533575,
+    "compute_ms": 29.416400007903576,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 184,
+    "source": "datasets/U3D/lowlight/train/0569.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0569.jpg",
+      "initial_xywh": [
+        1212,
+        1131,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1212,
+        1131,
+        256,
+        256
+      ],
+      "step": 184
+    },
+    "total": 0.03248004987835884,
+    "RD": 0.03216985613107681,
+    "VS": 0.00031019371817819774,
+    "gradient_finite": true,
+    "gradient_norm": 0.24704112112522125,
+    "parameter_update_l1": 2.7327211244264618,
+    "cuda": true,
+    "wait_ms": 324.4711000006646,
+    "transfer_ms": 0.6667999550700188,
+    "compute_ms": 32.406399957835674,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 185,
+    "source": "datasets/U3D/lowlight/train/0157.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0157.jpg",
+      "initial_xywh": [
+        3128,
+        854,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3128,
+        854,
+        256,
+        256
+      ],
+      "step": 185
+    },
+    "total": 0.025232834741473198,
+    "RD": 0.024900373071432114,
+    "VS": 0.00033246222301386297,
+    "gradient_finite": true,
+    "gradient_norm": 0.09792350977659225,
+    "parameter_update_l1": 2.802472429582849,
+    "cuda": true,
+    "wait_ms": 330.38040017709136,
+    "transfer_ms": 0.74970000423491,
+    "compute_ms": 28.670100029557943,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 186,
+    "source": "datasets/U3D/lowlight/train/0147.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0147.jpg",
+      "initial_xywh": [
+        1406,
+        659,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1406,
+        659,
+        256,
+        256
+      ],
+      "step": 186
+    },
+    "total": 0.0002863369300030172,
+    "RD": 2.814655272231903e-05,
+    "VS": 0.00025819038273766637,
+    "gradient_finite": true,
+    "gradient_norm": 0.008459551259875298,
+    "parameter_update_l1": 2.5383884059265256,
+    "cuda": true,
+    "wait_ms": 326.7071999143809,
+    "transfer_ms": 1.020899973809719,
+    "compute_ms": 30.93500016257167,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 187,
+    "source": "datasets/U3D/lowlight/train/0585.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0585.jpg",
+      "initial_xywh": [
+        2719,
+        380,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2719,
+        380,
+        256,
+        256
+      ],
+      "step": 187
+    },
+    "total": 0.0005696375737898052,
+    "RD": 0.0002826537238433957,
+    "VS": 0.00028698384994640946,
+    "gradient_finite": true,
+    "gradient_norm": 0.009243428707122803,
+    "parameter_update_l1": 2.307826774311252,
+    "cuda": true,
+    "wait_ms": 355.4223000537604,
+    "transfer_ms": 0.5439999513328075,
+    "compute_ms": 27.3263999260962,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 188,
+    "source": "datasets/U3D/lowlight/train/0489.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0489.jpg",
+      "initial_xywh": [
+        1446,
+        293,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1446,
+        293,
+        256,
+        256
+      ],
+      "step": 188
+    },
+    "total": 0.003318664152175188,
+    "RD": 0.002957989927381277,
+    "VS": 0.0003606741956900805,
+    "gradient_finite": true,
+    "gradient_norm": 0.017002668231725693,
+    "parameter_update_l1": 2.1276284213527106,
+    "cuda": true,
+    "wait_ms": 335.09319997392595,
+    "transfer_ms": 0.5754998419433832,
+    "compute_ms": 27.505500009283423,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 189,
+    "source": "datasets/U3D/lowlight/train/0271.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0271.jpg",
+      "initial_xywh": [
+        3037,
+        188,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3037,
+        188,
+        256,
+        256
+      ],
+      "step": 189
+    },
+    "total": 0.0034485075157135725,
+    "RD": 0.0030247808899730444,
+    "VS": 0.000423726683948189,
+    "gradient_finite": true,
+    "gradient_norm": 0.016709180548787117,
+    "parameter_update_l1": 2.068597654812038,
+    "cuda": true,
+    "wait_ms": 321.76680001430213,
+    "transfer_ms": 0.6311999168246984,
+    "compute_ms": 28.794199926778674,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 190,
+    "source": "datasets/U3D/lowlight/train/0482.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0482.jpg",
+      "initial_xywh": [
+        2296,
+        38,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2296,
+        38,
+        256,
+        256
+      ],
+      "step": 190
+    },
+    "total": 0.0016234326176345348,
+    "RD": 0.001354790641926229,
+    "VS": 0.00026864203391596675,
+    "gradient_finite": true,
+    "gradient_norm": 0.010988116264343262,
+    "parameter_update_l1": 2.007794009288773,
+    "cuda": true,
+    "wait_ms": 325.3417001105845,
+    "transfer_ms": 0.9262000676244497,
+    "compute_ms": 27.75799995288253,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 191,
+    "source": "datasets/U3D/lowlight/train/0680.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0680.jpg",
+      "initial_xywh": [
+        478,
+        1433,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        478,
+        1433,
+        256,
+        256
+      ],
+      "step": 191
+    },
+    "total": 0.020932920277118683,
+    "RD": 0.018686790019273758,
+    "VS": 0.0022461307235062122,
+    "gradient_finite": true,
+    "gradient_norm": 0.0526539646089077,
+    "parameter_update_l1": 2.976747161243111,
+    "cuda": true,
+    "wait_ms": 354.27369992248714,
+    "transfer_ms": 0.6721001118421555,
+    "compute_ms": 30.262599932029843,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 192,
+    "source": "datasets/U3D/lowlight/train/0405.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0405.jpg",
+      "initial_xywh": [
+        2162,
+        565,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2162,
+        565,
+        256,
+        256
+      ],
+      "step": 192
+    },
+    "total": 0.01652536913752556,
+    "RD": 0.014600733295083046,
+    "VS": 0.001924634911119938,
+    "gradient_finite": true,
+    "gradient_norm": 0.06166743114590645,
+    "parameter_update_l1": 3.539438619860448,
+    "cuda": true,
+    "wait_ms": 309.8887000232935,
+    "transfer_ms": 0.6828999612480402,
+    "compute_ms": 27.431600028648973,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 193,
+    "source": "datasets/U3D/lowlight/train/0346.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0346.jpg",
+      "initial_xywh": [
+        796,
+        758,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        796,
+        758,
+        256,
+        256
+      ],
+      "step": 193
+    },
+    "total": 0.0026114522479474545,
+    "RD": 0.0024571381509304047,
+    "VS": 0.00015431421343237162,
+    "gradient_finite": true,
+    "gradient_norm": 0.013637969270348549,
+    "parameter_update_l1": 3.43223622336518,
+    "cuda": true,
+    "wait_ms": 314.3719998188317,
+    "transfer_ms": 0.6278001237660646,
+    "compute_ms": 26.33549994789064,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 194,
+    "source": "datasets/U3D/lowlight/train/0595.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0595.jpg",
+      "initial_xywh": [
+        219,
+        465,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        219,
+        465,
+        256,
+        256
+      ],
+      "step": 194
+    },
+    "total": 0.019966023042798042,
+    "RD": 0.01939086802303791,
+    "VS": 0.0005751558346673846,
+    "gradient_finite": true,
+    "gradient_norm": 0.1475006639957428,
+    "parameter_update_l1": 2.7398200392490253,
+    "cuda": true,
+    "wait_ms": 333.1066998653114,
+    "transfer_ms": 0.5463000852614641,
+    "compute_ms": 27.54310006275773,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 195,
+    "source": "datasets/U3D/lowlight/train/0028.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0028.jpg",
+      "initial_xywh": [
+        38,
+        111,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        38,
+        111,
+        256,
+        256
+      ],
+      "step": 195
+    },
+    "total": 0.0006945380591787398,
+    "RD": 0.000581052154302597,
+    "VS": 0.00011348591942805797,
+    "gradient_finite": true,
+    "gradient_norm": 0.005381183698773384,
+    "parameter_update_l1": 2.568820202490315,
+    "cuda": true,
+    "wait_ms": 335.7799001969397,
+    "transfer_ms": 0.5411999300122261,
+    "compute_ms": 29.71629984676838,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 196,
+    "source": "datasets/U3D/lowlight/train/0403.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0403.jpg",
+      "initial_xywh": [
+        399,
+        1151,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        399,
+        1151,
+        256,
+        256
+      ],
+      "step": 196
+    },
+    "total": 0.00016354635590687394,
+    "RD": 6.61523372400552e-05,
+    "VS": 9.739401139086112e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.00390188698656857,
+    "parameter_update_l1": 2.3937368686310947,
+    "cuda": true,
+    "wait_ms": 300.43000006116927,
+    "transfer_ms": 0.5934999790042639,
+    "compute_ms": 27.347699971869588,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 197,
+    "source": "datasets/U3D/lowlight/train/0685.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0685.jpg",
+      "initial_xywh": [
+        2473,
+        1853,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2473,
+        1853,
+        256,
+        256
+      ],
+      "step": 197
+    },
+    "total": 0.2322082817554474,
+    "RD": 0.23134660720825195,
+    "VS": 0.000861678272485733,
+    "gradient_finite": true,
+    "gradient_norm": 1.1338584423065186,
+    "parameter_update_l1": 2.178850832860917,
+    "cuda": true,
+    "wait_ms": 342.40969992242754,
+    "transfer_ms": 0.8308000396937132,
+    "compute_ms": 27.298999950289726,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 198,
+    "source": "datasets/U3D/lowlight/train/0221.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0221.jpg",
+      "initial_xywh": [
+        3477,
+        1518,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3477,
+        1518,
+        256,
+        256
+      ],
+      "step": 198
+    },
+    "total": 0.001468909322284162,
+    "RD": 0.0013401934411376715,
+    "VS": 0.00012871585204266012,
+    "gradient_finite": true,
+    "gradient_norm": 0.005215874407440424,
+    "parameter_update_l1": 2.0849445139756426,
+    "cuda": true,
+    "wait_ms": 315.960600040853,
+    "transfer_ms": 0.6512000691145658,
+    "compute_ms": 27.650299947708845,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 199,
+    "source": "datasets/U3D/lowlight/train/0069.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0069.jpg",
+      "initial_xywh": [
+        1280,
+        193,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1280,
+        193,
+        256,
+        256
+      ],
+      "step": 199
+    },
+    "total": 0.0015974572161212564,
+    "RD": 0.0014935968210920691,
+    "VS": 0.0001038604459608905,
+    "gradient_finite": true,
+    "gradient_norm": 0.0050415294244885445,
+    "parameter_update_l1": 2.0128112812526524,
+    "cuda": true,
+    "wait_ms": 345.49440001137555,
+    "transfer_ms": 0.916799996048212,
+    "compute_ms": 29.38210009597242,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  },
+  {
+    "step": 200,
+    "source": "datasets/U3D/lowlight/train/0261.jpg",
+    "crop": {
+      "source": "datasets/U3D/lowlight/train/0261.jpg",
+      "initial_xywh": [
+        1329,
+        291,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        1329,
+        291,
+        256,
+        256
+      ],
+      "step": 200
+    },
+    "total": 0.005470846313983202,
+    "RD": 0.005404922179877758,
+    "VS": 6.592422141693532e-05,
+    "gradient_finite": true,
+    "gradient_norm": 0.03227480500936508,
+    "parameter_update_l1": 2.10276356729446,
+    "cuda": true,
+    "wait_ms": 358.2035000436008,
+    "transfer_ms": 0.6029999349266291,
+    "compute_ms": 29.722499893978238,
+    "peak_allocated_mib": 1205.72705078125,
+    "peak_reserved_mib": 1864.0
+  }
+]

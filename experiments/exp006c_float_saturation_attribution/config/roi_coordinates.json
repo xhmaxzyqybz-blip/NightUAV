@@ -1,0 +1,278 @@
+[
+  {
+    "source": "datasets/U3D/lowlight/train/0049.jpg",
+    "xywh": [
+      192,
+      320,
+      128,
+      128
+    ],
+    "input_mean_y": 0.46970927715301514,
+    "input_dark_fraction": 0.10784912109375,
+    "input_bright_fraction": 0.22161865234375,
+    "category": "highlight",
+    "eligible_count": 23,
+    "eligible_median_input_y": 0.46970927715301514,
+    "original_3840x2160_xywh": [
+      576,
+      960,
+      384,
+      384
+    ],
+    "panel_path": "outputs/0049_highlight.png",
+    "heatmap_beyond_display_range_ratio": 0.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0049.jpg",
+    "xywh": [
+      1024,
+      256,
+      128,
+      128
+    ],
+    "input_mean_y": 0.10299251973628998,
+    "input_dark_fraction": 0.90380859375,
+    "input_bright_fraction": 0.00164794921875,
+    "category": "dark",
+    "eligible_count": 11,
+    "eligible_median_input_y": 0.10299251973628998,
+    "original_3840x2160_xywh": [
+      3072,
+      768,
+      384,
+      384
+    ],
+    "panel_path": "outputs/0049_dark.png",
+    "heatmap_beyond_display_range_ratio": 0.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0049.jpg",
+    "xywh": [
+      960,
+      448,
+      128,
+      128
+    ],
+    "input_mean_y": 0.30934953689575195,
+    "input_dark_fraction": 0.39520263671875,
+    "input_bright_fraction": 0.06060791015625,
+    "category": "boundary",
+    "eligible_count": 30,
+    "eligible_median_input_y": 0.3120572715997696,
+    "original_3840x2160_xywh": [
+      2880,
+      1344,
+      384,
+      384
+    ],
+    "panel_path": "outputs/0049_boundary.png",
+    "heatmap_beyond_display_range_ratio": 0.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0179.jpg",
+    "xywh": [
+      1088,
+      512,
+      128,
+      128
+    ],
+    "input_mean_y": 0.40875473618507385,
+    "input_dark_fraction": 0.19842529296875,
+    "input_bright_fraction": 0.15264892578125,
+    "category": "highlight",
+    "eligible_count": 77,
+    "eligible_median_input_y": 0.40875473618507385,
+    "original_3840x2160_xywh": [
+      3264,
+      1536,
+      384,
+      384
+    ],
+    "panel_path": "outputs/0179_highlight.png",
+    "heatmap_beyond_display_range_ratio": 0.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0179.jpg",
+    "xywh": [
+      0,
+      320,
+      128,
+      128
+    ],
+    "input_mean_y": 0.09849753975868225,
+    "input_dark_fraction": 0.97491455078125,
+    "input_bright_fraction": 0.0010986328125,
+    "category": "dark",
+    "eligible_count": 61,
+    "eligible_median_input_y": 0.09849753975868225,
+    "original_3840x2160_xywh": [
+      0,
+      960,
+      384,
+      384
+    ],
+    "panel_path": "outputs/0179_dark.png",
+    "heatmap_beyond_display_range_ratio": 0.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0179.jpg",
+    "xywh": [
+      256,
+      320,
+      128,
+      128
+    ],
+    "input_mean_y": 0.3077363073825836,
+    "input_dark_fraction": 0.3983154296875,
+    "input_bright_fraction": 0.10235595703125,
+    "category": "boundary",
+    "eligible_count": 81,
+    "eligible_median_input_y": 0.3077363073825836,
+    "original_3840x2160_xywh": [
+      768,
+      960,
+      384,
+      384
+    ],
+    "panel_path": "outputs/0179_boundary.png",
+    "heatmap_beyond_display_range_ratio": 0.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0758.jpg",
+    "xywh": [
+      768,
+      256,
+      128,
+      128
+    ],
+    "input_mean_y": 0.4516153335571289,
+    "input_dark_fraction": 0.219482421875,
+    "input_bright_fraction": 0.19720458984375,
+    "category": "highlight",
+    "eligible_count": 66,
+    "eligible_median_input_y": 0.44856294989585876,
+    "original_3840x2160_xywh": [
+      2304,
+      768,
+      384,
+      384
+    ],
+    "panel_path": "outputs/0758_highlight.png",
+    "heatmap_beyond_display_range_ratio": 0.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0758.jpg",
+    "xywh": [
+      0,
+      592,
+      128,
+      128
+    ],
+    "input_mean_y": 0.09105026721954346,
+    "input_dark_fraction": 0.94171142578125,
+    "input_bright_fraction": 0.00030517578125,
+    "category": "dark",
+    "eligible_count": 21,
+    "eligible_median_input_y": 0.09105026721954346,
+    "original_3840x2160_xywh": [
+      0,
+      1776,
+      384,
+      384
+    ],
+    "panel_path": "outputs/0758_dark.png",
+    "heatmap_beyond_display_range_ratio": 0.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0758.jpg",
+    "xywh": [
+      640,
+      320,
+      128,
+      128
+    ],
+    "input_mean_y": 0.31567710638046265,
+    "input_dark_fraction": 0.39617919921875,
+    "input_bright_fraction": 0.0889892578125,
+    "category": "boundary",
+    "eligible_count": 47,
+    "eligible_median_input_y": 0.31567710638046265,
+    "original_3840x2160_xywh": [
+      1920,
+      960,
+      384,
+      384
+    ],
+    "panel_path": "outputs/0758_boundary.png",
+    "heatmap_beyond_display_range_ratio": 0.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0792.jpg",
+    "xywh": [
+      448,
+      0,
+      128,
+      128
+    ],
+    "input_mean_y": 0.48634931445121765,
+    "input_dark_fraction": 0.13104248046875,
+    "input_bright_fraction": 0.2783203125,
+    "category": "highlight",
+    "eligible_count": 59,
+    "eligible_median_input_y": 0.48634931445121765,
+    "original_3840x2160_xywh": [
+      1344,
+      0,
+      384,
+      384
+    ],
+    "panel_path": "outputs/0792_highlight.png",
+    "heatmap_beyond_display_range_ratio": 0.00030517578125
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0792.jpg",
+    "xywh": [
+      768,
+      0,
+      128,
+      128
+    ],
+    "input_mean_y": 0.059131257236003876,
+    "input_dark_fraction": 0.99462890625,
+    "input_bright_fraction": 0.0008544921875,
+    "category": "dark",
+    "eligible_count": 69,
+    "eligible_median_input_y": 0.059131257236003876,
+    "original_3840x2160_xywh": [
+      2304,
+      0,
+      384,
+      384
+    ],
+    "panel_path": "outputs/0792_dark.png",
+    "heatmap_beyond_display_range_ratio": 0.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0792.jpg",
+    "xywh": [
+      512,
+      0,
+      128,
+      128
+    ],
+    "input_mean_y": 0.3131084442138672,
+    "input_dark_fraction": 0.37164306640625,
+    "input_bright_fraction": 0.0855712890625,
+    "category": "boundary",
+    "eligible_count": 49,
+    "eligible_median_input_y": 0.3131084442138672,
+    "original_3840x2160_xywh": [
+      1536,
+      0,
+      384,
+      384
+    ],
+    "panel_path": "outputs/0792_boundary.png",
+    "heatmap_beyond_display_range_ratio": 0.0
+  }
+]

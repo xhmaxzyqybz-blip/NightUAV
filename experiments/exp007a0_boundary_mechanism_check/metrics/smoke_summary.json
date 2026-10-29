@@ -1,0 +1,130 @@
+{
+  "status": "PASS",
+  "effective_updates": 200,
+  "unique_train_images": 200,
+  "lambda": 0.053192434320470425,
+  "loss_stats": {
+    "total": {
+      "mean": 0.026103162953295397,
+      "min": 3.556067531462759e-05,
+      "max": 0.32965898513793945,
+      "median": 0.007975018117576838,
+      "rms": 0.058628095270018776
+    },
+    "RD": {
+      "mean": 0.02549997249888065,
+      "min": 3.678419943753397e-06,
+      "max": 0.3286547362804413,
+      "median": 0.007424141280353069,
+      "rms": 0.05805586219900122
+    },
+    "VS": {
+      "mean": 0.0005012260906505617,
+      "min": 2.1874066078453325e-06,
+      "max": 0.005079845432192087,
+      "median": 0.00033408982562832534,
+      "rms": 0.0007828790545536033
+    },
+    "upper": {
+      "mean": 0.001916892449655433,
+      "min": 0.0,
+      "max": 0.0803913027048111,
+      "median": 5.710843197448412e-06,
+      "rms": 0.00819141518573949
+    },
+    "weighted_upper": {
+      "mean": 0.00010196417349115347,
+      "min": 0.0,
+      "max": 0.00427620904520154,
+      "median": 3.037736462374596e-07,
+      "rms": 0.0004357213081528626
+    }
+  },
+  "upper_active_steps": 118,
+  "upper_active_fraction": 0.59,
+  "gradient_ratio_stats": {
+    "mean": 0.02869214095986069,
+    "min": 0.0,
+    "max": 0.28788204929333083,
+    "median": 0.003114543624008549,
+    "rms": 0.07153591971069144
+  },
+  "gradient_samples": 21,
+  "pooled_gradient_rms_ratio": 0.013300845790550696,
+  "rolling50_windows": [
+    {
+      "steps": [
+        1,
+        50
+      ],
+      "total": 0.023911867871065626,
+      "RD": 0.02331593540700851,
+      "VS": 0.0004908730037823261,
+      "upper": 0.001975077756261783,
+      "weighted_upper": 0.00010505919041614798,
+      "pre_gt1_channel_ratio": 0.033999939609202556,
+      "pre_lt0_channel_ratio": 0.0
+    },
+    {
+      "steps": [
+        51,
+        100
+      ],
+      "total": 0.037032241358829196,
+      "RD": 0.03666570897300517,
+      "VS": 0.00034924018196761606,
+      "upper": 0.00032508018332018997,
+      "weighted_upper": 1.7291805819846933e-05,
+      "pre_gt1_channel_ratio": 0.023841146628792557,
+      "pre_lt0_channel_ratio": 0.0
+    },
+    {
+      "steps": [
+        101,
+        150
+      ],
+      "total": 0.0182537047250662,
+      "RD": 0.017627711463719605,
+      "VS": 0.000494980477669742,
+      "upper": 0.0024629926100644055,
+      "weighted_upper": 0.0001310125710626024,
+      "pre_gt1_channel_ratio": 0.029568177401397406,
+      "pre_lt0_channel_ratio": 0.0
+    },
+    {
+      "steps": [
+        151,
+        200
+      ],
+      "total": 0.02521483785822056,
+      "RD": 0.024390534151789326,
+      "VS": 0.0006698106991825625,
+      "upper": 0.002904419248975354,
+      "weighted_upper": 0.00015449312666601656,
+      "pre_gt1_channel_ratio": 0.03557800438648883,
+      "pre_lt0_channel_ratio": 0.002021382649836596
+    }
+  ],
+  "crop_resampling": {
+    "invalid_crop_resample_count": 0,
+    "affected_image_count": 0,
+    "affected_image_paths": [],
+    "affected_sample_count": 0,
+    "max_resamples_for_single_sample": 0
+  },
+  "elapsed_seconds": 73.12309590028599,
+  "data_seconds": 60.90578480158001,
+  "transfer_seconds": 0.12840990163385868,
+  "compute_seconds": 5.5812965095974505,
+  "gradient_monitor_seconds": 4.8010967979207635,
+  "peak_allocated_mib": 1225.99072265625,
+  "peak_reserved_mib": 1868.0,
+  "nan_inf": false,
+  "oom": false,
+  "all_updates_finite_nonzero": true,
+  "protected_hashes_unchanged": true,
+  "clamp_equality_each_step": true,
+  "dev_used": false,
+  "checkpoint_saved": false,
+  "no_quality_or_convergence_claim": true
+}

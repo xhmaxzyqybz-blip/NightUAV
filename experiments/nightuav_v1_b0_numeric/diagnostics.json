@@ -1,0 +1,1851 @@
+{
+  "status": "PASS",
+  "parameter_updates": 0,
+  "trainable_parameter_count": 25,
+  "fixture_delta_max": 1.0,
+  "fixture_is_not_hyperparameter_selection": true,
+  "k_theory_range": [
+    0.00349067268159625,
+    286.47773401162635
+  ],
+  "definitions": {
+    "overflow": "strict z>1 per RGB channel, all original overflow including input endpoints",
+    "impossible": "closed b in [0,1] minimum z>1; denominator original overflow channels",
+    "coupling": "b remains RGB; delta is shared, common interval requires all RGB z in [0,1]",
+    "distribution_thresholds": "1e-3 diagnostic only, not training thresholds",
+    "reachability": "float64 endpoints of observed float32 k/X; finite sigmoid endpoint limitations separate",
+    "shared_feasibility": "necessary per-pixel condition; does not prove one g(S) can realize all pixels"
+  },
+  "numeric_checks": {
+    "analytic_error": {
+      "equal": false,
+      "max_abs": 2.220446049250313e-16,
+      "mean_abs": 1.8940530085689547e-17
+    },
+    "finite_difference_error": {
+      "equal": false,
+      "max_abs": 2.5734681052824726e-10,
+      "mean_abs": 6.635876704334816e-11
+    },
+    "offset_fixture": [
+      -0.1,
+      0.1
+    ],
+    "direction_pass": true,
+    "upper_gradient_norms": [
+      0.0,
+      0.0,
+      0.0012140551850513394,
+      0.0015035533579066396
+    ],
+    "preclamp_gradient_norms": [
+      0.0,
+      0.0,
+      0.08681096508504488,
+      0.1528748720884323
+    ],
+    "postclamp_gradient_norms": [
+      0.0,
+      0.0,
+      0.08253211848052805,
+      0.14668814837932587
+    ],
+    "functional_nonzero_head_gradient_norms": [
+      0.0007599453092552722,
+      0.0028015293646603823,
+      0.08733814209699631,
+      0.15378940105438232
+    ],
+    "stored_parameters_modified": false,
+    "first_layer_zero_gradient_at_zero_last_layer_expected": true,
+    "clamp_gradient": [
+      0.0,
+      1.0
+    ],
+    "upper_gradient": [
+      0.20000004768371582,
+      0.0
+    ]
+  },
+  "per_image": [
+    {
+      "source": "datasets/U3D/lowlight/train/0049.jpg",
+      "shape": [
+        1,
+        3,
+        720,
+        1280
+      ],
+      "zero_offset": {
+        "z": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        },
+        "y": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        },
+        "b": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        }
+      },
+      "regions": {
+        "all": {
+          "over_channels": 98074,
+          "impossible_channels": 10571,
+          "impossible_over_overflow": 0.107785957542264
+        },
+        "dark": {
+          "over_channels": 12,
+          "impossible_channels": 0,
+          "impossible_over_overflow": 0.0
+        },
+        "middle": {
+          "over_channels": 26538,
+          "impossible_channels": 21,
+          "impossible_over_overflow": 0.0007913181098801719
+        },
+        "bright": {
+          "over_channels": 71524,
+          "impossible_channels": 10550,
+          "impossible_over_overflow": 0.1475029360774006
+        }
+      },
+      "k": {
+        "count": 2764800,
+        "mean": 1.056043928920149,
+        "std": 0.06892295259223832,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.9294407963752747,
+          0.9552726149559021,
+          0.9589650332927704,
+          1.079559564590454,
+          1.1278421878814697,
+          1.1392035484313965,
+          1.1456841230392456,
+          1.3677831888198853
+        ]
+      },
+      "v": {
+        "count": 2764800,
+        "mean": -1.5134709485421491,
+        "std": 0.2439605920421591,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          -1.9553951025009155,
+          -1.8046475648880005,
+          -1.709869384765625,
+          -1.659564733505249,
+          -1.1627843379974365,
+          -1.1538987159729004,
+          -1.1375744330883026,
+          -0.7579535841941833
+        ]
+      },
+      "b": {
+        "count": 2764800,
+        "mean": 0.18324612612086638,
+        "std": 0.037982618454451965,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.12396625429391861,
+          0.14128626883029938,
+          0.15318065881729126,
+          0.15982043743133545,
+          0.23816171288490295,
+          0.23977768421173096,
+          0.24276599287986755,
+          0.31909072399139404
+        ]
+      },
+      "sigmoid_derivative": {
+        "count": 2764800,
+        "mean": 0.14822430407599582,
+        "std": 0.023084118631357384,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.10859861969947815,
+          0.12132446467876434,
+          0.12971635162830353,
+          0.13427786529064178,
+          0.18144072592258453,
+          0.18228434026241302,
+          0.18383066356182098,
+          0.2172718346118927
+        ]
+      },
+      "dz_ddelta": {
+        "count": 2764800,
+        "mean": 0.15287487659681703,
+        "std": 0.02760761388513403,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.1131150941536202,
+          0.12511621474486337,
+          0.13102710858856453,
+          0.1365844564028993,
+          0.1932763557464615,
+          0.1946572888730035,
+          0.19684018098881345,
+          0.25328809092632015
+        ]
+      },
+      "overflow_dz_ddelta": {
+        "count": 98074,
+        "mean": 0.174410043305663,
+        "std": 0.029579749354450405,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.116843005403664,
+          0.12516135004734713,
+          0.13318082790142566,
+          0.19388570044017145,
+          0.1980635419794545,
+          0.19837543306921235,
+          0.19864252421447987,
+          0.23470136500219205
+        ]
+      },
+      "sigmoid_derivative_below_1e-3": {
+        "count": 0,
+        "denominator": 2764800,
+        "ratio": 0.0
+      },
+      "dz_ddelta_below_1e-3": {
+        "count": 0,
+        "denominator": 2764800,
+        "ratio": 0.0
+      },
+      "overflow_dz_ddelta_below_1e-3": {
+        "count": 0,
+        "denominator": 98074,
+        "ratio": 0.0
+      },
+      "k_le_minus1_channels": 0,
+      "limiting_zmin_equal1_overflow_channels": 0,
+      "overflow_pixels": 64059,
+      "overflow_pixels_without_common_finite_delta_for_all_RGB_in_0_1": 9509,
+      "overflow_pixels_without_common_delta_in_fixture_bound": 27533
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0114.jpg",
+      "shape": [
+        1,
+        3,
+        720,
+        1280
+      ],
+      "zero_offset": {
+        "z": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        },
+        "y": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        },
+        "b": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        }
+      },
+      "regions": {
+        "all": {
+          "over_channels": 20998,
+          "impossible_channels": 4856,
+          "impossible_over_overflow": 0.23126012001142965
+        },
+        "dark": {
+          "over_channels": 0,
+          "impossible_channels": 0,
+          "impossible_over_overflow": null
+        },
+        "middle": {
+          "over_channels": 5224,
+          "impossible_channels": 14,
+          "impossible_over_overflow": 0.002679938744257274
+        },
+        "bright": {
+          "over_channels": 15774,
+          "impossible_channels": 4842,
+          "impossible_over_overflow": 0.3069608216051731
+        }
+      },
+      "k": {
+        "count": 2764800,
+        "mean": 1.054087164757204,
+        "std": 0.06737418697871189,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.9383922219276428,
+          0.9574535471200943,
+          0.9605609774589539,
+          1.0783158540725708,
+          1.1181018352508545,
+          1.1255601644515991,
+          1.1419587135314941,
+          1.3568261861801147
+        ]
+      },
+      "v": {
+        "count": 2764800,
+        "mean": -1.5084119865350227,
+        "std": 0.23797201758222514,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          -1.8740763664245605,
+          -1.7609940874576568,
+          -1.6925211071968078,
+          -1.6565099954605103,
+          -1.172444462776184,
+          -1.1621897220611572,
+          -1.1501135802268982,
+          -0.7610608339309692
+        ]
+      },
+      "b": {
+        "count": 2764800,
+        "mean": 0.1838613477637571,
+        "std": 0.03716327023184712,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.13307075202465057,
+          0.14666588455438614,
+          0.15544457733631134,
+          0.16023103892803192,
+          0.23641341924667358,
+          0.2382696270942688,
+          0.24046833842992782,
+          0.3184159994125366
+        ]
+      },
+      "sigmoid_derivative": {
+        "count": 2764800,
+        "mean": 0.14867524391266568,
+        "std": 0.022545724474419666,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.11536292731761932,
+          0.12515500083565712,
+          0.13128156960010529,
+          0.13455705344676971,
+          0.1805221140384674,
+          0.1814972162246704,
+          0.182643324136734,
+          0.21702724695205688
+        ]
+      },
+      "dz_ddelta": {
+        "count": 2764800,
+        "mean": 0.1531790900978518,
+        "std": 0.026987819976268663,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.11990375003876076,
+          0.12810238443001684,
+          0.13167122355068167,
+          0.13696477929217307,
+          0.19120160292106847,
+          0.19296853949801526,
+          0.19518705943015122,
+          0.2540041071262726
+        ]
+      },
+      "overflow_dz_ddelta": {
+        "count": 20998,
+        "mean": 0.17283874428907503,
+        "std": 0.03004762134062587,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.12163865108343343,
+          0.1252574115643606,
+          0.13130163626609476,
+          0.1938153200667661,
+          0.19680787609335135,
+          0.19731686928779754,
+          0.19805460413134968,
+          0.23251318529134962
+        ]
+      },
+      "sigmoid_derivative_below_1e-3": {
+        "count": 0,
+        "denominator": 2764800,
+        "ratio": 0.0
+      },
+      "dz_ddelta_below_1e-3": {
+        "count": 0,
+        "denominator": 2764800,
+        "ratio": 0.0
+      },
+      "overflow_dz_ddelta_below_1e-3": {
+        "count": 0,
+        "denominator": 20998,
+        "ratio": 0.0
+      },
+      "k_le_minus1_channels": 0,
+      "limiting_zmin_equal1_overflow_channels": 0,
+      "overflow_pixels": 13476,
+      "overflow_pixels_without_common_finite_delta_for_all_RGB_in_0_1": 4094,
+      "overflow_pixels_without_common_delta_in_fixture_bound": 7730
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0166.jpg",
+      "shape": [
+        1,
+        3,
+        720,
+        1280
+      ],
+      "zero_offset": {
+        "z": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        },
+        "y": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        },
+        "b": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        }
+      },
+      "regions": {
+        "all": {
+          "over_channels": 19080,
+          "impossible_channels": 3082,
+          "impossible_over_overflow": 0.16153039832285115
+        },
+        "dark": {
+          "over_channels": 0,
+          "impossible_channels": 0,
+          "impossible_over_overflow": null
+        },
+        "middle": {
+          "over_channels": 4190,
+          "impossible_channels": 0,
+          "impossible_over_overflow": 0.0
+        },
+        "bright": {
+          "over_channels": 14890,
+          "impossible_channels": 3082,
+          "impossible_over_overflow": 0.20698455339153796
+        }
+      },
+      "k": {
+        "count": 2764800,
+        "mean": 1.0558669888891745,
+        "std": 0.06786061217798378,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.9394698739051819,
+          0.9582588660717011,
+          0.9618657231330872,
+          1.0807394981384277,
+          1.1181361675262451,
+          1.1304793536663054,
+          1.1428642272949219,
+          1.3563721179962158
+        ]
+      },
+      "v": {
+        "count": 2764800,
+        "mean": -1.5083403729527964,
+        "std": 0.24000010143161474,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          -1.8977059125900269,
+          -1.7712929606437684,
+          -1.6956687092781066,
+          -1.6551927328109741,
+          -1.172950267791748,
+          -1.1581456661224365,
+          -1.1496922969818115,
+          -0.7677417993545532
+        ]
+      },
+      "b": {
+        "count": 2764800,
+        "mean": 0.18391767757156804,
+        "std": 0.0374809979368853,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.13036835193634033,
+          0.14538159534335138,
+          0.15503180027008057,
+          0.1604083776473999,
+          0.23632214963436127,
+          0.23900437355041504,
+          0.24054531753063202,
+          0.31696781516075134
+        ]
+      },
+      "sigmoid_derivative": {
+        "count": 2764800,
+        "mean": 0.14868714011766887,
+        "std": 0.022732926982869203,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.11337244510650635,
+          0.12424578957259655,
+          0.1309969425201416,
+          0.13467752933502197,
+          0.18047398328781128,
+          0.18188127875328064,
+          0.18268325924873352,
+          0.2164992094039917
+        ]
+      },
+      "dz_ddelta": {
+        "count": 2764800,
+        "mean": 0.1533282265727042,
+        "std": 0.027215165301839966,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.11821098398282101,
+          0.1275368480827311,
+          0.1316540091527721,
+          0.1372026260692811,
+          0.19113423579320254,
+          0.19383666239931552,
+          0.19527762328760115,
+          0.2529059538887474
+        ]
+      },
+      "overflow_dz_ddelta": {
+        "count": 19080,
+        "mean": 0.174788364310344,
+        "std": 0.03068669160829888,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.11821098398282101,
+          0.11935595506202926,
+          0.12423236085657631,
+          0.1938185122786873,
+          0.19591281420056308,
+          0.19653275157945704,
+          0.19790296325844312,
+          0.2329424852577883
+        ]
+      },
+      "sigmoid_derivative_below_1e-3": {
+        "count": 0,
+        "denominator": 2764800,
+        "ratio": 0.0
+      },
+      "dz_ddelta_below_1e-3": {
+        "count": 0,
+        "denominator": 2764800,
+        "ratio": 0.0
+      },
+      "overflow_dz_ddelta_below_1e-3": {
+        "count": 0,
+        "denominator": 19080,
+        "ratio": 0.0
+      },
+      "k_le_minus1_channels": 0,
+      "limiting_zmin_equal1_overflow_channels": 0,
+      "overflow_pixels": 13318,
+      "overflow_pixels_without_common_finite_delta_for_all_RGB_in_0_1": 2887,
+      "overflow_pixels_without_common_delta_in_fixture_bound": 7464
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0179.jpg",
+      "shape": [
+        1,
+        3,
+        720,
+        1280
+      ],
+      "zero_offset": {
+        "z": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        },
+        "y": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        },
+        "b": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        }
+      },
+      "regions": {
+        "all": {
+          "over_channels": 250620,
+          "impossible_channels": 18406,
+          "impossible_over_overflow": 0.07344186417684144
+        },
+        "dark": {
+          "over_channels": 0,
+          "impossible_channels": 0,
+          "impossible_over_overflow": null
+        },
+        "middle": {
+          "over_channels": 5169,
+          "impossible_channels": 3,
+          "impossible_over_overflow": 0.0005803830528148578
+        },
+        "bright": {
+          "over_channels": 245451,
+          "impossible_channels": 18403,
+          "impossible_over_overflow": 0.0749762681757255
+        }
+      },
+      "k": {
+        "count": 2764800,
+        "mean": 1.054080571560297,
+        "std": 0.06783758705691689,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.9307997226715088,
+          0.9550277590751648,
+          0.9583190083503723,
+          1.0747978687286377,
+          1.1196271538734437,
+          1.137223482131958,
+          1.1474661827087402,
+          1.356215000152588
+        ]
+      },
+      "v": {
+        "count": 2764800,
+        "mean": -1.5069096010223815,
+        "std": 0.23698926213846844,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          -1.8646903038024902,
+          -1.7322849106788636,
+          -1.6918654561042785,
+          -1.6586313247680664,
+          -1.1699811100959778,
+          -1.1453986048698426,
+          -1.1276381015777588,
+          -0.7678768038749695
+        ]
+      },
+      "b": {
+        "count": 2764800,
+        "mean": 0.18406299019819858,
+        "std": 0.03707088354281799,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.13415728509426117,
+          0.15029555454850196,
+          0.15553067475557328,
+          0.1599458009004593,
+          0.2368583858013153,
+          0.24133056551218032,
+          0.24459727108478546,
+          0.316938579082489
+        ]
+      },
+      "sigmoid_derivative": {
+        "count": 2764800,
+        "mean": 0.1488095554358329,
+        "std": 0.02245929730348566,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.1161591038107872,
+          0.127706795334816,
+          0.1313408762216568,
+          0.13436314463615417,
+          0.18075649440288544,
+          0.1830901212990284,
+          0.18476945161819458,
+          0.21648851037025452
+        ]
+      },
+      "dz_ddelta": {
+        "count": 2764800,
+        "mean": 0.15331885961139555,
+        "std": 0.0269409414854964,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.12101661456235202,
+          0.13049727092155797,
+          0.13143368674683412,
+          0.1368080598687094,
+          0.19158961345286443,
+          0.19568090437113075,
+          0.1983773080899814,
+          0.2528807775725289
+        ]
+      },
+      "overflow_dz_ddelta": {
+        "count": 250620,
+        "mean": 0.16093283942442752,
+        "std": 0.030845345881140795,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.12101661456235202,
+          0.1305145527593254,
+          0.13301125545764003,
+          0.1372737119045364,
+          0.19836775759941977,
+          0.198426357043752,
+          0.19875205236688384,
+          0.23265475838668126
+        ]
+      },
+      "sigmoid_derivative_below_1e-3": {
+        "count": 0,
+        "denominator": 2764800,
+        "ratio": 0.0
+      },
+      "dz_ddelta_below_1e-3": {
+        "count": 0,
+        "denominator": 2764800,
+        "ratio": 0.0
+      },
+      "overflow_dz_ddelta_below_1e-3": {
+        "count": 0,
+        "denominator": 250620,
+        "ratio": 0.0
+      },
+      "k_le_minus1_channels": 0,
+      "limiting_zmin_equal1_overflow_channels": 0,
+      "overflow_pixels": 105103,
+      "overflow_pixels_without_common_finite_delta_for_all_RGB_in_0_1": 14655,
+      "overflow_pixels_without_common_delta_in_fixture_bound": 78064
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0216.jpg",
+      "shape": [
+        1,
+        3,
+        720,
+        1280
+      ],
+      "zero_offset": {
+        "z": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        },
+        "y": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        },
+        "b": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        }
+      },
+      "regions": {
+        "all": {
+          "over_channels": 64995,
+          "impossible_channels": 13783,
+          "impossible_over_overflow": 0.21206246634356488
+        },
+        "dark": {
+          "over_channels": 0,
+          "impossible_channels": 0,
+          "impossible_over_overflow": null
+        },
+        "middle": {
+          "over_channels": 1553,
+          "impossible_channels": 30,
+          "impossible_over_overflow": 0.019317450096587252
+        },
+        "bright": {
+          "over_channels": 63442,
+          "impossible_channels": 13753,
+          "impossible_over_overflow": 0.2167806815674159
+        }
+      },
+      "k": {
+        "count": 2764800,
+        "mean": 1.0469947562185633,
+        "std": 0.06547455392231236,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.9226864576339722,
+          0.9484838819503785,
+          0.9561351537704468,
+          1.072697401046753,
+          1.1118483543395996,
+          1.1142847537994385,
+          1.1348747050762176,
+          1.3563523292541504
+        ]
+      },
+      "v": {
+        "count": 2764800,
+        "mean": -1.5098667025438475,
+        "std": 0.2283429139026605,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          -1.8200608491897583,
+          -1.7043074440956116,
+          -1.684199821949005,
+          -1.6593073606491089,
+          -1.1839187145233154,
+          -1.1796587705612183,
+          -1.1509164392948155,
+          -0.7660883069038391
+        ]
+      },
+      "b": {
+        "count": 2764800,
+        "mean": 0.18343298263306712,
+        "std": 0.035603776676332397,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.1394265741109848,
+          0.15390352815389632,
+          0.1565401390194893,
+          0.15985500812530518,
+          0.2343483567237854,
+          0.23511354625225067,
+          0.2403217434883117,
+          0.3173258900642395
+        ]
+      },
+      "sigmoid_derivative": {
+        "count": 2764800,
+        "mean": 0.14851769469537193,
+        "std": 0.02164659664736129,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.11998680233955383,
+          0.1302172239124775,
+          0.13203532844781876,
+          0.13430137932300568,
+          0.17942920327186584,
+          0.17983517050743103,
+          0.18256719574332234,
+          0.21663017570972443
+        ]
+      },
+      "dz_ddelta": {
+        "count": 2764800,
+        "mean": 0.1524725808848607,
+        "std": 0.025946791395594655,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.12402514330856518,
+          0.12999183324418567,
+          0.13113092460072906,
+          0.13677704130991528,
+          0.18947278072296042,
+          0.19012932893368664,
+          0.1946310691182796,
+          0.25295537155005066
+        ]
+      },
+      "overflow_dz_ddelta": {
+        "count": 64995,
+        "mean": 0.15760240714483773,
+        "std": 0.029491258001142218,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.1248377603440558,
+          0.13084951117474442,
+          0.13252426549063517,
+          0.13702792847289483,
+          0.19775243931929057,
+          0.1980903071403148,
+          0.1984190384451484,
+          0.23314067130034755
+        ]
+      },
+      "sigmoid_derivative_below_1e-3": {
+        "count": 0,
+        "denominator": 2764800,
+        "ratio": 0.0
+      },
+      "dz_ddelta_below_1e-3": {
+        "count": 0,
+        "denominator": 2764800,
+        "ratio": 0.0
+      },
+      "overflow_dz_ddelta_below_1e-3": {
+        "count": 0,
+        "denominator": 64995,
+        "ratio": 0.0
+      },
+      "k_le_minus1_channels": 0,
+      "limiting_zmin_equal1_overflow_channels": 0,
+      "overflow_pixels": 26566,
+      "overflow_pixels_without_common_finite_delta_for_all_RGB_in_0_1": 8999,
+      "overflow_pixels_without_common_delta_in_fixture_bound": 19784
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0343.jpg",
+      "shape": [
+        1,
+        3,
+        720,
+        1280
+      ],
+      "zero_offset": {
+        "z": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        },
+        "y": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        },
+        "b": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        }
+      },
+      "regions": {
+        "all": {
+          "over_channels": 13856,
+          "impossible_channels": 2952,
+          "impossible_over_overflow": 0.21304849884526558
+        },
+        "dark": {
+          "over_channels": 0,
+          "impossible_channels": 0,
+          "impossible_over_overflow": null
+        },
+        "middle": {
+          "over_channels": 2397,
+          "impossible_channels": 0,
+          "impossible_over_overflow": 0.0
+        },
+        "bright": {
+          "over_channels": 11459,
+          "impossible_channels": 2952,
+          "impossible_over_overflow": 0.25761410245222094
+        }
+      },
+      "k": {
+        "count": 2764800,
+        "mean": 1.0525073392413928,
+        "std": 0.06654237843226207,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.9396548271179199,
+          0.9581490159034729,
+          0.9603201746940613,
+          1.0775073766708374,
+          1.115440011024475,
+          1.1181081533432007,
+          1.1387631916999816,
+          1.3579221963882446
+        ]
+      },
+      "v": {
+        "count": 2764800,
+        "mean": -1.5065499185031297,
+        "std": 0.23436281174243287,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          -1.8422850370407104,
+          -1.7282431161403655,
+          -1.686492097377777,
+          -1.655623197555542,
+          -1.17742680311203,
+          -1.1727161407470703,
+          -1.1529279816150668,
+          -0.7677950859069824
+        ]
+      },
+      "b": {
+        "count": 2764800,
+        "mean": 0.1840578898420844,
+        "std": 0.03663226687760878,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.1367812603712082,
+          0.1508124466240406,
+          0.15623771995306016,
+          0.16035039722919464,
+          0.23551517724990845,
+          0.23636437952518463,
+          0.23995466753840441,
+          0.3169562518596649
+        ]
+      },
+      "sigmoid_derivative": {
+        "count": 2764800,
+        "mean": 0.14883866007115337,
+        "std": 0.022215568941181714,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.11807214468717575,
+          0.12806805938482285,
+          0.1318274885416031,
+          0.13463814556598663,
+          0.18004778027534485,
+          0.18049626052379608,
+          0.18237643048167226,
+          0.21649497747421265
+        ]
+      },
+      "dz_ddelta": {
+        "count": 2764800,
+        "mean": 0.15322214572481255,
+        "std": 0.02661230271256829,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.12264496107313641,
+          0.1302779802316226,
+          0.131821310029648,
+          0.13716480343242654,
+          0.19045083710150623,
+          0.19116908753647602,
+          0.19490960501579171,
+          0.2527482872659859
+        ]
+      },
+      "overflow_dz_ddelta": {
+        "count": 13856,
+        "mean": 0.17077837956086656,
+        "std": 0.030544525462521167,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.12448616020949799,
+          0.12745267573837374,
+          0.13169539471827751,
+          0.19432957441138993,
+          0.1969244013897531,
+          0.1975915437386119,
+          0.1982731328286656,
+          0.23215209440117865
+        ]
+      },
+      "sigmoid_derivative_below_1e-3": {
+        "count": 0,
+        "denominator": 2764800,
+        "ratio": 0.0
+      },
+      "dz_ddelta_below_1e-3": {
+        "count": 0,
+        "denominator": 2764800,
+        "ratio": 0.0
+      },
+      "overflow_dz_ddelta_below_1e-3": {
+        "count": 0,
+        "denominator": 13856,
+        "ratio": 0.0
+      },
+      "k_le_minus1_channels": 0,
+      "limiting_zmin_equal1_overflow_channels": 0,
+      "overflow_pixels": 8313,
+      "overflow_pixels_without_common_finite_delta_for_all_RGB_in_0_1": 2288,
+      "overflow_pixels_without_common_delta_in_fixture_bound": 4949
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0758.jpg",
+      "shape": [
+        1,
+        3,
+        720,
+        1280
+      ],
+      "zero_offset": {
+        "z": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        },
+        "y": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        },
+        "b": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        }
+      },
+      "regions": {
+        "all": {
+          "over_channels": 219242,
+          "impossible_channels": 35217,
+          "impossible_over_overflow": 0.160630718566698
+        },
+        "dark": {
+          "over_channels": 4,
+          "impossible_channels": 0,
+          "impossible_over_overflow": 0.0
+        },
+        "middle": {
+          "over_channels": 11593,
+          "impossible_channels": 136,
+          "impossible_over_overflow": 0.011731217113775554
+        },
+        "bright": {
+          "over_channels": 207645,
+          "impossible_channels": 35081,
+          "impossible_over_overflow": 0.16894700089094367
+        }
+      },
+      "k": {
+        "count": 2764800,
+        "mean": 1.0565885042160086,
+        "std": 0.06906844455569343,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.9411008358001709,
+          0.9522474390268326,
+          0.9588032364845276,
+          1.08371901512146,
+          1.1303586959838867,
+          1.1398974657058716,
+          1.1473230123519897,
+          1.3584954738616943
+        ]
+      },
+      "v": {
+        "count": 2764800,
+        "mean": -1.5101254094217438,
+        "std": 0.2426124584910149,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          -1.8946473598480225,
+          -1.7662949657440186,
+          -1.7077013373374939,
+          -1.6607545614242554,
+          -1.1563246250152588,
+          -1.1458749651908875,
+          -1.1293103671073914,
+          -0.768229603767395
+        ]
+      },
+      "b": {
+        "count": 2764800,
+        "mean": 0.18371223068573508,
+        "std": 0.037894092245306626,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.1307154893875122,
+          0.14600369200110436,
+          0.15346209704875946,
+          0.1596607267856598,
+          0.2393357753753662,
+          0.24124334976077078,
+          0.2442884150147438,
+          0.31686219573020935
+        ]
+      },
+      "sigmoid_derivative": {
+        "count": 2764800,
+        "mean": 0.14852608475076085,
+        "std": 0.022973842300935778,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.11362895369529724,
+          0.12468661278486252,
+          0.12991148233413696,
+          0.13416919112205505,
+          0.18205416202545166,
+          0.18304498717188833,
+          0.18461157411336898,
+          0.21646054089069366
+        ]
+      },
+      "dz_ddelta": {
+        "count": 2764800,
+        "mean": 0.1532261458308548,
+        "std": 0.027529001893770413,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.11799536228796718,
+          0.1280820248944369,
+          0.13095724446229484,
+          0.13650054174844944,
+          0.19401976997705178,
+          0.1956540633713319,
+          0.1981400811158234,
+          0.25279528417911135
+        ]
+      },
+      "overflow_dz_ddelta": {
+        "count": 219242,
+        "mean": 0.16263441236293436,
+        "std": 0.031063146649736254,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.11958360342825473,
+          0.1305988027107829,
+          0.1328277097922184,
+          0.13718634905981264,
+          0.1981761955486045,
+          0.1983356081767361,
+          0.19844730078967734,
+          0.23411202432777417
+        ]
+      },
+      "sigmoid_derivative_below_1e-3": {
+        "count": 0,
+        "denominator": 2764800,
+        "ratio": 0.0
+      },
+      "dz_ddelta_below_1e-3": {
+        "count": 0,
+        "denominator": 2764800,
+        "ratio": 0.0
+      },
+      "overflow_dz_ddelta_below_1e-3": {
+        "count": 0,
+        "denominator": 219242,
+        "ratio": 0.0
+      },
+      "k_le_minus1_channels": 0,
+      "limiting_zmin_equal1_overflow_channels": 0,
+      "overflow_pixels": 98010,
+      "overflow_pixels_without_common_finite_delta_for_all_RGB_in_0_1": 26598,
+      "overflow_pixels_without_common_delta_in_fixture_bound": 67289
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0792.jpg",
+      "shape": [
+        1,
+        3,
+        720,
+        1280
+      ],
+      "zero_offset": {
+        "z": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        },
+        "y": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        },
+        "b": {
+          "equal": true,
+          "max_abs": 0.0,
+          "mean_abs": 0.0
+        }
+      },
+      "regions": {
+        "all": {
+          "over_channels": 212946,
+          "impossible_channels": 20037,
+          "impossible_over_overflow": 0.09409427742244512
+        },
+        "dark": {
+          "over_channels": 0,
+          "impossible_channels": 0,
+          "impossible_over_overflow": null
+        },
+        "middle": {
+          "over_channels": 17720,
+          "impossible_channels": 4,
+          "impossible_over_overflow": 0.0002257336343115124
+        },
+        "bright": {
+          "over_channels": 195226,
+          "impossible_channels": 20033,
+          "impossible_over_overflow": 0.10261440586807086
+        }
+      },
+      "k": {
+        "count": 2764800,
+        "mean": 1.0559967678787912,
+        "std": 0.06849121169836153,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.93755042552948,
+          0.9567160606384277,
+          0.9593620300292969,
+          1.0763226747512817,
+          1.1253817200660705,
+          1.1406871199607849,
+          1.1475350856781006,
+          1.3556814193725586
+        ]
+      },
+      "v": {
+        "count": 2764800,
+        "mean": -1.5085214451008209,
+        "std": 0.24056159665983995,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          -1.9029545783996582,
+          -1.7728170192241668,
+          -1.7022788763046264,
+          -1.6574724912643433,
+          -1.1622320294380188,
+          -1.1480672299861907,
+          -1.1299707865715027,
+          -0.7688400745391846
+        ]
+      },
+      "b": {
+        "count": 2764800,
+        "mean": 0.18390344211682397,
+        "std": 0.03757557796237417,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.12977443635463715,
+          0.14519233971834183,
+          0.1541678711771965,
+          0.16010157763957977,
+          0.23826194256544114,
+          0.24084228426218032,
+          0.24416650861501693,
+          0.3167300820350647
+        ]
+      },
+      "sigmoid_derivative": {
+        "count": 2764800,
+        "mean": 0.14867104203650983,
+        "std": 0.02278314934294437,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.11293303221464157,
+          0.12411152549088002,
+          0.13040013313293458,
+          0.13446906208992004,
+          0.18149319440126419,
+          0.1828372783958912,
+          0.18454922750592231,
+          0.21641214191913605
+        ]
+      },
+      "dz_ddelta": {
+        "count": 2764800,
+        "mean": 0.1533242999194419,
+        "std": 0.027298286721536853,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.11771890697970808,
+          0.12757921195734923,
+          0.13157090999714108,
+          0.13694922259702913,
+          0.19290980154694204,
+          0.19561562139418318,
+          0.19804070132255444,
+          0.2527232321726356
+        ]
+      },
+      "overflow_dz_ddelta": {
+        "count": 212946,
+        "mean": 0.16698616274061903,
+        "std": 0.031220251020426013,
+        "quantile_levels": [
+          0,
+          0.01,
+          0.1,
+          0.5,
+          0.9,
+          0.95,
+          0.99,
+          1
+        ],
+        "quantiles": [
+          0.11771890697970808,
+          0.12618119791535404,
+          0.13241581315506923,
+          0.1928119819971463,
+          0.19811088556543166,
+          0.19834509153621493,
+          0.1987082079650936,
+          0.23419166453451323
+        ]
+      },
+      "sigmoid_derivative_below_1e-3": {
+        "count": 0,
+        "denominator": 2764800,
+        "ratio": 0.0
+      },
+      "dz_ddelta_below_1e-3": {
+        "count": 0,
+        "denominator": 2764800,
+        "ratio": 0.0
+      },
+      "overflow_dz_ddelta_below_1e-3": {
+        "count": 0,
+        "denominator": 212946,
+        "ratio": 0.0
+      },
+      "k_le_minus1_channels": 0,
+      "limiting_zmin_equal1_overflow_channels": 0,
+      "overflow_pixels": 114251,
+      "overflow_pixels_without_common_finite_delta_for_all_RGB_in_0_1": 18324,
+      "overflow_pixels_without_common_delta_in_fixture_bound": 76150
+    }
+  ],
+  "pooled": {
+    "all": {
+      "over_channels": 899811,
+      "impossible_channels": 108904,
+      "impossible_over_overflow": 0.12102986071519463
+    },
+    "dark": {
+      "over_channels": 16,
+      "impossible_channels": 0,
+      "impossible_over_overflow": 0.0
+    },
+    "middle": {
+      "over_channels": 74384,
+      "impossible_channels": 208,
+      "impossible_over_overflow": 0.002796300279630028
+    },
+    "bright": {
+      "over_channels": 825411,
+      "impossible_channels": 108696,
+      "impossible_over_overflow": 0.13168712314228911
+    }
+  },
+  "shared_delta": {
+    "overflow_pixels": 443096,
+    "no_common_finite_delta_pixels": 87354,
+    "ratio": 0.19714463682813657
+  },
+  "source_sha256": {
+    "_model_audit\\DI-retinex-low-light-enhancement\\mymodel.py": "46748dcabbd2eda8a290af790ee82b420200b75e2ac1d992f2586344e82e582e",
+    "checkpoints\\di_retinex\\exp005b\\epoch015.pth": "73bd2f1a50acc17aebb8c2fbc6e7b585cf8b38cc6b62573e2a2de0058a3f39d0",
+    "scripts\\check_nightuav_v1_conditioning.py": "ee598f654d7bc11492b7977a156edde8830fd351b20e5de337d8aa45349c3879",
+    "code\\src\\enhancement\\nightuav_v1_conditioned_di.py": "c62c9ea092b4d96ee62704b93a8e658671d54f903ad9af990efa8548ba225bd1"
+  },
+  "parameters_and_checkpoint_unchanged": true,
+  "negative_k_endpoint_test_pass": true
+}

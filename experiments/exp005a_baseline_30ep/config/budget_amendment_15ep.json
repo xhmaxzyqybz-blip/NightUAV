@@ -1,0 +1,35 @@
+{
+  "effective_epoch_limit": 15,
+  "effective_total_steps": 11550,
+  "checkpoint_epochs": [
+    1,
+    2,
+    5,
+    10,
+    15
+  ],
+  "dev_epochs": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "original_run_config_preserved": true,
+  "original_runner_sha256": "b5b7e0bb193b8f09a54b3964b5fa6637bb6c0e05d06b5e7f5643912c3a310f5b",
+  "new_runner": "scripts/continue_di_retinex_exp005a_15ep.py",
+  "transition": "guard stops original after E10 checkpoint validation; same-run resume with exact partial-step replay validation",
+  "pilot_checkpoint_forbidden": true,
+  "no_training_beyond_epoch15": true
+}

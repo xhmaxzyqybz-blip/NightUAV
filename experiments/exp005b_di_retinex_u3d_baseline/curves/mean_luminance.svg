@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="480" viewBox="0 0 1100 480">
+<rect width="1100" height="480" fill="white"/>
+<text x="80" y="30" font-size="20">Mean output encoded luminance</text>
+<text x="80" y="55" font-size="13">mean_luminance; diagnostics only, no best selection</text>
+<path d="M80 410.00H840" stroke="#ddd"/>
+<text x="72" y="414.00" text-anchor="end" font-size="12">-0.02927</text>
+<path d="M80 345.00H840" stroke="#ddd"/>
+<text x="72" y="349.00" text-anchor="end" font-size="12">0.1288</text>
+<path d="M80 280.00H840" stroke="#ddd"/>
+<text x="72" y="284.00" text-anchor="end" font-size="12">0.2869</text>
+<path d="M80 215.00H840" stroke="#ddd"/>
+<text x="72" y="219.00" text-anchor="end" font-size="12">0.445</text>
+<path d="M80 150.00H840" stroke="#ddd"/>
+<text x="72" y="154.00" text-anchor="end" font-size="12">0.603</text>
+<path d="M80 85.00H840" stroke="#ddd"/>
+<text x="72" y="89.00" text-anchor="end" font-size="12">0.7611</text>
+<text x="80.00" y="432" text-anchor="middle" font-size="12">0</text>
+<text x="333.33" y="432" text-anchor="middle" font-size="12">5</text>
+<text x="586.67" y="432" text-anchor="middle" font-size="12">10</text>
+<text x="840.00" y="432" text-anchor="middle" font-size="12">15</text>
+<polyline fill="none" stroke="#1769aa" stroke-width="2" points="80.00,97.59 130.67,207.52 181.33,208.16 232.00,187.13 282.67,215.01 333.33,207.88 384.00,207.77 434.67,229.28 485.33,210.96 536.00,222.98 586.67,214.66 637.33,223.08 688.00,210.78 738.67,226.64 789.33,223.21 840.00,218.62"/>
+<path d="M870 85h25" stroke="#1769aa" stroke-width="3"/>
+<text x="905" y="89" font-size="13">0049</text>
+<polyline fill="none" stroke="#d14900" stroke-width="2" points="80.00,162.06 130.67,284.01 181.33,287.24 232.00,275.22 282.67,290.76 333.33,288.60 384.00,290.77 434.67,313.16 485.33,273.21 536.00,296.05 586.67,291.57 637.33,308.37 688.00,283.86 738.67,296.44 789.33,288.55 840.00,287.17"/>
+<path d="M870 110h25" stroke="#d14900" stroke-width="3"/>
+<text x="905" y="114" font-size="13">0114</text>
+<polyline fill="none" stroke="#27944f" stroke-width="2" points="80.00,168.23 130.67,290.48 181.33,294.20 232.00,282.86 282.67,297.27 333.33,295.06 384.00,298.21 434.67,320.61 485.33,278.68 536.00,302.30 586.67,298.19 637.33,315.74 688.00,290.14 738.67,302.45 789.33,294.26 840.00,292.92"/>
+<path d="M870 135h25" stroke="#27944f" stroke-width="3"/>
+<text x="905" y="139" font-size="13">0166</text>
+<polyline fill="none" stroke="#8e44ad" stroke-width="2" points="80.00,121.58 130.67,227.23 181.33,229.44 232.00,214.97 282.67,234.31 333.33,230.19 384.00,231.19 434.67,251.17 485.33,225.10 536.00,240.31 586.67,234.40 637.33,246.17 688.00,228.75 738.67,241.79 789.33,237.45 840.00,233.96"/>
+<path d="M870 160h25" stroke="#8e44ad" stroke-width="3"/>
+<text x="905" y="164" font-size="13">0179</text>
+<polyline fill="none" stroke="#b82d4b" stroke-width="2" points="80.00,160.00 130.67,278.71 181.33,282.17 232.00,270.49 282.67,286.19 333.33,284.24 384.00,286.16 434.67,307.88 485.33,268.71 536.00,291.49 586.67,286.86 637.33,303.31 688.00,278.96 738.67,290.51 789.33,283.39 840.00,282.40"/>
+<path d="M870 185h25" stroke="#b82d4b" stroke-width="3"/>
+<text x="905" y="189" font-size="13">0216</text>
+<polyline fill="none" stroke="#007f86" stroke-width="2" points="80.00,172.06 130.67,295.05 181.33,298.98 232.00,288.16 282.67,302.09 333.33,300.11 384.00,303.27 434.67,325.64 485.33,282.57 536.00,306.91 586.67,302.92 637.33,320.79 688.00,294.53 738.67,306.43 789.33,298.14 840.00,297.14"/>
+<path d="M870 210h25" stroke="#007f86" stroke-width="3"/>
+<text x="905" y="214" font-size="13">0343</text>
+<polyline fill="none" stroke="#807100" stroke-width="2" points="80.00,97.04 130.67,201.72 181.33,202.60 232.00,183.49 282.67,208.99 333.33,202.72 384.00,202.77 434.67,223.21 485.33,204.84 536.00,216.47 586.67,208.80 637.33,217.37 688.00,204.65 738.67,219.76 789.33,216.41 840.00,211.86"/>
+<path d="M870 235h25" stroke="#807100" stroke-width="3"/>
+<text x="905" y="239" font-size="13">0758</text>
+<polyline fill="none" stroke="#555555" stroke-width="2" points="80.00,121.49 130.67,227.30 181.33,229.72 232.00,214.67 282.67,234.53 333.33,229.50 384.00,231.07 434.67,251.18 485.33,225.86 536.00,240.43 586.67,234.22 637.33,245.80 688.00,228.89 738.67,242.42 789.33,238.39 840.00,234.36"/>
+<path d="M870 260h25" stroke="#555555" stroke-width="3"/>
+<text x="905" y="264" font-size="13">0792</text>
+<text x="450" y="460" font-size="14">Epoch</text>
+</svg>

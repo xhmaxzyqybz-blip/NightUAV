@@ -1,0 +1,3602 @@
+[
+  {
+    "source": "datasets/U3D/lowlight/train/0153.jpg",
+    "initial_xywh": [
+      2338,
+      471,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2338,
+      471,
+      256,
+      256
+    ],
+    "sample_number": 1
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0146.jpg",
+    "initial_xywh": [
+      3069,
+      746,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3069,
+      746,
+      256,
+      256
+    ],
+    "sample_number": 2
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0786.jpg",
+    "initial_xywh": [
+      1392,
+      1713,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1392,
+      1713,
+      256,
+      256
+    ],
+    "sample_number": 3
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0523.jpg",
+    "initial_xywh": [
+      2044,
+      699,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2044,
+      699,
+      256,
+      256
+    ],
+    "sample_number": 4
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0660.jpg",
+    "initial_xywh": [
+      1116,
+      997,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1116,
+      997,
+      256,
+      256
+    ],
+    "sample_number": 5
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0770.jpg",
+    "initial_xywh": [
+      204,
+      186,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      204,
+      186,
+      256,
+      256
+    ],
+    "sample_number": 6
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0060.jpg",
+    "initial_xywh": [
+      2649,
+      1846,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2649,
+      1846,
+      256,
+      256
+    ],
+    "sample_number": 7
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0597.jpg",
+    "initial_xywh": [
+      2862,
+      329,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2862,
+      329,
+      256,
+      256
+    ],
+    "sample_number": 8
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0639.jpg",
+    "initial_xywh": [
+      589,
+      1233,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      589,
+      1233,
+      256,
+      256
+    ],
+    "sample_number": 9
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0082.jpg",
+    "initial_xywh": [
+      1697,
+      1194,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1697,
+      1194,
+      256,
+      256
+    ],
+    "sample_number": 10
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0663.jpg",
+    "initial_xywh": [
+      1968,
+      628,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1968,
+      628,
+      256,
+      256
+    ],
+    "sample_number": 11
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0617.jpg",
+    "initial_xywh": [
+      91,
+      708,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      91,
+      708,
+      256,
+      256
+    ],
+    "sample_number": 12
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0537.jpg",
+    "initial_xywh": [
+      551,
+      342,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      551,
+      342,
+      256,
+      256
+    ],
+    "sample_number": 13
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0511.jpg",
+    "initial_xywh": [
+      2101,
+      1820,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2101,
+      1820,
+      256,
+      256
+    ],
+    "sample_number": 14
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0100.jpg",
+    "initial_xywh": [
+      3097,
+      1218,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3097,
+      1218,
+      256,
+      256
+    ],
+    "sample_number": 15
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0672.jpg",
+    "initial_xywh": [
+      1985,
+      359,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1985,
+      359,
+      256,
+      256
+    ],
+    "sample_number": 16
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0148.jpg",
+    "initial_xywh": [
+      3245,
+      441,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3245,
+      441,
+      256,
+      256
+    ],
+    "sample_number": 17
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0481.jpg",
+    "initial_xywh": [
+      1832,
+      490,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1832,
+      490,
+      256,
+      256
+    ],
+    "sample_number": 18
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0745.jpg",
+    "initial_xywh": [
+      1743,
+      14,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1743,
+      14,
+      256,
+      256
+    ],
+    "sample_number": 19
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0018.jpg",
+    "initial_xywh": [
+      3567,
+      1712,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3567,
+      1712,
+      256,
+      256
+    ],
+    "sample_number": 20
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0051.jpg",
+    "initial_xywh": [
+      1935,
+      972,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1935,
+      972,
+      256,
+      256
+    ],
+    "sample_number": 21
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0557.jpg",
+    "initial_xywh": [
+      2823,
+      803,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2823,
+      803,
+      256,
+      256
+    ],
+    "sample_number": 22
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0496.jpg",
+    "initial_xywh": [
+      3425,
+      407,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3425,
+      407,
+      256,
+      256
+    ],
+    "sample_number": 23
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0351.jpg",
+    "initial_xywh": [
+      314,
+      524,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      314,
+      524,
+      256,
+      256
+    ],
+    "sample_number": 24
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0447.jpg",
+    "initial_xywh": [
+      3535,
+      696,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3535,
+      696,
+      256,
+      256
+    ],
+    "sample_number": 25
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0256.jpg",
+    "initial_xywh": [
+      2212,
+      1183,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2212,
+      1183,
+      256,
+      256
+    ],
+    "sample_number": 26
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0070.jpg",
+    "initial_xywh": [
+      1233,
+      1782,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1233,
+      1782,
+      256,
+      256
+    ],
+    "sample_number": 27
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0096.jpg",
+    "initial_xywh": [
+      2087,
+      225,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2087,
+      225,
+      256,
+      256
+    ],
+    "sample_number": 28
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0450.jpg",
+    "initial_xywh": [
+      300,
+      1077,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      300,
+      1077,
+      256,
+      256
+    ],
+    "sample_number": 29
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0075.jpg",
+    "initial_xywh": [
+      2088,
+      254,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2088,
+      254,
+      256,
+      256
+    ],
+    "sample_number": 30
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0010.jpg",
+    "initial_xywh": [
+      3270,
+      898,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3270,
+      898,
+      256,
+      256
+    ],
+    "sample_number": 31
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0793.jpg",
+    "initial_xywh": [
+      2147,
+      888,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2147,
+      888,
+      256,
+      256
+    ],
+    "sample_number": 32
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0586.jpg",
+    "initial_xywh": [
+      1357,
+      217,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1357,
+      217,
+      256,
+      256
+    ],
+    "sample_number": 33
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0458.jpg",
+    "initial_xywh": [
+      494,
+      1640,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      494,
+      1640,
+      256,
+      256
+    ],
+    "sample_number": 34
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0630.jpg",
+    "initial_xywh": [
+      2422,
+      1612,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2422,
+      1612,
+      256,
+      256
+    ],
+    "sample_number": 35
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0362.jpg",
+    "initial_xywh": [
+      3053,
+      1298,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3053,
+      1298,
+      256,
+      256
+    ],
+    "sample_number": 36
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0700.jpg",
+    "initial_xywh": [
+      169,
+      886,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      169,
+      886,
+      256,
+      256
+    ],
+    "sample_number": 37
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0022.jpg",
+    "initial_xywh": [
+      1102,
+      236,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1102,
+      236,
+      256,
+      256
+    ],
+    "sample_number": 38
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0539.jpg",
+    "initial_xywh": [
+      1763,
+      1238,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1763,
+      1238,
+      256,
+      256
+    ],
+    "sample_number": 39
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0023.jpg",
+    "initial_xywh": [
+      1663,
+      954,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1663,
+      954,
+      256,
+      256
+    ],
+    "sample_number": 40
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0720.jpg",
+    "initial_xywh": [
+      3542,
+      528,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3542,
+      528,
+      256,
+      256
+    ],
+    "sample_number": 41
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0609.jpg",
+    "initial_xywh": [
+      313,
+      1372,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      313,
+      1372,
+      256,
+      256
+    ],
+    "sample_number": 42
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0356.jpg",
+    "initial_xywh": [
+      1200,
+      1638,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1200,
+      1638,
+      256,
+      256
+    ],
+    "sample_number": 43
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0093.jpg",
+    "initial_xywh": [
+      2774,
+      841,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2774,
+      841,
+      256,
+      256
+    ],
+    "sample_number": 44
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0703.jpg",
+    "initial_xywh": [
+      916,
+      165,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      916,
+      165,
+      256,
+      256
+    ],
+    "sample_number": 45
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0619.jpg",
+    "initial_xywh": [
+      1149,
+      986,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1149,
+      986,
+      256,
+      256
+    ],
+    "sample_number": 46
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0055.jpg",
+    "initial_xywh": [
+      3481,
+      596,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3481,
+      596,
+      256,
+      256
+    ],
+    "sample_number": 47
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0220.jpg",
+    "initial_xywh": [
+      1550,
+      803,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1550,
+      803,
+      256,
+      256
+    ],
+    "sample_number": 48
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0773.jpg",
+    "initial_xywh": [
+      2168,
+      1083,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2168,
+      1083,
+      256,
+      256
+    ],
+    "sample_number": 49
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0209.jpg",
+    "initial_xywh": [
+      2961,
+      5,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2961,
+      5,
+      256,
+      256
+    ],
+    "sample_number": 50
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0328.jpg",
+    "initial_xywh": [
+      622,
+      1496,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      622,
+      1496,
+      256,
+      256
+    ],
+    "sample_number": 51
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0548.jpg",
+    "initial_xywh": [
+      42,
+      173,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      42,
+      173,
+      256,
+      256
+    ],
+    "sample_number": 52
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0732.jpg",
+    "initial_xywh": [
+      2547,
+      1595,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2547,
+      1595,
+      256,
+      256
+    ],
+    "sample_number": 53
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0728.jpg",
+    "initial_xywh": [
+      410,
+      1144,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      410,
+      1144,
+      256,
+      256
+    ],
+    "sample_number": 54
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0573.jpg",
+    "initial_xywh": [
+      3581,
+      1898,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3581,
+      1898,
+      256,
+      256
+    ],
+    "sample_number": 55
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0596.jpg",
+    "initial_xywh": [
+      2532,
+      808,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2532,
+      808,
+      256,
+      256
+    ],
+    "sample_number": 56
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0509.jpg",
+    "initial_xywh": [
+      177,
+      271,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      177,
+      271,
+      256,
+      256
+    ],
+    "sample_number": 57
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0401.jpg",
+    "initial_xywh": [
+      1790,
+      922,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1790,
+      922,
+      256,
+      256
+    ],
+    "sample_number": 58
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0736.jpg",
+    "initial_xywh": [
+      118,
+      577,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      118,
+      577,
+      256,
+      256
+    ],
+    "sample_number": 59
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0519.jpg",
+    "initial_xywh": [
+      298,
+      678,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      298,
+      678,
+      256,
+      256
+    ],
+    "sample_number": 60
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0453.jpg",
+    "initial_xywh": [
+      1863,
+      958,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1863,
+      958,
+      256,
+      256
+    ],
+    "sample_number": 61
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0182.jpg",
+    "initial_xywh": [
+      1614,
+      542,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1614,
+      542,
+      256,
+      256
+    ],
+    "sample_number": 62
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0372.jpg",
+    "initial_xywh": [
+      125,
+      725,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      125,
+      725,
+      256,
+      256
+    ],
+    "sample_number": 63
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0128.jpg",
+    "initial_xywh": [
+      1639,
+      1406,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1639,
+      1406,
+      256,
+      256
+    ],
+    "sample_number": 64
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0246.jpg",
+    "initial_xywh": [
+      2700,
+      822,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2700,
+      822,
+      256,
+      256
+    ],
+    "sample_number": 65
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0226.jpg",
+    "initial_xywh": [
+      1061,
+      1375,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1061,
+      1375,
+      256,
+      256
+    ],
+    "sample_number": 66
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0007.jpg",
+    "initial_xywh": [
+      1775,
+      1390,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1775,
+      1390,
+      256,
+      256
+    ],
+    "sample_number": 67
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0138.jpg",
+    "initial_xywh": [
+      2619,
+      1695,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2619,
+      1695,
+      256,
+      256
+    ],
+    "sample_number": 68
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0772.jpg",
+    "initial_xywh": [
+      2901,
+      574,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2901,
+      574,
+      256,
+      256
+    ],
+    "sample_number": 69
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0320.jpg",
+    "initial_xywh": [
+      2582,
+      649,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2582,
+      649,
+      256,
+      256
+    ],
+    "sample_number": 70
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0337.jpg",
+    "initial_xywh": [
+      20,
+      1326,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      20,
+      1326,
+      256,
+      256
+    ],
+    "sample_number": 71
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0463.jpg",
+    "initial_xywh": [
+      462,
+      1654,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      462,
+      1654,
+      256,
+      256
+    ],
+    "sample_number": 72
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0503.jpg",
+    "initial_xywh": [
+      2075,
+      924,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2075,
+      924,
+      256,
+      256
+    ],
+    "sample_number": 73
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0288.jpg",
+    "initial_xywh": [
+      939,
+      5,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      939,
+      5,
+      256,
+      256
+    ],
+    "sample_number": 74
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0029.jpg",
+    "initial_xywh": [
+      2564,
+      1027,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2564,
+      1027,
+      256,
+      256
+    ],
+    "sample_number": 75
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0243.jpg",
+    "initial_xywh": [
+      972,
+      1885,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      972,
+      1885,
+      256,
+      256
+    ],
+    "sample_number": 76
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0190.jpg",
+    "initial_xywh": [
+      1693,
+      1643,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1693,
+      1643,
+      256,
+      256
+    ],
+    "sample_number": 77
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0031.jpg",
+    "initial_xywh": [
+      2230,
+      208,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2230,
+      208,
+      256,
+      256
+    ],
+    "sample_number": 78
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0298.jpg",
+    "initial_xywh": [
+      1256,
+      1713,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1256,
+      1713,
+      256,
+      256
+    ],
+    "sample_number": 79
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0771.jpg",
+    "initial_xywh": [
+      2793,
+      1630,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2793,
+      1630,
+      256,
+      256
+    ],
+    "sample_number": 80
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0349.jpg",
+    "initial_xywh": [
+      2998,
+      1818,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2998,
+      1818,
+      256,
+      256
+    ],
+    "sample_number": 81
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0385.jpg",
+    "initial_xywh": [
+      1508,
+      1676,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1508,
+      1676,
+      256,
+      256
+    ],
+    "sample_number": 82
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0162.jpg",
+    "initial_xywh": [
+      1964,
+      1868,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1964,
+      1868,
+      256,
+      256
+    ],
+    "sample_number": 83
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0360.jpg",
+    "initial_xywh": [
+      1260,
+      1827,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1260,
+      1827,
+      256,
+      256
+    ],
+    "sample_number": 84
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0524.jpg",
+    "initial_xywh": [
+      1649,
+      1701,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1649,
+      1701,
+      256,
+      256
+    ],
+    "sample_number": 85
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0713.jpg",
+    "initial_xywh": [
+      1137,
+      1630,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1137,
+      1630,
+      256,
+      256
+    ],
+    "sample_number": 86
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0530.jpg",
+    "initial_xywh": [
+      493,
+      289,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      493,
+      289,
+      256,
+      256
+    ],
+    "sample_number": 87
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0590.jpg",
+    "initial_xywh": [
+      864,
+      178,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      864,
+      178,
+      256,
+      256
+    ],
+    "sample_number": 88
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0336.jpg",
+    "initial_xywh": [
+      3311,
+      49,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3311,
+      49,
+      256,
+      256
+    ],
+    "sample_number": 89
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0575.jpg",
+    "initial_xywh": [
+      2904,
+      1708,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2904,
+      1708,
+      256,
+      256
+    ],
+    "sample_number": 90
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0438.jpg",
+    "initial_xywh": [
+      2943,
+      1767,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2943,
+      1767,
+      256,
+      256
+    ],
+    "sample_number": 91
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0668.jpg",
+    "initial_xywh": [
+      626,
+      1475,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      626,
+      1475,
+      256,
+      256
+    ],
+    "sample_number": 92
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0498.jpg",
+    "initial_xywh": [
+      1809,
+      1335,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1809,
+      1335,
+      256,
+      256
+    ],
+    "sample_number": 93
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0110.jpg",
+    "initial_xywh": [
+      1042,
+      67,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1042,
+      67,
+      256,
+      256
+    ],
+    "sample_number": 94
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0278.jpg",
+    "initial_xywh": [
+      3003,
+      314,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3003,
+      314,
+      256,
+      256
+    ],
+    "sample_number": 95
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0605.jpg",
+    "initial_xywh": [
+      3154,
+      1771,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3154,
+      1771,
+      256,
+      256
+    ],
+    "sample_number": 96
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0078.jpg",
+    "initial_xywh": [
+      2349,
+      1102,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2349,
+      1102,
+      256,
+      256
+    ],
+    "sample_number": 97
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0347.jpg",
+    "initial_xywh": [
+      2218,
+      388,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2218,
+      388,
+      256,
+      256
+    ],
+    "sample_number": 98
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0353.jpg",
+    "initial_xywh": [
+      1827,
+      437,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1827,
+      437,
+      256,
+      256
+    ],
+    "sample_number": 99
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0058.jpg",
+    "initial_xywh": [
+      614,
+      1116,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      614,
+      1116,
+      256,
+      256
+    ],
+    "sample_number": 100
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0634.jpg",
+    "initial_xywh": [
+      2762,
+      1741,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2762,
+      1741,
+      256,
+      256
+    ],
+    "sample_number": 101
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0134.jpg",
+    "initial_xywh": [
+      2198,
+      984,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2198,
+      984,
+      256,
+      256
+    ],
+    "sample_number": 102
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0572.jpg",
+    "initial_xywh": [
+      2175,
+      223,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2175,
+      223,
+      256,
+      256
+    ],
+    "sample_number": 103
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0188.jpg",
+    "initial_xywh": [
+      325,
+      67,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      325,
+      67,
+      256,
+      256
+    ],
+    "sample_number": 104
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0702.jpg",
+    "initial_xywh": [
+      586,
+      262,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      586,
+      262,
+      256,
+      256
+    ],
+    "sample_number": 105
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0493.jpg",
+    "initial_xywh": [
+      760,
+      1622,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      760,
+      1622,
+      256,
+      256
+    ],
+    "sample_number": 106
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0766.jpg",
+    "initial_xywh": [
+      327,
+      1233,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      327,
+      1233,
+      256,
+      256
+    ],
+    "sample_number": 107
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0309.jpg",
+    "initial_xywh": [
+      2504,
+      713,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2504,
+      713,
+      256,
+      256
+    ],
+    "sample_number": 108
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0052.jpg",
+    "initial_xywh": [
+      3140,
+      81,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3140,
+      81,
+      256,
+      256
+    ],
+    "sample_number": 109
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0371.jpg",
+    "initial_xywh": [
+      3578,
+      1443,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3578,
+      1443,
+      256,
+      256
+    ],
+    "sample_number": 110
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0784.jpg",
+    "initial_xywh": [
+      1168,
+      528,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1168,
+      528,
+      256,
+      256
+    ],
+    "sample_number": 111
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0217.jpg",
+    "initial_xywh": [
+      2914,
+      1423,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2914,
+      1423,
+      256,
+      256
+    ],
+    "sample_number": 112
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0097.jpg",
+    "initial_xywh": [
+      2715,
+      1359,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2715,
+      1359,
+      256,
+      256
+    ],
+    "sample_number": 113
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0172.jpg",
+    "initial_xywh": [
+      1167,
+      38,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1167,
+      38,
+      256,
+      256
+    ],
+    "sample_number": 114
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0404.jpg",
+    "initial_xywh": [
+      628,
+      284,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      628,
+      284,
+      256,
+      256
+    ],
+    "sample_number": 115
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0603.jpg",
+    "initial_xywh": [
+      451,
+      430,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      451,
+      430,
+      256,
+      256
+    ],
+    "sample_number": 116
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0638.jpg",
+    "initial_xywh": [
+      3332,
+      991,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3332,
+      991,
+      256,
+      256
+    ],
+    "sample_number": 117
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0497.jpg",
+    "initial_xywh": [
+      1555,
+      320,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1555,
+      320,
+      256,
+      256
+    ],
+    "sample_number": 118
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0327.jpg",
+    "initial_xywh": [
+      2940,
+      1022,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2940,
+      1022,
+      256,
+      256
+    ],
+    "sample_number": 119
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0564.jpg",
+    "initial_xywh": [
+      2081,
+      1447,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2081,
+      1447,
+      256,
+      256
+    ],
+    "sample_number": 120
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0120.jpg",
+    "initial_xywh": [
+      3402,
+      189,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3402,
+      189,
+      256,
+      256
+    ],
+    "sample_number": 121
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0768.jpg",
+    "initial_xywh": [
+      2977,
+      453,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2977,
+      453,
+      256,
+      256
+    ],
+    "sample_number": 122
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0559.jpg",
+    "initial_xywh": [
+      2387,
+      708,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2387,
+      708,
+      256,
+      256
+    ],
+    "sample_number": 123
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0344.jpg",
+    "initial_xywh": [
+      642,
+      1559,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      642,
+      1559,
+      256,
+      256
+    ],
+    "sample_number": 124
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0342.jpg",
+    "initial_xywh": [
+      1806,
+      1081,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1806,
+      1081,
+      256,
+      256
+    ],
+    "sample_number": 125
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0749.jpg",
+    "initial_xywh": [
+      3055,
+      1009,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3055,
+      1009,
+      256,
+      256
+    ],
+    "sample_number": 126
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0168.jpg",
+    "initial_xywh": [
+      142,
+      894,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      142,
+      894,
+      256,
+      256
+    ],
+    "sample_number": 127
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0654.jpg",
+    "initial_xywh": [
+      1554,
+      1206,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1554,
+      1206,
+      256,
+      256
+    ],
+    "sample_number": 128
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0384.jpg",
+    "initial_xywh": [
+      3438,
+      201,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3438,
+      201,
+      256,
+      256
+    ],
+    "sample_number": 129
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0270.jpg",
+    "initial_xywh": [
+      2170,
+      1313,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2170,
+      1313,
+      256,
+      256
+    ],
+    "sample_number": 130
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0740.jpg",
+    "initial_xywh": [
+      735,
+      434,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      735,
+      434,
+      256,
+      256
+    ],
+    "sample_number": 131
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0540.jpg",
+    "initial_xywh": [
+      3162,
+      552,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3162,
+      552,
+      256,
+      256
+    ],
+    "sample_number": 132
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0434.jpg",
+    "initial_xywh": [
+      1735,
+      1189,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1735,
+      1189,
+      256,
+      256
+    ],
+    "sample_number": 133
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0001.jpg",
+    "initial_xywh": [
+      1267,
+      342,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1267,
+      342,
+      256,
+      256
+    ],
+    "sample_number": 134
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0746.jpg",
+    "initial_xywh": [
+      3349,
+      78,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3349,
+      78,
+      256,
+      256
+    ],
+    "sample_number": 135
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0684.jpg",
+    "initial_xywh": [
+      528,
+      76,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      528,
+      76,
+      256,
+      256
+    ],
+    "sample_number": 136
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0123.jpg",
+    "initial_xywh": [
+      3184,
+      1507,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3184,
+      1507,
+      256,
+      256
+    ],
+    "sample_number": 137
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0198.jpg",
+    "initial_xywh": [
+      1069,
+      34,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1069,
+      34,
+      256,
+      256
+    ],
+    "sample_number": 138
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0293.jpg",
+    "initial_xywh": [
+      3275,
+      296,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3275,
+      296,
+      256,
+      256
+    ],
+    "sample_number": 139
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0412.jpg",
+    "initial_xywh": [
+      2654,
+      1195,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2654,
+      1195,
+      256,
+      256
+    ],
+    "sample_number": 140
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0470.jpg",
+    "initial_xywh": [
+      3295,
+      322,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3295,
+      322,
+      256,
+      256
+    ],
+    "sample_number": 141
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0203.jpg",
+    "initial_xywh": [
+      748,
+      346,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      748,
+      346,
+      256,
+      256
+    ],
+    "sample_number": 142
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0528.jpg",
+    "initial_xywh": [
+      3015,
+      500,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3015,
+      500,
+      256,
+      256
+    ],
+    "sample_number": 143
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0038.jpg",
+    "initial_xywh": [
+      867,
+      444,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      867,
+      444,
+      256,
+      256
+    ],
+    "sample_number": 144
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0377.jpg",
+    "initial_xywh": [
+      549,
+      1839,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      549,
+      1839,
+      256,
+      256
+    ],
+    "sample_number": 145
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0588.jpg",
+    "initial_xywh": [
+      3400,
+      1779,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3400,
+      1779,
+      256,
+      256
+    ],
+    "sample_number": 146
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0442.jpg",
+    "initial_xywh": [
+      3083,
+      617,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3083,
+      617,
+      256,
+      256
+    ],
+    "sample_number": 147
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0081.jpg",
+    "initial_xywh": [
+      806,
+      1886,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      806,
+      1886,
+      256,
+      256
+    ],
+    "sample_number": 148
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0418.jpg",
+    "initial_xywh": [
+      3044,
+      28,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3044,
+      28,
+      256,
+      256
+    ],
+    "sample_number": 149
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0047.jpg",
+    "initial_xywh": [
+      210,
+      249,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      210,
+      249,
+      256,
+      256
+    ],
+    "sample_number": 150
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0477.jpg",
+    "initial_xywh": [
+      3324,
+      1280,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3324,
+      1280,
+      256,
+      256
+    ],
+    "sample_number": 151
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0735.jpg",
+    "initial_xywh": [
+      2472,
+      383,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2472,
+      383,
+      256,
+      256
+    ],
+    "sample_number": 152
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0800.jpg",
+    "initial_xywh": [
+      2279,
+      394,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2279,
+      394,
+      256,
+      256
+    ],
+    "sample_number": 153
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0449.jpg",
+    "initial_xywh": [
+      3312,
+      300,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3312,
+      300,
+      256,
+      256
+    ],
+    "sample_number": 154
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0756.jpg",
+    "initial_xywh": [
+      2218,
+      787,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2218,
+      787,
+      256,
+      256
+    ],
+    "sample_number": 155
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0625.jpg",
+    "initial_xywh": [
+      3088,
+      1258,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3088,
+      1258,
+      256,
+      256
+    ],
+    "sample_number": 156
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0041.jpg",
+    "initial_xywh": [
+      3362,
+      481,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3362,
+      481,
+      256,
+      256
+    ],
+    "sample_number": 157
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0101.jpg",
+    "initial_xywh": [
+      1163,
+      744,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1163,
+      744,
+      256,
+      256
+    ],
+    "sample_number": 158
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0386.jpg",
+    "initial_xywh": [
+      341,
+      938,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      341,
+      938,
+      256,
+      256
+    ],
+    "sample_number": 159
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0589.jpg",
+    "initial_xywh": [
+      1172,
+      1562,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1172,
+      1562,
+      256,
+      256
+    ],
+    "sample_number": 160
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0628.jpg",
+    "initial_xywh": [
+      2256,
+      306,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2256,
+      306,
+      256,
+      256
+    ],
+    "sample_number": 161
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0045.jpg",
+    "initial_xywh": [
+      3466,
+      7,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3466,
+      7,
+      256,
+      256
+    ],
+    "sample_number": 162
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0764.jpg",
+    "initial_xywh": [
+      782,
+      612,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      782,
+      612,
+      256,
+      256
+    ],
+    "sample_number": 163
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0584.jpg",
+    "initial_xywh": [
+      2835,
+      180,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2835,
+      180,
+      256,
+      256
+    ],
+    "sample_number": 164
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0783.jpg",
+    "initial_xywh": [
+      1526,
+      632,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1526,
+      632,
+      256,
+      256
+    ],
+    "sample_number": 165
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0267.jpg",
+    "initial_xywh": [
+      1486,
+      1205,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1486,
+      1205,
+      256,
+      256
+    ],
+    "sample_number": 166
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0335.jpg",
+    "initial_xywh": [
+      729,
+      1812,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      729,
+      1812,
+      256,
+      256
+    ],
+    "sample_number": 167
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0571.jpg",
+    "initial_xywh": [
+      2177,
+      1711,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2177,
+      1711,
+      256,
+      256
+    ],
+    "sample_number": 168
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0206.jpg",
+    "initial_xywh": [
+      607,
+      72,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      607,
+      72,
+      256,
+      256
+    ],
+    "sample_number": 169
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0580.jpg",
+    "initial_xywh": [
+      1091,
+      303,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1091,
+      303,
+      256,
+      256
+    ],
+    "sample_number": 170
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0529.jpg",
+    "initial_xywh": [
+      899,
+      1456,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      899,
+      1456,
+      256,
+      256
+    ],
+    "sample_number": 171
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0781.jpg",
+    "initial_xywh": [
+      2650,
+      1270,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2650,
+      1270,
+      256,
+      256
+    ],
+    "sample_number": 172
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0296.jpg",
+    "initial_xywh": [
+      1140,
+      158,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1140,
+      158,
+      256,
+      256
+    ],
+    "sample_number": 173
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0352.jpg",
+    "initial_xywh": [
+      301,
+      1387,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      301,
+      1387,
+      256,
+      256
+    ],
+    "sample_number": 174
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0431.jpg",
+    "initial_xywh": [
+      1633,
+      748,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1633,
+      748,
+      256,
+      256
+    ],
+    "sample_number": 175
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0295.jpg",
+    "initial_xywh": [
+      2334,
+      1320,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2334,
+      1320,
+      256,
+      256
+    ],
+    "sample_number": 176
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0061.jpg",
+    "initial_xywh": [
+      1580,
+      1539,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1580,
+      1539,
+      256,
+      256
+    ],
+    "sample_number": 177
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0435.jpg",
+    "initial_xywh": [
+      3249,
+      1203,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3249,
+      1203,
+      256,
+      256
+    ],
+    "sample_number": 178
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0178.jpg",
+    "initial_xywh": [
+      1037,
+      803,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1037,
+      803,
+      256,
+      256
+    ],
+    "sample_number": 179
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0650.jpg",
+    "initial_xywh": [
+      888,
+      1382,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      888,
+      1382,
+      256,
+      256
+    ],
+    "sample_number": 180
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0262.jpg",
+    "initial_xywh": [
+      1355,
+      1075,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1355,
+      1075,
+      256,
+      256
+    ],
+    "sample_number": 181
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0683.jpg",
+    "initial_xywh": [
+      1044,
+      708,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1044,
+      708,
+      256,
+      256
+    ],
+    "sample_number": 182
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0252.jpg",
+    "initial_xywh": [
+      729,
+      1243,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      729,
+      1243,
+      256,
+      256
+    ],
+    "sample_number": 183
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0569.jpg",
+    "initial_xywh": [
+      1212,
+      1131,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1212,
+      1131,
+      256,
+      256
+    ],
+    "sample_number": 184
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0157.jpg",
+    "initial_xywh": [
+      3128,
+      854,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3128,
+      854,
+      256,
+      256
+    ],
+    "sample_number": 185
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0147.jpg",
+    "initial_xywh": [
+      1406,
+      659,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1406,
+      659,
+      256,
+      256
+    ],
+    "sample_number": 186
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0585.jpg",
+    "initial_xywh": [
+      2719,
+      380,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2719,
+      380,
+      256,
+      256
+    ],
+    "sample_number": 187
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0489.jpg",
+    "initial_xywh": [
+      1446,
+      293,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1446,
+      293,
+      256,
+      256
+    ],
+    "sample_number": 188
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0271.jpg",
+    "initial_xywh": [
+      3037,
+      188,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3037,
+      188,
+      256,
+      256
+    ],
+    "sample_number": 189
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0482.jpg",
+    "initial_xywh": [
+      2296,
+      38,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2296,
+      38,
+      256,
+      256
+    ],
+    "sample_number": 190
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0680.jpg",
+    "initial_xywh": [
+      478,
+      1433,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      478,
+      1433,
+      256,
+      256
+    ],
+    "sample_number": 191
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0405.jpg",
+    "initial_xywh": [
+      2162,
+      565,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2162,
+      565,
+      256,
+      256
+    ],
+    "sample_number": 192
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0346.jpg",
+    "initial_xywh": [
+      796,
+      758,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      796,
+      758,
+      256,
+      256
+    ],
+    "sample_number": 193
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0595.jpg",
+    "initial_xywh": [
+      219,
+      465,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      219,
+      465,
+      256,
+      256
+    ],
+    "sample_number": 194
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0028.jpg",
+    "initial_xywh": [
+      38,
+      111,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      38,
+      111,
+      256,
+      256
+    ],
+    "sample_number": 195
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0403.jpg",
+    "initial_xywh": [
+      399,
+      1151,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      399,
+      1151,
+      256,
+      256
+    ],
+    "sample_number": 196
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0685.jpg",
+    "initial_xywh": [
+      2473,
+      1853,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      2473,
+      1853,
+      256,
+      256
+    ],
+    "sample_number": 197
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0221.jpg",
+    "initial_xywh": [
+      3477,
+      1518,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      3477,
+      1518,
+      256,
+      256
+    ],
+    "sample_number": 198
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0069.jpg",
+    "initial_xywh": [
+      1280,
+      193,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1280,
+      193,
+      256,
+      256
+    ],
+    "sample_number": 199
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0261.jpg",
+    "initial_xywh": [
+      1329,
+      291,
+      256,
+      256
+    ],
+    "invalid_crops": [],
+    "resample_count": 0,
+    "accepted_xywh": [
+      1329,
+      291,
+      256,
+      256
+    ],
+    "sample_number": 200
+  }
+]

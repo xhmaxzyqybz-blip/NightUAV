@@ -1,0 +1,66 @@
+[
+  {
+    "source": "datasets/U3D/lowlight/train/0049.jpg",
+    "clamp_exact_equal": true,
+    "finite": true,
+    "historical_png_different_channels": 0,
+    "forward_seconds": 0.8733882000669837,
+    "png_roundtrip_exact_equal": true
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0114.jpg",
+    "clamp_exact_equal": true,
+    "finite": true,
+    "historical_png_different_channels": 0,
+    "forward_seconds": 0.11302220006473362,
+    "png_roundtrip_exact_equal": true
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0166.jpg",
+    "clamp_exact_equal": true,
+    "finite": true,
+    "historical_png_different_channels": 0,
+    "forward_seconds": 0.13004860002547503,
+    "png_roundtrip_exact_equal": true
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0179.jpg",
+    "clamp_exact_equal": true,
+    "finite": true,
+    "historical_png_different_channels": 0,
+    "forward_seconds": 0.11550449999049306,
+    "png_roundtrip_exact_equal": true
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0216.jpg",
+    "clamp_exact_equal": true,
+    "finite": true,
+    "historical_png_different_channels": 0,
+    "forward_seconds": 0.1220333999954164,
+    "png_roundtrip_exact_equal": true
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0343.jpg",
+    "clamp_exact_equal": true,
+    "finite": true,
+    "historical_png_different_channels": 0,
+    "forward_seconds": 0.1074322999920696,
+    "png_roundtrip_exact_equal": true
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0758.jpg",
+    "clamp_exact_equal": true,
+    "finite": true,
+    "historical_png_different_channels": 0,
+    "forward_seconds": 0.1219951999373734,
+    "png_roundtrip_exact_equal": true
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0792.jpg",
+    "clamp_exact_equal": true,
+    "finite": true,
+    "historical_png_different_channels": 0,
+    "forward_seconds": 0.10608200007118285,
+    "png_roundtrip_exact_equal": true
+  }
+]

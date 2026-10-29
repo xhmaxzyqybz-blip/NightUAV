@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "images": 8,
+  "image_regions": 24,
+  "crop_panels": 12,
+  "input_overviews": 4,
+  "checkpoint_sha256": "73bd2f1a50acc17aebb8c2fbc6e7b585cf8b38cc6b62573e2a2de0058a3f39d0",
+  "protected_files_unchanged": true,
+  "inputs_and_e15_outputs_unchanged": true,
+  "regions_partition_each_image": true,
+  "transition_count_identities_pass": true,
+  "fixed_input_hashes_and_mask_counts_match": true,
+  "saved_output_quantization_bound_pass": true,
+  "seconds": 6.674771500052884
+}

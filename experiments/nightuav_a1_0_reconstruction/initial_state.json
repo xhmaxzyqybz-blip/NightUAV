@@ -1,0 +1,46 @@
+{
+  "effective_updates": 0,
+  "fixed_train_batch_loss": 0.24059121310710907,
+  "sources": [
+    "datasets/U3D/lowlight/train/0153.jpg",
+    "datasets/U3D/lowlight/train/0146.jpg"
+  ],
+  "crops": [
+    {
+      "source": "datasets/U3D/lowlight/train/0153.jpg",
+      "initial_xywh": [
+        2338,
+        471,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        2338,
+        471,
+        256,
+        256
+      ],
+      "sample_number": 1
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0146.jpg",
+      "initial_xywh": [
+        3069,
+        746,
+        256,
+        256
+      ],
+      "invalid_crops": [],
+      "resample_count": 0,
+      "accepted_xywh": [
+        3069,
+        746,
+        256,
+        256
+      ],
+      "sample_number": 2
+    }
+  ]
+}

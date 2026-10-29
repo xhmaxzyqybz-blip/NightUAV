@@ -1,0 +1,19 @@
+{
+  "status": "COMPLETED_200_EFFECTIVE_UPDATES",
+  "effective_updates": 200,
+  "attempts": 200,
+  "initial_fixed_train_batch_loss": 0.24059121310710907,
+  "final_fixed_train_batch_loss": 0.039666201919317245,
+  "first20_train_mean": 0.19797790199518203,
+  "last20_train_mean": 0.0234435026999563,
+  "last_step_pre_update_loss": 0.01174415647983551,
+  "elapsed_seconds": 160.6715379001107,
+  "checkpoint_reload_exact": true,
+  "protected_hashes_unchanged": true,
+  "exceptions": [],
+  "diagnostic_images": [
+    "0049",
+    "0179"
+  ],
+  "interpretation": "Reconstruction optimization only; no claim of physical identifiability or enhancement quality"
+}

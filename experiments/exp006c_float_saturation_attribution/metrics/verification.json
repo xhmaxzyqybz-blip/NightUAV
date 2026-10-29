@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "images": 8,
+  "rois": 12,
+  "checkpoint_hash_verified": true,
+  "strict_load": true,
+  "weights_only": true,
+  "exact_clamp": true,
+  "historical_png_exact": true,
+  "png_roundtrip_exact": true,
+  "parameters_unchanged": true,
+  "protected_files_unchanged": true,
+  "nan_inf": false,
+  "no_train_val_test_quarantine_used": true
+}

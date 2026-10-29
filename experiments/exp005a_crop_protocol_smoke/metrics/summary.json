@@ -1,0 +1,37 @@
+{
+  "status": "PASS",
+  "steps": 200,
+  "unique_train_images": 200,
+  "training_crop_stats": {
+    "invalid_crop_resample_count": 0,
+    "affected_image_count": 0,
+    "affected_image_paths": [],
+    "affected_sample_count": 0,
+    "max_sample_resample_count": 0
+  },
+  "unit_crop_stats": {
+    "invalid_crop_resample_count": 282,
+    "affected_image_count": 4,
+    "affected_image_paths": [
+      "datasets/U3D/lowlight/train/0069.jpg",
+      "datasets/U3D/lowlight/train/0323.jpg",
+      "datasets/U3D/lowlight/train/0455.jpg",
+      "datasets/U3D/lowlight/train/0651.jpg"
+    ],
+    "affected_sample_count": 262,
+    "max_sample_resample_count": 5
+  },
+  "seconds": 81.686721800128,
+  "mean_data_ms": 367.57504699984565,
+  "mean_compute_ms": 36.186224984703586,
+  "peak_allocated_mib": 1205.72705078125,
+  "peak_reserved_mib": 1864.0,
+  "all_gradients_finite": true,
+  "all_parameters_updated": true,
+  "nan_inf": false,
+  "oom": false,
+  "original_network_loss_files_unchanged": true,
+  "all_image_hashes_unchanged": true,
+  "splits_unchanged": true,
+  "no_dev_or_quarantine_training": true
+}

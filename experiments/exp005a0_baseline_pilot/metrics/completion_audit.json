@@ -1,0 +1,358 @@
+{
+  "completed_steps": 7700,
+  "all_epochs_770_unique": true,
+  "dev_evaluations": 11,
+  "checkpoint_hashes_verified": 4,
+  "saved_dev_images_verified": 40,
+  "montages_verified": 8,
+  "constant_output_images": [],
+  "phase_intervals_over_60s": [
+    {
+      "epoch": 7,
+      "step": 276,
+      "phase": "wait_ms",
+      "seconds": 203.427976799896
+    },
+    {
+      "epoch": 7,
+      "step": 769,
+      "phase": "wait_ms",
+      "seconds": 286.2612403000239
+    },
+    {
+      "epoch": 7,
+      "step": 769,
+      "phase": "backward_ms",
+      "seconds": 16652.166185099864
+    },
+    {
+      "epoch": 8,
+      "step": 14,
+      "phase": "transfer_ms",
+      "seconds": 130864.94928409996
+    }
+  ],
+  "timing_limitation": "Synchronized wall-clock intervals contain long stalls. Sleep/suspension or resource contention is possible but not established by these logs. Do not treat phase intervals as GPU execution time or infer uninterrupted training throughput. No outlier removal or active-time estimate has been applied.",
+  "images": [
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch000/0049.png",
+      "min": 118,
+      "max": 255,
+      "std": 39.88358494648956,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch000/0114.png",
+      "min": 119,
+      "max": 255,
+      "std": 27.01629857004701,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch000/0166.png",
+      "min": 118,
+      "max": 255,
+      "std": 28.908021737397384,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch000/0179.png",
+      "min": 118,
+      "max": 255,
+      "std": 43.302426112673416,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch000/0216.png",
+      "min": 118,
+      "max": 255,
+      "std": 29.769296373659113,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch000/0343.png",
+      "min": 118,
+      "max": 255,
+      "std": 22.37551254393727,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch000/0758.png",
+      "min": 118,
+      "max": 255,
+      "std": 43.23604388636894,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch000/0792.png",
+      "min": 119,
+      "max": 255,
+      "std": 45.5346497396608,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch001/0049.png",
+      "min": 23,
+      "max": 255,
+      "std": 58.587418557808746,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch001/0114.png",
+      "min": 23,
+      "max": 255,
+      "std": 39.545746299044545,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch001/0166.png",
+      "min": 22,
+      "max": 255,
+      "std": 41.44073577113119,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch001/0179.png",
+      "min": 22,
+      "max": 255,
+      "std": 67.89594084972042,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch001/0216.png",
+      "min": 22,
+      "max": 255,
+      "std": 43.9498638041098,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch001/0343.png",
+      "min": 23,
+      "max": 255,
+      "std": 33.767990658788634,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch001/0758.png",
+      "min": 23,
+      "max": 255,
+      "std": 65.66279045679154,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch001/0792.png",
+      "min": 23,
+      "max": 255,
+      "std": 70.00055028850467,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch002/0049.png",
+      "min": 25,
+      "max": 255,
+      "std": 59.47011671148876,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch002/0114.png",
+      "min": 27,
+      "max": 255,
+      "std": 37.67357708658735,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch002/0166.png",
+      "min": 26,
+      "max": 255,
+      "std": 40.218613363395725,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch002/0179.png",
+      "min": 25,
+      "max": 255,
+      "std": 68.72886910062238,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch002/0216.png",
+      "min": 27,
+      "max": 255,
+      "std": 43.931319522642625,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch002/0343.png",
+      "min": 26,
+      "max": 255,
+      "std": 31.124841325979204,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch002/0758.png",
+      "min": 26,
+      "max": 255,
+      "std": 66.59635246177824,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch002/0792.png",
+      "min": 27,
+      "max": 255,
+      "std": 70.90989559022626,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch005/0049.png",
+      "min": 23,
+      "max": 255,
+      "std": 60.82705017067659,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch005/0114.png",
+      "min": 25,
+      "max": 255,
+      "std": 37.87428141218571,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch005/0166.png",
+      "min": 25,
+      "max": 255,
+      "std": 40.08453582369153,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch005/0179.png",
+      "min": 24,
+      "max": 255,
+      "std": 69.26775435184457,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch005/0216.png",
+      "min": 25,
+      "max": 255,
+      "std": 44.02415280742106,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch005/0343.png",
+      "min": 25,
+      "max": 255,
+      "std": 31.16532321010629,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch005/0758.png",
+      "min": 25,
+      "max": 255,
+      "std": 67.77231226881845,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch005/0792.png",
+      "min": 25,
+      "max": 255,
+      "std": 71.607382287008,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch010/0049.png",
+      "min": 17,
+      "max": 255,
+      "std": 58.96249105038972,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch010/0114.png",
+      "min": 18,
+      "max": 255,
+      "std": 37.94592309556512,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch010/0166.png",
+      "min": 18,
+      "max": 255,
+      "std": 40.20698592706496,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch010/0179.png",
+      "min": 17,
+      "max": 255,
+      "std": 69.00055428419996,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch010/0216.png",
+      "min": 18,
+      "max": 255,
+      "std": 43.79135394370273,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch010/0343.png",
+      "min": 19,
+      "max": 255,
+      "std": 31.625555581379977,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch010/0758.png",
+      "min": 19,
+      "max": 255,
+      "std": 66.69214258904732,
+      "all_black": false,
+      "all_white": false
+    },
+    {
+      "path": "results/demos/di_retinex_exp005a0/epoch010/0792.png",
+      "min": 18,
+      "max": 255,
+      "std": 71.19382037081466,
+      "all_black": false,
+      "all_white": false
+    }
+  ]
+}

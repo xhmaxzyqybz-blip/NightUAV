@@ -1,0 +1,25 @@
+{
+  "status": "COMPLETED_200_EFFECTIVE_UPDATES",
+  "effective_updates": 200,
+  "attempts": 200,
+  "initial_fixed_train_batch_loss": 0.24059121310710907,
+  "final_fixed_train_batch_loss": 0.05487937852740288,
+  "first20_train_mean": 0.19874846562743187,
+  "last20_train_mean": 0.037260782718658444,
+  "last_step_pre_update_loss": 0.023124704137444496,
+  "elapsed_seconds": 390.8719428000004,
+  "lambda_tv": 0.8653310986696595,
+  "initialization_replay_parameter_exact": true,
+  "historical_initial_predictions_exact": true,
+  "paired_crop_records_exact": true,
+  "initial_parameter_sha256": "7d316fd44fa9bb7edef69dcfd961ffdab0b6eb77f79423e064c6eaf5666ed088",
+  "last20_rec_mean": 0.028557460475713014,
+  "checkpoint_reload_exact": true,
+  "protected_hashes_unchanged": true,
+  "exceptions": [],
+  "diagnostic_images": [
+    "0049",
+    "0179"
+  ],
+  "interpretation": "TV intervention only; total loss includes TV and cannot be compared directly with A1-0 reconstruction loss; no physical identifiability claim"
+}

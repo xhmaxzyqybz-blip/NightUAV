@@ -1,0 +1,2805 @@
+{
+  "seed": 1149,
+  "plan": [
+    {
+      "source": "datasets/U3D/light/train/0155.jpg",
+      "xy": [
+        2338,
+        471
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0783.jpg",
+      "xy": [
+        3069,
+        746
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0426.jpg",
+      "xy": [
+        1392,
+        1713
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0440.jpg",
+      "xy": [
+        2044,
+        699
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0047.jpg",
+      "xy": [
+        1116,
+        997
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0652.jpg",
+      "xy": [
+        204,
+        186
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0319.jpg",
+      "xy": [
+        2649,
+        1846
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0567.jpg",
+      "xy": [
+        2862,
+        329
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0471.jpg",
+      "xy": [
+        589,
+        1233
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0715.jpg",
+      "xy": [
+        1697,
+        1194
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0509.jpg",
+      "xy": [
+        1968,
+        628
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0495.jpg",
+      "xy": [
+        91,
+        708
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0438.jpg",
+      "xy": [
+        551,
+        342
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0127.jpg",
+      "xy": [
+        2101,
+        1820
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0719.jpg",
+      "xy": [
+        3097,
+        1218
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0048.jpg",
+      "xy": [
+        1985,
+        359
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0667.jpg",
+      "xy": [
+        3245,
+        441
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0115.jpg",
+      "xy": [
+        1832,
+        490
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0106.jpg",
+      "xy": [
+        1743,
+        14
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0524.jpg",
+      "xy": [
+        3567,
+        1712
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0310.jpg",
+      "xy": [
+        1935,
+        972
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0628.jpg",
+      "xy": [
+        2823,
+        803
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0468.jpg",
+      "xy": [
+        3425,
+        407
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0529.jpg",
+      "xy": [
+        314,
+        524
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0727.jpg",
+      "xy": [
+        3535,
+        696
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0568.jpg",
+      "xy": [
+        2212,
+        1183
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0229.jpg",
+      "xy": [
+        1233,
+        1782
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0370.jpg",
+      "xy": [
+        2087,
+        225
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0050.jpg",
+      "xy": [
+        300,
+        1077
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0586.jpg",
+      "xy": [
+        2088,
+        254
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0066.jpg",
+      "xy": [
+        3270,
+        898
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0049.jpg",
+      "xy": [
+        2147,
+        888
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0639.jpg",
+      "xy": [
+        1357,
+        217
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0532.jpg",
+      "xy": [
+        494,
+        1640
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0295.jpg",
+      "xy": [
+        2422,
+        1612
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0122.jpg",
+      "xy": [
+        3053,
+        1298
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0358.jpg",
+      "xy": [
+        169,
+        886
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0017.jpg",
+      "xy": [
+        1102,
+        236
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0314.jpg",
+      "xy": [
+        1763,
+        1238
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0329.jpg",
+      "xy": [
+        1663,
+        954
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0653.jpg",
+      "xy": [
+        3542,
+        528
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0181.jpg",
+      "xy": [
+        313,
+        1372
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0723.jpg",
+      "xy": [
+        1200,
+        1638
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0356.jpg",
+      "xy": [
+        2774,
+        841
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0682.jpg",
+      "xy": [
+        916,
+        165
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0735.jpg",
+      "xy": [
+        1149,
+        986
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0009.jpg",
+      "xy": [
+        3481,
+        596
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0351.jpg",
+      "xy": [
+        1550,
+        803
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0131.jpg",
+      "xy": [
+        2168,
+        1083
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0566.jpg",
+      "xy": [
+        2961,
+        5
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0506.jpg",
+      "xy": [
+        622,
+        1496
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0576.jpg",
+      "xy": [
+        42,
+        173
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0738.jpg",
+      "xy": [
+        2547,
+        1595
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0485.jpg",
+      "xy": [
+        410,
+        1144
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0051.jpg",
+      "xy": [
+        3581,
+        1898
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0705.jpg",
+      "xy": [
+        2532,
+        808
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0647.jpg",
+      "xy": [
+        177,
+        271
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0093.jpg",
+      "xy": [
+        1790,
+        922
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0730.jpg",
+      "xy": [
+        118,
+        577
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0078.jpg",
+      "xy": [
+        298,
+        678
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0257.jpg",
+      "xy": [
+        1863,
+        958
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0296.jpg",
+      "xy": [
+        1614,
+        542
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0287.jpg",
+      "xy": [
+        125,
+        725
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0481.jpg",
+      "xy": [
+        1639,
+        1406
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0671.jpg",
+      "xy": [
+        2700,
+        822
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0108.jpg",
+      "xy": [
+        1061,
+        1375
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0256.jpg",
+      "xy": [
+        1775,
+        1390
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0792.jpg",
+      "xy": [
+        2619,
+        1695
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0479.jpg",
+      "xy": [
+        2901,
+        574
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0248.jpg",
+      "xy": [
+        2582,
+        649
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0323.jpg",
+      "xy": [
+        20,
+        1326
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0046.jpg",
+      "xy": [
+        462,
+        1654
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0757.jpg",
+      "xy": [
+        2075,
+        924
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0179.jpg",
+      "xy": [
+        939,
+        5
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0472.jpg",
+      "xy": [
+        2564,
+        1027
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0551.jpg",
+      "xy": [
+        972,
+        1885
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0164.jpg",
+      "xy": [
+        1693,
+        1643
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0071.jpg",
+      "xy": [
+        2230,
+        208
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0089.jpg",
+      "xy": [
+        1256,
+        1713
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0063.jpg",
+      "xy": [
+        2793,
+        1630
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0247.jpg",
+      "xy": [
+        2998,
+        1818
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0528.jpg",
+      "xy": [
+        1508,
+        1676
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0007.jpg",
+      "xy": [
+        1964,
+        1868
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0199.jpg",
+      "xy": [
+        1260,
+        1827
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0139.jpg",
+      "xy": [
+        1649,
+        1701
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0099.jpg",
+      "xy": [
+        1137,
+        1630
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0167.jpg",
+      "xy": [
+        493,
+        289
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0322.jpg",
+      "xy": [
+        864,
+        178
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0692.jpg",
+      "xy": [
+        3311,
+        49
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0553.jpg",
+      "xy": [
+        2904,
+        1708
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0578.jpg",
+      "xy": [
+        2943,
+        1767
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0027.jpg",
+      "xy": [
+        626,
+        1475
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0701.jpg",
+      "xy": [
+        1809,
+        1335
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0786.jpg",
+      "xy": [
+        1042,
+        67
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0029.jpg",
+      "xy": [
+        3003,
+        314
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0160.jpg",
+      "xy": [
+        3154,
+        1771
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0337.jpg",
+      "xy": [
+        2349,
+        1102
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0417.jpg",
+      "xy": [
+        2218,
+        388
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0607.jpg",
+      "xy": [
+        1827,
+        437
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0284.jpg",
+      "xy": [
+        614,
+        1116
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0252.jpg",
+      "xy": [
+        2762,
+        1741
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0367.jpg",
+      "xy": [
+        2198,
+        984
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0729.jpg",
+      "xy": [
+        2175,
+        223
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0274.jpg",
+      "xy": [
+        325,
+        67
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0005.jpg",
+      "xy": [
+        586,
+        262
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0242.jpg",
+      "xy": [
+        760,
+        1622
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0401.jpg",
+      "xy": [
+        327,
+        1233
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0282.jpg",
+      "xy": [
+        2504,
+        713
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0731.jpg",
+      "xy": [
+        3140,
+        81
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0577.jpg",
+      "xy": [
+        3578,
+        1443
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0704.jpg",
+      "xy": [
+        1168,
+        528
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0583.jpg",
+      "xy": [
+        2914,
+        1423
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0096.jpg",
+      "xy": [
+        2715,
+        1359
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0059.jpg",
+      "xy": [
+        1167,
+        38
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0600.jpg",
+      "xy": [
+        628,
+        284
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0334.jpg",
+      "xy": [
+        451,
+        430
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0442.jpg",
+      "xy": [
+        3332,
+        991
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0535.jpg",
+      "xy": [
+        1555,
+        320
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0054.jpg",
+      "xy": [
+        2940,
+        1022
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0681.jpg",
+      "xy": [
+        2081,
+        1447
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0536.jpg",
+      "xy": [
+        3402,
+        189
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0255.jpg",
+      "xy": [
+        2977,
+        453
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0427.jpg",
+      "xy": [
+        2387,
+        708
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0313.jpg",
+      "xy": [
+        642,
+        1559
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0772.jpg",
+      "xy": [
+        1806,
+        1081
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0767.jpg",
+      "xy": [
+        3055,
+        1009
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0674.jpg",
+      "xy": [
+        142,
+        894
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0460.jpg",
+      "xy": [
+        1554,
+        1206
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0534.jpg",
+      "xy": [
+        3438,
+        201
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0022.jpg",
+      "xy": [
+        2170,
+        1313
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0353.jpg",
+      "xy": [
+        735,
+        434
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0074.jpg",
+      "xy": [
+        3162,
+        552
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0253.jpg",
+      "xy": [
+        1735,
+        1189
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0562.jpg",
+      "xy": [
+        1267,
+        342
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0141.jpg",
+      "xy": [
+        3349,
+        78
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0400.jpg",
+      "xy": [
+        528,
+        76
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0209.jpg",
+      "xy": [
+        3184,
+        1507
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0391.jpg",
+      "xy": [
+        1069,
+        34
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0540.jpg",
+      "xy": [
+        3275,
+        296
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0502.jpg",
+      "xy": [
+        2654,
+        1195
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0722.jpg",
+      "xy": [
+        3295,
+        322
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0724.jpg",
+      "xy": [
+        748,
+        346
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0001.jpg",
+      "xy": [
+        3015,
+        500
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0590.jpg",
+      "xy": [
+        867,
+        444
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0683.jpg",
+      "xy": [
+        549,
+        1839
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0379.jpg",
+      "xy": [
+        3400,
+        1779
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0549.jpg",
+      "xy": [
+        3083,
+        617
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0430.jpg",
+      "xy": [
+        806,
+        1886
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0632.jpg",
+      "xy": [
+        3044,
+        28
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0605.jpg",
+      "xy": [
+        210,
+        249
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0406.jpg",
+      "xy": [
+        3324,
+        1280
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0208.jpg",
+      "xy": [
+        2472,
+        383
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0016.jpg",
+      "xy": [
+        2279,
+        394
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0035.jpg",
+      "xy": [
+        3312,
+        300
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0383.jpg",
+      "xy": [
+        2218,
+        787
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0800.jpg",
+      "xy": [
+        3088,
+        1258
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0616.jpg",
+      "xy": [
+        3362,
+        481
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0077.jpg",
+      "xy": [
+        1163,
+        744
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0623.jpg",
+      "xy": [
+        341,
+        938
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0044.jpg",
+      "xy": [
+        1172,
+        1562
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0387.jpg",
+      "xy": [
+        2256,
+        306
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0264.jpg",
+      "xy": [
+        3466,
+        7
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0399.jpg",
+      "xy": [
+        782,
+        612
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0770.jpg",
+      "xy": [
+        2835,
+        180
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0771.jpg",
+      "xy": [
+        1526,
+        632
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0482.jpg",
+      "xy": [
+        1486,
+        1205
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0038.jpg",
+      "xy": [
+        729,
+        1812
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0622.jpg",
+      "xy": [
+        2177,
+        1711
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0677.jpg",
+      "xy": [
+        607,
+        72
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0173.jpg",
+      "xy": [
+        1091,
+        303
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0690.jpg",
+      "xy": [
+        899,
+        1456
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0073.jpg",
+      "xy": [
+        2650,
+        1270
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0042.jpg",
+      "xy": [
+        1140,
+        158
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0755.jpg",
+      "xy": [
+        301,
+        1387
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0343.jpg",
+      "xy": [
+        1633,
+        748
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0643.jpg",
+      "xy": [
+        2334,
+        1320
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0548.jpg",
+      "xy": [
+        1580,
+        1539
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0342.jpg",
+      "xy": [
+        3249,
+        1203
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0326.jpg",
+      "xy": [
+        1037,
+        803
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0491.jpg",
+      "xy": [
+        888,
+        1382
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0728.jpg",
+      "xy": [
+        1355,
+        1075
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0641.jpg",
+      "xy": [
+        1044,
+        708
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0028.jpg",
+      "xy": [
+        729,
+        1243
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0580.jpg",
+      "xy": [
+        1212,
+        1131
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0297.jpg",
+      "xy": [
+        3128,
+        854
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0475.jpg",
+      "xy": [
+        1406,
+        659
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0395.jpg",
+      "xy": [
+        2719,
+        380
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0189.jpg",
+      "xy": [
+        1446,
+        293
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0057.jpg",
+      "xy": [
+        3037,
+        188
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0747.jpg",
+      "xy": [
+        2296,
+        38
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0170.jpg",
+      "xy": [
+        478,
+        1433
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0513.jpg",
+      "xy": [
+        2162,
+        565
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0582.jpg",
+      "xy": [
+        796,
+        758
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0347.jpg",
+      "xy": [
+        219,
+        465
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0205.jpg",
+      "xy": [
+        38,
+        111
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0365.jpg",
+      "xy": [
+        399,
+        1151
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0328.jpg",
+      "xy": [
+        2473,
+        1853
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0150.jpg",
+      "xy": [
+        3477,
+        1518
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0140.jpg",
+      "xy": [
+        1280,
+        193
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0213.jpg",
+      "xy": [
+        1329,
+        291
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0341.jpg",
+      "xy": [
+        2769,
+        412
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0194.jpg",
+      "xy": [
+        1891,
+        232
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0660.jpg",
+      "xy": [
+        123,
+        430
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0670.jpg",
+      "xy": [
+        3357,
+        1194
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0679.jpg",
+      "xy": [
+        2192,
+        1701
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0659.jpg",
+      "xy": [
+        3104,
+        1873
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0587.jpg",
+      "xy": [
+        601,
+        1182
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0232.jpg",
+      "xy": [
+        1327,
+        1771
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0026.jpg",
+      "xy": [
+        2557,
+        901
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0411.jpg",
+      "xy": [
+        3174,
+        1815
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0685.jpg",
+      "xy": [
+        322,
+        374
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0769.jpg",
+      "xy": [
+        1481,
+        1769
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0517.jpg",
+      "xy": [
+        434,
+        1678
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0065.jpg",
+      "xy": [
+        2879,
+        1270
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0085.jpg",
+      "xy": [
+        1132,
+        673
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0123.jpg",
+      "xy": [
+        1396,
+        643
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0359.jpg",
+      "xy": [
+        2639,
+        645
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0069.jpg",
+      "xy": [
+        1682,
+        1111
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0515.jpg",
+      "xy": [
+        757,
+        342
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0081.jpg",
+      "xy": [
+        2881,
+        1256
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0366.jpg",
+      "xy": [
+        1219,
+        1609
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0636.jpg",
+      "xy": [
+        2989,
+        1790
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0364.jpg",
+      "xy": [
+        2960,
+        1297
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0275.jpg",
+      "xy": [
+        2323,
+        1448
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0281.jpg",
+      "xy": [
+        2325,
+        1143
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0354.jpg",
+      "xy": [
+        2098,
+        821
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0661.jpg",
+      "xy": [
+        1321,
+        943
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0168.jpg",
+      "xy": [
+        1808,
+        565
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0569.jpg",
+      "xy": [
+        336,
+        328
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0774.jpg",
+      "xy": [
+        2460,
+        396
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0369.jpg",
+      "xy": [
+        282,
+        634
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0525.jpg",
+      "xy": [
+        3299,
+        705
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0012.jpg",
+      "xy": [
+        2486,
+        528
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0422.jpg",
+      "xy": [
+        781,
+        342
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0455.jpg",
+      "xy": [
+        249,
+        1260
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0250.jpg",
+      "xy": [
+        837,
+        1070
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0520.jpg",
+      "xy": [
+        532,
+        703
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0432.jpg",
+      "xy": [
+        886,
+        277
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0447.jpg",
+      "xy": [
+        2205,
+        315
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0429.jpg",
+      "xy": [
+        720,
+        229
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0345.jpg",
+      "xy": [
+        1818,
+        869
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0699.jpg",
+      "xy": [
+        1869,
+        1762
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0062.jpg",
+      "xy": [
+        1916,
+        1014
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0303.jpg",
+      "xy": [
+        1361,
+        706
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0465.jpg",
+      "xy": [
+        3548,
+        1804
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0224.jpg",
+      "xy": [
+        1396,
+        287
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0483.jpg",
+      "xy": [
+        259,
+        481
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0717.jpg",
+      "xy": [
+        1412,
+        1190
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0002.jpg",
+      "xy": [
+        3111,
+        710
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0702.jpg",
+      "xy": [
+        1771,
+        1503
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0603.jpg",
+      "xy": [
+        2777,
+        42
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0787.jpg",
+      "xy": [
+        715,
+        1372
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0238.jpg",
+      "xy": [
+        280,
+        702
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0614.jpg",
+      "xy": [
+        105,
+        88
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0290.jpg",
+      "xy": [
+        1956,
+        1044
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0662.jpg",
+      "xy": [
+        2937,
+        1903
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0021.jpg",
+      "xy": [
+        3354,
+        802
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0338.jpg",
+      "xy": [
+        1347,
+        971
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0118.jpg",
+      "xy": [
+        3277,
+        243
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0126.jpg",
+      "xy": [
+        1094,
+        728
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0414.jpg",
+      "xy": [
+        715,
+        54
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0092.jpg",
+      "xy": [
+        2767,
+        1204
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0693.jpg",
+      "xy": [
+        1991,
+        1567
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0591.jpg",
+      "xy": [
+        754,
+        540
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0197.jpg",
+      "xy": [
+        1393,
+        1837
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0745.jpg",
+      "xy": [
+        2113,
+        276
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0516.jpg",
+      "xy": [
+        1845,
+        1034
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0407.jpg",
+      "xy": [
+        2900,
+        533
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0129.jpg",
+      "xy": [
+        2321,
+        1080
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0210.jpg",
+      "xy": [
+        777,
+        415
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0419.jpg",
+      "xy": [
+        3009,
+        408
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0270.jpg",
+      "xy": [
+        986,
+        74
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0765.jpg",
+      "xy": [
+        3053,
+        939
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0507.jpg",
+      "xy": [
+        804,
+        1816
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0508.jpg",
+      "xy": [
+        2745,
+        890
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0306.jpg",
+      "xy": [
+        1894,
+        651
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0279.jpg",
+      "xy": [
+        3318,
+        1247
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0107.jpg",
+      "xy": [
+        3082,
+        1439
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0593.jpg",
+      "xy": [
+        1475,
+        906
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0084.jpg",
+      "xy": [
+        1714,
+        206
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0435.jpg",
+      "xy": [
+        2397,
+        929
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0327.jpg",
+      "xy": [
+        1630,
+        1572
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0467.jpg",
+      "xy": [
+        2259,
+        1885
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0386.jpg",
+      "xy": [
+        3135,
+        953
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0689.jpg",
+      "xy": [
+        477,
+        747
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0703.jpg",
+      "xy": [
+        2027,
+        1109
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0130.jpg",
+      "xy": [
+        3335,
+        1483
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0390.jpg",
+      "xy": [
+        98,
+        1642
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0433.jpg",
+      "xy": [
+        353,
+        1088
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0698.jpg",
+      "xy": [
+        1775,
+        756
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0193.jpg",
+      "xy": [
+        1481,
+        808
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0324.jpg",
+      "xy": [
+        1750,
+        868
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0711.jpg",
+      "xy": [
+        1144,
+        631
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0398.jpg",
+      "xy": [
+        2685,
+        1408
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0393.jpg",
+      "xy": [
+        2794,
+        571
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0381.jpg",
+      "xy": [
+        1074,
+        1322
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0759.jpg",
+      "xy": [
+        1101,
+        359
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0024.jpg",
+      "xy": [
+        141,
+        1339
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0601.jpg",
+      "xy": [
+        1691,
+        1072
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0456.jpg",
+      "xy": [
+        3314,
+        1433
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0431.jpg",
+      "xy": [
+        2057,
+        878
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0088.jpg",
+      "xy": [
+        907,
+        438
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0469.jpg",
+      "xy": [
+        1873,
+        43
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0267.jpg",
+      "xy": [
+        2102,
+        727
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0486.jpg",
+      "xy": [
+        2237,
+        977
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0648.jpg",
+      "xy": [
+        3578,
+        510
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0415.jpg",
+      "xy": [
+        2807,
+        1204
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0556.jpg",
+      "xy": [
+        2552,
+        1687
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0700.jpg",
+      "xy": [
+        2099,
+        454
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0571.jpg",
+      "xy": [
+        539,
+        444
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0547.jpg",
+      "xy": [
+        3159,
+        1349
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0531.jpg",
+      "xy": [
+        507,
+        1298
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0305.jpg",
+      "xy": [
+        2528,
+        1722
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0446.jpg",
+      "xy": [
+        408,
+        1150
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0584.jpg",
+      "xy": [
+        1704,
+        1405
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0665.jpg",
+      "xy": [
+        881,
+        404
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0518.jpg",
+      "xy": [
+        1653,
+        577
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0102.jpg",
+      "xy": [
+        418,
+        363
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0749.jpg",
+      "xy": [
+        2432,
+        1250
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0214.jpg",
+      "xy": [
+        3067,
+        477
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0691.jpg",
+      "xy": [
+        3473,
+        1627
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0574.jpg",
+      "xy": [
+        758,
+        1637
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0563.jpg",
+      "xy": [
+        2346,
+        1728
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0064.jpg",
+      "xy": [
+        1863,
+        1354
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0645.jpg",
+      "xy": [
+        1213,
+        801
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0068.jpg",
+      "xy": [
+        2601,
+        905
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0560.jpg",
+      "xy": [
+        420,
+        1064
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0385.jpg",
+      "xy": [
+        2624,
+        1560
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0510.jpg",
+      "xy": [
+        1130,
+        348
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0710.jpg",
+      "xy": [
+        2429,
+        1389
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0750.jpg",
+      "xy": [
+        2381,
+        127
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0418.jpg",
+      "xy": [
+        1375,
+        1645
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0793.jpg",
+      "xy": [
+        3426,
+        92
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0182.jpg",
+      "xy": [
+        2504,
+        536
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0474.jpg",
+      "xy": [
+        1777,
+        1160
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0784.jpg",
+      "xy": [
+        555,
+        1592
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0384.jpg",
+      "xy": [
+        2342,
+        255
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0110.jpg",
+      "xy": [
+        1538,
+        1084
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0114.jpg",
+      "xy": [
+        3169,
+        1656
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0220.jpg",
+      "xy": [
+        2482,
+        1506
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0258.jpg",
+      "xy": [
+        967,
+        1460
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0269.jpg",
+      "xy": [
+        829,
+        518
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0212.jpg",
+      "xy": [
+        593,
+        302
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0335.jpg",
+      "xy": [
+        2960,
+        75
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0596.jpg",
+      "xy": [
+        658,
+        1751
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0408.jpg",
+      "xy": [
+        905,
+        287
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0656.jpg",
+      "xy": [
+        3389,
+        334
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0331.jpg",
+      "xy": [
+        2280,
+        1250
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0135.jpg",
+      "xy": [
+        1497,
+        427
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0629.jpg",
+      "xy": [
+        1497,
+        907
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0794.jpg",
+      "xy": [
+        1846,
+        416
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0336.jpg",
+      "xy": [
+        2182,
+        1079
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0630.jpg",
+      "xy": [
+        177,
+        1347
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0144.jpg",
+      "xy": [
+        1672,
+        1187
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0503.jpg",
+      "xy": [
+        1024,
+        1498
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0651.jpg",
+      "xy": [
+        109,
+        464
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0203.jpg",
+      "xy": [
+        868,
+        785
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0504.jpg",
+      "xy": [
+        2007,
+        545
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0190.jpg",
+      "xy": [
+        729,
+        1241
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0752.jpg",
+      "xy": [
+        2203,
+        674
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0557.jpg",
+      "xy": [
+        1007,
+        469
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0709.jpg",
+      "xy": [
+        876,
+        83
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0013.jpg",
+      "xy": [
+        2132,
+        1050
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0490.jpg",
+      "xy": [
+        197,
+        1677
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0439.jpg",
+      "xy": [
+        1490,
+        1899
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0187.jpg",
+      "xy": [
+        2635,
+        1186
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0060.jpg",
+      "xy": [
+        3514,
+        10
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0239.jpg",
+      "xy": [
+        2489,
+        183
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0530.jpg",
+      "xy": [
+        3576,
+        795
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0762.jpg",
+      "xy": [
+        2263,
+        491
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0776.jpg",
+      "xy": [
+        19,
+        142
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0300.jpg",
+      "xy": [
+        2836,
+        630
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0791.jpg",
+      "xy": [
+        2819,
+        666
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0215.jpg",
+      "xy": [
+        3504,
+        1159
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0572.jpg",
+      "xy": [
+        562,
+        94
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0185.jpg",
+      "xy": [
+        152,
+        662
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0500.jpg",
+      "xy": [
+        523,
+        1228
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0312.jpg",
+      "xy": [
+        2679,
+        1253
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0163.jpg",
+      "xy": [
+        2303,
+        571
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0237.jpg",
+      "xy": [
+        1325,
+        854
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0546.jpg",
+      "xy": [
+        3243,
+        1491
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0423.jpg",
+      "xy": [
+        1295,
+        243
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0609.jpg",
+      "xy": [
+        1101,
+        1517
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0680.jpg",
+      "xy": [
+        1956,
+        1810
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0564.jpg",
+      "xy": [
+        1352,
+        516
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0019.jpg",
+      "xy": [
+        3288,
+        663
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0666.jpg",
+      "xy": [
+        87,
+        480
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0713.jpg",
+      "xy": [
+        400,
+        1844
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0377.jpg",
+      "xy": [
+        159,
+        89
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0104.jpg",
+      "xy": [
+        2690,
+        16
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0458.jpg",
+      "xy": [
+        2583,
+        104
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0271.jpg",
+      "xy": [
+        3089,
+        873
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0476.jpg",
+      "xy": [
+        3558,
+        1350
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0134.jpg",
+      "xy": [
+        2234,
+        1195
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0477.jpg",
+      "xy": [
+        2182,
+        744
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0259.jpg",
+      "xy": [
+        39,
+        1097
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0231.jpg",
+      "xy": [
+        3069,
+        1207
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0449.jpg",
+      "xy": [
+        3133,
+        1354
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0633.jpg",
+      "xy": [
+        3515,
+        459
+      ]
+    },
+    {
+      "source": "datasets/U3D/light/train/0798.jpg",
+      "xy": [
+        901,
+        448
+      ]
+    }
+  ]
+}

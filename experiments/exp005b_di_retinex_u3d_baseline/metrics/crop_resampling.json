@@ -1,0 +1,41 @@
+{
+  "summary": {
+    "invalid_crop_resample_count": 1,
+    "affected_image_count": 1,
+    "affected_image_paths": [
+      "datasets/U3D/lowlight/train/0069.jpg"
+    ],
+    "affected_sample_count": 1,
+    "max_resamples_for_single_sample": 1
+  },
+  "affected_samples": [
+    {
+      "source": "datasets/U3D/lowlight/train/0069.jpg",
+      "initial_xywh": [
+        68,
+        1850,
+        256,
+        256
+      ],
+      "invalid_crops": [
+        {
+          "attempt": 0,
+          "xywh": [
+            68,
+            1850,
+            256,
+            256
+          ]
+        }
+      ],
+      "resample_count": 1,
+      "accepted_xywh": [
+        2338,
+        471,
+        256,
+        256
+      ],
+      "sample_number": 9395
+    }
+  ]
+}

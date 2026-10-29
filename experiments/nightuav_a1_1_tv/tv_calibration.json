@@ -1,0 +1,404 @@
+{
+  "rule": "lambda=.1*RMS(||grad_rec||)/RMS(||grad_tv||) over first8 fixed train batches; all10276 parameter elements, unused R-head TV gradients counted zero",
+  "target_initial_gradient_ratio": 0.1,
+  "lambda_tv": 0.8653310986696595,
+  "rec_gradient_rms": 0.14859014927335767,
+  "tv_gradient_rms": 0.017171479160034444,
+  "batches": [
+    {
+      "batch": 1,
+      "sources": [
+        "datasets/U3D/lowlight/train/0153.jpg",
+        "datasets/U3D/lowlight/train/0146.jpg"
+      ],
+      "crops": [
+        {
+          "source": "datasets/U3D/lowlight/train/0153.jpg",
+          "initial_xywh": [
+            2338,
+            471,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            2338,
+            471,
+            256,
+            256
+          ],
+          "sample_number": 1
+        },
+        {
+          "source": "datasets/U3D/lowlight/train/0146.jpg",
+          "initial_xywh": [
+            3069,
+            746,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            3069,
+            746,
+            256,
+            256
+          ],
+          "sample_number": 2
+        }
+      ],
+      "rec": 0.24059121310710907,
+      "tv": 0.001039187889546156,
+      "rec_grad_l2": 0.21763005887269557,
+      "tv_grad_l2": 0.016249688881264327
+    },
+    {
+      "batch": 2,
+      "sources": [
+        "datasets/U3D/lowlight/train/0786.jpg",
+        "datasets/U3D/lowlight/train/0523.jpg"
+      ],
+      "crops": [
+        {
+          "source": "datasets/U3D/lowlight/train/0786.jpg",
+          "initial_xywh": [
+            1392,
+            1713,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            1392,
+            1713,
+            256,
+            256
+          ],
+          "sample_number": 3
+        },
+        {
+          "source": "datasets/U3D/lowlight/train/0523.jpg",
+          "initial_xywh": [
+            2044,
+            699,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            2044,
+            699,
+            256,
+            256
+          ],
+          "sample_number": 4
+        }
+      ],
+      "rec": 0.20065712928771973,
+      "tv": 0.0005014390917494893,
+      "rec_grad_l2": 0.15991807179004627,
+      "tv_grad_l2": 0.00814385034329539
+    },
+    {
+      "batch": 3,
+      "sources": [
+        "datasets/U3D/lowlight/train/0660.jpg",
+        "datasets/U3D/lowlight/train/0770.jpg"
+      ],
+      "crops": [
+        {
+          "source": "datasets/U3D/lowlight/train/0660.jpg",
+          "initial_xywh": [
+            1116,
+            997,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            1116,
+            997,
+            256,
+            256
+          ],
+          "sample_number": 5
+        },
+        {
+          "source": "datasets/U3D/lowlight/train/0770.jpg",
+          "initial_xywh": [
+            204,
+            186,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            204,
+            186,
+            256,
+            256
+          ],
+          "sample_number": 6
+        }
+      ],
+      "rec": 0.14910279214382172,
+      "tv": 0.0018693916499614716,
+      "rec_grad_l2": 0.10702012922020676,
+      "tv_grad_l2": 0.03240498859957611
+    },
+    {
+      "batch": 4,
+      "sources": [
+        "datasets/U3D/lowlight/train/0060.jpg",
+        "datasets/U3D/lowlight/train/0597.jpg"
+      ],
+      "crops": [
+        {
+          "source": "datasets/U3D/lowlight/train/0060.jpg",
+          "initial_xywh": [
+            2649,
+            1846,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            2649,
+            1846,
+            256,
+            256
+          ],
+          "sample_number": 7
+        },
+        {
+          "source": "datasets/U3D/lowlight/train/0597.jpg",
+          "initial_xywh": [
+            2862,
+            329,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            2862,
+            329,
+            256,
+            256
+          ],
+          "sample_number": 8
+        }
+      ],
+      "rec": 0.18518106639385223,
+      "tv": 0.0011444329284131527,
+      "rec_grad_l2": 0.11854050285432453,
+      "tv_grad_l2": 0.019099686288365027
+    },
+    {
+      "batch": 5,
+      "sources": [
+        "datasets/U3D/lowlight/train/0639.jpg",
+        "datasets/U3D/lowlight/train/0082.jpg"
+      ],
+      "crops": [
+        {
+          "source": "datasets/U3D/lowlight/train/0639.jpg",
+          "initial_xywh": [
+            589,
+            1233,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            589,
+            1233,
+            256,
+            256
+          ],
+          "sample_number": 9
+        },
+        {
+          "source": "datasets/U3D/lowlight/train/0082.jpg",
+          "initial_xywh": [
+            1697,
+            1194,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            1697,
+            1194,
+            256,
+            256
+          ],
+          "sample_number": 10
+        }
+      ],
+      "rec": 0.2031402289867401,
+      "tv": 0.0008983717998489738,
+      "rec_grad_l2": 0.1418018911384817,
+      "tv_grad_l2": 0.013397647847672054
+    },
+    {
+      "batch": 6,
+      "sources": [
+        "datasets/U3D/lowlight/train/0663.jpg",
+        "datasets/U3D/lowlight/train/0617.jpg"
+      ],
+      "crops": [
+        {
+          "source": "datasets/U3D/lowlight/train/0663.jpg",
+          "initial_xywh": [
+            1968,
+            628,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            1968,
+            628,
+            256,
+            256
+          ],
+          "sample_number": 11
+        },
+        {
+          "source": "datasets/U3D/lowlight/train/0617.jpg",
+          "initial_xywh": [
+            91,
+            708,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            91,
+            708,
+            256,
+            256
+          ],
+          "sample_number": 12
+        }
+      ],
+      "rec": 0.19746842980384827,
+      "tv": 0.0004864332149736583,
+      "rec_grad_l2": 0.1489403406031793,
+      "tv_grad_l2": 0.006938001138721432
+    },
+    {
+      "batch": 7,
+      "sources": [
+        "datasets/U3D/lowlight/train/0537.jpg",
+        "datasets/U3D/lowlight/train/0511.jpg"
+      ],
+      "crops": [
+        {
+          "source": "datasets/U3D/lowlight/train/0537.jpg",
+          "initial_xywh": [
+            551,
+            342,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            551,
+            342,
+            256,
+            256
+          ],
+          "sample_number": 13
+        },
+        {
+          "source": "datasets/U3D/lowlight/train/0511.jpg",
+          "initial_xywh": [
+            2101,
+            1820,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            2101,
+            1820,
+            256,
+            256
+          ],
+          "sample_number": 14
+        }
+      ],
+      "rec": 0.19576776027679443,
+      "tv": 0.0006016026018187404,
+      "rec_grad_l2": 0.15247405631368197,
+      "tv_grad_l2": 0.009181515941699372
+    },
+    {
+      "batch": 8,
+      "sources": [
+        "datasets/U3D/lowlight/train/0100.jpg",
+        "datasets/U3D/lowlight/train/0672.jpg"
+      ],
+      "crops": [
+        {
+          "source": "datasets/U3D/lowlight/train/0100.jpg",
+          "initial_xywh": [
+            3097,
+            1218,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            3097,
+            1218,
+            256,
+            256
+          ],
+          "sample_number": 15
+        },
+        {
+          "source": "datasets/U3D/lowlight/train/0672.jpg",
+          "initial_xywh": [
+            1985,
+            359,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            1985,
+            359,
+            256,
+            256
+          ],
+          "sample_number": 16
+        }
+      ],
+      "rec": 0.210121750831604,
+      "tv": 0.0010313488310202956,
+      "rec_grad_l2": 0.11247723932065452,
+      "tv_grad_l2": 0.017369183058067866
+    }
+  ],
+  "rec_loss_mean": 0.1977537963539362,
+  "tv_loss_mean": 0.0009465260009164922,
+  "note": "10% is a predeclared conservative intervention, not optimal; gradient ratio may drift; no dev selection or parameter update"
+}

@@ -1,0 +1,62 @@
+{
+  "status": "COMPLETED_10_EPOCH_PILOT",
+  "epochs": 10,
+  "steps": 7700,
+  "training_seconds": 160326.25199710042,
+  "total_training_evaluation_checkpoint_seconds": 160351.62783739995,
+  "total_scope": "epoch0 dev through final checkpoint verification; excludes setup, benchmark, montage and final file hash audit",
+  "checkpoint_checks": [
+    {
+      "epoch": 1,
+      "path": "checkpoints/di_retinex/exp005a0/epoch001.pth",
+      "sha256": "d385a276b1fc613639c765a33a56fc3c326d8ce530e9f0b6b2e88073705ea6ea",
+      "weights_only": true,
+      "strict": true,
+      "state_exact": true,
+      "forward_exact": true
+    },
+    {
+      "epoch": 2,
+      "path": "checkpoints/di_retinex/exp005a0/epoch002.pth",
+      "sha256": "e7814c3ac843c9c6bfb28fc4233a18bfbc93e91e4c6b5e9018b0691c59e3aeaf",
+      "weights_only": true,
+      "strict": true,
+      "state_exact": true,
+      "forward_exact": true
+    },
+    {
+      "epoch": 5,
+      "path": "checkpoints/di_retinex/exp005a0/epoch005.pth",
+      "sha256": "2f09fa1edf010790d783b7c9e720e87d16a65dba19154576ec40d8c90d97887c",
+      "weights_only": true,
+      "strict": true,
+      "state_exact": true,
+      "forward_exact": true
+    },
+    {
+      "epoch": 10,
+      "path": "checkpoints/di_retinex/exp005a0/epoch010.pth",
+      "sha256": "ba8a3113e3b3dd65177663f033d7799e27b36c0633b0df388543431a4a1f7094",
+      "weights_only": true,
+      "strict": true,
+      "state_exact": true,
+      "forward_exact": true
+    }
+  ],
+  "montages": [
+    "results/demos/di_retinex_exp005a0/montage/0049.png",
+    "results/demos/di_retinex_exp005a0/montage/0114.png",
+    "results/demos/di_retinex_exp005a0/montage/0166.png",
+    "results/demos/di_retinex_exp005a0/montage/0179.png",
+    "results/demos/di_retinex_exp005a0/montage/0216.png",
+    "results/demos/di_retinex_exp005a0/montage/0343.png",
+    "results/demos/di_retinex_exp005a0/montage/0758.png",
+    "results/demos/di_retinex_exp005a0/montage/0792.png"
+  ],
+  "nan_inf": false,
+  "oom": false,
+  "all_770_covered_each_epoch": true,
+  "no_train_dev_quarantine_mixing": true,
+  "source_and_input_hashes_unchanged": true,
+  "best_checkpoint_selected": false
+}

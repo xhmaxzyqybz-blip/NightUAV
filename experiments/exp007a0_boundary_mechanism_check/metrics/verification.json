@@ -1,0 +1,14 @@
+{
+  "gradient_checks": "PASS",
+  "real_active_samples": 9,
+  "samples": 16,
+  "lambda0_exact_all": true,
+  "model_parameters_unchanged": true,
+  "protected_files_unchanged": true,
+  "checkpoint_loaded": false,
+  "optimizer_steps": 0,
+  "smoke_status": "NOT_RUN_PENDING_LAMBDA_CONFIRMATION",
+  "nan_inf": false,
+  "oom": false,
+  "seconds": 7.743413200136274
+}

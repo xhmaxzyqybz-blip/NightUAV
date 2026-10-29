@@ -1,0 +1,10 @@
+{
+  "status": "COMPLETED_500_PAIRED_ATTEMPTS",
+  "attempts": 500,
+  "effective_updates": {
+    "local31": 500,
+    "global-image-mean": 500
+  },
+  "extended": false,
+  "best_checkpoint_selected": false
+}

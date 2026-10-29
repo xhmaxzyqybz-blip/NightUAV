@@ -1,0 +1,35 @@
+[
+  {
+    "region": "dark",
+    "pixel_count": 5503469,
+    "fraction_of_all_8_images": 0.7464557562934028,
+    "input_mean": 0.06815559702498906,
+    "output_mean": 0.24485593244642584,
+    "mean_gain": 0.1767003280701274,
+    "input_high_saturation_ratio": 0.0,
+    "output_high_saturation_ratio": 3.634071528339671e-06,
+    "new_high_saturation_ratio": 3.634071528339671e-06
+  },
+  {
+    "region": "middle",
+    "pixel_count": 1490772,
+    "fraction_of_all_8_images": 0.20219889322916668,
+    "input_mean": 0.3648151193833493,
+    "output_mean": 0.5420503494990417,
+    "mean_gain": 0.177235194304175,
+    "input_high_saturation_ratio": 1.341586775174205e-06,
+    "output_high_saturation_ratio": 0.05134185509252924,
+    "new_high_saturation_ratio": 0.05134051350575407
+  },
+  {
+    "region": "bright",
+    "pixel_count": 378559,
+    "fraction_of_all_8_images": 0.05134535047743056,
+    "input_mean": 0.8592635475154411,
+    "output_mean": 0.9712888323086345,
+    "mean_gain": 0.11202530388433311,
+    "input_high_saturation_ratio": 0.04316368122274203,
+    "output_high_saturation_ratio": 0.975715806518931,
+    "new_high_saturation_ratio": 0.9325521252961889
+  }
+]

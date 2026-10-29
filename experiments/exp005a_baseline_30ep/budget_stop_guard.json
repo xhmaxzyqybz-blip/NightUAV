@@ -1,0 +1,10 @@
+﻿{
+    "reason":  "User reduced budget to 15 epochs; stop after validated E10 checkpoint to switch runner",
+    "pid":  146032,
+    "last_observed_epoch":  11,
+    "last_observed_step":  1,
+    "last_observed_global_step":  7701,
+    "stopped_utc":  "2026-10-09T12:36:53.2435380Z",
+    "checkpoint":  "checkpoints/di_retinex/exp005a/epoch010.pth",
+    "resume_allowed_until_epoch":  15
+}

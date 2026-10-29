@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="480" viewBox="0 0 1100 480">
+<rect width="1100" height="480" fill="white"/>
+<text x="80" y="30" font-size="20">Epoch mean original training objectives</text>
+<text x="80" y="55" font-size="13">Loss; diagnostics only, no best selection</text>
+<path d="M80 410.00H840" stroke="#ddd"/>
+<text x="72" y="414.00" text-anchor="end" font-size="12">-0.001199</text>
+<path d="M80 345.00H840" stroke="#ddd"/>
+<text x="72" y="349.00" text-anchor="end" font-size="12">0.005276</text>
+<path d="M80 280.00H840" stroke="#ddd"/>
+<text x="72" y="284.00" text-anchor="end" font-size="12">0.01175</text>
+<path d="M80 215.00H840" stroke="#ddd"/>
+<text x="72" y="219.00" text-anchor="end" font-size="12">0.01823</text>
+<path d="M80 150.00H840" stroke="#ddd"/>
+<text x="72" y="154.00" text-anchor="end" font-size="12">0.0247</text>
+<path d="M80 85.00H840" stroke="#ddd"/>
+<text x="72" y="89.00" text-anchor="end" font-size="12">0.03118</text>
+<text x="80.00" y="432" text-anchor="middle" font-size="12">0</text>
+<text x="333.33" y="432" text-anchor="middle" font-size="12">5</text>
+<text x="586.67" y="432" text-anchor="middle" font-size="12">10</text>
+<text x="840.00" y="432" text-anchor="middle" font-size="12">15</text>
+<polyline fill="none" stroke="#1769aa" stroke-width="2" points="130.67,137.81 181.33,174.50 232.00,153.66 282.67,131.46 333.33,177.93 384.00,137.29 434.67,144.75 485.33,148.88 536.00,97.04 586.67,118.02 637.33,151.22 688.00,157.57"/>
+<path d="M870 85h25" stroke="#1769aa" stroke-width="3"/>
+<text x="905" y="89" font-size="13">total</text>
+<polyline fill="none" stroke="#d14900" stroke-width="2" points="130.67,140.19 181.33,175.97 232.00,154.45 282.67,132.17 333.33,178.24 384.00,137.67 434.67,145.00 485.33,149.10 536.00,97.26 586.67,118.20 637.33,151.66 688.00,158.20"/>
+<path d="M870 110h25" stroke="#d14900" stroke-width="3"/>
+<text x="905" y="114" font-size="13">RD</text>
+<polyline fill="none" stroke="#27944f" stroke-width="2" points="130.67,395.58 181.33,396.50 232.00,397.18 282.67,397.26 333.33,397.66 384.00,397.59 434.67,397.71 485.33,397.74 536.00,397.74 586.67,397.79 637.33,397.52 688.00,397.34"/>
+<path d="M870 135h25" stroke="#27944f" stroke-width="3"/>
+<text x="905" y="139" font-size="13">VS</text>
+<text x="450" y="460" font-size="14">Epoch</text>
+</svg>

@@ -1,0 +1,9 @@
+{
+  "mask": "mask = enhanced_image < 1",
+  "Gaussian": "Gaussian = Normal(torch.tensor([exp]), torch.tensor([0.001]))",
+  "target_exposure": "target_exposure = Gaussian.sample().cuda()",
+  "ratio": "ratio = target_exposure / img_lowlight.detach().mean()",
+  "loss1": "loss1 = (mask * (img_gauss ** 2.2 - (1 / ratio) ** 2.2 * enhanced_image ** 2.2)).abs().mean()",
+  "loss2": "loss2 = (k * b - k + b + 1).var((2, 3)).mean()",
+  "loss": "loss = loss1 + loss2"
+}

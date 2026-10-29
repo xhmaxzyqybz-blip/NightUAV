@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="480" viewBox="0 0 1100 480">
+<rect width="1100" height="480" fill="white"/>
+<text x="80" y="30" font-size="20">Preclamp &gt;1 channel ratio</text>
+<text x="80" y="55" font-size="13">gt1_ratio; diagnostics only, no best selection</text>
+<path d="M80 410.00H840" stroke="#ddd"/>
+<text x="72" y="414.00" text-anchor="end" font-size="12">-0.007194</text>
+<path d="M80 345.00H840" stroke="#ddd"/>
+<text x="72" y="349.00" text-anchor="end" font-size="12">0.03165</text>
+<path d="M80 280.00H840" stroke="#ddd"/>
+<text x="72" y="284.00" text-anchor="end" font-size="12">0.0705</text>
+<path d="M80 215.00H840" stroke="#ddd"/>
+<text x="72" y="219.00" text-anchor="end" font-size="12">0.1093</text>
+<path d="M80 150.00H840" stroke="#ddd"/>
+<text x="72" y="154.00" text-anchor="end" font-size="12">0.1482</text>
+<path d="M80 85.00H840" stroke="#ddd"/>
+<text x="72" y="89.00" text-anchor="end" font-size="12">0.187</text>
+<text x="80.00" y="432" text-anchor="middle" font-size="12">0</text>
+<text x="333.33" y="432" text-anchor="middle" font-size="12">5</text>
+<text x="586.67" y="432" text-anchor="middle" font-size="12">10</text>
+<text x="840.00" y="432" text-anchor="middle" font-size="12">15</text>
+<polyline fill="none" stroke="#1769aa" stroke-width="2" points="80.00,151.50 130.67,314.27 181.33,303.64 232.00,251.50 282.67,320.13 333.33,291.90 384.00,302.07 434.67,328.26 485.33,359.83 536.00,345.94 586.67,323.98 637.33,308.31 688.00,327.31"/>
+<path d="M870 85h25" stroke="#1769aa" stroke-width="3"/>
+<text x="905" y="89" font-size="13">0049</text>
+<polyline fill="none" stroke="#d14900" stroke-width="2" points="80.00,360.09 130.67,381.97 181.33,380.30 232.00,374.62 282.67,382.48 333.33,378.82 384.00,379.94 434.67,383.15 485.33,388.39 536.00,385.70 586.67,382.70 637.33,381.59 688.00,383.74"/>
+<path d="M870 110h25" stroke="#d14900" stroke-width="3"/>
+<text x="905" y="114" font-size="13">0114</text>
+<polyline fill="none" stroke="#27944f" stroke-width="2" points="80.00,356.69 130.67,382.89 181.33,380.79 232.00,374.33 282.67,383.22 333.33,379.01 384.00,380.23 434.67,383.85 485.33,389.40 536.00,386.72 586.67,383.37 637.33,382.41 688.00,384.97"/>
+<path d="M870 135h25" stroke="#27944f" stroke-width="3"/>
+<text x="905" y="139" font-size="13">0166</text>
+<polyline fill="none" stroke="#8e44ad" stroke-width="2" points="80.00,135.63 130.67,220.33 181.33,218.89 232.00,179.98 282.67,231.30 333.33,204.95 384.00,211.70 434.67,228.13 485.33,295.43 536.00,247.13 586.67,225.73 637.33,207.83 688.00,227.12"/>
+<path d="M870 160h25" stroke="#8e44ad" stroke-width="3"/>
+<text x="905" y="164" font-size="13">0179</text>
+<polyline fill="none" stroke="#b82d4b" stroke-width="2" points="80.00,323.77 130.67,352.40 181.33,350.18 232.00,340.64 282.67,353.86 333.33,347.02 384.00,348.81 434.67,352.86 485.33,367.15 536.00,358.20 586.67,352.55 637.33,347.62 688.00,352.58"/>
+<path d="M870 185h25" stroke="#b82d4b" stroke-width="3"/>
+<text x="905" y="189" font-size="13">0216</text>
+<polyline fill="none" stroke="#007f86" stroke-width="2" points="80.00,373.38 130.67,387.51 181.33,386.57 232.00,382.47 282.67,387.89 333.33,385.44 384.00,386.17 434.67,388.12 485.33,391.55 536.00,389.71 586.67,387.91 637.33,386.79 688.00,388.47"/>
+<path d="M870 210h25" stroke="#007f86" stroke-width="3"/>
+<text x="905" y="214" font-size="13">0343</text>
+<polyline fill="none" stroke="#807100" stroke-width="2" points="80.00,97.04 130.67,237.06 181.33,232.53 232.00,181.05 282.67,247.84 333.33,216.24 384.00,225.81 434.67,247.61 485.33,305.39 536.00,268.67 586.67,244.38 637.33,222.14 688.00,245.86"/>
+<path d="M870 235h25" stroke="#807100" stroke-width="3"/>
+<text x="905" y="239" font-size="13">0758</text>
+<polyline fill="none" stroke="#555555" stroke-width="2" points="80.00,123.09 130.67,235.84 181.33,235.62 232.00,182.78 282.67,250.76 333.33,215.79 384.00,224.48 434.67,245.55 485.33,309.42 536.00,269.82 586.67,242.36 637.33,219.78 688.00,246.66"/>
+<path d="M870 260h25" stroke="#555555" stroke-width="3"/>
+<text x="905" y="264" font-size="13">0792</text>
+<text x="450" y="460" font-size="14">Epoch</text>
+</svg>

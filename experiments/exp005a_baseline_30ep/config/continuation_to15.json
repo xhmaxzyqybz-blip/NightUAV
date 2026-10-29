@@ -1,0 +1,144 @@
+{
+  "experiment": "EXP005A adapted baseline",
+  "epochs": 15,
+  "steps_per_epoch": 770,
+  "total_steps": 11550,
+  "seed": 1149,
+  "initialization": "Overall run began randomly at E0. This continuation restores only its own E10 model and Adam state.",
+  "optimizer": "Adam",
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "grad_clip": 0.1,
+  "exposure_mean": 0.5,
+  "exposure_std": 0.001,
+  "RD_VS_weights": [
+    1,
+    1
+  ],
+  "batch_size": 1,
+  "train_crop": [
+    256,
+    256
+  ],
+  "crop_semantics": "full image original official loader including Gaussian then paired uniform crop; main-process coordinates independent of workers",
+  "sampling": "each epoch shuffled permutation of all 770; seed1149 separate sampler and crop RNG streams",
+  "loader": {
+    "num_workers": 0,
+    "pin_memory": false,
+    "persistent_workers": false,
+    "prefetch_factor": null
+  },
+  "dev_size": [
+    1280,
+    720
+  ],
+  "dev_resize": "Pillow RGB LANCZOS",
+  "dev_epochs": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "dev_objective": "original RD+VS on resized RGB and GaussianBlur of resized uint8 RGB; fixed per-image stochastic exposure using isolated seed1149+i each epoch; unsupervised dev objective, not image quality score",
+  "saved_epochs": [
+    0,
+    1,
+    2,
+    5,
+    10,
+    15
+  ],
+  "checkpoint_epochs": [
+    1,
+    2,
+    5,
+    10,
+    15
+  ],
+  "best_selection": false,
+  "region_diagnostics": {
+    "luminance": "encoded RGB Yprime=.2126R+.7152G+.0722B",
+    "output": "official clamped enhanced RGB",
+    "dark_mask": "fixed resized input Y_in < 0.2",
+    "bright_mask": "fixed resized input Y_in > 0.7",
+    "gain": "Y_out - Y_in",
+    "statistics": [
+      "pixel_count",
+      "mean",
+      "median",
+      "p10",
+      "p90"
+    ],
+    "empty_region": "count 0, all gain statistics null",
+    "purpose": "preregistered diagnostics only; not a loss, model component or quality score"
+  },
+  "model_commit": "3f94f95ffb181904a837532a70adc064bee793a2",
+  "source_sha256": {
+    "mymodel.py": "46748dcabbd2eda8a290af790ee82b420200b75e2ac1d992f2586344e82e582e",
+    "dataloader.py": "2ac4964e10454827e8f7c7aca92fc6365f22f955853d0a66a4bee960b91b52bb",
+    "lowlight_train.py": "1b17104802fefb5270f47f8a83714fa0af0c4864b36255b585be5d4dbc9a2c4b"
+  },
+  "split_sha256": {
+    "configs/splits/u3d_dev_v2_1.txt": "8a0755381877ee5e1d1cb8aa4573e0f00999d2bb6d545f89359580d95310c9f1",
+    "configs/splits/u3d_quarantine_v2_1.txt": "69f67b42e2918029fbdbe7ab0a33f3d0ef4d8c5145444d389df9842fecdafe9e",
+    "configs/splits/u3d_train_dev_v2_1.json": "0c485b9f49703ebb2da3a8857aade603133cc7627bf5d7d650526679c1974bfc",
+    "configs/splits/u3d_train_v2_1.txt": "5005304d37894d3c41a56ecca0e332d0447a365abf1beb0640991de7e964a0ee"
+  },
+  "script_sha256": "765ec406a8eb17aa15ea641771a1e493b89ba51cc01623d576cfa8e06f1589fd",
+  "loader_benchmark_source": "experiments/exp005a0_baseline_pilot/metrics/loader_benchmark.json",
+  "loader_benchmark_sha256": "c59f68f0135a19328db6dd696bb893351d5fa6891a4e37462c3b5f9d55834f32",
+  "split_counts": {
+    "train": 770,
+    "dev": 8,
+    "quarantine": 22
+  },
+  "torch": "2.13.0+cu130",
+  "torchvision": "0.28.0+cu130",
+  "python": "3.10.22 | packaged by Anaconda, Inc. | (main, Oct  1 2026, 20:15:38) [MSC v.1942 64 bit (AMD64)]",
+  "cuda": "13.0",
+  "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU",
+  "loss_expressions": {
+    "mask": "mask = enhanced_image < 1",
+    "Gaussian": "Gaussian = Normal(torch.tensor([exp]), torch.tensor([0.001]))",
+    "target_exposure": "target_exposure = Gaussian.sample().cuda()",
+    "ratio": "ratio = target_exposure / img_lowlight.detach().mean()",
+    "loss1": "loss1 = (mask * (img_gauss ** 2.2 - (1 / ratio) ** 2.2 * enhanced_image ** 2.2)).abs().mean()",
+    "loss2": "loss2 = (k * b - k + b + 1).var((2, 3)).mean()",
+    "loss": "loss = loss1 + loss2"
+  },
+  "rolling_window": 50,
+  "command": [
+    "E:\\anaconda3\\envs\\nightuav\\python.exe",
+    "-B",
+    "E:\\NightUAV\\scripts\\continue_di_retinex_exp005a_15ep.py"
+  ],
+  "official_protocol_difference": "Official loader uses whole images; 3840x2160 U3D is adapted to 256x256 patches. This is not strict paper reproduction.",
+  "continuation": {
+    "same_experiment_checkpoint": "checkpoints/di_retinex/exp005a/epoch010.pth",
+    "checkpoint_sha256": "1708d82cd01028da77145c73830f3cb91e09761bcb9d6e273c3556805c6751fa",
+    "pilot_weights_used": false,
+    "resume_epoch": 11,
+    "stop_epoch": 15,
+    "reason": "User lowered budget during execution",
+    "original_run_config_sha256": "a8441dae618da0c95b7371a450ad88d411f55acd4359922c70a7c0eac2cec34b",
+    "initial_random_model_reconstruction_matches": true,
+    "cpu_rng_reconstruction": "same initialization then original Normal(.5,.001) sample advanced 7700 times; CUDA RNG unchanged by original training",
+    "partial_epoch11_steps_to_replay": 2,
+    "verification": "Require exact loss/update and sample/crop agreement for all partial steps before continuing"
+  },
+  "started_utc": "2026-10-09T12:37:32.884245+00:00",
+  "initial_model_sha256": "619cb6b29b901af3c23e248c8f3cd6e0a4a87ad25335234bb0216304fdb64a2d",
+  "resumed_model_sha256": "7fefaf087972dc8f4104d7b24ea661ca2d6be2989a3999c4a75ab5d22615bdc9"
+}

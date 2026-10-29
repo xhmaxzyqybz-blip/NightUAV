@@ -1,0 +1,240 @@
+{
+  "selection_rule": "highest second-pass loader+transfer images/s; 16 train images, two passes; includes iterator start/finish, excludes bitwise comparison time; warm OS cache possible",
+  "scope": "loader-only microbenchmark; no model computation overlap measured",
+  "sample_plan": [
+    [
+      145,
+      833,
+      914
+    ],
+    [
+      138,
+      784,
+      1482
+    ],
+    [
+      757,
+      236,
+      1393
+    ],
+    [
+      501,
+      150,
+      144
+    ],
+    [
+      632,
+      43,
+      719
+    ],
+    [
+      741,
+      1471,
+      1420
+    ],
+    [
+      55,
+      101,
+      1157
+    ],
+    [
+      570,
+      514,
+      568
+    ],
+    [
+      612,
+      2985,
+      1542
+    ],
+    [
+      77,
+      3490,
+      748
+    ],
+    [
+      635,
+      3217,
+      368
+    ],
+    [
+      590,
+      2850,
+      1704
+    ],
+    [
+      514,
+      2927,
+      1259
+    ],
+    [
+      489,
+      1974,
+      954
+    ],
+    [
+      95,
+      1397,
+      1110
+    ],
+    [
+      644,
+      2704,
+      409
+    ]
+  ],
+  "source_images": [
+    "datasets/U3D/lowlight/train/0153.jpg",
+    "datasets/U3D/lowlight/train/0146.jpg",
+    "datasets/U3D/lowlight/train/0786.jpg",
+    "datasets/U3D/lowlight/train/0523.jpg",
+    "datasets/U3D/lowlight/train/0660.jpg",
+    "datasets/U3D/lowlight/train/0770.jpg",
+    "datasets/U3D/lowlight/train/0060.jpg",
+    "datasets/U3D/lowlight/train/0597.jpg",
+    "datasets/U3D/lowlight/train/0639.jpg",
+    "datasets/U3D/lowlight/train/0082.jpg",
+    "datasets/U3D/lowlight/train/0663.jpg",
+    "datasets/U3D/lowlight/train/0617.jpg",
+    "datasets/U3D/lowlight/train/0537.jpg",
+    "datasets/U3D/lowlight/train/0511.jpg",
+    "datasets/U3D/lowlight/train/0100.jpg",
+    "datasets/U3D/lowlight/train/0672.jpg"
+  ],
+  "candidates": [
+    {
+      "config": {
+        "num_workers": 0,
+        "pin_memory": false,
+        "persistent_workers": false,
+        "prefetch_factor": null
+      },
+      "status": "tested",
+      "memory": {
+        "total_gib": 15.637767791748047,
+        "available_gib": 0.5825271606445312
+      },
+      "passes": [
+        {
+          "repeat": 0,
+          "wall_seconds": 5.617751500103623,
+          "equivalence_check_seconds": 0.007835300639271736,
+          "measured_seconds_excluding_comparison": 5.609916199464351,
+          "images_per_second": 2.8520925145954443,
+          "transfer_seconds": 0.013114000437781215,
+          "bitwise_equivalent": true
+        },
+        {
+          "repeat": 1,
+          "wall_seconds": 5.385445500025526,
+          "equivalence_check_seconds": 0.0027913996018469334,
+          "measured_seconds_excluding_comparison": 5.382654100423679,
+          "images_per_second": 2.9725112744548476,
+          "transfer_seconds": 0.009731499943882227,
+          "bitwise_equivalent": true
+        }
+      ]
+    },
+    {
+      "config": {
+        "num_workers": 0,
+        "pin_memory": true,
+        "persistent_workers": false,
+        "prefetch_factor": null
+      },
+      "status": "tested",
+      "memory": {
+        "total_gib": 15.637767791748047,
+        "available_gib": 0.8817062377929688
+      },
+      "passes": [
+        {
+          "repeat": 0,
+          "wall_seconds": 5.180244500050321,
+          "equivalence_check_seconds": 0.0024380995891988277,
+          "measured_seconds_excluding_comparison": 5.177806400461122,
+          "images_per_second": 3.090111673270573,
+          "transfer_seconds": 0.021557900588959455,
+          "bitwise_equivalent": true
+        },
+        {
+          "repeat": 1,
+          "wall_seconds": 5.8111310000531375,
+          "equivalence_check_seconds": 0.0029156000819057226,
+          "measured_seconds_excluding_comparison": 5.808215399971232,
+          "images_per_second": 2.7547187730123177,
+          "transfer_seconds": 0.021107899257913232,
+          "bitwise_equivalent": true
+        }
+      ]
+    },
+    {
+      "config": {
+        "num_workers": 1,
+        "pin_memory": true,
+        "persistent_workers": true,
+        "prefetch_factor": 2
+      },
+      "status": "skipped_memory_budget",
+      "memory": {
+        "total_gib": 15.637767791748047,
+        "available_gib": 1.6321220397949219
+      },
+      "minimum_available_gib": 2.75
+    },
+    {
+      "config": {
+        "num_workers": 2,
+        "pin_memory": false,
+        "persistent_workers": false,
+        "prefetch_factor": 2
+      },
+      "status": "skipped_memory_budget",
+      "memory": {
+        "total_gib": 15.637767791748047,
+        "available_gib": 1.6321220397949219
+      },
+      "minimum_available_gib": 4.0
+    },
+    {
+      "config": {
+        "num_workers": 2,
+        "pin_memory": true,
+        "persistent_workers": true,
+        "prefetch_factor": 2
+      },
+      "status": "skipped_memory_budget",
+      "memory": {
+        "total_gib": 15.637767791748047,
+        "available_gib": 1.6321220397949219
+      },
+      "minimum_available_gib": 4.0
+    },
+    {
+      "config": {
+        "num_workers": 2,
+        "pin_memory": true,
+        "persistent_workers": true,
+        "prefetch_factor": 4
+      },
+      "status": "skipped_memory_budget",
+      "memory": {
+        "total_gib": 15.637767791748047,
+        "available_gib": 1.6321220397949219
+      },
+      "minimum_available_gib": 4.0
+    }
+  ],
+  "selected": {
+    "num_workers": 0,
+    "pin_memory": false,
+    "persistent_workers": false,
+    "prefetch_factor": null
+  },
+  "all_tested_candidates_bitwise_equivalent": true,
+  "baseline_images_per_second": 2.9725112744548476,
+  "selected_images_per_second": 2.9725112744548476,
+  "speedup_vs_benchmark_baseline": 1.0,
+  "memory_policy": "Skip extra processes if free RAM <1.5GiB +1.25GiB per worker. Skipped configurations are not claimed slower.",
+  "script_sha256": "7478d1b98cef0c45b6aea397fdc3af3ad7adc123c367626b7d05e9d9a179e61f"
+}

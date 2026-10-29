@@ -1,0 +1,1038 @@
+{
+  "status": "PASS",
+  "dark_nonzero_accepted": true,
+  "zero_exhaustion": {
+    "source": "synthetic_all_black",
+    "initial_xywh": [
+      0,
+      0,
+      256,
+      256
+    ],
+    "invalid_crops": [
+      {
+        "attempt": 0,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 1,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 2,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 3,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 4,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 5,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 6,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 7,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 8,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 9,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 10,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 11,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 12,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 13,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 14,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 15,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 16,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 17,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 18,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 19,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 20,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 21,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 22,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 23,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 24,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 25,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 26,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 27,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 28,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 29,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 30,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 31,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 32,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 33,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 34,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 35,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 36,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 37,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 38,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 39,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 40,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 41,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 42,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 43,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 44,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 45,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 46,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 47,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 48,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 49,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 50,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      }
+    ],
+    "resample_count": 50,
+    "accepted_xywh": null
+  },
+  "last_retry_accepted": {
+    "source": "synthetic_last_retry",
+    "initial_xywh": [
+      0,
+      0,
+      256,
+      256
+    ],
+    "invalid_crops": [
+      {
+        "attempt": 0,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 1,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 2,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 3,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 4,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 5,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 6,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 7,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 8,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 9,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 10,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 11,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 12,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 13,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 14,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 15,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 16,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 17,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 18,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 19,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 20,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 21,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 22,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 23,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 24,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 25,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 26,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 27,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 28,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 29,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 30,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 31,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 32,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 33,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 34,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 35,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 36,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 37,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 38,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 39,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 40,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 41,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 42,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 43,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 44,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 45,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 46,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 47,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 48,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      },
+      {
+        "attempt": 49,
+        "xywh": [
+          0,
+          0,
+          256,
+          256
+        ]
+      }
+    ],
+    "resample_count": 50,
+    "accepted_xywh": [
+      1,
+      0,
+      256,
+      256
+    ]
+  },
+  "real_loader_forced_0069": {
+    "source": "datasets/U3D/lowlight/train/0069.jpg",
+    "initial_xywh": [
+      68,
+      1850,
+      256,
+      256
+    ],
+    "invalid_crops": [
+      {
+        "attempt": 0,
+        "xywh": [
+          68,
+          1850,
+          256,
+          256
+        ]
+      }
+    ],
+    "resample_count": 1,
+    "accepted_xywh": [
+      2338,
+      471,
+      256,
+      256
+    ]
+  },
+  "high_risk": [
+    {
+      "source": "datasets/U3D/lowlight/train/0323.jpg",
+      "samples": 1000,
+      "returned_nonzero": 1000,
+      "deterministic_replay": true,
+      "invalid_crop_resample_count": 109,
+      "affected_image_count": 1,
+      "affected_image_paths": [
+        "datasets/U3D/lowlight/train/0323.jpg"
+      ],
+      "affected_sample_count": 98,
+      "max_sample_resample_count": 5
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0651.jpg",
+      "samples": 1000,
+      "returned_nonzero": 1000,
+      "deterministic_replay": true,
+      "invalid_crop_resample_count": 95,
+      "affected_image_count": 1,
+      "affected_image_paths": [
+        "datasets/U3D/lowlight/train/0651.jpg"
+      ],
+      "affected_sample_count": 91,
+      "max_sample_resample_count": 2
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0455.jpg",
+      "samples": 1000,
+      "returned_nonzero": 1000,
+      "deterministic_replay": true,
+      "invalid_crop_resample_count": 76,
+      "affected_image_count": 1,
+      "affected_image_paths": [
+        "datasets/U3D/lowlight/train/0455.jpg"
+      ],
+      "affected_sample_count": 71,
+      "max_sample_resample_count": 2
+    },
+    {
+      "source": "datasets/U3D/lowlight/train/0069.jpg",
+      "samples": 1000,
+      "returned_nonzero": 1000,
+      "deterministic_replay": true,
+      "invalid_crop_resample_count": 2,
+      "affected_image_count": 1,
+      "affected_image_paths": [
+        "datasets/U3D/lowlight/train/0069.jpg"
+      ],
+      "affected_sample_count": 2,
+      "max_sample_resample_count": 1
+    }
+  ],
+  "aggregate": {
+    "invalid_crop_resample_count": 282,
+    "affected_image_count": 4,
+    "affected_image_paths": [
+      "datasets/U3D/lowlight/train/0069.jpg",
+      "datasets/U3D/lowlight/train/0323.jpg",
+      "datasets/U3D/lowlight/train/0455.jpg",
+      "datasets/U3D/lowlight/train/0651.jpg"
+    ],
+    "affected_sample_count": 262,
+    "max_sample_resample_count": 5
+  },
+  "source_arrays_and_files_unchanged": true
+}

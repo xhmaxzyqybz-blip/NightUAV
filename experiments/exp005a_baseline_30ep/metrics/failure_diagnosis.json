@@ -1,0 +1,22 @@
+{
+  "epoch": 13,
+  "step": 155,
+  "global_step": 9395,
+  "source": "datasets/U3D/lowlight/train/0069.jpg",
+  "crop_xywh": [
+    68,
+    1850,
+    256,
+    256
+  ],
+  "rgb_min": 0,
+  "rgb_max": 0,
+  "rgb_mean": 0,
+  "gaussian_mean": 0,
+  "source_sha256": "e220c332ff28b7432f18f4599c0a3673ea8c627b07a314f239cb6fb929065e34",
+  "source_matches_split_hash": true,
+  "cause": "Runner positive-input-mean guard failed on an all-black crop before forward/backward. Original RD exposure/input_mean would have a zero denominator. No epsilon, skip or crop resampling applied.",
+  "failed_step_forward_executed": false,
+  "failed_step_optimizer_update": false,
+  "protocol_change_requires_review": true
+}

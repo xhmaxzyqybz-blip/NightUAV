@@ -1,0 +1,319 @@
+{
+  "epoch": 1,
+  "images": [
+    {
+      "epoch": 1,
+      "source": "datasets/U3D/lowlight/train/0049.jpg",
+      "raw_min": 0.09032458066940308,
+      "raw_max": 1.5469752550125122,
+      "raw_lt0_ratio": 0.0,
+      "raw_gt1_ratio": 0.050019893795251846,
+      "clamped_zero_ratio": 0.0,
+      "clamped_one_ratio": 0.050019893795251846,
+      "mean_luminance": 0.4631482660770416,
+      "median_luminance": 0.4097357392311096,
+      "p95_luminance": 0.9121633768081665,
+      "unsupervised_dev_objective": 0.025964943692088127,
+      "unsupervised_dev_RD": 0.025539197027683258,
+      "unsupervised_dev_VS": 0.0004257460532244295,
+      "finite": true,
+      "forward_ms": 36.18830000050366,
+      "peak_allocated_mib": 699.74267578125,
+      "peak_reserved_mib": 2502.0,
+      "dark_region_gain": {
+        "pixel_count": 443631,
+        "mean": 0.19040381908416748,
+        "median": 0.19066861271858215,
+        "p10": 0.1795080453157425,
+        "p90": 0.2001405507326126
+      },
+      "bright_region_gain": {
+        "pixel_count": 39002,
+        "mean": 0.1531730592250824,
+        "median": 0.16240811347961426,
+        "p10": 0.07048095762729645,
+        "p90": 0.2396789789199829
+      },
+      "mean_rgb": [
+        0.5852673649787903,
+        0.4340842664241791,
+        0.3914594352245331
+      ]
+    },
+    {
+      "epoch": 1,
+      "source": "datasets/U3D/lowlight/train/0114.jpg",
+      "raw_min": 0.08913916349411011,
+      "raw_max": 1.5209609270095825,
+      "raw_lt0_ratio": 0.0,
+      "raw_gt1_ratio": 0.00955656822770834,
+      "clamped_zero_ratio": 0.0,
+      "clamped_one_ratio": 0.00955656822770834,
+      "mean_luminance": 0.2771357297897339,
+      "median_luminance": 0.23193438351154327,
+      "p95_luminance": 0.541861891746521,
+      "unsupervised_dev_objective": 0.01131382491439581,
+      "unsupervised_dev_RD": 0.011072469875216484,
+      "unsupervised_dev_VS": 0.0002413549809716642,
+      "finite": true,
+      "forward_ms": 33.86470000259578,
+      "peak_allocated_mib": 699.74267578125,
+      "peak_reserved_mib": 2502.0,
+      "dark_region_gain": {
+        "pixel_count": 826912,
+        "mean": 0.18096642196178436,
+        "median": 0.1788623034954071,
+        "p10": 0.17576102912425995,
+        "p90": 0.1900770217180252
+      },
+      "bright_region_gain": {
+        "pixel_count": 8319,
+        "mean": 0.12553033232688904,
+        "median": 0.12354254722595215,
+        "p10": 0.027151238173246384,
+        "p90": 0.2159026712179184
+      },
+      "mean_rgb": [
+        0.38730567693710327,
+        0.2541472017765045,
+        0.18044956028461456
+      ]
+    },
+    {
+      "epoch": 1,
+      "source": "datasets/U3D/lowlight/train/0166.jpg",
+      "raw_min": 0.08786344528198242,
+      "raw_max": 1.4908143281936646,
+      "raw_lt0_ratio": 0.0,
+      "raw_gt1_ratio": 0.009008970111608505,
+      "clamped_zero_ratio": 0.0,
+      "clamped_one_ratio": 0.009009331464767456,
+      "mean_luminance": 0.2613990306854248,
+      "median_luminance": 0.20782701671123505,
+      "p95_luminance": 0.532708466053009,
+      "unsupervised_dev_objective": 0.01191367395222187,
+      "unsupervised_dev_RD": 0.011645876802504063,
+      "unsupervised_dev_VS": 0.0002677973825484514,
+      "finite": true,
+      "forward_ms": 32.41729992441833,
+      "peak_allocated_mib": 699.74267578125,
+      "peak_reserved_mib": 2502.0,
+      "dark_region_gain": {
+        "pixel_count": 824448,
+        "mean": 0.1789165586233139,
+        "median": 0.17605406045913696,
+        "p10": 0.17367389798164368,
+        "p90": 0.18910641968250275
+      },
+      "bright_region_gain": {
+        "pixel_count": 9213,
+        "mean": 0.1335810124874115,
+        "median": 0.1345941424369812,
+        "p10": 0.04866466671228409,
+        "p90": 0.21097329258918762
+      },
+      "mean_rgb": [
+        0.37694188952445984,
+        0.23754388093948364,
+        0.15747657418251038
+      ]
+    },
+    {
+      "epoch": 1,
+      "source": "datasets/U3D/lowlight/train/0179.jpg",
+      "raw_min": 0.08794605731964111,
+      "raw_max": 1.5393177270889282,
+      "raw_lt0_ratio": 0.0,
+      "raw_gt1_ratio": 0.10616102069616318,
+      "clamped_zero_ratio": 0.0,
+      "clamped_one_ratio": 0.10616102069616318,
+      "mean_luminance": 0.4152306616306305,
+      "median_luminance": 0.285192608833313,
+      "p95_luminance": 1.0,
+      "unsupervised_dev_objective": 0.023023592308163643,
+      "unsupervised_dev_RD": 0.022334588691592216,
+      "unsupervised_dev_VS": 0.0006890039658173919,
+      "finite": true,
+      "forward_ms": 33.78769988194108,
+      "peak_allocated_mib": 699.74267578125,
+      "peak_reserved_mib": 2502.0,
+      "dark_region_gain": {
+        "pixel_count": 632833,
+        "mean": 0.18510155379772186,
+        "median": 0.18386343121528625,
+        "p10": 0.17810367047786713,
+        "p90": 0.1940564662218094
+      },
+      "bright_region_gain": {
+        "pixel_count": 102968,
+        "mean": 0.12565766274929047,
+        "median": 0.09640318155288696,
+        "p10": 0.07568749785423279,
+        "p90": 0.23220951855182648
+      },
+      "mean_rgb": [
+        0.4992983043193817,
+        0.3961581289768219,
+        0.35661405324935913
+      ]
+    },
+    {
+      "epoch": 1,
+      "source": "datasets/U3D/lowlight/train/0216.jpg",
+      "raw_min": 0.08792322874069214,
+      "raw_max": 1.5278286933898926,
+      "raw_lt0_ratio": 0.0,
+      "raw_gt1_ratio": 0.02723054029047489,
+      "clamped_zero_ratio": 0.0,
+      "clamped_one_ratio": 0.02723054029047489,
+      "mean_luminance": 0.29002299904823303,
+      "median_luminance": 0.24844670295715332,
+      "p95_luminance": 0.6101710796356201,
+      "unsupervised_dev_objective": 0.012578175403177738,
+      "unsupervised_dev_RD": 0.012241451069712639,
+      "unsupervised_dev_VS": 0.00033672404242679477,
+      "finite": true,
+      "forward_ms": 37.66659996472299,
+      "peak_allocated_mib": 699.74267578125,
+      "peak_reserved_mib": 2502.0,
+      "dark_region_gain": {
+        "pixel_count": 839910,
+        "mean": 0.18369895219802856,
+        "median": 0.1825786530971527,
+        "p10": 0.17531073093414307,
+        "p90": 0.19319908320903778
+      },
+      "bright_region_gain": {
+        "pixel_count": 25670,
+        "mean": 0.11046122014522552,
+        "median": 0.0939435362815857,
+        "p10": 0.019040025770664215,
+        "p90": 0.22605176270008087
+      },
+      "mean_rgb": [
+        0.37418442964553833,
+        0.2681155502796173,
+        0.25921255350112915
+      ]
+    },
+    {
+      "epoch": 1,
+      "source": "datasets/U3D/lowlight/train/0343.jpg",
+      "raw_min": 0.08869367837905884,
+      "raw_max": 1.5401219129562378,
+      "raw_lt0_ratio": 0.0,
+      "raw_gt1_ratio": 0.006244574673473835,
+      "clamped_zero_ratio": 0.0,
+      "clamped_one_ratio": 0.006244574673473835,
+      "mean_luminance": 0.25028571486473083,
+      "median_luminance": 0.21614594757556915,
+      "p95_luminance": 0.4281177818775177,
+      "unsupervised_dev_objective": 0.007173753809183836,
+      "unsupervised_dev_RD": 0.006986440159380436,
+      "unsupervised_dev_VS": 0.00018731356249190867,
+      "finite": true,
+      "forward_ms": 36.10430005937815,
+      "peak_allocated_mib": 699.74267578125,
+      "peak_reserved_mib": 2502.0,
+      "dark_region_gain": {
+        "pixel_count": 867248,
+        "mean": 0.17947234213352203,
+        "median": 0.17761632800102234,
+        "p10": 0.17499035596847534,
+        "p90": 0.18775442242622375
+      },
+      "bright_region_gain": {
+        "pixel_count": 5964,
+        "mean": 0.13103531301021576,
+        "median": 0.13094216585159302,
+        "p10": 0.023529410362243652,
+        "p90": 0.22261840105056763
+      },
+      "mean_rgb": [
+        0.3474416136741638,
+        0.23005150258541107,
+        0.16463704407215118
+      ]
+    },
+    {
+      "epoch": 1,
+      "source": "datasets/U3D/lowlight/train/0758.jpg",
+      "raw_min": 0.09028470516204834,
+      "raw_max": 1.5314009189605713,
+      "raw_lt0_ratio": 0.0,
+      "raw_gt1_ratio": 0.09616174548864365,
+      "clamped_zero_ratio": 0.0,
+      "clamped_one_ratio": 0.09616174548864365,
+      "mean_luminance": 0.4772540330886841,
+      "median_luminance": 0.4061926305294037,
+      "p95_luminance": 1.0,
+      "unsupervised_dev_objective": 0.02600671909749508,
+      "unsupervised_dev_RD": 0.025457438081502914,
+      "unsupervised_dev_VS": 0.0005492804921232164,
+      "finite": true,
+      "forward_ms": 35.872000036761165,
+      "peak_allocated_mib": 699.74267578125,
+      "peak_reserved_mib": 2502.0,
+      "dark_region_gain": {
+        "pixel_count": 452572,
+        "mean": 0.18896348774433136,
+        "median": 0.18829917907714844,
+        "p10": 0.17952300608158112,
+        "p90": 0.19887292385101318
+      },
+      "bright_region_gain": {
+        "pixel_count": 88362,
+        "mean": 0.1232057735323906,
+        "median": 0.08606350421905518,
+        "p10": 0.0501670241355896,
+        "p90": 0.23774659633636475
+      },
+      "mean_rgb": [
+        0.5866368412971497,
+        0.4502774477005005,
+        0.42239075899124146
+      ]
+    },
+    {
+      "epoch": 1,
+      "source": "datasets/U3D/lowlight/train/0792.jpg",
+      "raw_min": 0.09208965301513672,
+      "raw_max": 1.5392842292785645,
+      "raw_lt0_ratio": 0.0,
+      "raw_gt1_ratio": 0.09689344465732574,
+      "clamped_zero_ratio": 0.0,
+      "clamped_one_ratio": 0.09689344465732574,
+      "mean_luminance": 0.41504842042922974,
+      "median_luminance": 0.28525495529174805,
+      "p95_luminance": 1.0,
+      "unsupervised_dev_objective": 0.026607219129800797,
+      "unsupervised_dev_RD": 0.025833791121840477,
+      "unsupervised_dev_VS": 0.0007734284736216068,
+      "finite": true,
+      "forward_ms": 31.906899996101856,
+      "peak_allocated_mib": 699.74267578125,
+      "peak_reserved_mib": 2502.0,
+      "dark_region_gain": {
+        "pixel_count": 615915,
+        "mean": 0.18317368626594543,
+        "median": 0.1808016151189804,
+        "p10": 0.17655575275421143,
+        "p90": 0.19334308803081512
+      },
+      "bright_region_gain": {
+        "pixel_count": 99061,
+        "mean": 0.14345520734786987,
+        "median": 0.12546604871749878,
+        "p10": 0.08399999141693115,
+        "p90": 0.23122763633728027
+      },
+      "mean_rgb": [
+        0.5041782855987549,
+        0.397294819355011,
+        0.3284604847431183
+      ]
+    }
+  ],
+  "seconds": 3.017799000022933,
+  "no_parameter_or_rng_update": true
+}

@@ -1,0 +1,48 @@
+{
+  "status": "PASS_SYNTHETIC_ONLY",
+  "checks": [
+    {
+      "preserve_a21_exclusions": true,
+      "loss": 0.13560068781237777,
+      "R_tensor_gradient_l2": 0.9763217461799458,
+      "counts": [
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ]
+    },
+    {
+      "preserve_a21_exclusions": false,
+      "loss": 0.13560068781237777,
+      "R_tensor_gradient_l2": 0.9763217461799458,
+      "counts": [
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ]
+    }
+  ],
+  "model_forward": false,
+  "parameter_updates": 0,
+  "verified": [
+    "adjacent endpoint masking",
+    "highlights excluded and zero R-tensor gradient there",
+    "fixed target detached",
+    "finite nonzero R-tensor gradients",
+    "empty components zero contribution",
+    "one valid edge accepted; zero invalid"
+  ],
+  "not_verified": [
+    "actual R-head/encoder gradients",
+    "train gradient scale",
+    "new daytime reference",
+    "initialization replay"
+  ],
+  "note": "Both mask policies checked as unit semantics, not experimental conditions; scientific policy remains pending user clarification."
+}

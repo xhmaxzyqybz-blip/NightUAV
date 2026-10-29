@@ -1,0 +1,743 @@
+{
+  "status": "PASS_TRAIN_ONLY_CALIBRATION_NO_UPDATES",
+  "lambda_struct": 4.8010370240182,
+  "lambda_tv": 0.8653310986696595,
+  "base_gradient_rms": 0.14881917824177596,
+  "struct_gradient_rms": 0.003099729860388009,
+  "target_ratio": 0.1,
+  "achieved_ratio": 0.1,
+  "formula": "0.1*sqrt(mean(batch_base_grad_l2^2))/sqrt(mean(batch_struct_grad_l2^2)); all10276 parameter vector; unused gradients zero",
+  "batches": [
+    {
+      "batch": 1,
+      "sources": [
+        "datasets/U3D/lowlight/train/0153.jpg",
+        "datasets/U3D/lowlight/train/0146.jpg"
+      ],
+      "crops": [
+        {
+          "source": "datasets/U3D/lowlight/train/0153.jpg",
+          "initial_xywh": [
+            2338,
+            471,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            2338,
+            471,
+            256,
+            256
+          ],
+          "sample_number": 1
+        },
+        {
+          "source": "datasets/U3D/lowlight/train/0146.jpg",
+          "initial_xywh": [
+            3069,
+            746,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            3069,
+            746,
+            256,
+            256
+          ],
+          "sample_number": 2
+        }
+      ],
+      "rec": 0.24059121310710907,
+      "tv": 0.001039187889546156,
+      "struct": 0.005243110470473766,
+      "base": 0.2414904534816742,
+      "base_grad_l2": 0.21298160072183497,
+      "struct_grad_l2": 0.005046069664171692,
+      "rec_grad_l2": 0.21763005887269557,
+      "tv_grad_l2": 0.016249688881264327,
+      "struct_group_grad_l2": {
+        "encoder": 0.001298932020621685,
+        "reflectance_head": 0.004876022422167219,
+        "illumination_head": 0.0
+      },
+      "coverage": {
+        "moments": [
+          0.0026125693693757057,
+          2.3068969312589616e-05,
+          0.0017152635846287012,
+          8.214175977627747e-06
+        ],
+        "valid_components": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "valid_edges": [
+          [
+            607,
+            607,
+            685,
+            685
+          ],
+          [
+            56127,
+            56127,
+            55896,
+            55896
+          ]
+        ]
+      },
+      "excluded_R_output_gradient_max": 0.0,
+      "bright_R_output_gradient_max": 0.0,
+      "bright_pixels": 8847,
+      "empty_image_components": 0
+    },
+    {
+      "batch": 2,
+      "sources": [
+        "datasets/U3D/lowlight/train/0786.jpg",
+        "datasets/U3D/lowlight/train/0523.jpg"
+      ],
+      "crops": [
+        {
+          "source": "datasets/U3D/lowlight/train/0786.jpg",
+          "initial_xywh": [
+            1392,
+            1713,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            1392,
+            1713,
+            256,
+            256
+          ],
+          "sample_number": 3
+        },
+        {
+          "source": "datasets/U3D/lowlight/train/0523.jpg",
+          "initial_xywh": [
+            2044,
+            699,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            2044,
+            699,
+            256,
+            256
+          ],
+          "sample_number": 4
+        }
+      ],
+      "rec": 0.20065712928771973,
+      "tv": 0.0005014390917494893,
+      "struct": 0.005388043820858002,
+      "base": 0.20109103620052338,
+      "base_grad_l2": 0.16074349222813625,
+      "struct_grad_l2": 0.0012210759825625054,
+      "rec_grad_l2": 0.15991807179004627,
+      "tv_grad_l2": 0.00814385034329539,
+      "struct_group_grad_l2": {
+        "encoder": 0.00033906018041067145,
+        "reflectance_head": 0.0011730578627036565,
+        "illumination_head": 0.0
+      },
+      "coverage": {
+        "moments": [
+          0.0007099900394678116,
+          1.1637467878244934e-06,
+          0.0006459642900153995,
+          1.2855142585976864e-06
+        ],
+        "valid_components": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "valid_edges": [
+          [
+            12044,
+            12044,
+            12175,
+            12175
+          ],
+          [
+            37975,
+            37975,
+            37901,
+            37901
+          ]
+        ]
+      },
+      "excluded_R_output_gradient_max": 0.0,
+      "bright_R_output_gradient_max": 0.0,
+      "bright_pixels": 0,
+      "empty_image_components": 0
+    },
+    {
+      "batch": 3,
+      "sources": [
+        "datasets/U3D/lowlight/train/0660.jpg",
+        "datasets/U3D/lowlight/train/0770.jpg"
+      ],
+      "crops": [
+        {
+          "source": "datasets/U3D/lowlight/train/0660.jpg",
+          "initial_xywh": [
+            1116,
+            997,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            1116,
+            997,
+            256,
+            256
+          ],
+          "sample_number": 5
+        },
+        {
+          "source": "datasets/U3D/lowlight/train/0770.jpg",
+          "initial_xywh": [
+            204,
+            186,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            204,
+            186,
+            256,
+            256
+          ],
+          "sample_number": 6
+        }
+      ],
+      "rec": 0.14910279214382172,
+      "tv": 0.0018693916499614716,
+      "struct": 0.005215401295572519,
+      "base": 0.15072043240070343,
+      "base_grad_l2": 0.11172266343460308,
+      "struct_grad_l2": 0.004210985095902485,
+      "rec_grad_l2": 0.10702012922020676,
+      "tv_grad_l2": 0.03240498859957611,
+      "struct_group_grad_l2": {
+        "encoder": 0.0011021929980941075,
+        "reflectance_head": 0.004064180861239468,
+        "illumination_head": 0.0
+      },
+      "coverage": {
+        "moments": [
+          0.0026099812239408493,
+          1.2202189282106701e-05,
+          0.0022856269497424364,
+          1.0291485523339361e-05
+        ],
+        "valid_components": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "valid_edges": [
+          [
+            62428,
+            62428,
+            62478,
+            62478
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "excluded_R_output_gradient_max": 0.0,
+      "bright_R_output_gradient_max": 0.0,
+      "bright_pixels": 0,
+      "empty_image_components": 4
+    },
+    {
+      "batch": 4,
+      "sources": [
+        "datasets/U3D/lowlight/train/0060.jpg",
+        "datasets/U3D/lowlight/train/0597.jpg"
+      ],
+      "crops": [
+        {
+          "source": "datasets/U3D/lowlight/train/0060.jpg",
+          "initial_xywh": [
+            2649,
+            1846,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            2649,
+            1846,
+            256,
+            256
+          ],
+          "sample_number": 7
+        },
+        {
+          "source": "datasets/U3D/lowlight/train/0597.jpg",
+          "initial_xywh": [
+            2862,
+            329,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            2862,
+            329,
+            256,
+            256
+          ],
+          "sample_number": 8
+        }
+      ],
+      "rec": 0.18518106639385223,
+      "tv": 0.0011444329284131527,
+      "struct": 0.005314571782946587,
+      "base": 0.18617138266563416,
+      "base_grad_l2": 0.12064200273673162,
+      "struct_grad_l2": 0.0030576575208318417,
+      "rec_grad_l2": 0.11854050285432453,
+      "tv_grad_l2": 0.019099686288365027,
+      "struct_group_grad_l2": {
+        "encoder": 0.0008060237386477246,
+        "reflectance_head": 0.002949507627967059,
+        "illumination_head": 0.0
+      },
+      "coverage": {
+        "moments": [
+          0.0016041728667914867,
+          6.076047156966524e-06,
+          0.0012528549414128065,
+          3.8367124943761155e-06
+        ],
+        "valid_components": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "valid_edges": [
+          [
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            57444,
+            57444,
+            57620,
+            57620
+          ]
+        ]
+      },
+      "excluded_R_output_gradient_max": 0.0,
+      "bright_R_output_gradient_max": 0.0,
+      "bright_pixels": 750,
+      "empty_image_components": 4
+    },
+    {
+      "batch": 5,
+      "sources": [
+        "datasets/U3D/lowlight/train/0639.jpg",
+        "datasets/U3D/lowlight/train/0082.jpg"
+      ],
+      "crops": [
+        {
+          "source": "datasets/U3D/lowlight/train/0639.jpg",
+          "initial_xywh": [
+            589,
+            1233,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            589,
+            1233,
+            256,
+            256
+          ],
+          "sample_number": 9
+        },
+        {
+          "source": "datasets/U3D/lowlight/train/0082.jpg",
+          "initial_xywh": [
+            1697,
+            1194,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            1697,
+            1194,
+            256,
+            256
+          ],
+          "sample_number": 10
+        }
+      ],
+      "rec": 0.2031402289867401,
+      "tv": 0.0008983717998489738,
+      "struct": 0.005301834084093571,
+      "base": 0.20391762256622314,
+      "base_grad_l2": 0.14310320154756992,
+      "struct_grad_l2": 0.003797771161622038,
+      "rec_grad_l2": 0.1418018911384817,
+      "tv_grad_l2": 0.013397647847672054,
+      "struct_group_grad_l2": {
+        "encoder": 0.0009023563663592559,
+        "reflectance_head": 0.0036890132534512427,
+        "illumination_head": 0.0
+      },
+      "coverage": {
+        "moments": [
+          0.0016113824676722288,
+          1.1016394637408666e-05,
+          0.0015005667228251696,
+          8.713002898730338e-06
+        ],
+        "valid_components": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "valid_edges": [
+          [
+            350,
+            350,
+            350,
+            350
+          ],
+          [
+            39585,
+            39585,
+            40104,
+            40104
+          ]
+        ]
+      },
+      "excluded_R_output_gradient_max": 0.0,
+      "bright_R_output_gradient_max": 0.0,
+      "bright_pixels": 200,
+      "empty_image_components": 0
+    },
+    {
+      "batch": 6,
+      "sources": [
+        "datasets/U3D/lowlight/train/0663.jpg",
+        "datasets/U3D/lowlight/train/0617.jpg"
+      ],
+      "crops": [
+        {
+          "source": "datasets/U3D/lowlight/train/0663.jpg",
+          "initial_xywh": [
+            1968,
+            628,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            1968,
+            628,
+            256,
+            256
+          ],
+          "sample_number": 11
+        },
+        {
+          "source": "datasets/U3D/lowlight/train/0617.jpg",
+          "initial_xywh": [
+            91,
+            708,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            91,
+            708,
+            256,
+            256
+          ],
+          "sample_number": 12
+        }
+      ],
+      "rec": 0.19746842980384827,
+      "tv": 0.0004864332149736583,
+      "struct": 0.005410538055002689,
+      "base": 0.19788935780525208,
+      "base_grad_l2": 0.14973266699931664,
+      "struct_grad_l2": 0.0008622838334317992,
+      "rec_grad_l2": 0.1489403406031793,
+      "tv_grad_l2": 0.006938001138721432,
+      "struct_group_grad_l2": {
+        "encoder": 0.0002270828341319311,
+        "reflectance_head": 0.0008318454158318412,
+        "illumination_head": 0.0
+      },
+      "coverage": {
+        "moments": [
+          0.00044016927131451666,
+          5.950258810116793e-07,
+          0.0004582524998113513,
+          7.284445473487722e-07
+        ],
+        "valid_components": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "valid_edges": [
+          [
+            51860,
+            51860,
+            51780,
+            51780
+          ],
+          [
+            4544,
+            4544,
+            4607,
+            4607
+          ]
+        ]
+      },
+      "excluded_R_output_gradient_max": 0.0,
+      "bright_R_output_gradient_max": 0.0,
+      "bright_pixels": 0,
+      "empty_image_components": 0
+    },
+    {
+      "batch": 7,
+      "sources": [
+        "datasets/U3D/lowlight/train/0537.jpg",
+        "datasets/U3D/lowlight/train/0511.jpg"
+      ],
+      "crops": [
+        {
+          "source": "datasets/U3D/lowlight/train/0537.jpg",
+          "initial_xywh": [
+            551,
+            342,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            551,
+            342,
+            256,
+            256
+          ],
+          "sample_number": 13
+        },
+        {
+          "source": "datasets/U3D/lowlight/train/0511.jpg",
+          "initial_xywh": [
+            2101,
+            1820,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            2101,
+            1820,
+            256,
+            256
+          ],
+          "sample_number": 14
+        }
+      ],
+      "rec": 0.19576776027679443,
+      "tv": 0.0006016026018187404,
+      "struct": 0.0054063498973846436,
+      "base": 0.1962883472442627,
+      "base_grad_l2": 0.15378398443545283,
+      "struct_grad_l2": 0.001038779902873446,
+      "rec_grad_l2": 0.15247405631368197,
+      "tv_grad_l2": 0.009181515941699372,
+      "struct_group_grad_l2": {
+        "encoder": 0.0002669093964189767,
+        "reflectance_head": 0.0010039039101014716,
+        "illumination_head": 0.0
+      },
+      "coverage": {
+        "moments": [
+          0.0005138458800502121,
+          1.1976998166574049e-06,
+          0.0004700430727098137,
+          8.335588290719897e-07
+        ],
+        "valid_components": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "valid_edges": [
+          [
+            50831,
+            50831,
+            50722,
+            50722
+          ],
+          [
+            6834,
+            6834,
+            6878,
+            6878
+          ]
+        ]
+      },
+      "excluded_R_output_gradient_max": 0.0,
+      "bright_R_output_gradient_max": 0.0,
+      "bright_pixels": 131,
+      "empty_image_components": 0
+    },
+    {
+      "batch": 8,
+      "sources": [
+        "datasets/U3D/lowlight/train/0100.jpg",
+        "datasets/U3D/lowlight/train/0672.jpg"
+      ],
+      "crops": [
+        {
+          "source": "datasets/U3D/lowlight/train/0100.jpg",
+          "initial_xywh": [
+            3097,
+            1218,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            3097,
+            1218,
+            256,
+            256
+          ],
+          "sample_number": 15
+        },
+        {
+          "source": "datasets/U3D/lowlight/train/0672.jpg",
+          "initial_xywh": [
+            1985,
+            359,
+            256,
+            256
+          ],
+          "invalid_crops": [],
+          "resample_count": 0,
+          "accepted_xywh": [
+            1985,
+            359,
+            256,
+            256
+          ],
+          "sample_number": 16
+        }
+      ],
+      "rec": 0.210121750831604,
+      "tv": 0.0010313488310202956,
+      "struct": 0.005357982590794563,
+      "base": 0.21101421117782593,
+      "base_grad_l2": 0.1113247137105701,
+      "struct_grad_l2": 0.002566208908781927,
+      "rec_grad_l2": 0.11247723932065452,
+      "tv_grad_l2": 0.017369183058067866,
+      "struct_group_grad_l2": {
+        "encoder": 0.0006306677555231455,
+        "reflectance_head": 0.002487506049370559,
+        "illumination_head": 0.0
+      },
+      "coverage": {
+        "moments": [
+          0.0011414462933316827,
+          5.916574536968255e-06,
+          0.0008277972228825092,
+          2.7734481591323856e-06
+        ],
+        "valid_components": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "valid_edges": [
+          [
+            32587,
+            32587,
+            32901,
+            32901
+          ],
+          [
+            5512,
+            5512,
+            5480,
+            5480
+          ]
+        ]
+      },
+      "excluded_R_output_gradient_max": 0.0,
+      "bright_R_output_gradient_max": 0.0,
+      "bright_pixels": 4199,
+      "empty_image_components": 0
+    }
+  ],
+  "initial_parameter_sha256": "7d316fd44fa9bb7edef69dcfd961ffdab0b6eb77f79423e064c6eaf5666ed088",
+  "parameters_and_buffers_unchanged": true,
+  "python_numpy_torch_cpu_cuda_rng_unchanged": true,
+  "target_fixed": true,
+  "historical_hashes_unchanged": true,
+  "parameter_updates": 0,
+  "optimizer_created": false,
+  "dev_inference": false,
+  "empty_batches": 0,
+  "exception": null,
+  "gradient_scope": "Zero direct structural gradient at masked R output pixels; shared CNN weights can still affect highlight outputs after future updates"
+}

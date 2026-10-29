@@ -1,0 +1,29 @@
+{
+  "status": "COMPLETED_200_EFFECTIVE_UPDATES",
+  "effective_updates": 200,
+  "attempts": 200,
+  "initial_fixed_train_batch_loss": 0.24059121310710907,
+  "final_fixed_train_batch_loss": 0.04999932646751404,
+  "first20_train_mean": 0.21790350079536439,
+  "last20_train_mean": 0.036267119087278844,
+  "last_step_pre_update_loss": 0.02095891907811165,
+  "elapsed_seconds": 202.18362219999835,
+  "lambda_tv": 0.8653310986696595,
+  "lambda_struct": 5.068692550668577,
+  "initial_fixed_structure": 0.0038187126629054546,
+  "final_fixed_structure": 0.0006196442409418523,
+  "target_unchanged": true,
+  "initialization_replay_parameter_exact": true,
+  "historical_initial_predictions_exact": true,
+  "paired_crop_records_exact": true,
+  "initial_parameter_sha256": "7d316fd44fa9bb7edef69dcfd961ffdab0b6eb77f79423e064c6eaf5666ed088",
+  "last20_rec_mean": 0.026441484317183496,
+  "checkpoint_reload_exact": true,
+  "protected_hashes_unchanged": true,
+  "exceptions": [],
+  "diagnostic_images": [
+    "0049",
+    "0179"
+  ],
+  "interpretation": "One Cday run; no Cnight source control; matching structure statistics is not physical identifiability or independent generalization"
+}

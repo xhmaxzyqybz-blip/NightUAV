@@ -1,0 +1,1202 @@
+[
+  {
+    "source": "datasets/U3D/lowlight/train/0153.jpg",
+    "xywh": [
+      2338,
+      471,
+      256,
+      256
+    ],
+    "z_gt1_count": 235,
+    "z_numel": 196608,
+    "components": {
+      "RD": {
+        "value": 0.00029747223015874624,
+        "l2": 0.00018813399205941573,
+        "finite": true,
+        "nonzero_elements": 20952,
+        "per_parameter_l2": {
+          "e_conv1.weight": 9.86306120997136e-07,
+          "e_conv1.bias": 1.3299293159674497e-05,
+          "e_conv2.weight": 8.056451176730048e-05,
+          "e_conv2.bias": 4.661105293516878e-05,
+          "e_conv3.weight": 9.979706137954398e-05,
+          "e_conv3.bias": 0.00012881719876584784
+        }
+      },
+      "VS": {
+        "value": 2.1874066078453325e-06,
+        "l2": 8.786061295003208e-05,
+        "finite": true,
+        "nonzero_elements": 20976,
+        "per_parameter_l2": {
+          "e_conv1.weight": 3.3123544373937145e-06,
+          "e_conv1.bias": 1.1648070560571896e-05,
+          "e_conv2.weight": 5.924865909003879e-05,
+          "e_conv2.bias": 3.1053206107684883e-05,
+          "e_conv3.weight": 5.550697591899855e-05,
+          "e_conv3.bias": 4.13623972299499e-06
+        }
+      },
+      "upper": {
+        "value": 9.558068995829672e-05,
+        "l2": 0.00047557027144071596,
+        "finite": true,
+        "nonzero_elements": 20236,
+        "per_parameter_l2": {
+          "e_conv1.weight": 8.66934249934886e-05,
+          "e_conv1.bias": 2.5740744929418837e-05,
+          "e_conv2.weight": 0.0001989800232565764,
+          "e_conv2.bias": 9.873183789427833e-05,
+          "e_conv3.weight": 0.0002635771434034609,
+          "e_conv3.bias": 0.00031492032515808644
+        }
+      },
+      "original": {
+        "value": 0.0002996596449520439,
+        "l2": 0.00020746180033801855,
+        "finite": true,
+        "nonzero_elements": 20985,
+        "per_parameter_l2": {
+          "e_conv1.weight": 3.0000702823128663e-06,
+          "e_conv1.bias": 1.689126857908115e-05,
+          "e_conv2.weight": 9.909587826052558e-05,
+          "e_conv2.bias": 5.5603960692360695e-05,
+          "e_conv3.weight": 0.0001180834289513112,
+          "e_conv3.bias": 0.0001260578974034572
+        }
+      }
+    },
+    "z_gradient_finite": true,
+    "z_gradient_expected_max_abs_error": 0.0,
+    "lambda0_forward_loss_parameter_gradients_exact": true,
+    "seconds": 0.966069099958986,
+    "peak_allocated_mib": 1227.59228515625,
+    "peak_reserved_mib": 1872.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0146.jpg",
+    "xywh": [
+      3069,
+      746,
+      256,
+      256
+    ],
+    "z_gt1_count": 89049,
+    "z_numel": 196608,
+    "components": {
+      "RD": {
+        "value": 0.27813929319381714,
+        "l2": 0.24901830739971506,
+        "finite": true,
+        "nonzero_elements": 20871,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.03880135046152584,
+          "e_conv1.bias": 0.015424735199275069,
+          "e_conv2.weight": 0.10404283780324514,
+          "e_conv2.bias": 0.05283055155946498,
+          "e_conv3.weight": 0.1410679769500903,
+          "e_conv3.bias": 0.1635557909998671
+        }
+      },
+      "VS": {
+        "value": 4.840163001063047e-06,
+        "l2": 0.0002436007273399589,
+        "finite": true,
+        "nonzero_elements": 20913,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.00013595458198518832,
+          "e_conv1.bias": 2.454272142847735e-05,
+          "e_conv2.weight": 0.00015688680242725576,
+          "e_conv2.bias": 5.5657717450729224e-05,
+          "e_conv3.weight": 0.00011166293963997618,
+          "e_conv3.bias": 8.686682103018942e-06
+        }
+      },
+      "upper": {
+        "value": 0.032614197582006454,
+        "l2": 0.23855484722567744,
+        "finite": true,
+        "nonzero_elements": 20854,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.04571008071602848,
+          "e_conv1.bias": 0.014036574441287985,
+          "e_conv2.weight": 0.10350025569205923,
+          "e_conv2.bias": 0.04986629145133775,
+          "e_conv3.weight": 0.13521898392122197,
+          "e_conv3.bias": 0.1521146103095806
+        }
+      },
+      "original": {
+        "value": 0.27814412117004395,
+        "l2": 0.24900321651612084,
+        "finite": true,
+        "nonzero_elements": 20921,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.03876040251063908,
+          "e_conv1.bias": 0.01542442380904283,
+          "e_conv2.weight": 0.10401924183632827,
+          "e_conv2.bias": 0.05282537893443545,
+          "e_conv3.weight": 0.14107051800466427,
+          "e_conv3.bias": 0.16355704142858196
+        }
+      }
+    },
+    "z_gradient_finite": true,
+    "z_gradient_expected_max_abs_error": 0.0,
+    "lambda0_forward_loss_parameter_gradients_exact": true,
+    "seconds": 0.11876760004088283,
+    "peak_allocated_mib": 1227.59228515625,
+    "peak_reserved_mib": 1872.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0786.jpg",
+    "xywh": [
+      1392,
+      1713,
+      256,
+      256
+    ],
+    "z_gt1_count": 0,
+    "z_numel": 196608,
+    "components": {
+      "RD": {
+        "value": 0.002390164416283369,
+        "l2": 0.0007512118533392222,
+        "finite": true,
+        "nonzero_elements": 18345,
+        "per_parameter_l2": {
+          "e_conv1.weight": 5.409736119955412e-06,
+          "e_conv1.bias": 5.2806820934619487e-05,
+          "e_conv2.weight": 0.00031034425460597307,
+          "e_conv2.bias": 0.000180163586228272,
+          "e_conv3.weight": 0.0004006354945377749,
+          "e_conv3.bias": 0.0005217472082935796
+        }
+      },
+      "VS": {
+        "value": 2.1617868242174154e-06,
+        "l2": 8.819252117014596e-05,
+        "finite": true,
+        "nonzero_elements": 18343,
+        "per_parameter_l2": {
+          "e_conv1.weight": 4.232392612656162e-06,
+          "e_conv1.bias": 1.1847651833848017e-05,
+          "e_conv2.weight": 5.9421992323988645e-05,
+          "e_conv2.bias": 3.117513994961113e-05,
+          "e_conv3.weight": 5.568569556540602e-05,
+          "e_conv3.bias": 3.985169495744501e-06
+        }
+      },
+      "upper": {
+        "value": 0.0,
+        "l2": 0.0,
+        "finite": true,
+        "nonzero_elements": 0,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.0,
+          "e_conv1.bias": 0.0,
+          "e_conv2.weight": 0.0,
+          "e_conv2.bias": 0.0,
+          "e_conv3.weight": 0.0,
+          "e_conv3.bias": 0.0
+        }
+      },
+      "original": {
+        "value": 0.0023923262488096952,
+        "l2": 0.0007680037931409948,
+        "finite": true,
+        "nonzero_elements": 18343,
+        "per_parameter_l2": {
+          "e_conv1.weight": 7.717128257397056e-06,
+          "e_conv1.bias": 5.613017275261733e-05,
+          "e_conv2.weight": 0.00032616702463126814,
+          "e_conv2.bias": 0.00018816376143602237,
+          "e_conv3.weight": 0.00041990917077135446,
+          "e_conv3.bias": 0.0005181751008536815
+        }
+      }
+    },
+    "z_gradient_finite": true,
+    "z_gradient_expected_max_abs_error": 0.0,
+    "lambda0_forward_loss_parameter_gradients_exact": true,
+    "seconds": 0.12764269998297095,
+    "peak_allocated_mib": 1227.59228515625,
+    "peak_reserved_mib": 1872.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0523.jpg",
+    "xywh": [
+      2044,
+      699,
+      256,
+      256
+    ],
+    "z_gt1_count": 0,
+    "z_numel": 196608,
+    "components": {
+      "RD": {
+        "value": 0.002197211841121316,
+        "l2": 0.002347133594829887,
+        "finite": true,
+        "nonzero_elements": 17996,
+        "per_parameter_l2": {
+          "e_conv1.weight": 2.9835682410279087e-05,
+          "e_conv1.bias": 0.00015498565538605568,
+          "e_conv2.weight": 0.0009583972606969109,
+          "e_conv2.bias": 0.0005528865126140038,
+          "e_conv3.weight": 0.0012703948364559427,
+          "e_conv3.bias": 0.001626657168865953
+        }
+      },
+      "VS": {
+        "value": 2.2068431917432463e-06,
+        "l2": 8.893392372361124e-05,
+        "finite": true,
+        "nonzero_elements": 18004,
+        "per_parameter_l2": {
+          "e_conv1.weight": 4.187272644000426e-06,
+          "e_conv1.bias": 1.2024448536544703e-05,
+          "e_conv2.weight": 5.978839612899261e-05,
+          "e_conv2.bias": 3.1462604438472084e-05,
+          "e_conv3.weight": 5.6264371108772024e-05,
+          "e_conv3.bias": 4.11034403416261e-06
+        }
+      },
+      "upper": {
+        "value": 0.0,
+        "l2": 0.0,
+        "finite": true,
+        "nonzero_elements": 0,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.0,
+          "e_conv1.bias": 0.0,
+          "e_conv2.weight": 0.0,
+          "e_conv2.bias": 0.0,
+          "e_conv3.weight": 0.0,
+          "e_conv3.bias": 0.0
+        }
+      },
+      "original": {
+        "value": 0.0021994186099618673,
+        "l2": 0.0023632653476636737,
+        "finite": true,
+        "nonzero_elements": 18003,
+        "per_parameter_l2": {
+          "e_conv1.weight": 3.1075165548081194e-05,
+          "e_conv1.bias": 0.0001575058363560686,
+          "e_conv2.weight": 0.0009726661259814807,
+          "e_conv2.bias": 0.0005598361146563432,
+          "e_conv3.weight": 0.0012904229726152247,
+          "e_conv3.bias": 0.0016231333996038018
+        }
+      }
+    },
+    "z_gradient_finite": true,
+    "z_gradient_expected_max_abs_error": 0.0,
+    "lambda0_forward_loss_parameter_gradients_exact": true,
+    "seconds": 0.11847419990226626,
+    "peak_allocated_mib": 1227.59228515625,
+    "peak_reserved_mib": 1872.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0660.jpg",
+    "xywh": [
+      1116,
+      997,
+      256,
+      256
+    ],
+    "z_gt1_count": 1471,
+    "z_numel": 196608,
+    "components": {
+      "RD": {
+        "value": 0.046676717698574066,
+        "l2": 0.057191918321263135,
+        "finite": true,
+        "nonzero_elements": 20169,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.005541061760969278,
+          "e_conv1.bias": 0.004365962064694022,
+          "e_conv2.weight": 0.02346244868752241,
+          "e_conv2.bias": 0.013068739363266574,
+          "e_conv3.weight": 0.031277662535146605,
+          "e_conv3.bias": 0.03900743404089382
+        }
+      },
+      "VS": {
+        "value": 3.193646762156277e-06,
+        "l2": 0.00010831573755475182,
+        "finite": true,
+        "nonzero_elements": 20174,
+        "per_parameter_l2": {
+          "e_conv1.weight": 3.0457843741680862e-05,
+          "e_conv1.bias": 1.3752952615234408e-05,
+          "e_conv2.weight": 7.16387083900297e-05,
+          "e_conv2.bias": 3.582388381244332e-05,
+          "e_conv3.weight": 6.456082798544826e-05,
+          "e_conv3.bias": 5.649721199718819e-06
+        }
+      },
+      "upper": {
+        "value": 2.011663127632346e-05,
+        "l2": 0.0003777620982333604,
+        "finite": true,
+        "nonzero_elements": 18791,
+        "per_parameter_l2": {
+          "e_conv1.weight": 5.425128850135347e-05,
+          "e_conv1.bias": 2.8626549644022167e-05,
+          "e_conv2.weight": 0.0001564081529364599,
+          "e_conv2.bias": 8.39418515255457e-05,
+          "e_conv3.weight": 0.00020774310358119473,
+          "e_conv3.bias": 0.0002535243171473172
+        }
+      },
+      "original": {
+        "value": 0.04667991027235985,
+        "l2": 0.05718315217913729,
+        "finite": true,
+        "nonzero_elements": 20161,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.005526418387447729,
+          "e_conv1.bias": 0.004360717913414758,
+          "e_conv2.weight": 0.023448503825706235,
+          "e_conv2.bias": 0.013062546549293614,
+          "e_conv3.weight": 0.03128007634793532,
+          "e_conv3.bias": 0.039005770110069504
+        }
+      }
+    },
+    "z_gradient_finite": true,
+    "z_gradient_expected_max_abs_error": 0.0,
+    "lambda0_forward_loss_parameter_gradients_exact": true,
+    "seconds": 0.11753450008109212,
+    "peak_allocated_mib": 1227.59228515625,
+    "peak_reserved_mib": 1872.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0770.jpg",
+    "xywh": [
+      204,
+      186,
+      256,
+      256
+    ],
+    "z_gt1_count": 0,
+    "z_numel": 196608,
+    "components": {
+      "RD": {
+        "value": 0.0002455195935908705,
+        "l2": 0.0009190219189335976,
+        "finite": true,
+        "nonzero_elements": 17891,
+        "per_parameter_l2": {
+          "e_conv1.weight": 1.2538290895578415e-05,
+          "e_conv1.bias": 6.575247353432516e-05,
+          "e_conv2.weight": 0.0004015816382165461,
+          "e_conv2.bias": 0.00023179607231439665,
+          "e_conv3.weight": 0.00048575632323676017,
+          "e_conv3.bias": 0.0006238303087445863
+        }
+      },
+      "VS": {
+        "value": 2.1307787392288446e-06,
+        "l2": 8.828467036199596e-05,
+        "finite": true,
+        "nonzero_elements": 17916,
+        "per_parameter_l2": {
+          "e_conv1.weight": 2.3273068909812237e-06,
+          "e_conv1.bias": 1.1728571003658002e-05,
+          "e_conv2.weight": 5.96380403266317e-05,
+          "e_conv2.bias": 3.122356559098758e-05,
+          "e_conv3.weight": 5.5717066977987415e-05,
+          "e_conv3.bias": 3.899850116151081e-06
+        }
+      },
+      "upper": {
+        "value": 0.0,
+        "l2": 0.0,
+        "finite": true,
+        "nonzero_elements": 0,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.0,
+          "e_conv1.bias": 0.0,
+          "e_conv2.weight": 0.0,
+          "e_conv2.bias": 0.0,
+          "e_conv3.weight": 0.0,
+          "e_conv3.bias": 0.0
+        }
+      },
+      "original": {
+        "value": 0.00024765037233009934,
+        "l2": 0.0009140932109545819,
+        "finite": true,
+        "nonzero_elements": 17913,
+        "per_parameter_l2": {
+          "e_conv1.weight": 1.207854097445046e-05,
+          "e_conv1.bias": 6.44320296622351e-05,
+          "e_conv2.weight": 0.0003986822336302345,
+          "e_conv2.bias": 0.00023018820960318015,
+          "e_conv3.weight": 0.0004810544822033904,
+          "e_conv3.bias": 0.0006228334212404699
+        }
+      }
+    },
+    "z_gradient_finite": true,
+    "z_gradient_expected_max_abs_error": 0.0,
+    "lambda0_forward_loss_parameter_gradients_exact": true,
+    "seconds": 0.10961080016568303,
+    "peak_allocated_mib": 1227.59228515625,
+    "peak_reserved_mib": 1872.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0060.jpg",
+    "xywh": [
+      2649,
+      1846,
+      256,
+      256
+    ],
+    "z_gt1_count": 0,
+    "z_numel": 196608,
+    "components": {
+      "RD": {
+        "value": 2.134147143806331e-05,
+        "l2": 8.536380833346832e-06,
+        "finite": true,
+        "nonzero_elements": 17712,
+        "per_parameter_l2": {
+          "e_conv1.weight": 2.083024418146317e-08,
+          "e_conv1.bias": 6.110067460963702e-07,
+          "e_conv2.weight": 3.475779339116416e-06,
+          "e_conv2.bias": 2.014714882751766e-06,
+          "e_conv3.weight": 4.5828484045619295e-06,
+          "e_conv3.bias": 5.9458739489563155e-06
+        }
+      },
+      "VS": {
+        "value": 2.1010298496548785e-06,
+        "l2": 8.713368357907577e-05,
+        "finite": true,
+        "nonzero_elements": 17698,
+        "per_parameter_l2": {
+          "e_conv1.weight": 3.379070360464928e-07,
+          "e_conv1.bias": 1.1641693591653196e-05,
+          "e_conv2.weight": 5.8992907408024344e-05,
+          "e_conv2.bias": 3.102355897001716e-05,
+          "e_conv3.weight": 5.475788373899315e-05,
+          "e_conv3.bias": 3.94783941170271e-06
+        }
+      },
+      "upper": {
+        "value": 0.0,
+        "l2": 0.0,
+        "finite": true,
+        "nonzero_elements": 0,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.0,
+          "e_conv1.bias": 0.0,
+          "e_conv2.weight": 0.0,
+          "e_conv2.bias": 0.0,
+          "e_conv3.weight": 0.0,
+          "e_conv3.bias": 0.0
+        }
+      },
+      "original": {
+        "value": 2.344250060559716e-05,
+        "l2": 8.806695540668337e-05,
+        "finite": true,
+        "nonzero_elements": 17735,
+        "per_parameter_l2": {
+          "e_conv1.weight": 3.3647637317510805e-07,
+          "e_conv1.bias": 1.1646500649475293e-05,
+          "e_conv2.weight": 5.912433112358917e-05,
+          "e_conv2.bias": 3.110744540701386e-05,
+          "e_conv3.weight": 5.6108774151710475e-05,
+          "e_conv3.bias": 2.9120806144415843e-06
+        }
+      }
+    },
+    "z_gradient_finite": true,
+    "z_gradient_expected_max_abs_error": 0.0,
+    "lambda0_forward_loss_parameter_gradients_exact": true,
+    "seconds": 0.11332299979403615,
+    "peak_allocated_mib": 1227.59228515625,
+    "peak_reserved_mib": 1872.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0597.jpg",
+    "xywh": [
+      2862,
+      329,
+      256,
+      256
+    ],
+    "z_gt1_count": 3707,
+    "z_numel": 196608,
+    "components": {
+      "RD": {
+        "value": 0.028011208400130272,
+        "l2": 0.03011668401274972,
+        "finite": true,
+        "nonzero_elements": 23279,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.0014467572623274795,
+          "e_conv1.bias": 0.00178187030016169,
+          "e_conv2.weight": 0.011976591213565325,
+          "e_conv2.bias": 0.006804810519745001,
+          "e_conv3.weight": 0.016522516945972107,
+          "e_conv3.bias": 0.02095253536077916
+        }
+      },
+      "VS": {
+        "value": 3.3722003536240663e-06,
+        "l2": 0.0001290507110611313,
+        "finite": true,
+        "nonzero_elements": 23277,
+        "per_parameter_l2": {
+          "e_conv1.weight": 5.3528883111386894e-05,
+          "e_conv1.bias": 1.4044825052905876e-05,
+          "e_conv2.weight": 8.307090747587534e-05,
+          "e_conv2.bias": 3.669539024713313e-05,
+          "e_conv3.weight": 7.284408478046849e-05,
+          "e_conv3.bias": 6.156262316164168e-06
+        }
+      },
+      "upper": {
+        "value": 0.002373699564486742,
+        "l2": 0.011210454165339766,
+        "finite": true,
+        "nonzero_elements": 22804,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.0025913448356743116,
+          "e_conv1.bias": 0.0005886701342137576,
+          "e_conv2.weight": 0.005053722712935053,
+          "e_conv2.bias": 0.00226733509835846,
+          "e_conv3.weight": 0.006262516061026402,
+          "e_conv3.bias": 0.006979445027134686
+        }
+      },
+      "original": {
+        "value": 0.02801457978785038,
+        "l2": 0.030125918347692678,
+        "finite": true,
+        "nonzero_elements": 23273,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.0014386225942845197,
+          "e_conv1.bias": 0.0017809172503721609,
+          "e_conv2.weight": 0.011984638828466397,
+          "e_conv2.bias": 0.006809655866205095,
+          "e_conv3.weight": 0.01653873188223064,
+          "e_conv3.bias": 0.02094748247243924
+        }
+      }
+    },
+    "z_gradient_finite": true,
+    "z_gradient_expected_max_abs_error": 0.0,
+    "lambda0_forward_loss_parameter_gradients_exact": true,
+    "seconds": 0.11273870011791587,
+    "peak_allocated_mib": 1227.59228515625,
+    "peak_reserved_mib": 1872.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0639.jpg",
+    "xywh": [
+      589,
+      1233,
+      256,
+      256
+    ],
+    "z_gt1_count": 94,
+    "z_numel": 196608,
+    "components": {
+      "RD": {
+        "value": 0.00019001230248250067,
+        "l2": 0.00017305910464333817,
+        "finite": true,
+        "nonzero_elements": 20680,
+        "per_parameter_l2": {
+          "e_conv1.weight": 7.057197204381108e-07,
+          "e_conv1.bias": 1.1355927602848935e-05,
+          "e_conv2.weight": 6.991385386050183e-05,
+          "e_conv2.bias": 4.0455805073856564e-05,
+          "e_conv3.weight": 9.33085358832321e-05,
+          "e_conv3.bias": 0.00012078450469093711
+        }
+      },
+      "VS": {
+        "value": 2.142576249752892e-06,
+        "l2": 8.78920008549171e-05,
+        "finite": true,
+        "nonzero_elements": 20706,
+        "per_parameter_l2": {
+          "e_conv1.weight": 2.141632504646992e-06,
+          "e_conv1.bias": 1.1673031106661565e-05,
+          "e_conv2.weight": 5.9360963248778634e-05,
+          "e_conv2.bias": 3.1150344026566286e-05,
+          "e_conv3.weight": 5.5444742521335514e-05,
+          "e_conv3.bias": 3.9962739176922685e-06
+        }
+      },
+      "upper": {
+        "value": 4.555361738312058e-05,
+        "l2": 0.00022803936996068427,
+        "finite": true,
+        "nonzero_elements": 18596,
+        "per_parameter_l2": {
+          "e_conv1.weight": 4.246123771744372e-05,
+          "e_conv1.bias": 1.269307469570733e-05,
+          "e_conv2.weight": 0.00010044651578195312,
+          "e_conv2.bias": 4.845765594447617e-05,
+          "e_conv3.weight": 0.00012807828472207093,
+          "e_conv3.bias": 0.00014558911164171072
+        }
+      },
+      "original": {
+        "value": 0.00019215488282497972,
+        "l2": 0.0002055667621689819,
+        "finite": true,
+        "nonzero_elements": 20713,
+        "per_parameter_l2": {
+          "e_conv1.weight": 2.2635427731530263e-06,
+          "e_conv1.bias": 1.753921693510474e-05,
+          "e_conv2.weight": 9.992313217558038e-05,
+          "e_conv2.bias": 5.533201086171031e-05,
+          "e_conv3.weight": 0.00012296110421158025,
+          "e_conv3.bias": 0.0001173850460380119
+        }
+      }
+    },
+    "z_gradient_finite": true,
+    "z_gradient_expected_max_abs_error": 0.0,
+    "lambda0_forward_loss_parameter_gradients_exact": true,
+    "seconds": 0.10876999981701374,
+    "peak_allocated_mib": 1227.59228515625,
+    "peak_reserved_mib": 1872.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0082.jpg",
+    "xywh": [
+      1697,
+      1194,
+      256,
+      256
+    ],
+    "z_gt1_count": 2763,
+    "z_numel": 196608,
+    "components": {
+      "RD": {
+        "value": 0.009430254809558392,
+        "l2": 0.006019319788259838,
+        "finite": true,
+        "nonzero_elements": 22190,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.0001655456423543646,
+          "e_conv1.bias": 0.00039718654358866985,
+          "e_conv2.weight": 0.0025656241000573113,
+          "e_conv2.bias": 0.0014691117645843914,
+          "e_conv3.weight": 0.0032261450721035364,
+          "e_conv3.bias": 0.004110756594269836
+        }
+      },
+      "VS": {
+        "value": 3.1604436117049772e-06,
+        "l2": 0.00011593994787286511,
+        "finite": true,
+        "nonzero_elements": 22194,
+        "per_parameter_l2": {
+          "e_conv1.weight": 3.712349128772444e-05,
+          "e_conv1.bias": 1.3203931448552332e-05,
+          "e_conv2.weight": 7.761760593691177e-05,
+          "e_conv2.bias": 3.7127052284093354e-05,
+          "e_conv3.weight": 6.676832380052895e-05,
+          "e_conv3.bias": 5.352968882690727e-06
+        }
+      },
+      "upper": {
+        "value": 0.0004715437535196543,
+        "l2": 0.0032587160458686817,
+        "finite": true,
+        "nonzero_elements": 21449,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.0005053286517775079,
+          "e_conv1.bias": 0.00018552799900956588,
+          "e_conv2.weight": 0.0013576983107607369,
+          "e_conv2.bias": 0.0006791564892977272,
+          "e_conv3.weight": 0.0018716555435824246,
+          "e_conv3.bias": 0.0021264430086549825
+        }
+      },
+      "original": {
+        "value": 0.009433415718376637,
+        "l2": 0.00601628971954072,
+        "finite": true,
+        "nonzero_elements": 22204,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.00015157412920432443,
+          "e_conv1.bias": 0.00039891118126231733,
+          "e_conv2.weight": 0.0025660684834468003,
+          "e_conv2.bias": 0.0014712729851869566,
+          "e_conv3.weight": 0.003224499514608443,
+          "e_conv3.bias": 0.004106931745705208
+        }
+      }
+    },
+    "z_gradient_finite": true,
+    "z_gradient_expected_max_abs_error": 0.0,
+    "lambda0_forward_loss_parameter_gradients_exact": true,
+    "seconds": 0.1093987999483943,
+    "peak_allocated_mib": 1227.59228515625,
+    "peak_reserved_mib": 1872.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0663.jpg",
+    "xywh": [
+      1968,
+      628,
+      256,
+      256
+    ],
+    "z_gt1_count": 42,
+    "z_numel": 196608,
+    "components": {
+      "RD": {
+        "value": 0.007594745606184006,
+        "l2": 0.005242371128548918,
+        "finite": true,
+        "nonzero_elements": 19046,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.00017691789123205518,
+          "e_conv1.bias": 0.0003588927644984757,
+          "e_conv2.weight": 0.00230442680419296,
+          "e_conv2.bias": 0.0013142216841962801,
+          "e_conv3.weight": 0.002793371203602826,
+          "e_conv3.bias": 0.003532968564901719
+        }
+      },
+      "VS": {
+        "value": 2.530632173147751e-06,
+        "l2": 9.785415544606275e-05,
+        "finite": true,
+        "nonzero_elements": 19054,
+        "per_parameter_l2": {
+          "e_conv1.weight": 1.5868971841464323e-05,
+          "e_conv1.bias": 1.2070529780389252e-05,
+          "e_conv2.weight": 6.623674613533774e-05,
+          "e_conv2.bias": 3.371238093085674e-05,
+          "e_conv3.weight": 6.028443104570483e-05,
+          "e_conv3.bias": 4.457576521950977e-06
+        }
+      },
+      "upper": {
+        "value": 7.22608433534333e-07,
+        "l2": 1.6393991836391423e-05,
+        "finite": true,
+        "nonzero_elements": 13966,
+        "per_parameter_l2": {
+          "e_conv1.weight": 1.9037420431636565e-06,
+          "e_conv1.bias": 9.895124156854642e-07,
+          "e_conv2.weight": 5.891799752307957e-06,
+          "e_conv2.bias": 3.3954821429101748e-06,
+          "e_conv3.weight": 8.38068414741989e-06,
+          "e_conv3.bias": 1.2152412503738961e-05
+        }
+      },
+      "original": {
+        "value": 0.007597276009619236,
+        "l2": 0.0052397796486817125,
+        "finite": true,
+        "nonzero_elements": 19040,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.00017099519457378461,
+          "e_conv1.bias": 0.0003608873392095849,
+          "e_conv2.weight": 0.0023065724459124574,
+          "e_conv2.bias": 0.0013156263137179157,
+          "e_conv3.weight": 0.002788381596760925,
+          "e_conv3.bias": 0.0035312307718167292
+        }
+      }
+    },
+    "z_gradient_finite": true,
+    "z_gradient_expected_max_abs_error": 0.0,
+    "lambda0_forward_loss_parameter_gradients_exact": true,
+    "seconds": 0.1100878999568522,
+    "peak_allocated_mib": 1227.59228515625,
+    "peak_reserved_mib": 1872.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0617.jpg",
+    "xywh": [
+      91,
+      708,
+      256,
+      256
+    ],
+    "z_gt1_count": 0,
+    "z_numel": 196608,
+    "components": {
+      "RD": {
+        "value": 0.0003312185872346163,
+        "l2": 0.00018219692105333283,
+        "finite": true,
+        "nonzero_elements": 18019,
+        "per_parameter_l2": {
+          "e_conv1.weight": 7.900204898995309e-07,
+          "e_conv1.bias": 1.157526550392324e-05,
+          "e_conv2.weight": 7.19835914097326e-05,
+          "e_conv2.bias": 4.175635240741478e-05,
+          "e_conv3.weight": 9.870866576375786e-05,
+          "e_conv3.bias": 0.00012803310525788558
+        }
+      },
+      "VS": {
+        "value": 2.137330739060417e-06,
+        "l2": 8.803599335720545e-05,
+        "finite": true,
+        "nonzero_elements": 18019,
+        "per_parameter_l2": {
+          "e_conv1.weight": 2.120545154678276e-06,
+          "e_conv1.bias": 1.1715410763768557e-05,
+          "e_conv2.weight": 5.942213747031057e-05,
+          "e_conv2.bias": 3.122358236199198e-05,
+          "e_conv3.weight": 5.5559954792587415e-05,
+          "e_conv3.bias": 3.9720865627686974e-06
+        }
+      },
+      "upper": {
+        "value": 0.0,
+        "l2": 0.0,
+        "finite": true,
+        "nonzero_elements": 0,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.0,
+          "e_conv1.bias": 0.0,
+          "e_conv2.weight": 0.0,
+          "e_conv2.bias": 0.0,
+          "e_conv3.weight": 0.0,
+          "e_conv3.bias": 0.0
+        }
+      },
+      "original": {
+        "value": 0.0003333559143356979,
+        "l2": 0.00022212398337474406,
+        "finite": true,
+        "nonzero_elements": 18022,
+        "per_parameter_l2": {
+          "e_conv1.weight": 2.664511637103061e-06,
+          "e_conv1.bias": 1.9520634485866386e-05,
+          "e_conv2.weight": 0.00010975838356717981,
+          "e_conv2.bias": 6.066952223864579e-05,
+          "e_conv3.weight": 0.00013296462273133808,
+          "e_conv3.bias": 0.00012467407351665285
+        }
+      }
+    },
+    "z_gradient_finite": true,
+    "z_gradient_expected_max_abs_error": 0.0,
+    "lambda0_forward_loss_parameter_gradients_exact": true,
+    "seconds": 0.10936339991167188,
+    "peak_allocated_mib": 1227.59228515625,
+    "peak_reserved_mib": 1872.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0537.jpg",
+    "xywh": [
+      551,
+      342,
+      256,
+      256
+    ],
+    "z_gt1_count": 669,
+    "z_numel": 196608,
+    "components": {
+      "RD": {
+        "value": 0.006276682019233704,
+        "l2": 0.004566721851595155,
+        "finite": true,
+        "nonzero_elements": 22141,
+        "per_parameter_l2": {
+          "e_conv1.weight": 8.349277962716616e-05,
+          "e_conv1.bias": 0.00029114097167518477,
+          "e_conv2.weight": 0.0018452027765810445,
+          "e_conv2.bias": 0.0010642443239407995,
+          "e_conv3.weight": 0.0024723509331792473,
+          "e_conv3.bias": 0.003180142442668872
+        }
+      },
+      "VS": {
+        "value": 2.4092082639981527e-06,
+        "l2": 9.589138660947728e-05,
+        "finite": true,
+        "nonzero_elements": 22154,
+        "per_parameter_l2": {
+          "e_conv1.weight": 1.6222784495387937e-05,
+          "e_conv1.bias": 1.2500905819897913e-05,
+          "e_conv2.weight": 6.508898421635183e-05,
+          "e_conv2.bias": 3.429713140088355e-05,
+          "e_conv3.weight": 5.782842719096482e-05,
+          "e_conv3.bias": 4.325570801616041e-06
+        }
+      },
+      "upper": {
+        "value": 0.0003967215307056904,
+        "l2": 0.0019465708940686957,
+        "finite": true,
+        "nonzero_elements": 20710,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.00043061461686620634,
+          "e_conv1.bias": 0.00010652365845426383,
+          "e_conv2.weight": 0.0008963746659271132,
+          "e_conv2.bias": 0.0004102676189762838,
+          "e_conv3.weight": 0.0010845174780254885,
+          "e_conv3.bias": 0.0012018222774299503
+        }
+      },
+      "original": {
+        "value": 0.006279091350734234,
+        "l2": 0.004583269847442155,
+        "finite": true,
+        "nonzero_elements": 22138,
+        "per_parameter_l2": {
+          "e_conv1.weight": 8.274698208326914e-05,
+          "e_conv1.bias": 0.000294433528108988,
+          "e_conv2.weight": 0.001862144346620646,
+          "e_conv2.bias": 0.001073217009646968,
+          "e_conv3.weight": 0.0024907560461778816,
+          "e_conv3.bias": 0.0031764102899240437
+        }
+      }
+    },
+    "z_gradient_finite": true,
+    "z_gradient_expected_max_abs_error": 0.0,
+    "lambda0_forward_loss_parameter_gradients_exact": true,
+    "seconds": 0.11642140010371804,
+    "peak_allocated_mib": 1227.59228515625,
+    "peak_reserved_mib": 1872.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0511.jpg",
+    "xywh": [
+      2101,
+      1820,
+      256,
+      256
+    ],
+    "z_gt1_count": 0,
+    "z_numel": 196608,
+    "components": {
+      "RD": {
+        "value": 0.000552896992303431,
+        "l2": 0.00043501738762057306,
+        "finite": true,
+        "nonzero_elements": 18005,
+        "per_parameter_l2": {
+          "e_conv1.weight": 2.2194515550896117e-06,
+          "e_conv1.bias": 2.8837752996230715e-05,
+          "e_conv2.weight": 0.00017891469443370438,
+          "e_conv2.bias": 0.00010362002589698523,
+          "e_conv3.weight": 0.0002332574541819056,
+          "e_conv3.bias": 0.0003020711306737693
+        }
+      },
+      "VS": {
+        "value": 2.143462097592419e-06,
+        "l2": 8.843974890081312e-05,
+        "finite": true,
+        "nonzero_elements": 17997,
+        "per_parameter_l2": {
+          "e_conv1.weight": 2.7165245319942213e-06,
+          "e_conv1.bias": 1.1779433096340809e-05,
+          "e_conv2.weight": 5.9671674670583965e-05,
+          "e_conv2.bias": 3.149527829304032e-05,
+          "e_conv3.weight": 5.5740986173643925e-05,
+          "e_conv3.bias": 3.966835473818975e-06
+        }
+      },
+      "upper": {
+        "value": 0.0,
+        "l2": 0.0,
+        "finite": true,
+        "nonzero_elements": 0,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.0,
+          "e_conv1.bias": 0.0,
+          "e_conv2.weight": 0.0,
+          "e_conv2.bias": 0.0,
+          "e_conv3.weight": 0.0,
+          "e_conv3.bias": 0.0
+        }
+      },
+      "original": {
+        "value": 0.0005550404312089086,
+        "l2": 0.00045723935166807033,
+        "finite": true,
+        "nonzero_elements": 17995,
+        "per_parameter_l2": {
+          "e_conv1.weight": 3.6234391344467474e-06,
+          "e_conv1.bias": 3.32538558515563e-05,
+          "e_conv2.weight": 0.00020105900280369438,
+          "e_conv2.bias": 0.00011459816731183492,
+          "e_conv3.weight": 0.0002549222031402177,
+          "e_conv3.bias": 0.00029900850198643264
+        }
+      }
+    },
+    "z_gradient_finite": true,
+    "z_gradient_expected_max_abs_error": 0.0,
+    "lambda0_forward_loss_parameter_gradients_exact": true,
+    "seconds": 0.13492839969694614,
+    "peak_allocated_mib": 1227.59228515625,
+    "peak_reserved_mib": 1872.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0100.jpg",
+    "xywh": [
+      3097,
+      1218,
+      256,
+      256
+    ],
+    "z_gt1_count": 23036,
+    "z_numel": 196608,
+    "components": {
+      "RD": {
+        "value": 0.025537792593240738,
+        "l2": 0.030065604305091722,
+        "finite": true,
+        "nonzero_elements": 23612,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.0011076237917222057,
+          "e_conv1.bias": 0.0018597722628013885,
+          "e_conv2.weight": 0.01203904648766123,
+          "e_conv2.bias": 0.006899808530384426,
+          "e_conv3.weight": 0.016378158972883135,
+          "e_conv3.bias": 0.02093955322989985
+        }
+      },
+      "VS": {
+        "value": 4.618081220542081e-06,
+        "l2": 0.0002650111583557602,
+        "finite": true,
+        "nonzero_elements": 23712,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.00015396078527254788,
+          "e_conv1.bias": 2.3850169493033978e-05,
+          "e_conv2.weight": 0.00016545955666358653,
+          "e_conv2.bias": 5.499311946603764e-05,
+          "e_conv3.weight": 0.0001244154584162185,
+          "e_conv3.bias": 8.823020664232515e-06
+        }
+      },
+      "upper": {
+        "value": 0.00890742801129818,
+        "l2": 0.04802263993496929,
+        "finite": true,
+        "nonzero_elements": 23348,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.010949337756057931,
+          "e_conv1.bias": 0.0026806651927588306,
+          "e_conv2.weight": 0.02188131297671923,
+          "e_conv2.bias": 0.010054501845513927,
+          "e_conv3.weight": 0.026672015059748356,
+          "e_conv3.bias": 0.029796287199209487
+        }
+      },
+      "original": {
+        "value": 0.02554241009056568,
+        "l2": 0.03006883393570258,
+        "finite": true,
+        "nonzero_elements": 23710,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.0011271845694271674,
+          "e_conv1.bias": 0.0018562725846137248,
+          "e_conv2.weight": 0.012035373532239043,
+          "e_conv2.bias": 0.006898742789958732,
+          "e_conv3.weight": 0.016395803786414663,
+          "e_conv3.bias": 0.020932110054788525
+        }
+      }
+    },
+    "z_gradient_finite": true,
+    "z_gradient_expected_max_abs_error": 0.0,
+    "lambda0_forward_loss_parameter_gradients_exact": true,
+    "seconds": 0.1349257999099791,
+    "peak_allocated_mib": 1227.59228515625,
+    "peak_reserved_mib": 1872.0
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0672.jpg",
+    "xywh": [
+      1985,
+      359,
+      256,
+      256
+    ],
+    "z_gt1_count": 0,
+    "z_numel": 196608,
+    "components": {
+      "RD": {
+        "value": 0.0003651601145975292,
+        "l2": 0.0005457744820764531,
+        "finite": true,
+        "nonzero_elements": 17992,
+        "per_parameter_l2": {
+          "e_conv1.weight": 6.144382808110417e-06,
+          "e_conv1.bias": 3.8626571620117416e-05,
+          "e_conv2.weight": 0.00023606152463315303,
+          "e_conv2.bias": 0.00013644599000293755,
+          "e_conv3.weight": 0.000288823819652106,
+          "e_conv3.bias": 0.0003722610232245129
+        }
+      },
+      "VS": {
+        "value": 2.1365165139286546e-06,
+        "l2": 8.835913118489743e-05,
+        "finite": true,
+        "nonzero_elements": 17990,
+        "per_parameter_l2": {
+          "e_conv1.weight": 2.3168991106563834e-06,
+          "e_conv1.bias": 1.1760035981082093e-05,
+          "e_conv2.weight": 5.961918345566967e-05,
+          "e_conv2.bias": 3.1431612664152596e-05,
+          "e_conv3.weight": 5.572654135916262e-05,
+          "e_conv3.bias": 3.97855168874731e-06
+        }
+      },
+      "upper": {
+        "value": 0.0,
+        "l2": 0.0,
+        "finite": true,
+        "nonzero_elements": 0,
+        "per_parameter_l2": {
+          "e_conv1.weight": 0.0,
+          "e_conv1.bias": 0.0,
+          "e_conv2.weight": 0.0,
+          "e_conv2.bias": 0.0,
+          "e_conv3.weight": 0.0,
+          "e_conv3.bias": 0.0
+        }
+      },
+      "original": {
+        "value": 0.000367296626791358,
+        "l2": 0.0005592718713117784,
+        "finite": true,
+        "nonzero_elements": 17987,
+        "per_parameter_l2": {
+          "e_conv1.weight": 6.642055881916991e-06,
+          "e_conv1.bias": 4.156005493437226e-05,
+          "e_conv2.weight": 0.0002527748897598028,
+          "e_conv2.bias": 0.00014461398513613267,
+          "e_conv3.weight": 0.0002975505210247191,
+          "e_conv3.bias": 0.0003710377458102829
+        }
+      }
+    },
+    "z_gradient_finite": true,
+    "z_gradient_expected_max_abs_error": 0.0,
+    "lambda0_forward_loss_parameter_gradients_exact": true,
+    "seconds": 0.13797960011288524,
+    "peak_allocated_mib": 1227.59228515625,
+    "peak_reserved_mib": 1872.0
+  }
+]

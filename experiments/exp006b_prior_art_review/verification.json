@@ -1,0 +1,111 @@
+{
+    "audit_date":  "2026-10-11",
+    "checkpoint_sha256":  "73bd2f1a50acc17aebb8c2fbc6e7b585cf8b38cc6b62573e2a2de0058a3f39d0",
+    "protected_checks":  [
+                             {
+                                 "path":  "scripts/train_di_retinex_exp005a.py",
+                                 "sha256":  "b5b7e0bb193b8f09a54b3964b5fa6637bb6c0e05d06b5e7f5643912c3a310f5b",
+                                 "expected":  "b5b7e0bb193b8f09a54b3964b5fa6637bb6c0e05d06b5e7f5643912c3a310f5b",
+                                 "matches_baseline":  true
+                             },
+                             {
+                                 "path":  "scripts/continue_di_retinex_exp005a_15ep.py",
+                                 "sha256":  "765ec406a8eb17aa15ea641771a1e493b89ba51cc01623d576cfa8e06f1589fd",
+                                 "expected":  "765ec406a8eb17aa15ea641771a1e493b89ba51cc01623d576cfa8e06f1589fd",
+                                 "matches_baseline":  true
+                             },
+                             {
+                                 "path":  "_model_audit/DI-retinex-low-light-enhancement/mymodel.py",
+                                 "sha256":  "46748dcabbd2eda8a290af790ee82b420200b75e2ac1d992f2586344e82e582e",
+                                 "expected":  "46748dcabbd2eda8a290af790ee82b420200b75e2ac1d992f2586344e82e582e",
+                                 "matches_baseline":  true
+                             },
+                             {
+                                 "path":  "_model_audit/DI-retinex-low-light-enhancement/lowlight_train.py",
+                                 "sha256":  "1b17104802fefb5270f47f8a83714fa0af0c4864b36255b585be5d4dbc9a2c4b",
+                                 "expected":  "1b17104802fefb5270f47f8a83714fa0af0c4864b36255b585be5d4dbc9a2c4b",
+                                 "matches_baseline":  true
+                             },
+                             {
+                                 "path":  "_model_audit/DI-retinex-low-light-enhancement/dataloader.py",
+                                 "sha256":  "2ac4964e10454827e8f7c7aca92fc6365f22f955853d0a66a4bee960b91b52bb",
+                                 "expected":  "2ac4964e10454827e8f7c7aca92fc6365f22f955853d0a66a4bee960b91b52bb",
+                                 "matches_baseline":  true
+                             },
+                             {
+                                 "path":  "configs/splits/u3d_dev_v2_1.txt",
+                                 "sha256":  "8a0755381877ee5e1d1cb8aa4573e0f00999d2bb6d545f89359580d95310c9f1",
+                                 "expected":  "8a0755381877ee5e1d1cb8aa4573e0f00999d2bb6d545f89359580d95310c9f1",
+                                 "matches_baseline":  true
+                             },
+                             {
+                                 "path":  "configs/splits/u3d_quarantine_v2_1.txt",
+                                 "sha256":  "69f67b42e2918029fbdbe7ab0a33f3d0ef4d8c5145444d389df9842fecdafe9e",
+                                 "expected":  "69f67b42e2918029fbdbe7ab0a33f3d0ef4d8c5145444d389df9842fecdafe9e",
+                                 "matches_baseline":  true
+                             },
+                             {
+                                 "path":  "configs/splits/u3d_train_dev_v2_1.json",
+                                 "sha256":  "0c485b9f49703ebb2da3a8857aade603133cc7627bf5d7d650526679c1974bfc",
+                                 "expected":  "0c485b9f49703ebb2da3a8857aade603133cc7627bf5d7d650526679c1974bfc",
+                                 "matches_baseline":  true
+                             },
+                             {
+                                 "path":  "configs/splits/u3d_train_v2_1.txt",
+                                 "sha256":  "5005304d37894d3c41a56ecca0e332d0447a365abf1beb0640991de7e964a0ee",
+                                 "expected":  "5005304d37894d3c41a56ecca0e332d0447a365abf1beb0640991de7e964a0ee",
+                                 "matches_baseline":  true
+                             }
+                         ],
+    "git_status_before":  [
+                              " M .gitignore",
+                              "?? docs/U3D_BLACK_CROP_AUDIT.md",
+                              "?? experiments/exp005a0_baseline_pilot/",
+                              "?? experiments/exp005a_baseline_30ep/",
+                              "?? experiments/exp005a_black_crop_audit/",
+                              "?? experiments/exp005a_crop_protocol_smoke/",
+                              "?? experiments/exp005b_di_retinex_u3d_baseline/",
+                              "?? experiments/exp006a_failure_analysis/",
+                              "?? scripts/analyze_exp006a_failure_modes.py",
+                              "?? scripts/audit_u3d_black_crops.py",
+                              "?? scripts/continue_di_retinex_exp005a_15ep.py",
+                              "?? scripts/nightuav_crop_adapter.py",
+                              "?? scripts/report_exp005a_curves.py",
+                              "?? scripts/report_exp005b_curves.py",
+                              "?? scripts/smoke_di_retinex_crop_protocol.py",
+                              "?? scripts/train_di_retinex_exp005a.py",
+                              "?? scripts/train_di_retinex_exp005a0.py",
+                              "?? scripts/train_di_retinex_exp005b.py"
+                          ],
+    "git_status_after":  [
+                             " M .gitignore",
+                             "?? docs/RESEARCH_GAP_LOCAL_DYNAMIC_RANGE.md",
+                             "?? docs/U3D_BLACK_CROP_AUDIT.md",
+                             "?? experiments/exp005a0_baseline_pilot/",
+                             "?? experiments/exp005a_baseline_30ep/",
+                             "?? experiments/exp005a_black_crop_audit/",
+                             "?? experiments/exp005a_crop_protocol_smoke/",
+                             "?? experiments/exp005b_di_retinex_u3d_baseline/",
+                             "?? experiments/exp006a_failure_analysis/",
+                             "?? experiments/exp006b_prior_art_review/",
+                             "?? scripts/analyze_exp006a_failure_modes.py",
+                             "?? scripts/audit_u3d_black_crops.py",
+                             "?? scripts/continue_di_retinex_exp005a_15ep.py",
+                             "?? scripts/nightuav_crop_adapter.py",
+                             "?? scripts/report_exp005a_curves.py",
+                             "?? scripts/report_exp005b_curves.py",
+                             "?? scripts/smoke_di_retinex_crop_protocol.py",
+                             "?? scripts/train_di_retinex_exp005a.py",
+                             "?? scripts/train_di_retinex_exp005a0.py",
+                             "?? scripts/train_di_retinex_exp005b.py"
+                         ],
+    "created_files":  [
+                          "docs/RESEARCH_GAP_LOCAL_DYNAMIC_RANGE.md",
+                          "experiments/exp006b_prior_art_review/README.md",
+                          "experiments/exp006b_prior_art_review/SOURCES.md",
+                          "experiments/exp006b_prior_art_review/sources.json"
+                      ],
+    "new_training":  false,
+    "new_model_inference":  false,
+    "commit_or_push":  false
+}

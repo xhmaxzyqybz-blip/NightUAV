@@ -1,0 +1,17 @@
+{
+  "status": "PENDING_MASK_AND_FORWARD_CLARIFICATION",
+  "lambda_tv": 0.8653310986696595,
+  "lambda_struct": null,
+  "model": "Unchanged A0",
+  "seed": 1149,
+  "night_plan_source": "experiments/nightuav_a2_1_structural_prior/config.json",
+  "initial_parameter_sha256": "7d316fd44fa9bb7edef69dcfd961ffdab0b6eb77f79423e064c6eaf5666ed088",
+  "day_crop_source": "experiments/nightuav_a2_1_structural_prior/day_reference.json",
+  "preserve_a21_exclusions": null,
+  "epsilon": 0.00392156862745098,
+  "upper_input_luma": 0.7,
+  "statistics": "tanh(abs(one-pixel log-luma difference)); per-image mean(q),mean(q^2); equal valid-image mean per component",
+  "insufficient_count_rule": "Same A2-1: count=0 excludes component; count>=1 accepted and count recorded; all invalid yields graph-connected zero; target component with no valid images must block calibration",
+  "calibration_rule": "Pending permission: first8 fixed train batches, lambda=.1*RMS(norm(grad_rec+TV))/RMS(norm(grad_struct)); no dev or optimizer",
+  "training_enabled": false
+}

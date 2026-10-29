@@ -1,0 +1,90 @@
+[
+  {
+    "source": "datasets/U3D/lowlight/train/0049.jpg",
+    "source_sha256": "86cd109e4f80eaa004f66b0af67ad6587e504d47b938594bcf9be0b6c8c254ff",
+    "saved_input_path": "results/demos/di_retinex_exp005b/input/0049.png",
+    "saved_input_sha256": "39605ef65dc45f8fd1afc4e8938c3c2235b1c1cd8ecec62abc70dcf023b9b3ea",
+    "e15_output_path": "results/demos/di_retinex_exp005b/epoch015/0049.png",
+    "e15_output_sha256": "644100c4a471c3f7ad41b8c1201cf8de428b443026d0da1c813a2ea5a2964e52",
+    "saved_png_mean_y_minus_baseline_float": 2.333521842956543e-05,
+    "quantization_bound_check": true,
+    "baseline_float_raw_gt1_channel_ratio": 0.03547236695885658
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0114.jpg",
+    "source_sha256": "3641cac8c2913cab17df9b36db7e26676b673dd6e15df92d6283cf0b73c13e53",
+    "saved_input_path": "results/demos/di_retinex_exp005b/input/0114.png",
+    "saved_input_sha256": "fc93b3734022b766585e78a2a99840bcf2dea1f27cd85e18d13404ada2c25e20",
+    "e15_output_path": "results/demos/di_retinex_exp005b/epoch015/0114.png",
+    "e15_output_sha256": "39388c7950cdec4ee125939165537a1e56d949b870528b7de3db663e75827e07",
+    "saved_png_mean_y_minus_baseline_float": 0.0001849532127380371,
+    "quantization_bound_check": true,
+    "baseline_float_raw_gt1_channel_ratio": 0.007594762835651636
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0166.jpg",
+    "source_sha256": "e70b765d07c7acfeac0a76607cbc1cb6504517aa7ca3a59f5acd7fe695bccc34",
+    "saved_input_path": "results/demos/di_retinex_exp005b/input/0166.png",
+    "saved_input_sha256": "cf3bada3ff7524953ba29f871ae7a4ac8555e73f465bb32ca35b77a24f2f684f",
+    "e15_output_path": "results/demos/di_retinex_exp005b/epoch015/0166.png",
+    "e15_output_sha256": "7398adc68e6bc1bc1057e37d31fc9e2d9ec4da283d4122cfd8f0f8c37e1f2866",
+    "saved_png_mean_y_minus_baseline_float": 0.0002301931381225586,
+    "quantization_bound_check": true,
+    "baseline_float_raw_gt1_channel_ratio": 0.006901041604578495
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0179.jpg",
+    "source_sha256": "29dd4d7c7a06be93a691edc5da87bc10ebf37f3ca5665dbe1f6613c40115fa8c",
+    "saved_input_path": "results/demos/di_retinex_exp005b/input/0179.png",
+    "saved_input_sha256": "d37e2dc13b83bf78989715f0b534959a537aa720dedb6dc3cae1ed341f5431cd",
+    "e15_output_path": "results/demos/di_retinex_exp005b/epoch015/0179.png",
+    "e15_output_sha256": "80b72c1ddfee0ef7bcc13c3aa1950911b4a64a284df762dc376949f494c4e26f",
+    "saved_png_mean_y_minus_baseline_float": 8.195638656616211e-05,
+    "quantization_bound_check": true,
+    "baseline_float_raw_gt1_channel_ratio": 0.09064669907093048
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0216.jpg",
+    "source_sha256": "9d59d823828646b5f2d2582326de0d7beebfea6be08234750c8971afb052ee20",
+    "saved_input_path": "results/demos/di_retinex_exp005b/input/0216.png",
+    "saved_input_sha256": "65171abfbd487572d7017a10c5601f1a9d40e4fdc98dd0a5fab8be4ae18e8585",
+    "e15_output_path": "results/demos/di_retinex_exp005b/epoch015/0216.png",
+    "e15_output_sha256": "3801980de783e91a69e18013ef745e3a29c8defe618a25f718abc4b78adc0a3c",
+    "saved_png_mean_y_minus_baseline_float": 0.0001741349697113037,
+    "quantization_bound_check": true,
+    "baseline_float_raw_gt1_channel_ratio": 0.02350802905857563
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0343.jpg",
+    "source_sha256": "aa75b9abff3fa6fa0357caf768dca9b54239f5e64791b21b2fdfac6bed370f6f",
+    "saved_input_path": "results/demos/di_retinex_exp005b/input/0343.png",
+    "saved_input_sha256": "c4f6c051be9bcd66b8baa8547e447f35849b29eb7ae0a163f76b64cbf73191a8",
+    "e15_output_path": "results/demos/di_retinex_exp005b/epoch015/0343.png",
+    "e15_output_sha256": "c4c01492657a4c08b6e4e18f458f82870201dcac17f5265bade248c71d1465ce",
+    "saved_png_mean_y_minus_baseline_float": 0.0003839731216430664,
+    "quantization_bound_check": true,
+    "baseline_float_raw_gt1_channel_ratio": 0.005011573899537325
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0758.jpg",
+    "source_sha256": "1ec61243eb50d575766dc9f3762d8ae8eef237461de37c73d8a3653bbe5af35a",
+    "saved_input_path": "results/demos/di_retinex_exp005b/input/0758.png",
+    "saved_input_sha256": "eeb26b10391d562e034249143275f5520b2e4be72612605a910341a37e6b8042",
+    "e15_output_path": "results/demos/di_retinex_exp005b/epoch015/0758.png",
+    "e15_output_sha256": "854818bb07d1784c65e352262a46501079ed0517adb327e1130c8016e33cf8c5",
+    "saved_png_mean_y_minus_baseline_float": 3.316998481750488e-05,
+    "quantization_bound_check": true,
+    "baseline_float_raw_gt1_channel_ratio": 0.07929759472608566
+  },
+  {
+    "source": "datasets/U3D/lowlight/train/0792.jpg",
+    "source_sha256": "90e2c1e897d6f3cf1760118554d0001f6757677ffd3620f05a5de23f0903c0b3",
+    "saved_input_path": "results/demos/di_retinex_exp005b/input/0792.png",
+    "saved_input_sha256": "b5fb39742a4e0b4862478068a59ffd64a1213e88191bd8957caebbb7cc927050",
+    "e15_output_path": "results/demos/di_retinex_exp005b/epoch015/0792.png",
+    "e15_output_sha256": "aecd0f8323a65a1ae6cb50785903dd7dd0e1731f34bd92dc22373d350bb4e1b8",
+    "saved_png_mean_y_minus_baseline_float": 0.0001926124095916748,
+    "quantization_bound_check": true,
+    "baseline_float_raw_gt1_channel_ratio": 0.07702039927244186
+  }
+]

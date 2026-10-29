@@ -1,0 +1,2694 @@
+{
+  "all": {
+    "pixels": 7372800,
+    "pooled": {
+      "pre_gt1_channel": {
+        "count": 899811,
+        "denominator": 22118400,
+        "ratio": 0.040681559244791665
+      },
+      "pre_gt1_any_pixel": {
+        "count": 443096,
+        "denominator": 7372800,
+        "ratio": 0.06009874131944445
+      },
+      "pre_gt1_all_channels_pixel": {
+        "count": 200465,
+        "denominator": 7372800,
+        "ratio": 0.027189805772569443
+      },
+      "pre_lt0_channel": {
+        "count": 0,
+        "denominator": 22118400,
+        "ratio": 0.0
+      },
+      "pre_lt0_any_pixel": {
+        "count": 0,
+        "denominator": 7372800,
+        "ratio": 0.0
+      },
+      "pre_lt0_all_channels_pixel": {
+        "count": 0,
+        "denominator": 7372800,
+        "ratio": 0.0
+      },
+      "pre_eq1_channel": {
+        "count": 0,
+        "denominator": 22118400,
+        "ratio": 0.0
+      },
+      "pre_eq1_any_pixel": {
+        "count": 0,
+        "denominator": 7372800,
+        "ratio": 0.0
+      },
+      "pre_eq1_all_channels_pixel": {
+        "count": 0,
+        "denominator": 7372800,
+        "ratio": 0.0
+      },
+      "post_eq1_channel": {
+        "count": 899811,
+        "denominator": 22118400,
+        "ratio": 0.040681559244791665
+      },
+      "post_eq1_any_pixel": {
+        "count": 443096,
+        "denominator": 7372800,
+        "ratio": 0.06009874131944445
+      },
+      "post_eq1_all_channels_pixel": {
+        "count": 200465,
+        "denominator": 7372800,
+        "ratio": 0.027189805772569443
+      },
+      "png255_channel": {
+        "count": 905608,
+        "denominator": 22118400,
+        "ratio": 0.04094364872685185
+      },
+      "png255_any_pixel": {
+        "count": 445925,
+        "denominator": 7372800,
+        "ratio": 0.06048244900173611
+      },
+      "png255_all_channels_pixel": {
+        "count": 201699,
+        "denominator": 7372800,
+        "ratio": 0.027357177734375
+      },
+      "rounding_only_channel": {
+        "count": 5797,
+        "denominator": 22118400,
+        "ratio": 0.0002620894820601852
+      },
+      "rounding_only_any_pixel": {
+        "count": 5781,
+        "denominator": 7372800,
+        "ratio": 0.0007840983072916666
+      },
+      "rounding_only_all_channels_pixel": {
+        "count": 0,
+        "denominator": 7372800,
+        "ratio": 0.0
+      },
+      "nonclipped_png255_channel": {
+        "count": 5797,
+        "denominator": 22118400,
+        "ratio": 0.0002620894820601852
+      },
+      "nonclipped_png255_any_pixel": {
+        "count": 5781,
+        "denominator": 7372800,
+        "ratio": 0.0007840983072916666
+      },
+      "nonclipped_png255_all_channels_pixel": {
+        "count": 0,
+        "denominator": 7372800,
+        "ratio": 0.0
+      },
+      "any_endpoint_strict_clip": {
+        "count": 443096,
+        "denominator": 7372800,
+        "ratio": 0.06009874131944445
+      },
+      "any_endpoint_exact1_no_clip": {
+        "count": 0,
+        "denominator": 7372800,
+        "ratio": 0.0
+      },
+      "any_endpoint_rounding_only": {
+        "count": 2829,
+        "denominator": 7372800,
+        "ratio": 0.0003837076822916667
+      },
+      "white_with_any_strict_clip": {
+        "count": 201699,
+        "denominator": 7372800,
+        "ratio": 0.027357177734375
+      },
+      "white_no_clip_with_exact1": {
+        "count": 0,
+        "denominator": 7372800,
+        "ratio": 0.0
+      },
+      "white_all_rounding": {
+        "count": 0,
+        "denominator": 7372800,
+        "ratio": 0.0
+      },
+      "white_rounding_assisted": {
+        "count": 1234,
+        "denominator": 7372800,
+        "ratio": 0.00016737196180555556
+      },
+      "white_all_float1": {
+        "count": 200465,
+        "denominator": 7372800,
+        "ratio": 0.027189805772569443
+      },
+      "pre_gt1_channel_input_existing": {
+        "count": 26767,
+        "denominator": 22118400,
+        "ratio": 0.0012101689091435185
+      },
+      "pre_gt1_channel_new_over_region": {
+        "count": 873044,
+        "denominator": 22118400,
+        "ratio": 0.03947139033564815
+      },
+      "pre_gt1_channel_new_over_input_nonendpoint": {
+        "count": 873044,
+        "denominator": 22091633,
+        "ratio": 0.03951921526127109
+      },
+      "pre_gt1_channel_retained": {
+        "count": 26767,
+        "denominator": 22118400,
+        "ratio": 0.0012101689091435185
+      },
+      "pre_gt1_channel_released": {
+        "count": 0,
+        "denominator": 22118400,
+        "ratio": 0.0
+      },
+      "pre_gt1_any_pixel_input_existing": {
+        "count": 16342,
+        "denominator": 7372800,
+        "ratio": 0.002216525607638889
+      },
+      "pre_gt1_any_pixel_new_over_region": {
+        "count": 426754,
+        "denominator": 7372800,
+        "ratio": 0.05788221571180555
+      },
+      "pre_gt1_any_pixel_new_over_input_nonendpoint": {
+        "count": 426754,
+        "denominator": 7356458,
+        "ratio": 0.05801079813138334
+      },
+      "pre_gt1_any_pixel_retained": {
+        "count": 16342,
+        "denominator": 7372800,
+        "ratio": 0.002216525607638889
+      },
+      "pre_gt1_any_pixel_released": {
+        "count": 0,
+        "denominator": 7372800,
+        "ratio": 0.0
+      },
+      "pre_gt1_all_channels_pixel_input_existing": {
+        "count": 3280,
+        "denominator": 7372800,
+        "ratio": 0.0004448784722222222
+      },
+      "pre_gt1_all_channels_pixel_new_over_region": {
+        "count": 197185,
+        "denominator": 7372800,
+        "ratio": 0.02674492730034722
+      },
+      "pre_gt1_all_channels_pixel_new_over_input_nonendpoint": {
+        "count": 197185,
+        "denominator": 7369520,
+        "ratio": 0.026756830838372107
+      },
+      "pre_gt1_all_channels_pixel_retained": {
+        "count": 3280,
+        "denominator": 7372800,
+        "ratio": 0.0004448784722222222
+      },
+      "pre_gt1_all_channels_pixel_released": {
+        "count": 0,
+        "denominator": 7372800,
+        "ratio": 0.0
+      },
+      "post_eq1_channel_input_existing": {
+        "count": 26767,
+        "denominator": 22118400,
+        "ratio": 0.0012101689091435185
+      },
+      "post_eq1_channel_new_over_region": {
+        "count": 873044,
+        "denominator": 22118400,
+        "ratio": 0.03947139033564815
+      },
+      "post_eq1_channel_new_over_input_nonendpoint": {
+        "count": 873044,
+        "denominator": 22091633,
+        "ratio": 0.03951921526127109
+      },
+      "post_eq1_channel_retained": {
+        "count": 26767,
+        "denominator": 22118400,
+        "ratio": 0.0012101689091435185
+      },
+      "post_eq1_channel_released": {
+        "count": 0,
+        "denominator": 22118400,
+        "ratio": 0.0
+      },
+      "post_eq1_any_pixel_input_existing": {
+        "count": 16342,
+        "denominator": 7372800,
+        "ratio": 0.002216525607638889
+      },
+      "post_eq1_any_pixel_new_over_region": {
+        "count": 426754,
+        "denominator": 7372800,
+        "ratio": 0.05788221571180555
+      },
+      "post_eq1_any_pixel_new_over_input_nonendpoint": {
+        "count": 426754,
+        "denominator": 7356458,
+        "ratio": 0.05801079813138334
+      },
+      "post_eq1_any_pixel_retained": {
+        "count": 16342,
+        "denominator": 7372800,
+        "ratio": 0.002216525607638889
+      },
+      "post_eq1_any_pixel_released": {
+        "count": 0,
+        "denominator": 7372800,
+        "ratio": 0.0
+      },
+      "post_eq1_all_channels_pixel_input_existing": {
+        "count": 3280,
+        "denominator": 7372800,
+        "ratio": 0.0004448784722222222
+      },
+      "post_eq1_all_channels_pixel_new_over_region": {
+        "count": 197185,
+        "denominator": 7372800,
+        "ratio": 0.02674492730034722
+      },
+      "post_eq1_all_channels_pixel_new_over_input_nonendpoint": {
+        "count": 197185,
+        "denominator": 7369520,
+        "ratio": 0.026756830838372107
+      },
+      "post_eq1_all_channels_pixel_retained": {
+        "count": 3280,
+        "denominator": 7372800,
+        "ratio": 0.0004448784722222222
+      },
+      "post_eq1_all_channels_pixel_released": {
+        "count": 0,
+        "denominator": 7372800,
+        "ratio": 0.0
+      },
+      "png255_channel_input_existing": {
+        "count": 26767,
+        "denominator": 22118400,
+        "ratio": 0.0012101689091435185
+      },
+      "png255_channel_new_over_region": {
+        "count": 878841,
+        "denominator": 22118400,
+        "ratio": 0.039733479817708334
+      },
+      "png255_channel_new_over_input_nonendpoint": {
+        "count": 878841,
+        "denominator": 22091633,
+        "ratio": 0.03978162230017129
+      },
+      "png255_channel_retained": {
+        "count": 26767,
+        "denominator": 22118400,
+        "ratio": 0.0012101689091435185
+      },
+      "png255_channel_released": {
+        "count": 0,
+        "denominator": 22118400,
+        "ratio": 0.0
+      },
+      "png255_any_pixel_input_existing": {
+        "count": 16342,
+        "denominator": 7372800,
+        "ratio": 0.002216525607638889
+      },
+      "png255_any_pixel_new_over_region": {
+        "count": 429583,
+        "denominator": 7372800,
+        "ratio": 0.058265923394097224
+      },
+      "png255_any_pixel_new_over_input_nonendpoint": {
+        "count": 429583,
+        "denominator": 7356458,
+        "ratio": 0.0583953582009168
+      },
+      "png255_any_pixel_retained": {
+        "count": 16342,
+        "denominator": 7372800,
+        "ratio": 0.002216525607638889
+      },
+      "png255_any_pixel_released": {
+        "count": 0,
+        "denominator": 7372800,
+        "ratio": 0.0
+      },
+      "png255_all_channels_pixel_input_existing": {
+        "count": 3280,
+        "denominator": 7372800,
+        "ratio": 0.0004448784722222222
+      },
+      "png255_all_channels_pixel_new_over_region": {
+        "count": 198419,
+        "denominator": 7372800,
+        "ratio": 0.02691229926215278
+      },
+      "png255_all_channels_pixel_new_over_input_nonendpoint": {
+        "count": 198419,
+        "denominator": 7369520,
+        "ratio": 0.026924277293500797
+      },
+      "png255_all_channels_pixel_retained": {
+        "count": 3280,
+        "denominator": 7372800,
+        "ratio": 0.0004448784722222222
+      },
+      "png255_all_channels_pixel_released": {
+        "count": 0,
+        "denominator": 7372800,
+        "ratio": 0.0
+      }
+    },
+    "image_mean": {
+      "pre_gt1_channel": {
+        "ratio": 0.040681559244791665,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel": {
+        "ratio": 0.06009874131944445,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel": {
+        "ratio": 0.027189805772569443,
+        "nonempty_images": 8
+      },
+      "pre_lt0_channel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_lt0_any_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_lt0_all_channels_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_eq1_channel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_eq1_any_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_eq1_all_channels_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel": {
+        "ratio": 0.040681559244791665,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel": {
+        "ratio": 0.06009874131944445,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel": {
+        "ratio": 0.027189805772569443,
+        "nonempty_images": 8
+      },
+      "png255_channel": {
+        "ratio": 0.04094364872685185,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel": {
+        "ratio": 0.06048244900173611,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel": {
+        "ratio": 0.027357177734375,
+        "nonempty_images": 8
+      },
+      "rounding_only_channel": {
+        "ratio": 0.0002620894820601852,
+        "nonempty_images": 8
+      },
+      "rounding_only_any_pixel": {
+        "ratio": 0.0007840983072916667,
+        "nonempty_images": 8
+      },
+      "rounding_only_all_channels_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "nonclipped_png255_channel": {
+        "ratio": 0.0002620894820601852,
+        "nonempty_images": 8
+      },
+      "nonclipped_png255_any_pixel": {
+        "ratio": 0.0007840983072916667,
+        "nonempty_images": 8
+      },
+      "nonclipped_png255_all_channels_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "any_endpoint_strict_clip": {
+        "ratio": 0.06009874131944445,
+        "nonempty_images": 8
+      },
+      "any_endpoint_exact1_no_clip": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "any_endpoint_rounding_only": {
+        "ratio": 0.0003837076822916667,
+        "nonempty_images": 8
+      },
+      "white_with_any_strict_clip": {
+        "ratio": 0.027357177734375,
+        "nonempty_images": 8
+      },
+      "white_no_clip_with_exact1": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "white_all_rounding": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "white_rounding_assisted": {
+        "ratio": 0.00016737196180555556,
+        "nonempty_images": 8
+      },
+      "white_all_float1": {
+        "ratio": 0.027189805772569443,
+        "nonempty_images": 8
+      },
+      "pre_gt1_channel_input_existing": {
+        "ratio": 0.0012101689091435185,
+        "nonempty_images": 8
+      },
+      "pre_gt1_channel_new_over_region": {
+        "ratio": 0.03947139033564814,
+        "nonempty_images": 8
+      },
+      "pre_gt1_channel_new_over_input_nonendpoint": {
+        "ratio": 0.0395336316071203,
+        "nonempty_images": 8
+      },
+      "pre_gt1_channel_retained": {
+        "ratio": 0.0012101689091435185,
+        "nonempty_images": 8
+      },
+      "pre_gt1_channel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel_input_existing": {
+        "ratio": 0.002216525607638889,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel_new_over_region": {
+        "ratio": 0.05788221571180555,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel_new_over_input_nonendpoint": {
+        "ratio": 0.058047308061726546,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel_retained": {
+        "ratio": 0.002216525607638889,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel_input_existing": {
+        "ratio": 0.0004448784722222222,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel_new_over_region": {
+        "ratio": 0.02674492730034722,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel_new_over_input_nonendpoint": {
+        "ratio": 0.026759713212805226,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel_retained": {
+        "ratio": 0.0004448784722222222,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel_input_existing": {
+        "ratio": 0.0012101689091435185,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel_new_over_region": {
+        "ratio": 0.03947139033564814,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel_new_over_input_nonendpoint": {
+        "ratio": 0.0395336316071203,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel_retained": {
+        "ratio": 0.0012101689091435185,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel_input_existing": {
+        "ratio": 0.002216525607638889,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel_new_over_region": {
+        "ratio": 0.05788221571180555,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel_new_over_input_nonendpoint": {
+        "ratio": 0.058047308061726546,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel_retained": {
+        "ratio": 0.002216525607638889,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel_input_existing": {
+        "ratio": 0.0004448784722222222,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel_new_over_region": {
+        "ratio": 0.02674492730034722,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel_new_over_input_nonendpoint": {
+        "ratio": 0.026759713212805226,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel_retained": {
+        "ratio": 0.0004448784722222222,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_channel_input_existing": {
+        "ratio": 0.0012101689091435185,
+        "nonempty_images": 8
+      },
+      "png255_channel_new_over_region": {
+        "ratio": 0.039733479817708334,
+        "nonempty_images": 8
+      },
+      "png255_channel_new_over_input_nonendpoint": {
+        "ratio": 0.03979609315325334,
+        "nonempty_images": 8
+      },
+      "png255_channel_retained": {
+        "ratio": 0.0012101689091435185,
+        "nonempty_images": 8
+      },
+      "png255_channel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel_input_existing": {
+        "ratio": 0.002216525607638889,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel_new_over_region": {
+        "ratio": 0.058265923394097224,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel_new_over_input_nonendpoint": {
+        "ratio": 0.05843201100970812,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel_retained": {
+        "ratio": 0.002216525607638889,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel_input_existing": {
+        "ratio": 0.0004448784722222222,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel_new_over_region": {
+        "ratio": 0.02691229926215278,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel_new_over_input_nonendpoint": {
+        "ratio": 0.026927171353258172,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel_retained": {
+        "ratio": 0.0004448784722222222,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      }
+    }
+  },
+  "dark": {
+    "pixels": 5503469,
+    "pooled": {
+      "pre_gt1_channel": {
+        "count": 16,
+        "denominator": 16510407,
+        "ratio": 9.690857408905788e-07
+      },
+      "pre_gt1_any_pixel": {
+        "count": 16,
+        "denominator": 5503469,
+        "ratio": 2.9072572226717367e-06
+      },
+      "pre_gt1_all_channels_pixel": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "pre_lt0_channel": {
+        "count": 0,
+        "denominator": 16510407,
+        "ratio": 0.0
+      },
+      "pre_lt0_any_pixel": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "pre_lt0_all_channels_pixel": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "pre_eq1_channel": {
+        "count": 0,
+        "denominator": 16510407,
+        "ratio": 0.0
+      },
+      "pre_eq1_any_pixel": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "pre_eq1_all_channels_pixel": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "post_eq1_channel": {
+        "count": 16,
+        "denominator": 16510407,
+        "ratio": 9.690857408905788e-07
+      },
+      "post_eq1_any_pixel": {
+        "count": 16,
+        "denominator": 5503469,
+        "ratio": 2.9072572226717367e-06
+      },
+      "post_eq1_all_channels_pixel": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "png255_channel": {
+        "count": 20,
+        "denominator": 16510407,
+        "ratio": 1.2113571761132236e-06
+      },
+      "png255_any_pixel": {
+        "count": 20,
+        "denominator": 5503469,
+        "ratio": 3.634071528339671e-06
+      },
+      "png255_all_channels_pixel": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "rounding_only_channel": {
+        "count": 4,
+        "denominator": 16510407,
+        "ratio": 2.422714352226447e-07
+      },
+      "rounding_only_any_pixel": {
+        "count": 4,
+        "denominator": 5503469,
+        "ratio": 7.268143056679342e-07
+      },
+      "rounding_only_all_channels_pixel": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "nonclipped_png255_channel": {
+        "count": 4,
+        "denominator": 16510407,
+        "ratio": 2.422714352226447e-07
+      },
+      "nonclipped_png255_any_pixel": {
+        "count": 4,
+        "denominator": 5503469,
+        "ratio": 7.268143056679342e-07
+      },
+      "nonclipped_png255_all_channels_pixel": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "any_endpoint_strict_clip": {
+        "count": 16,
+        "denominator": 5503469,
+        "ratio": 2.9072572226717367e-06
+      },
+      "any_endpoint_exact1_no_clip": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "any_endpoint_rounding_only": {
+        "count": 4,
+        "denominator": 5503469,
+        "ratio": 7.268143056679342e-07
+      },
+      "white_with_any_strict_clip": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "white_no_clip_with_exact1": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "white_all_rounding": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "white_rounding_assisted": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "white_all_float1": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "pre_gt1_channel_input_existing": {
+        "count": 0,
+        "denominator": 16510407,
+        "ratio": 0.0
+      },
+      "pre_gt1_channel_new_over_region": {
+        "count": 16,
+        "denominator": 16510407,
+        "ratio": 9.690857408905788e-07
+      },
+      "pre_gt1_channel_new_over_input_nonendpoint": {
+        "count": 16,
+        "denominator": 16510407,
+        "ratio": 9.690857408905788e-07
+      },
+      "pre_gt1_channel_retained": {
+        "count": 0,
+        "denominator": 16510407,
+        "ratio": 0.0
+      },
+      "pre_gt1_channel_released": {
+        "count": 0,
+        "denominator": 16510407,
+        "ratio": 0.0
+      },
+      "pre_gt1_any_pixel_input_existing": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "pre_gt1_any_pixel_new_over_region": {
+        "count": 16,
+        "denominator": 5503469,
+        "ratio": 2.9072572226717367e-06
+      },
+      "pre_gt1_any_pixel_new_over_input_nonendpoint": {
+        "count": 16,
+        "denominator": 5503469,
+        "ratio": 2.9072572226717367e-06
+      },
+      "pre_gt1_any_pixel_retained": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "pre_gt1_any_pixel_released": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "pre_gt1_all_channels_pixel_input_existing": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "pre_gt1_all_channels_pixel_new_over_region": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "pre_gt1_all_channels_pixel_new_over_input_nonendpoint": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "pre_gt1_all_channels_pixel_retained": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "pre_gt1_all_channels_pixel_released": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "post_eq1_channel_input_existing": {
+        "count": 0,
+        "denominator": 16510407,
+        "ratio": 0.0
+      },
+      "post_eq1_channel_new_over_region": {
+        "count": 16,
+        "denominator": 16510407,
+        "ratio": 9.690857408905788e-07
+      },
+      "post_eq1_channel_new_over_input_nonendpoint": {
+        "count": 16,
+        "denominator": 16510407,
+        "ratio": 9.690857408905788e-07
+      },
+      "post_eq1_channel_retained": {
+        "count": 0,
+        "denominator": 16510407,
+        "ratio": 0.0
+      },
+      "post_eq1_channel_released": {
+        "count": 0,
+        "denominator": 16510407,
+        "ratio": 0.0
+      },
+      "post_eq1_any_pixel_input_existing": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "post_eq1_any_pixel_new_over_region": {
+        "count": 16,
+        "denominator": 5503469,
+        "ratio": 2.9072572226717367e-06
+      },
+      "post_eq1_any_pixel_new_over_input_nonendpoint": {
+        "count": 16,
+        "denominator": 5503469,
+        "ratio": 2.9072572226717367e-06
+      },
+      "post_eq1_any_pixel_retained": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "post_eq1_any_pixel_released": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "post_eq1_all_channels_pixel_input_existing": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "post_eq1_all_channels_pixel_new_over_region": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "post_eq1_all_channels_pixel_new_over_input_nonendpoint": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "post_eq1_all_channels_pixel_retained": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "post_eq1_all_channels_pixel_released": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "png255_channel_input_existing": {
+        "count": 0,
+        "denominator": 16510407,
+        "ratio": 0.0
+      },
+      "png255_channel_new_over_region": {
+        "count": 20,
+        "denominator": 16510407,
+        "ratio": 1.2113571761132236e-06
+      },
+      "png255_channel_new_over_input_nonendpoint": {
+        "count": 20,
+        "denominator": 16510407,
+        "ratio": 1.2113571761132236e-06
+      },
+      "png255_channel_retained": {
+        "count": 0,
+        "denominator": 16510407,
+        "ratio": 0.0
+      },
+      "png255_channel_released": {
+        "count": 0,
+        "denominator": 16510407,
+        "ratio": 0.0
+      },
+      "png255_any_pixel_input_existing": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "png255_any_pixel_new_over_region": {
+        "count": 20,
+        "denominator": 5503469,
+        "ratio": 3.634071528339671e-06
+      },
+      "png255_any_pixel_new_over_input_nonendpoint": {
+        "count": 20,
+        "denominator": 5503469,
+        "ratio": 3.634071528339671e-06
+      },
+      "png255_any_pixel_retained": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "png255_any_pixel_released": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "png255_all_channels_pixel_input_existing": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "png255_all_channels_pixel_new_over_region": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "png255_all_channels_pixel_new_over_input_nonendpoint": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "png255_all_channels_pixel_retained": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      },
+      "png255_all_channels_pixel_released": {
+        "count": 0,
+        "denominator": 5503469,
+        "ratio": 0.0
+      }
+    },
+    "image_mean": {
+      "pre_gt1_channel": {
+        "ratio": 1.4953283349862318e-06,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel": {
+        "ratio": 4.485985004958696e-06,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_lt0_channel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_lt0_any_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_lt0_all_channels_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_eq1_channel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_eq1_any_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_eq1_all_channels_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel": {
+        "ratio": 1.4953283349862318e-06,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel": {
+        "ratio": 4.485985004958696e-06,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_channel": {
+        "ratio": 1.8691604187327898e-06,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel": {
+        "ratio": 5.60748125619837e-06,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "rounding_only_channel": {
+        "ratio": 3.7383208374655794e-07,
+        "nonempty_images": 8
+      },
+      "rounding_only_any_pixel": {
+        "ratio": 1.121496251239674e-06,
+        "nonempty_images": 8
+      },
+      "rounding_only_all_channels_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "nonclipped_png255_channel": {
+        "ratio": 3.7383208374655794e-07,
+        "nonempty_images": 8
+      },
+      "nonclipped_png255_any_pixel": {
+        "ratio": 1.121496251239674e-06,
+        "nonempty_images": 8
+      },
+      "nonclipped_png255_all_channels_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "any_endpoint_strict_clip": {
+        "ratio": 4.485985004958696e-06,
+        "nonempty_images": 8
+      },
+      "any_endpoint_exact1_no_clip": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "any_endpoint_rounding_only": {
+        "ratio": 1.121496251239674e-06,
+        "nonempty_images": 8
+      },
+      "white_with_any_strict_clip": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "white_no_clip_with_exact1": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "white_all_rounding": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "white_rounding_assisted": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "white_all_float1": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_gt1_channel_input_existing": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_gt1_channel_new_over_region": {
+        "ratio": 1.4953283349862318e-06,
+        "nonempty_images": 8
+      },
+      "pre_gt1_channel_new_over_input_nonendpoint": {
+        "ratio": 1.4953283349862318e-06,
+        "nonempty_images": 8
+      },
+      "pre_gt1_channel_retained": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_gt1_channel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel_input_existing": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel_new_over_region": {
+        "ratio": 4.485985004958696e-06,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel_new_over_input_nonendpoint": {
+        "ratio": 4.485985004958696e-06,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel_retained": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel_input_existing": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel_new_over_region": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel_new_over_input_nonendpoint": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel_retained": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel_input_existing": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel_new_over_region": {
+        "ratio": 1.4953283349862318e-06,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel_new_over_input_nonendpoint": {
+        "ratio": 1.4953283349862318e-06,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel_retained": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel_input_existing": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel_new_over_region": {
+        "ratio": 4.485985004958696e-06,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel_new_over_input_nonendpoint": {
+        "ratio": 4.485985004958696e-06,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel_retained": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel_input_existing": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel_new_over_region": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel_new_over_input_nonendpoint": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel_retained": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_channel_input_existing": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_channel_new_over_region": {
+        "ratio": 1.8691604187327898e-06,
+        "nonempty_images": 8
+      },
+      "png255_channel_new_over_input_nonendpoint": {
+        "ratio": 1.8691604187327898e-06,
+        "nonempty_images": 8
+      },
+      "png255_channel_retained": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_channel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel_input_existing": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel_new_over_region": {
+        "ratio": 5.60748125619837e-06,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel_new_over_input_nonendpoint": {
+        "ratio": 5.60748125619837e-06,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel_retained": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel_input_existing": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel_new_over_region": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel_new_over_input_nonendpoint": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel_retained": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      }
+    }
+  },
+  "middle": {
+    "pixels": 1490772,
+    "pooled": {
+      "pre_gt1_channel": {
+        "count": 74384,
+        "denominator": 4472316,
+        "ratio": 0.016632098447426344
+      },
+      "pre_gt1_any_pixel": {
+        "count": 74251,
+        "denominator": 1490772,
+        "ratio": 0.04980707982172995
+      },
+      "pre_gt1_all_channels_pixel": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "pre_lt0_channel": {
+        "count": 0,
+        "denominator": 4472316,
+        "ratio": 0.0
+      },
+      "pre_lt0_any_pixel": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "pre_lt0_all_channels_pixel": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "pre_eq1_channel": {
+        "count": 0,
+        "denominator": 4472316,
+        "ratio": 0.0
+      },
+      "pre_eq1_any_pixel": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "pre_eq1_all_channels_pixel": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "post_eq1_channel": {
+        "count": 74384,
+        "denominator": 4472316,
+        "ratio": 0.016632098447426344
+      },
+      "post_eq1_any_pixel": {
+        "count": 74251,
+        "denominator": 1490772,
+        "ratio": 0.04980707982172995
+      },
+      "post_eq1_all_channels_pixel": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "png255_channel": {
+        "count": 76688,
+        "denominator": 4472316,
+        "ratio": 0.017147267769093238
+      },
+      "png255_any_pixel": {
+        "count": 76539,
+        "denominator": 1490772,
+        "ratio": 0.05134185509252924
+      },
+      "png255_all_channels_pixel": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "rounding_only_channel": {
+        "count": 2304,
+        "denominator": 4472316,
+        "ratio": 0.0005151693216668947
+      },
+      "rounding_only_any_pixel": {
+        "count": 2304,
+        "denominator": 1490772,
+        "ratio": 0.0015455079650006842
+      },
+      "rounding_only_all_channels_pixel": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "nonclipped_png255_channel": {
+        "count": 2304,
+        "denominator": 4472316,
+        "ratio": 0.0005151693216668947
+      },
+      "nonclipped_png255_any_pixel": {
+        "count": 2304,
+        "denominator": 1490772,
+        "ratio": 0.0015455079650006842
+      },
+      "nonclipped_png255_all_channels_pixel": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "any_endpoint_strict_clip": {
+        "count": 74251,
+        "denominator": 1490772,
+        "ratio": 0.04980707982172995
+      },
+      "any_endpoint_exact1_no_clip": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "any_endpoint_rounding_only": {
+        "count": 2288,
+        "denominator": 1490772,
+        "ratio": 0.0015347752707992905
+      },
+      "white_with_any_strict_clip": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "white_no_clip_with_exact1": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "white_all_rounding": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "white_rounding_assisted": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "white_all_float1": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "pre_gt1_channel_input_existing": {
+        "count": 2,
+        "denominator": 4472316,
+        "ratio": 4.47195591724735e-07
+      },
+      "pre_gt1_channel_new_over_region": {
+        "count": 74382,
+        "denominator": 4472316,
+        "ratio": 0.01663165125183462
+      },
+      "pre_gt1_channel_new_over_input_nonendpoint": {
+        "count": 74382,
+        "denominator": 4472314,
+        "ratio": 0.01663165868943907
+      },
+      "pre_gt1_channel_retained": {
+        "count": 2,
+        "denominator": 4472316,
+        "ratio": 4.47195591724735e-07
+      },
+      "pre_gt1_channel_released": {
+        "count": 0,
+        "denominator": 4472316,
+        "ratio": 0.0
+      },
+      "pre_gt1_any_pixel_input_existing": {
+        "count": 2,
+        "denominator": 1490772,
+        "ratio": 1.341586775174205e-06
+      },
+      "pre_gt1_any_pixel_new_over_region": {
+        "count": 74249,
+        "denominator": 1490772,
+        "ratio": 0.04980573823495477
+      },
+      "pre_gt1_any_pixel_new_over_input_nonendpoint": {
+        "count": 74249,
+        "denominator": 1490770,
+        "ratio": 0.04980580505376416
+      },
+      "pre_gt1_any_pixel_retained": {
+        "count": 2,
+        "denominator": 1490772,
+        "ratio": 1.341586775174205e-06
+      },
+      "pre_gt1_any_pixel_released": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "pre_gt1_all_channels_pixel_input_existing": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "pre_gt1_all_channels_pixel_new_over_region": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "pre_gt1_all_channels_pixel_new_over_input_nonendpoint": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "pre_gt1_all_channels_pixel_retained": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "pre_gt1_all_channels_pixel_released": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "post_eq1_channel_input_existing": {
+        "count": 2,
+        "denominator": 4472316,
+        "ratio": 4.47195591724735e-07
+      },
+      "post_eq1_channel_new_over_region": {
+        "count": 74382,
+        "denominator": 4472316,
+        "ratio": 0.01663165125183462
+      },
+      "post_eq1_channel_new_over_input_nonendpoint": {
+        "count": 74382,
+        "denominator": 4472314,
+        "ratio": 0.01663165868943907
+      },
+      "post_eq1_channel_retained": {
+        "count": 2,
+        "denominator": 4472316,
+        "ratio": 4.47195591724735e-07
+      },
+      "post_eq1_channel_released": {
+        "count": 0,
+        "denominator": 4472316,
+        "ratio": 0.0
+      },
+      "post_eq1_any_pixel_input_existing": {
+        "count": 2,
+        "denominator": 1490772,
+        "ratio": 1.341586775174205e-06
+      },
+      "post_eq1_any_pixel_new_over_region": {
+        "count": 74249,
+        "denominator": 1490772,
+        "ratio": 0.04980573823495477
+      },
+      "post_eq1_any_pixel_new_over_input_nonendpoint": {
+        "count": 74249,
+        "denominator": 1490770,
+        "ratio": 0.04980580505376416
+      },
+      "post_eq1_any_pixel_retained": {
+        "count": 2,
+        "denominator": 1490772,
+        "ratio": 1.341586775174205e-06
+      },
+      "post_eq1_any_pixel_released": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "post_eq1_all_channels_pixel_input_existing": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "post_eq1_all_channels_pixel_new_over_region": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "post_eq1_all_channels_pixel_new_over_input_nonendpoint": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "post_eq1_all_channels_pixel_retained": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "post_eq1_all_channels_pixel_released": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "png255_channel_input_existing": {
+        "count": 2,
+        "denominator": 4472316,
+        "ratio": 4.47195591724735e-07
+      },
+      "png255_channel_new_over_region": {
+        "count": 76686,
+        "denominator": 4472316,
+        "ratio": 0.017146820573501514
+      },
+      "png255_channel_new_over_input_nonendpoint": {
+        "count": 76686,
+        "denominator": 4472314,
+        "ratio": 0.017146828241487517
+      },
+      "png255_channel_retained": {
+        "count": 2,
+        "denominator": 4472316,
+        "ratio": 4.47195591724735e-07
+      },
+      "png255_channel_released": {
+        "count": 0,
+        "denominator": 4472316,
+        "ratio": 0.0
+      },
+      "png255_any_pixel_input_existing": {
+        "count": 2,
+        "denominator": 1490772,
+        "ratio": 1.341586775174205e-06
+      },
+      "png255_any_pixel_new_over_region": {
+        "count": 76537,
+        "denominator": 1490772,
+        "ratio": 0.05134051350575407
+      },
+      "png255_any_pixel_new_over_input_nonendpoint": {
+        "count": 76537,
+        "denominator": 1490770,
+        "ratio": 0.05134058238360042
+      },
+      "png255_any_pixel_retained": {
+        "count": 2,
+        "denominator": 1490772,
+        "ratio": 1.341586775174205e-06
+      },
+      "png255_any_pixel_released": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "png255_all_channels_pixel_input_existing": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "png255_all_channels_pixel_new_over_region": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "png255_all_channels_pixel_new_over_input_nonendpoint": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "png255_all_channels_pixel_retained": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      },
+      "png255_all_channels_pixel_released": {
+        "count": 0,
+        "denominator": 1490772,
+        "ratio": 0.0
+      }
+    },
+    "image_mean": {
+      "pre_gt1_channel": {
+        "ratio": 0.01624503175627146,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel": {
+        "ratio": 0.048666505131513826,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_lt0_channel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_lt0_any_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_lt0_all_channels_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_eq1_channel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_eq1_any_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_eq1_all_channels_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel": {
+        "ratio": 0.01624503175627146,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel": {
+        "ratio": 0.048666505131513826,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_channel": {
+        "ratio": 0.016684908206952558,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel": {
+        "ratio": 0.04997811998240965,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "rounding_only_channel": {
+        "ratio": 0.00043987645068110047,
+        "nonempty_images": 8
+      },
+      "rounding_only_any_pixel": {
+        "ratio": 0.0013196293520433013,
+        "nonempty_images": 8
+      },
+      "rounding_only_all_channels_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "nonclipped_png255_channel": {
+        "ratio": 0.00043987645068110047,
+        "nonempty_images": 8
+      },
+      "nonclipped_png255_any_pixel": {
+        "ratio": 0.0013196293520433013,
+        "nonempty_images": 8
+      },
+      "nonclipped_png255_all_channels_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "any_endpoint_strict_clip": {
+        "ratio": 0.048666505131513826,
+        "nonempty_images": 8
+      },
+      "any_endpoint_exact1_no_clip": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "any_endpoint_rounding_only": {
+        "ratio": 0.0013116148508958187,
+        "nonempty_images": 8
+      },
+      "white_with_any_strict_clip": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "white_no_clip_with_exact1": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "white_all_rounding": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "white_rounding_assisted": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "white_all_float1": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_gt1_channel_input_existing": {
+        "ratio": 1.4875639652505058e-06,
+        "nonempty_images": 8
+      },
+      "pre_gt1_channel_new_over_region": {
+        "ratio": 0.016243544192306208,
+        "nonempty_images": 8
+      },
+      "pre_gt1_channel_new_over_input_nonendpoint": {
+        "ratio": 0.016243557920969588,
+        "nonempty_images": 8
+      },
+      "pre_gt1_channel_retained": {
+        "ratio": 1.4875639652505058e-06,
+        "nonempty_images": 8
+      },
+      "pre_gt1_channel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel_input_existing": {
+        "ratio": 4.462691895751518e-06,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel_new_over_region": {
+        "ratio": 0.04866204243961808,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel_new_over_input_nonendpoint": {
+        "ratio": 0.04866216584119876,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel_retained": {
+        "ratio": 4.462691895751518e-06,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel_input_existing": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel_new_over_region": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel_new_over_input_nonendpoint": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel_retained": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel_input_existing": {
+        "ratio": 1.4875639652505058e-06,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel_new_over_region": {
+        "ratio": 0.016243544192306208,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel_new_over_input_nonendpoint": {
+        "ratio": 0.016243557920969588,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel_retained": {
+        "ratio": 1.4875639652505058e-06,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel_input_existing": {
+        "ratio": 4.462691895751518e-06,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel_new_over_region": {
+        "ratio": 0.04866204243961808,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel_new_over_input_nonendpoint": {
+        "ratio": 0.04866216584119876,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel_retained": {
+        "ratio": 4.462691895751518e-06,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel_input_existing": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel_new_over_region": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel_new_over_input_nonendpoint": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel_retained": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_channel_input_existing": {
+        "ratio": 1.4875639652505058e-06,
+        "nonempty_images": 8
+      },
+      "png255_channel_new_over_region": {
+        "ratio": 0.016683420642987307,
+        "nonempty_images": 8
+      },
+      "png255_channel_new_over_input_nonendpoint": {
+        "ratio": 0.01668343473456184,
+        "nonempty_images": 8
+      },
+      "png255_channel_retained": {
+        "ratio": 1.4875639652505058e-06,
+        "nonempty_images": 8
+      },
+      "png255_channel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel_input_existing": {
+        "ratio": 4.462691895751518e-06,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel_new_over_region": {
+        "ratio": 0.049973657290513895,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel_new_over_input_nonendpoint": {
+        "ratio": 0.049973783958372694,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel_retained": {
+        "ratio": 4.462691895751518e-06,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel_input_existing": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel_new_over_region": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel_new_over_input_nonendpoint": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel_retained": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      }
+    }
+  },
+  "bright": {
+    "pixels": 378559,
+    "pooled": {
+      "pre_gt1_channel": {
+        "count": 825411,
+        "denominator": 1135677,
+        "ratio": 0.7268008421408552
+      },
+      "pre_gt1_any_pixel": {
+        "count": 368829,
+        "denominator": 378559,
+        "ratio": 0.9742972693820514
+      },
+      "pre_gt1_all_channels_pixel": {
+        "count": 200465,
+        "denominator": 378559,
+        "ratio": 0.5295475738260086
+      },
+      "pre_lt0_channel": {
+        "count": 0,
+        "denominator": 1135677,
+        "ratio": 0.0
+      },
+      "pre_lt0_any_pixel": {
+        "count": 0,
+        "denominator": 378559,
+        "ratio": 0.0
+      },
+      "pre_lt0_all_channels_pixel": {
+        "count": 0,
+        "denominator": 378559,
+        "ratio": 0.0
+      },
+      "pre_eq1_channel": {
+        "count": 0,
+        "denominator": 1135677,
+        "ratio": 0.0
+      },
+      "pre_eq1_any_pixel": {
+        "count": 0,
+        "denominator": 378559,
+        "ratio": 0.0
+      },
+      "pre_eq1_all_channels_pixel": {
+        "count": 0,
+        "denominator": 378559,
+        "ratio": 0.0
+      },
+      "post_eq1_channel": {
+        "count": 825411,
+        "denominator": 1135677,
+        "ratio": 0.7268008421408552
+      },
+      "post_eq1_any_pixel": {
+        "count": 368829,
+        "denominator": 378559,
+        "ratio": 0.9742972693820514
+      },
+      "post_eq1_all_channels_pixel": {
+        "count": 200465,
+        "denominator": 378559,
+        "ratio": 0.5295475738260086
+      },
+      "png255_channel": {
+        "count": 828900,
+        "denominator": 1135677,
+        "ratio": 0.7298730184726819
+      },
+      "png255_any_pixel": {
+        "count": 369366,
+        "denominator": 378559,
+        "ratio": 0.975715806518931
+      },
+      "png255_all_channels_pixel": {
+        "count": 201699,
+        "denominator": 378559,
+        "ratio": 0.5328073034850578
+      },
+      "rounding_only_channel": {
+        "count": 3489,
+        "denominator": 1135677,
+        "ratio": 0.003072176331826743
+      },
+      "rounding_only_any_pixel": {
+        "count": 3473,
+        "denominator": 378559,
+        "ratio": 0.009174263456951229
+      },
+      "rounding_only_all_channels_pixel": {
+        "count": 0,
+        "denominator": 378559,
+        "ratio": 0.0
+      },
+      "nonclipped_png255_channel": {
+        "count": 3489,
+        "denominator": 1135677,
+        "ratio": 0.003072176331826743
+      },
+      "nonclipped_png255_any_pixel": {
+        "count": 3473,
+        "denominator": 378559,
+        "ratio": 0.009174263456951229
+      },
+      "nonclipped_png255_all_channels_pixel": {
+        "count": 0,
+        "denominator": 378559,
+        "ratio": 0.0
+      },
+      "any_endpoint_strict_clip": {
+        "count": 368829,
+        "denominator": 378559,
+        "ratio": 0.9742972693820514
+      },
+      "any_endpoint_exact1_no_clip": {
+        "count": 0,
+        "denominator": 378559,
+        "ratio": 0.0
+      },
+      "any_endpoint_rounding_only": {
+        "count": 537,
+        "denominator": 378559,
+        "ratio": 0.001418537136879588
+      },
+      "white_with_any_strict_clip": {
+        "count": 201699,
+        "denominator": 378559,
+        "ratio": 0.5328073034850578
+      },
+      "white_no_clip_with_exact1": {
+        "count": 0,
+        "denominator": 378559,
+        "ratio": 0.0
+      },
+      "white_all_rounding": {
+        "count": 0,
+        "denominator": 378559,
+        "ratio": 0.0
+      },
+      "white_rounding_assisted": {
+        "count": 1234,
+        "denominator": 378559,
+        "ratio": 0.003259729659049184
+      },
+      "white_all_float1": {
+        "count": 200465,
+        "denominator": 378559,
+        "ratio": 0.5295475738260086
+      },
+      "pre_gt1_channel_input_existing": {
+        "count": 26765,
+        "denominator": 1135677,
+        "ratio": 0.023567440390181365
+      },
+      "pre_gt1_channel_new_over_region": {
+        "count": 798646,
+        "denominator": 1135677,
+        "ratio": 0.7032334017506738
+      },
+      "pre_gt1_channel_new_over_input_nonendpoint": {
+        "count": 798646,
+        "denominator": 1108912,
+        "ratio": 0.7202068333645952
+      },
+      "pre_gt1_channel_retained": {
+        "count": 26765,
+        "denominator": 1135677,
+        "ratio": 0.023567440390181365
+      },
+      "pre_gt1_channel_released": {
+        "count": 0,
+        "denominator": 1135677,
+        "ratio": 0.0
+      },
+      "pre_gt1_any_pixel_input_existing": {
+        "count": 16340,
+        "denominator": 378559,
+        "ratio": 0.04316368122274203
+      },
+      "pre_gt1_any_pixel_new_over_region": {
+        "count": 352489,
+        "denominator": 378559,
+        "ratio": 0.9311335881593094
+      },
+      "pre_gt1_any_pixel_new_over_input_nonendpoint": {
+        "count": 352489,
+        "denominator": 362219,
+        "ratio": 0.973137797851576
+      },
+      "pre_gt1_any_pixel_retained": {
+        "count": 16340,
+        "denominator": 378559,
+        "ratio": 0.04316368122274203
+      },
+      "pre_gt1_any_pixel_released": {
+        "count": 0,
+        "denominator": 378559,
+        "ratio": 0.0
+      },
+      "pre_gt1_all_channels_pixel_input_existing": {
+        "count": 3280,
+        "denominator": 378559,
+        "ratio": 0.008664435398445157
+      },
+      "pre_gt1_all_channels_pixel_new_over_region": {
+        "count": 197185,
+        "denominator": 378559,
+        "ratio": 0.5208831384275635
+      },
+      "pre_gt1_all_channels_pixel_new_over_input_nonendpoint": {
+        "count": 197185,
+        "denominator": 375279,
+        "ratio": 0.5254357424742658
+      },
+      "pre_gt1_all_channels_pixel_retained": {
+        "count": 3280,
+        "denominator": 378559,
+        "ratio": 0.008664435398445157
+      },
+      "pre_gt1_all_channels_pixel_released": {
+        "count": 0,
+        "denominator": 378559,
+        "ratio": 0.0
+      },
+      "post_eq1_channel_input_existing": {
+        "count": 26765,
+        "denominator": 1135677,
+        "ratio": 0.023567440390181365
+      },
+      "post_eq1_channel_new_over_region": {
+        "count": 798646,
+        "denominator": 1135677,
+        "ratio": 0.7032334017506738
+      },
+      "post_eq1_channel_new_over_input_nonendpoint": {
+        "count": 798646,
+        "denominator": 1108912,
+        "ratio": 0.7202068333645952
+      },
+      "post_eq1_channel_retained": {
+        "count": 26765,
+        "denominator": 1135677,
+        "ratio": 0.023567440390181365
+      },
+      "post_eq1_channel_released": {
+        "count": 0,
+        "denominator": 1135677,
+        "ratio": 0.0
+      },
+      "post_eq1_any_pixel_input_existing": {
+        "count": 16340,
+        "denominator": 378559,
+        "ratio": 0.04316368122274203
+      },
+      "post_eq1_any_pixel_new_over_region": {
+        "count": 352489,
+        "denominator": 378559,
+        "ratio": 0.9311335881593094
+      },
+      "post_eq1_any_pixel_new_over_input_nonendpoint": {
+        "count": 352489,
+        "denominator": 362219,
+        "ratio": 0.973137797851576
+      },
+      "post_eq1_any_pixel_retained": {
+        "count": 16340,
+        "denominator": 378559,
+        "ratio": 0.04316368122274203
+      },
+      "post_eq1_any_pixel_released": {
+        "count": 0,
+        "denominator": 378559,
+        "ratio": 0.0
+      },
+      "post_eq1_all_channels_pixel_input_existing": {
+        "count": 3280,
+        "denominator": 378559,
+        "ratio": 0.008664435398445157
+      },
+      "post_eq1_all_channels_pixel_new_over_region": {
+        "count": 197185,
+        "denominator": 378559,
+        "ratio": 0.5208831384275635
+      },
+      "post_eq1_all_channels_pixel_new_over_input_nonendpoint": {
+        "count": 197185,
+        "denominator": 375279,
+        "ratio": 0.5254357424742658
+      },
+      "post_eq1_all_channels_pixel_retained": {
+        "count": 3280,
+        "denominator": 378559,
+        "ratio": 0.008664435398445157
+      },
+      "post_eq1_all_channels_pixel_released": {
+        "count": 0,
+        "denominator": 378559,
+        "ratio": 0.0
+      },
+      "png255_channel_input_existing": {
+        "count": 26765,
+        "denominator": 1135677,
+        "ratio": 0.023567440390181365
+      },
+      "png255_channel_new_over_region": {
+        "count": 802135,
+        "denominator": 1135677,
+        "ratio": 0.7063055780825006
+      },
+      "png255_channel_new_over_input_nonendpoint": {
+        "count": 802135,
+        "denominator": 1108912,
+        "ratio": 0.7233531605754109
+      },
+      "png255_channel_retained": {
+        "count": 26765,
+        "denominator": 1135677,
+        "ratio": 0.023567440390181365
+      },
+      "png255_channel_released": {
+        "count": 0,
+        "denominator": 1135677,
+        "ratio": 0.0
+      },
+      "png255_any_pixel_input_existing": {
+        "count": 16340,
+        "denominator": 378559,
+        "ratio": 0.04316368122274203
+      },
+      "png255_any_pixel_new_over_region": {
+        "count": 353026,
+        "denominator": 378559,
+        "ratio": 0.9325521252961889
+      },
+      "png255_any_pixel_new_over_input_nonendpoint": {
+        "count": 353026,
+        "denominator": 362219,
+        "ratio": 0.9746203263771365
+      },
+      "png255_any_pixel_retained": {
+        "count": 16340,
+        "denominator": 378559,
+        "ratio": 0.04316368122274203
+      },
+      "png255_any_pixel_released": {
+        "count": 0,
+        "denominator": 378559,
+        "ratio": 0.0
+      },
+      "png255_all_channels_pixel_input_existing": {
+        "count": 3280,
+        "denominator": 378559,
+        "ratio": 0.008664435398445157
+      },
+      "png255_all_channels_pixel_new_over_region": {
+        "count": 198419,
+        "denominator": 378559,
+        "ratio": 0.5241428680866127
+      },
+      "png255_all_channels_pixel_new_over_input_nonendpoint": {
+        "count": 198419,
+        "denominator": 375279,
+        "ratio": 0.5287239627050807
+      },
+      "png255_all_channels_pixel_retained": {
+        "count": 3280,
+        "denominator": 378559,
+        "ratio": 0.008664435398445157
+      },
+      "png255_all_channels_pixel_released": {
+        "count": 0,
+        "denominator": 378559,
+        "ratio": 0.0
+      }
+    },
+    "image_mean": {
+      "pre_gt1_channel": {
+        "ratio": 0.6851440957455232,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel": {
+        "ratio": 0.9794437543889514,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel": {
+        "ratio": 0.44805518172518066,
+        "nonempty_images": 8
+      },
+      "pre_lt0_channel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_lt0_any_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_lt0_all_channels_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_eq1_channel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_eq1_any_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_eq1_all_channels_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel": {
+        "ratio": 0.6851440957455232,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel": {
+        "ratio": 0.9794437543889514,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel": {
+        "ratio": 0.44805518172518066,
+        "nonempty_images": 8
+      },
+      "png255_channel": {
+        "ratio": 0.6883140602111246,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel": {
+        "ratio": 0.9807035234533228,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel": {
+        "ratio": 0.4512423033002775,
+        "nonempty_images": 8
+      },
+      "rounding_only_channel": {
+        "ratio": 0.0031699644656014796,
+        "nonempty_images": 8
+      },
+      "rounding_only_any_pixel": {
+        "ratio": 0.00948399981274288,
+        "nonempty_images": 8
+      },
+      "rounding_only_all_channels_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "nonclipped_png255_channel": {
+        "ratio": 0.0031699644656014796,
+        "nonempty_images": 8
+      },
+      "nonclipped_png255_any_pixel": {
+        "ratio": 0.00948399981274288,
+        "nonempty_images": 8
+      },
+      "nonclipped_png255_all_channels_pixel": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "any_endpoint_strict_clip": {
+        "ratio": 0.9794437543889514,
+        "nonempty_images": 8
+      },
+      "any_endpoint_exact1_no_clip": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "any_endpoint_rounding_only": {
+        "ratio": 0.0012597690643713839,
+        "nonempty_images": 8
+      },
+      "white_with_any_strict_clip": {
+        "ratio": 0.4512423033002775,
+        "nonempty_images": 8
+      },
+      "white_no_clip_with_exact1": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "white_all_rounding": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "white_rounding_assisted": {
+        "ratio": 0.0031871215750967673,
+        "nonempty_images": 8
+      },
+      "white_all_float1": {
+        "ratio": 0.44805518172518066,
+        "nonempty_images": 8
+      },
+      "pre_gt1_channel_input_existing": {
+        "ratio": 0.040293780383827416,
+        "nonempty_images": 8
+      },
+      "pre_gt1_channel_new_over_region": {
+        "ratio": 0.6448503153616958,
+        "nonempty_images": 8
+      },
+      "pre_gt1_channel_new_over_input_nonendpoint": {
+        "ratio": 0.6719440931226249,
+        "nonempty_images": 8
+      },
+      "pre_gt1_channel_retained": {
+        "ratio": 0.040293780383827416,
+        "nonempty_images": 8
+      },
+      "pre_gt1_channel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel_input_existing": {
+        "ratio": 0.07153762516386991,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel_new_over_region": {
+        "ratio": 0.9079061292250814,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel_new_over_input_nonendpoint": {
+        "ratio": 0.9780925115033985,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel_retained": {
+        "ratio": 0.07153762516386991,
+        "nonempty_images": 8
+      },
+      "pre_gt1_any_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel_input_existing": {
+        "ratio": 0.016989618742894223,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel_new_over_region": {
+        "ratio": 0.4310655629822865,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel_new_over_input_nonendpoint": {
+        "ratio": 0.4389359234810233,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel_retained": {
+        "ratio": 0.016989618742894223,
+        "nonempty_images": 8
+      },
+      "pre_gt1_all_channels_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel_input_existing": {
+        "ratio": 0.040293780383827416,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel_new_over_region": {
+        "ratio": 0.6448503153616958,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel_new_over_input_nonendpoint": {
+        "ratio": 0.6719440931226249,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel_retained": {
+        "ratio": 0.040293780383827416,
+        "nonempty_images": 8
+      },
+      "post_eq1_channel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel_input_existing": {
+        "ratio": 0.07153762516386991,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel_new_over_region": {
+        "ratio": 0.9079061292250814,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel_new_over_input_nonendpoint": {
+        "ratio": 0.9780925115033985,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel_retained": {
+        "ratio": 0.07153762516386991,
+        "nonempty_images": 8
+      },
+      "post_eq1_any_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel_input_existing": {
+        "ratio": 0.016989618742894223,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel_new_over_region": {
+        "ratio": 0.4310655629822865,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel_new_over_input_nonendpoint": {
+        "ratio": 0.4389359234810233,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel_retained": {
+        "ratio": 0.016989618742894223,
+        "nonempty_images": 8
+      },
+      "post_eq1_all_channels_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_channel_input_existing": {
+        "ratio": 0.040293780383827416,
+        "nonempty_images": 8
+      },
+      "png255_channel_new_over_region": {
+        "ratio": 0.6480202798272973,
+        "nonempty_images": 8
+      },
+      "png255_channel_new_over_input_nonendpoint": {
+        "ratio": 0.6752508205424445,
+        "nonempty_images": 8
+      },
+      "png255_channel_retained": {
+        "ratio": 0.040293780383827416,
+        "nonempty_images": 8
+      },
+      "png255_channel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel_input_existing": {
+        "ratio": 0.07153762516386991,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel_new_over_region": {
+        "ratio": 0.9091658982894528,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel_new_over_input_nonendpoint": {
+        "ratio": 0.9794468428986353,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel_retained": {
+        "ratio": 0.07153762516386991,
+        "nonempty_images": 8
+      },
+      "png255_any_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel_input_existing": {
+        "ratio": 0.016989618742894223,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel_new_over_region": {
+        "ratio": 0.43425268455738325,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel_new_over_input_nonendpoint": {
+        "ratio": 0.44218171264691913,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel_retained": {
+        "ratio": 0.016989618742894223,
+        "nonempty_images": 8
+      },
+      "png255_all_channels_pixel_released": {
+        "ratio": 0.0,
+        "nonempty_images": 8
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "verified": true,
+  "steps": 2,
+  "global_steps": [
+    7701,
+    7702
+  ],
+  "exact_fields": [
+    "source",
+    "crop",
+    "loss RD/VS/total",
+    "gradient norm",
+    "parameter update L1",
+    "rolling50"
+  ],
+  "stop_epoch": 15
+}

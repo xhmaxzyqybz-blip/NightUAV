@@ -1,0 +1,17 @@
+{
+  "patch": 256,
+  "seeds": [
+    1149,
+    2026,
+    3407
+  ],
+  "draws_per_image_per_seed": 1000,
+  "manifest": "configs/splits/u3d_train_v2_1.txt",
+  "manifest_sha256": "5005304d37894d3c41a56ecca0e332d0447a365abf1beb0640991de7e964a0ee",
+  "script_sha256": "5ea6e4ca60c73591b909ca4312ce4e0da4443488da02b9e3ae77eebe40d8fc7e",
+  "decode": "Pillow convert RGB; uint8 exact equality to zero, matching original loader RGB decode",
+  "algorithm": "int32 integral of any-channel-nonzero mask; all legal integer top-left positions, stride 1",
+  "rng": "independent Python random.Random per seed, continuously advanced in manifest order; x then y inclusive randint",
+  "numpy": "2.2.6",
+  "opencv": "4.12.0"
+}

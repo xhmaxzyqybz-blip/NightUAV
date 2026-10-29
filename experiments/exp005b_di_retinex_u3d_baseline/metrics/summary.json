@@ -1,0 +1,84 @@
+{
+  "status": "COMPLETED_15_EPOCH_ADAPTED_BASELINE",
+  "epochs": 15,
+  "steps": 11550,
+  "training_seconds": 5061.5754430997185,
+  "total_training_evaluation_checkpoint_seconds": 5077.131311499979,
+  "process_cpu_seconds": 66904.828125,
+  "finished_utc": "2026-10-11T12:28:02.827955+00:00",
+  "timing_warning": "wall intervals may include sleep/stalls; process CPU time is not GPU active time",
+  "total_scope": "epoch0 dev through final checkpoint verification; excludes setup, benchmark, montage and final file hash audit",
+  "checkpoint_checks": [
+    {
+      "epoch": 1,
+      "path": "checkpoints/di_retinex/exp005b/epoch001.pth",
+      "sha256": "37182a411d1a14899c207b944002560f3c02c208b753e3a70d0671d23121116c",
+      "weights_only": true,
+      "strict": true,
+      "state_exact": true,
+      "forward_exact": true
+    },
+    {
+      "epoch": 2,
+      "path": "checkpoints/di_retinex/exp005b/epoch002.pth",
+      "sha256": "505013ec2645692fbafc191553151baeb8826ea154783e7413e489071edcd3d9",
+      "weights_only": true,
+      "strict": true,
+      "state_exact": true,
+      "forward_exact": true
+    },
+    {
+      "epoch": 5,
+      "path": "checkpoints/di_retinex/exp005b/epoch005.pth",
+      "sha256": "702c5cd22bec9f8652249cf4e94af840f87e9c0bfc565c4ccf57b3ce5dccab89",
+      "weights_only": true,
+      "strict": true,
+      "state_exact": true,
+      "forward_exact": true
+    },
+    {
+      "epoch": 10,
+      "path": "checkpoints/di_retinex/exp005b/epoch010.pth",
+      "sha256": "72d481e9d9346a5e297ee26d6ddd84c0187933b1fa0408a4d5ee0c22b8443c06",
+      "weights_only": true,
+      "strict": true,
+      "state_exact": true,
+      "forward_exact": true
+    },
+    {
+      "epoch": 15,
+      "path": "checkpoints/di_retinex/exp005b/epoch015.pth",
+      "sha256": "73bd2f1a50acc17aebb8c2fbc6e7b585cf8b38cc6b62573e2a2de0058a3f39d0",
+      "weights_only": true,
+      "strict": true,
+      "state_exact": true,
+      "forward_exact": true
+    }
+  ],
+  "montages": [
+    "results/demos/di_retinex_exp005b/montage/0049.png",
+    "results/demos/di_retinex_exp005b/montage/0114.png",
+    "results/demos/di_retinex_exp005b/montage/0166.png",
+    "results/demos/di_retinex_exp005b/montage/0179.png",
+    "results/demos/di_retinex_exp005b/montage/0216.png",
+    "results/demos/di_retinex_exp005b/montage/0343.png",
+    "results/demos/di_retinex_exp005b/montage/0758.png",
+    "results/demos/di_retinex_exp005b/montage/0792.png"
+  ],
+  "nan_inf": false,
+  "oom": false,
+  "all_770_covered_each_epoch": true,
+  "no_train_dev_quarantine_mixing": true,
+  "source_and_input_hashes_unchanged": true,
+  "best_checkpoint_selected": false,
+  "crop_resampling": {
+    "invalid_crop_resample_count": 1,
+    "affected_image_count": 1,
+    "affected_image_paths": [
+      "datasets/U3D/lowlight/train/0069.jpg"
+    ],
+    "affected_sample_count": 1,
+    "max_resamples_for_single_sample": 1
+  },
+  "effective_updates": 11550
+}
